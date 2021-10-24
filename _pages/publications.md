@@ -35,10 +35,10 @@ a:active {
 </head>  
   
 <body>
-<a href="https://aadirupa.github.io#selected_publications"><b>[Selected Papers]</b></a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"><b>[Google Scholar]</b></a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank"><b>[DBLP]</b></a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"><b>[arXiv]</b></a>  
+<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
   
@@ -50,27 +50,27 @@ a:active {
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
 
-  <li>  <b>Optimal Algorithms for Stochastic Contextual Dueling Bandits</b>
+  <li>  <b>Optimal Algorithms for Stochastic Contextual Dueling Bandits</b> 
   <br>  Aadirupa Saha
   <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
   
-  <li>  <a href="http://proceedings.mlr.press/v139/saha21b.html" target="_blank"><b>Dueling Convex Optimization</b></a>
+  <li>  <a href="http://proceedings.mlr.press/v139/saha21b.html" target="_blank">Dueling Convex Optimization</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
   <br>  In International Conference on Machine Learning, ICML 2021</li>
   
-  <li>  <a href="http://proceedings.mlr.press/v139/saha21a.html" target="_blank"><b>Adversarial Dueling Bandits</b></a> <a href="https://arxiv.org/abs/2010.14563" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="http://proceedings.mlr.press/v139/saha21a.html" target="_blank">Adversarial Dueling Bandits</a> <a href="https://arxiv.org/abs/2010.14563" target="_blank"> [Arxiv Version]</a>
  <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
   <br>  In International Conference on Machine Learning, ICML 2021</li>
     
-  <li> <a href="http://proceedings.mlr.press/v139/saha21c.html" target="_blank"><b>Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</b></a> <a href="https://arxiv.org/abs/2102.07387" target="_blank"> [Arxiv Version]</a>
+  <li> <a href="http://proceedings.mlr.press/v139/saha21c.html" target="_blank">Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</a> <a href="https://arxiv.org/abs/2102.07387" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain
   <br> In International Conference on Machine Learning, ICML 2021</li>
 
-  <li> <a href="https://proceedings.mlr.press/v139/efroni21a.html" target="_blank"><b>Confidence-Budget Matching for Sequential Budgeted Learning</b></a> <a href="https://arxiv.org/abs/2102.03400" target="_blank"> [Arxiv Version]</a>
+  <li> <a href="https://proceedings.mlr.press/v139/efroni21a.html" target="_blank">Confidence-Budget Matching for Sequential Budgeted Learning</a> <a href="https://arxiv.org/abs/2102.03400" target="_blank"> [Arxiv Version]</a>
   <br> Yonathan Efroni, Nadav Merlis, Aadirupa Saha, Shie Mannor
   <br> In International Conference on Machine Learning, ICML 2021</li>
   
-   <li> <a href="https://www.auai.org/uai2021/pdf/uai2021.606.pdf" target="_blank"><b>Strategically Efficient Exploration in Competitive Multi-agent Reinforcement Learning</b></a> <a href="https://arxiv.org/abs/2107.14698" target="_blank"> [Arxiv Version]</a>
+   <li> <a href="https://www.auai.org/uai2021/pdf/uai2021.606.pdf" target="_blank">Strategically Efficient Exploration in Competitive Multi-agent Reinforcement Learning</a> <a href="https://arxiv.org/abs/2107.14698" target="_blank"> [Arxiv Version]</a>
   <br> Robert Loftin, Aadirupa Saha, Sam Devlin, Katja Hofmann
   <br> In Uncertainty in Artificial Intelligence, UAI 2021</li>
 
@@ -81,23 +81,23 @@ a:active {
   
 <ul style="margin:1;padding:1">
   
-  <li>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank" LINK="red"><b>From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1903.00558" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank" LINK="red">From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</a> <a href="https://arxiv.org/abs/1903.00558" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Machine Learning, ICML 2020</li>
   
-  <li>  <a href="https://proceedings.mlr.press/v119/saha20a" target="_blank" LINK="red"><b>Improved Sleeping Bandits with Stochastic Action Sets and Adversarial Rewards</b></a> <a href="https://arxiv.org/abs/2004.06248" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v119/saha20a" target="_blank" LINK="red">Improved Sleeping Bandits with Stochastic Action Sets and Adversarial Rewards</a> <a href="https://arxiv.org/abs/2004.06248" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard, Michal Valko
   <br>  In International Conference on Machine Learning, ICML 2020</li>
     
-  <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank"><b>Best-item Learning in Random Utility Models with Subset Choices</b></a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank">Best-item Learning in Random Utility Models with Subset Choices</a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>  
   
-  <li> <a href="http://proceedings.mlr.press/v115/s20a.html" target="_blank"><b>Be Greedy: How Chromatic Number meets Regret Minimization in Graph Bandits</b></a>
+  <li> <a href="http://proceedings.mlr.press/v115/s20a.html" target="_blank">Be Greedy: How Chromatic Number meets Regret Minimization in Graph Bandits</a>
   <br> Shreyas Seshadri*, Aadirupa Saha*, Chiranjib Bhattacharyya (*Equal Contribution)
   <br> In Uncertainty in Artificial Intelligence, UAI 2020</li>
   
-  <li>  <a href="http://proceedings.mlr.press/v129/saha20a.html" target="_blank" LINK="red"><b>Polytime Decomposition of Generalized Submodular Base Polytopes with Efficient Sampling</b></a>
+  <li>  <a href="http://proceedings.mlr.press/v129/saha20a.html" target="_blank" LINK="red">Polytime Decomposition of Generalized Submodular Base Polytopes with Efficient Sampling</a>
   <br>  Aadirupa Saha
   <br>  In Asian Conference on Machine Learning, ACML 2020</li>
 </ul>  
@@ -106,19 +106,19 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
-   <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank"><b>Combinatorial Bandits with Relative Feedback</b></a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
+   <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank">Combinatorial Bandits with Relative Feedback</a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Neural Information Processing Systems, NeurIPS 2019</li>
     
-  <li>  <a href="https://proceedings.mlr.press/v89/saha19a" target="_blank"><b>Active Ranking with Subset-wise Preferences</b></a> <a href="https://arxiv.org/abs/1810.10321" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v89/saha19a" target="_blank">Active Ranking with Subset-wise Preferences</a> <a href="https://arxiv.org/abs/1810.10321" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2019</li>  
   
-  <li>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank"><b>PAC Battling Bandits in the Plackett-Luce Model</b></a> <a href="https://arxiv.org/abs/1808.04008" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="http://proceedings.mlr.press/v98/saha19a.html" target="_blank">PAC Battling Bandits in the Plackett-Luce Model</a> <a href="https://arxiv.org/abs/1808.04008" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Algorithmic Learning Theory, ALT 2019</li>  
   
-  <li>  <a href="https://ojs.aaai.org//index.php/AAAI/article/view/5182" target="_blank"><b>How Many Pairwise Preferences Do We Need to Rank A Graph Consistently?</b></a> <a href="https://arxiv.org/abs/1811.02161" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://ojs.aaai.org//index.php/AAAI/article/view/5182" target="_blank">How Many Pairwise Preferences Do We Need to Rank A Graph Consistently?</a> <a href="https://arxiv.org/abs/1811.02161" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Rakesh Shivanna, Chiranjib Bhattacharyya
   <br>  In AAAI Conference on Artificial Intelligence, AAAI 2019</li>  
 </ul>  
@@ -127,11 +127,11 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 
 <ul style="margin:1;padding:1">
-  <li>  <a href="http://auai.org/uai2018/proceedings/papers/290.pdf" target="_blank"><b>Battle of Bandits</b></a> 
+  <li>  <a href="http://auai.org/uai2018/proceedings/papers/290.pdf" target="_blank">Battle of Bandits</a> 
   <br>  Aadirupa Saha, Aditya Gopalan
   <br> In Uncertainty in Artificial Intelligence, UAI 2018</li>
   
-  <li>  <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16518/16537" target="_blank"><b>Online Learning for Structured Loss Spaces</b></a> <a href="https://arxiv.org/abs/1706.04125" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16518/16537" target="_blank">Online Learning for Structured Loss Spaces</a> <a href="https://arxiv.org/abs/1706.04125" target="_blank"> [Arxiv Version]</a>
   <br>  Siddharth Barman, Aditya Gopalan, Aadirupa Saha (Alphabetical Order)
   <br>  In AAAI Conference on Artificial Intelligence, AAAI 2018</li>  
 </ul>  
@@ -140,7 +140,7 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />  
 
 <ul style="margin:1;padding:1">
-  <li>  <a href="http://proceedings.mlr.press/v37/narasimhanb15.pdf" target="_blank" LINK="red"><b>Consistent Multiclass Algorithms for Complex Performance Measures</b></a>
+  <li>  <a href="http://proceedings.mlr.press/v37/narasimhanb15.pdf" target="_blank" LINK="red">Consistent Multiclass Algorithms for Complex Performance Measures</a>
   <br>  Harikrishna Narasimhan, Harish Ramaswamy, Aadirupa Saha, Shivani Agarwal
   <br>  In International Conference on Machine Learning, ICML 2015</li>
 </ul>  
@@ -149,7 +149,7 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
   
 <ul style="margin:1;padding:1">
-  <li>  <a href="https://ieeexplore.ieee.org/document/7033097" target="_blank" LINK="red"><b>Learning Score Systems for Patient Mortality Prediction in Intensive Care Units via Orthogonal Matching Pursuit</b></a> 
+  <li>  <a href="https://ieeexplore.ieee.org/document/7033097" target="_blank" LINK="red">Learning Score Systems for Patient Mortality Prediction in Intensive Care Units via Orthogonal Matching Pursuit</a> 
   <br>  Aadirupa Saha, Chandrahas Dewangan, Harikrishna Narasimhan, Sriram Sampath, Shivani Agarwal
   <br>  In International Conference on Machine Learning and Applications, ICMLA 2014</li>
 </ul>  
@@ -158,7 +158,7 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
   
 <ul style="margin:1;padding:1">
-  <li>  <a href="https://link.springer.com/chapter/10.1007/978-3-642-39693-9_9" target="_blank" LINK="red"><b>Energy Saving Replay Attack Prevention in Clustered Wireless Sensor Networks</b></a> 
+  <li>  <a href="https://link.springer.com/chapter/10.1007/978-3-642-39693-9_9" target="_blank" LINK="red">Energy Saving Replay Attack Prevention in Clustered Wireless Sensor Networks</a> 
   <br>  Amrita Ghosal, Aadirupa Saha, Sipra Das Bit
   <br>  In Pacific-Asia Workshop on Intelligence and Security Informatics, PAISI 2013</li>
 </ul>  
@@ -167,8 +167,8 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
   
 <ul style="margin:1;padding:1">
-  <li>  <a href="https://link.springer.com/chapter/10.1007/978-3-642-23641-9_34" target="_blank" LINK="red"><b>Energy-Balancing and Lifetime Enhancement of Wireless
-Sensor Network with Archimedes Spiral</b></a> 
+  <li>  <a href="https://link.springer.com/chapter/10.1007/978-3-642-23641-9_34" target="_blank" LINK="red">Energy-Balancing and Lifetime Enhancement of Wireless
+Sensor Network with Archimedes Spiral</a> 
   <br>  Subir Halder, Amrita Ghosal, Aadirupa Saha, Sipra DasBit
   <br>  In International Conference on Ubiquitous Intelligence and Computing, ICUIC 2011</li>
 </ul>    
@@ -176,12 +176,12 @@ Sensor Network with Archimedes Spiral</b></a>
 <hr style="color:black;">
 
 &nbsp;&nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications"><b>[Back to Top]</b></a> &nbsp;
-<a href="https://aadirupa.github.io#selected_publications"><b>[Selected Papers]</b></a> &nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications" target="_blank"><b>[Full List]</b></a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank"><b>[Google Scholar]</b></a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank"><b>[DBLP]</b></a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank"><b>[arXiv]</b></a>   
+<a href="https://aadirupa.github.io/publications#full_publications">[Back to Top]</a> &nbsp;
+<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
+<a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
+<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
+<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
+<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>   
 
 </body>
 </html>
