@@ -14,8 +14,7 @@ permalink: /talks/list.md
      <li><span style="color:blue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</li>
      <li><span style="color:blue">Let's Tame the Bandits!</span> Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</li>
 </ul>
-<hr>
-\vspace*{-150px}
+<hr style="margin-bottom:0">
 <h2 style="color:SteelBlue;"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
