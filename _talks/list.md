@@ -5,10 +5,8 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-<html>
-<body>    
 
-<h2>Tutorials</h2>
+<h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <ul>
      <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November, 2021.</li>
@@ -16,8 +14,8 @@ permalink: /talks/list.md
      <li><span style="color:blue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</li>
      <li><span style="color:blue">Let's Tame the Bandits!</span> Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</li>
 </ul>
-
-<h2>Research Talks</h2>
+<hr>
+<h2 style="color:SteelBlue;" vspace="-60px;"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
   <dt><span style="color:blue">Information Aggregation from Unconventional Feedback</span></dt>
@@ -61,5 +59,3 @@ ensp;ensp;<span style="color:blue">Active Ranking with Subset-wise Preferences.<
 <span style="color:blue">PAC Battling-Bandits in the Plackett-Luce model.</span> *Algorithmic Learning Theory (ALT), 2019*. Chicago, USA, March 2019.<br/> 
 -->
 
-</body>     
-</html>
