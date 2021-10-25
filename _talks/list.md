@@ -16,17 +16,22 @@ permalink: /talks/list.md
 <h2>Talks:</h2>
 <dl>
   <dt>Information Aggregation from Unconventional Feedback</dt>
-  <dd>---</dd>
+     <dd>Oracle Research, November, 2021.</dd>
   <dt>Preference based Reinforcement Learning (PbRL)</dt>
-  <dd>---</dd>
+     <dd>Microsoft Research Tri-Lab Offsite, 2021</dd>
+     <dd>RL Track, Microsoft Research Summit, 2021</dd>
   <dt>Battling Bandits: Exploiting Subsetwise Preferences</dt>   
-  <dd>---</dd>   
+     <dd>---</dd>   
+     <dd>---</dd>   
+     <dd>---</dd>   
+     <dd>---</dd>   
+     <dd>---</dd>   
   <dt>Adversarial Dueling Bandits</dt>   
-  <dd>---</dd>  
+     <dd>Data Science in India, KDD Conference, India, August 2021.</dd>  
   <dt>Online Learning with Structured Losses</dt>   
-  <dd>---</dd>   
+     <dd>Indian Institute of Technology (IIT), Madras, India. November, 2018.</dd>   
   <dt>Bandits, Experts and Rank Aggregation</dt>   
-  <dd>---</dd>   
+     <dd>TCS Research Lab, Bangalore, India. June, 2018</dd>   
 </dl>
 
 <!-- 
