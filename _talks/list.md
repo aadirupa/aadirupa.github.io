@@ -5,15 +5,20 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-<h2>Tutorials:</h2>
+<html>
+<body>    
+
+<h2>Tutorials</h2>
+<hr style="height:1px;border-width:0;color:black;background-color:black">
 <ul>
-     <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November 2021.</li>
-     <li><span style="color:blue">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November 2021.</li>
-     <li><span style="color:blue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore, India. May 2018.</li>
-     <li><span style="color:blue">Let's Tame the Bandits!</span> Undergraduate Summer School, Dept. of Computer Science and Automation (CSA), Indian Institute of Science (IISc). July 2018.</li>
+     <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November, 2021.</li>
+     <li><span style="color:blue">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November, 2021.</li>
+     <li><span style="color:blue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</li>
+     <li><span style="color:blue">Let's Tame the Bandits!</span> Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</li>
 </ul>
-<br>
-<h2>Talks:</h2>
+
+<h2>Research Talks</h2>
+<hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
   <dt><span style="color:blue">Information Aggregation from Unconventional Feedback</span></dt>
      <dd>Oracle Research, November, 2021.</dd>
@@ -26,6 +31,7 @@ permalink: /talks/list.md
      <dd>Microsoft Research, Bangalore, India. October 2019.</dd>   
      <dd>EECS department, University of Michigan, Ann Arbor. September, 2019</dd>   
      <dd>Computer Science department, Stanford University, Serra Mall, Stanford. August, 2019</dd>   
+     <dd>EECS Symposium, IISc Bangalore. April, 2019.</dd>
      <dd>Carnegie Mellon University (CMU), Pittsburgh. March, 2019</dd>   
      <dd>Qualcomm Research, Bangalore. May, 2018</dd> 
   <dt><span style="color:blue">Adversarial Dueling Bandits</span></dt>   
@@ -54,3 +60,6 @@ ensp;ensp;<span style="color:blue">Active Ranking with Subset-wise Preferences.<
 <span style="color:blue">PhD Thesis Overview: Information Aggregation from Preferential Feedback.</span> *EECS Symposium, Indian Institute of Science, Bangalore, India*. April 2019.<br/><br/>
 <span style="color:blue">PAC Battling-Bandits in the Plackett-Luce model.</span> *Algorithmic Learning Theory (ALT), 2019*. Chicago, USA, March 2019.<br/> 
 -->
+
+</body>     
+</html>
