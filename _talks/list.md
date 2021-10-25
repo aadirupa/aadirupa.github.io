@@ -9,8 +9,27 @@ permalink: /talks/list.md
 <ul>
      <li><span style="color:blue">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November 2021.</li>
      <li><span style="color:blue">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November 2021.</li>
+     <li><span style="color:blue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore, India. May 2018.</li>
+     <li><span style="color:blue">Let's Tame the Bandits!</span> Undergraduate Summer School, Dept. of Computer Science and Automation (CSA), Indian Institute of Science (IISc). July 2018.</li>
 </ul>
+
 <h2>Talks:</h2>
+<dl>
+  <dt>Information Aggregation from Unconventional Feedback</dt>
+  <dd>---</dd>
+  <dt>Preference based Reinforcement Learning (PbRL)</dt>
+  <dd>---</dd>
+  <dt>Battling Bandits: Exploiting Subsetwise Preferences</dt>   
+  <dd>---</dd>   
+  <dt>Adversarial Dueling Bandits</dt>   
+  <dd>---</dd>  
+  <dt>Online Learning with Structured Losses</dt>   
+  <dd>---</dd>   
+  <dt>Bandits, Experts and Rank Aggregation</dt>   
+  <dd>---</dd>   
+</dl>
+
+<!-- 
 <ul>
      <li><span style="color:blue">PbRL: Preference based Reinforcement Learning.</span> RL Track, Microsoft Research Summit. October 2021.</li>
      <li><span style="color:blue">Adversarial Dueling Bandits.</span> Data Science in India, KDD Conference, India. August 2021.</li>
@@ -19,7 +38,7 @@ permalink: /talks/list.md
      <li><span style="color:blue">Structured Battling Bandits.</span> Microsoft Research, Bangalore, India. October 2019.</li>
 </ul>
 
-<!-- 
+
 *3 talks at ICML*, 2021. <br/><br/>
 ensp;ensp;<span style="color:blue">Active Ranking with Subset-wise Preferences.</span> *Artificial Intelligence and Statistics (AISTATS)*. Naha, Okinawa, Japan, April 2019.<br/><br/>
 <span style="color:blue">PhD Thesis Overview: Information Aggregation from Preferential Feedback.</span> *EECS Symposium, Indian Institute of Science, Bangalore, India*. April 2019.<br/><br/>
