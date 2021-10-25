@@ -19,8 +19,6 @@ permalink: /talks/list.md
      <dd style="margin-bottom:0">Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</dd>
 </dl>
 <hr>
-
-
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
