@@ -9,27 +9,27 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px">
-     <dt><span style="color:DarkRed">Preference Bandits.</span></dt> 
+     <dt><span style="color:DarkBlue">Preference Bandits.</span></dt> 
      <dd>Asian Conference of Machine Learning (ACML). November, 2021.</dd>
-     <dt><span style="color:DarkRed">Bandits for Beginners.</span></dt> 
+     <dt><span style="color:DarkBlue">Bandits for Beginners.</span></dt> 
      <dd>Microsoft Reactor: Data Science and Machine Learning Track. November, 2021.</dd>
-     <dt><span style="color:DarkRed">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span></dt> 
+     <dt><span style="color:DarkBlue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span></dt> 
      <dd>M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</dd>
-     <dt><span style="color:DarkRed">Let's Tame the Bandits!</span></dt>
+     <dt><span style="color:DarkBlue">Let's Tame the Bandits!</span></dt>
      <dd>Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</dd>
 </dl>
 <hr style="margin-bottom:0">
 <h2 style="color:SteelBlue;"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
-  <dt><span style="color:DarkRed">Information Aggregation from Unconventional Feedback</span></dt>
+  <dt><span style="color:DarkBlue">Information Aggregation from Unconventional Feedback</span></dt>
      <dd>Oracle Research, November, 2021.</dd>
      
-  <dt><span style="color:DarkRed">Preference based Reinforcement Learning (PbRL)</span></dt>
+  <dt><span style="color:DarkBlue">Preference based Reinforcement Learning (PbRL)</span></dt>
      <dd>Microsoft Research Tri-Lab Offsite. November, 2021</dd>
      <dd>RL Track, Microsoft Research Summit. October, 2021</dd>
      
-  <dt><span style="color:DarkRed">Battling Bandits: Exploiting Subsetwise Preferences</span></dt>   
+  <dt><span style="color:DarkBlue">Battling Bandits: Exploiting Subsetwise Preferences</span></dt>   
      <dd>Sabarmati Seminar Series, IIT Gandhinagar. July 2021.</dd>   
      <dd>SIERRA-Seminar, Inria, Paris. January 2020.</dd>   
      <dd>Microsoft Research, Bangalore, India. October 2019.</dd>   
@@ -39,16 +39,16 @@ permalink: /talks/list.md
      <dd>Carnegie Mellon University (CMU), Pittsburgh. March, 2019</dd>   
      <dd>Qualcomm Research, Bangalore. May, 2018</dd> 
      
-  <dt><span style="color:DarkRed">Adversarial Dueling Bandits</span></dt>   
+  <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>   
      <dd>Data Science in India, KDD Conference, India, August 2021.</dd>    
      
-  <dt><span style="color:DarkRed">Bandits, Experts and Rank Aggregation</span></dt>   
+  <dt><span style="color:DarkBlue">Bandits, Experts and Rank Aggregation</span></dt>   
      <dd>TCS Research Lab, Bangalore. June, 2018</dd>   
      <dd>Indian Institute of Technology (IIT) Madras. November, 2018</dd>
      <dd>Amazon, Bangalore. October, 2018</dd>
      <dd>IBM-IRL, Bangalore. July 2018.</dd>
      
-  <dt><span style="color:DarkRed">Online Learning with Structured Losses</span></dt>   
+  <dt><span style="color:DarkBlue">Online Learning with Structured Losses</span></dt>   
      <dd>Conduent Labs, Bangalore. October, 2017.</dd>    
 </dl>
 
