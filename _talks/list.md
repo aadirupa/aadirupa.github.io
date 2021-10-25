@@ -12,26 +12,31 @@ permalink: /talks/list.md
      <li><span style="color:blue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore, India. May 2018.</li>
      <li><span style="color:blue">Let's Tame the Bandits!</span> Undergraduate Summer School, Dept. of Computer Science and Automation (CSA), Indian Institute of Science (IISc). July 2018.</li>
 </ul>
-
+<br>
 <h2>Talks:</h2>
 <dl>
-  <dt>Information Aggregation from Unconventional Feedback</dt>
+  <dt><span style="color:blue">Information Aggregation from Unconventional Feedback</span></dt>
      <dd>Oracle Research, November, 2021.</dd>
-  <dt>Preference based Reinforcement Learning (PbRL)</dt>
-     <dd>Microsoft Research Tri-Lab Offsite, 2021</dd>
-     <dd>RL Track, Microsoft Research Summit, 2021</dd>
-  <dt>Battling Bandits: Exploiting Subsetwise Preferences</dt>   
-     <dd>---</dd>   
-     <dd>---</dd>   
-     <dd>---</dd>   
-     <dd>---</dd>   
-     <dd>---</dd>   
-  <dt>Adversarial Dueling Bandits</dt>   
-     <dd>Data Science in India, KDD Conference, India, August 2021.</dd>  
-  <dt>Online Learning with Structured Losses</dt>   
-     <dd>Indian Institute of Technology (IIT), Madras, India. November, 2018.</dd>   
-  <dt>Bandits, Experts and Rank Aggregation</dt>   
-     <dd>TCS Research Lab, Bangalore, India. June, 2018</dd>   
+  <dt><span style="color:blue">Preference based Reinforcement Learning (PbRL)</span></dt>
+     <dd>Microsoft Research Tri-Lab Offsite. November, 2021</dd>
+     <dd>RL Track, Microsoft Research Summit. October, 2021</dd>
+  <dt><span style="color:blue">Battling Bandits: Exploiting Subsetwise Preferences</span></dt>   
+     <dd>Sabarmati Seminar Series, IIT Gandhinagar. July 2021.</dd>   
+     <dd>SIERRA-Seminar, Inria, Paris. January 2020.</dd>   
+     <dd>Microsoft Research, Bangalore, India. October 2019.</dd>   
+     <dd>EECS department, University of Michigan, Ann Arbor. September, 2019</dd>   
+     <dd>Computer Science department, Stanford University, Serra Mall, Stanford. August, 2019</dd>   
+     <dd>Carnegie Mellon University (CMU), Pittsburgh. March, 2019</dd>   
+     <dd>Qualcomm Research, Bangalore. May, 2018</dd> 
+  <dt><span style="color:blue">Adversarial Dueling Bandits</span></dt>   
+     <dd>Data Science in India, KDD Conference, India, August 2021.</dd>    
+  <dt><span style="color:blue">Bandits, Experts and Rank Aggregation</span></dt>   
+     <dd>TCS Research Lab, Bangalore. June, 2018</dd>   
+     <dd>Indian Institute of Technology (IIT) Madras. November, 2018</dd>
+     <dd>Amazon, Bangalore. October, 2018</dd>
+     <dd>IBM-IRL, Bangalore. July 2018.</dd>
+  <dt><span style="color:blue">Online Learning with Structured Losses</span></dt>   
+     <dd>Conduent Labs, Bangalore. October, 2017.</dd>    
 </dl>
 
 <!-- 
