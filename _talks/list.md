@@ -8,12 +8,16 @@ permalink: /talks/list.md
 
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
-<ul style="margin:0px">
-     <li><span style="color:DarkRed">Preference Bandits.</span> Asian Conference of Machine Learning (ACML). November, 2021.</li>
-     <li><span style="color:DarkRed">Bandits for Beginners.</span> Microsoft Reactor: Data Science and Machine Learning Track. November, 2021.</li>
-     <li><span style="color:DarkRed">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span> M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</li>
-     <li><span style="color:DarkRed">Let's Tame the Bandits!</span> Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</li>
-</ul>
+<dl style="margin:0px">
+     <dt><span style="color:DarkRed">Preference Bandits.</span></dt> 
+     <dd>Asian Conference of Machine Learning (ACML). November, 2021.</dd>
+     <dt><span style="color:DarkRed">Bandits for Beginners.</span></dt> 
+     <dd>Microsoft Reactor: Data Science and Machine Learning Track. November, 2021.</dd>
+     <dt><span style="color:DarkRed">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span></dt> 
+     <dd>M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</dd>
+     <dt><span style="color:DarkRed">Let's Tame the Bandits!</span></dt>
+     <dd>Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</dd>
+</dl>
 <hr style="margin-bottom:0">
 <h2 style="color:SteelBlue;"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
