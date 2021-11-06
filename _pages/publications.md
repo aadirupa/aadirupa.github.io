@@ -40,6 +40,22 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
   
+<h2 style="color:SteelBlue;" vspace="-60px;"><a id="preprints">Preprints:</a></h2>
+  
+<ul style="margin:1;padding:1">
+  <li>  <b>Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</b> 
+  <br>  Aadirupa Saha, Akshay Krishnamurthy
+
+  <li>  <b>Non-Stationary Dueling Bandits.</b> 
+  <br>  Shubham Gupta, Aadirupa Saha
+  
+  <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>
+  <br>  Aldo Pacchiano*, Aadirupa Saha*, Jonathan Lee (* Equal contribution alphabetically)
+  
+  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b> 
+  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
+</ul>  
+  
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
   
 <h2 style="color:DarkRed;">2021</h2>  
