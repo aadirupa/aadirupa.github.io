@@ -72,6 +72,7 @@ a:active {
     <a href="https://scholar.google.co.il/citations?user=pX2zzp0AAAAJ&hl=en" target="_blank">Nadav Merlis</a>,
    <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
    <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
+   <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
    <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
   (in alphabetical order).</p>
