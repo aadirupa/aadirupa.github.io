@@ -44,16 +44,17 @@ a:active {
   
 <ul style="margin:1;padding:1">
   <li>  <b>Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</b> 
-  <br>  Aadirupa Saha, Akshay Krishnamurthy
+  <br>  Aadirupa Saha, Akshay Krishnamurthy</li>
 
   <li>  <b>Non-Stationary Dueling Bandits.</b> 
-  <br>  Shubham Gupta, Aadirupa Saha
+  <br>  Shubham Gupta, Aadirupa Saha</li>
   
   <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>
-  <br>  Aldo Pacchiano*, Aadirupa Saha*, Jonathan Lee (* Equal contribution alphabetically)
+  <br>  Aldo Pacchiano*, Aadirupa Saha*, Jonathan Lee (*Equal contribution alphabetically)</li>
   
   <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b> 
-  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
+  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
+    
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
