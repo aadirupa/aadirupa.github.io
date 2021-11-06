@@ -40,7 +40,7 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
   
-<h2 style="color:SteelBlue;" vspace="-60px;"><a id="preprints">Preprints:</a></h2>
+<h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
   <li>  <b>Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</b> 
