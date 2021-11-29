@@ -15,7 +15,7 @@ a:link {
 }
 
 a:visited {
-  color: SteelBlue;
+  color: Purple;
   background-color: transparent;
   text-decoration: none;
 }
@@ -43,16 +43,16 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
-  <li>  <b>Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</b> 
+  <li>  <b>Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</b>  <a href="https://arxiv.org/abs/2111.12306" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Akshay Krishnamurthy</li>
 
-  <li>  <b>Non-Stationary Dueling Bandits.</b> 
+  <li>  <b>Optimal and Efficient Dynamic Regret Algorithms for Non-Stationary Dueling Bandits.</b>  <a href="https://arxiv.org/abs/2111.03917" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha</li>
   
-  <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>
+  <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aldo Pacchiano*, Aadirupa Saha*, Jonathan Lee (*Equal contribution alphabetically)</li>
   
-  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b> 
+  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
     
 </ul>  
