@@ -18,7 +18,7 @@ a:link {
 }
 
 a:visited {
-  color: SteelBlue;
+  color: Purple;
   background-color: transparent;
   text-decoration: none;
 }
