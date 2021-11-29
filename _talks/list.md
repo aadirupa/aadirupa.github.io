@@ -24,6 +24,7 @@ permalink: /talks/list.md
 <dl>
   <dt><span style="color:DarkBlue">Information Aggregation from Unconventional Feedback</span></dt>
      <dd>Oracle Research, November, 2021.</dd>
+     <dd>Chalmers University of Technology, November, 2021.</dd>
      
   <dt><span style="color:DarkBlue">Preference based Reinforcement Learning (PbRL)</span></dt>
      <dd>Microsoft Research Tri-Lab Offsite. November, 2021</dd>
