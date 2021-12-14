@@ -81,13 +81,13 @@ a:active {
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
-  <li>  <b>Dueling Bandits with Adversarial Sleeping</b> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.neurips.cc/paper/2021/file/e97ee2054defb209c35fe4dc94599061-Supplemental.pdf" target="_blank"> Dueling Bandits with Adversarial Sleeping</a> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
-  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+  <br>  In Neural Information Processing Systems, NeurIPS 2021</li>
 
-  <li>  <b>Optimal Algorithms for Stochastic Contextual Dueling Bandits</b>
+  <li>  <a href="https://proceedings.neurips.cc/paper/2021/file/fc3cf452d3da8402bebb765225ce8c0e-Supplemental.pdf" target="_blank">Optimal Algorithms for Stochastic Contextual Dueling Bandits</a> 
   <br>  Aadirupa Saha
-  <br>  (To appear) In Neural Information Processing Systems, NeurIPS 2021</li>
+  <br>  In Neural Information Processing Systems, NeurIPS 2021</li>
   
   <li>  <a href="http://proceedings.mlr.press/v139/saha21b.html" target="_blank"><b>Dueling Convex Optimization</b></a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
