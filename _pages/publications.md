@@ -56,7 +56,7 @@ a:active {
   <br>  Shubham Gupta, Aadirupa Saha</li>
   
   <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aldo Pacchiano*, Aadirupa Saha*, Jonathan Lee (*Equal contribution alphabetically)</li>
+  <br> Aadirupa Saha*,  Aldo Pacchiano*, Jonathan Lee (*Equal contribution)</li>
   
   <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
