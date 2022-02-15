@@ -43,7 +43,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
-  <li>  <b>Versatile Dueling Bandits: Best-of-both-World Analyses for Online Learning from Preferences.</b>  <a href="?" target="_blank" LINK="red"> [Arxiv Version (coming sooon)]</a>
+  <li>  <b>Versatile Dueling Bandits: Best-of-both-World Analyses for Online Learning from Preferences.</b>  <a href="http://arxiv.org/abs/2202.06694" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard</li>
 
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="?" target="_blank" LINK="red"> [Arxiv Version (coming soon)]</a>
