@@ -49,8 +49,7 @@ a:active {
    <br><b>New Models in Online Decision Making for Real-World Applications.</b>  <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red"> [Workshop Homepage] </a> 
   <br>  with Yonathan Efroni, Aldo Pacchiano, Akshay Krishnamurthy
   <br> <b><font color="#800080">Call for posters out soon!</font></b>
-  </li>
-    
+  </li>    
 </ul>  
 
 <br>  
@@ -62,14 +61,13 @@ a:active {
   <li>Journal of Machine Learning Research, 2021</li>
   <li>International Conference on Machine Learning (ICML), 2019-2022</li>
   <li>Neural Information Processing Systems (NeurIPS), 2020-2022</li>
-  <li>International Conference on Artificial Intelligence and Statistics (AISTATS), 2019<\li>
+  <li>International Conference on Artificial Intelligence and Statistics (AISTATS), 2019</li>
   <li>Conference on Learning Theory (COLT), 2020-2022</li>
   <li>Algorithmic Learning Theory (ALT), 2021 </li>
-  <li>Association for the Advancement of Artificial Intelligence (AAAI), 2020-2022<\li>
-  <li>International Joint Conference on Artificial Intelligence (IJCAI), 2020-2021<\li>
+  <li>Association for the Advancement of Artificial Intelligence (AAAI), 2020-2022</li>
+  <li>International Joint Conference on Artificial Intelligence (IJCAI), 2020-2021</li>
   <li>International Conference on Learning Representations (ICLR), 2020-2021</li>
   <li>ACM India Joint International Conference on Data Science & Management of Data (CODS-COMAD), 2018-2019</li>
-
 </ul>   
   
 </body>
