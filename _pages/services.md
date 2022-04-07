@@ -36,7 +36,7 @@ a:active {
  
 <body>  
   
-<h2 style="color:SteelBlue;" vspace="0px;">Workshops:</h2>
+<h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
   <li> <b><font color="#008080">ICML Workshop, July, 2022. Baltimore, USA</font></b>  
