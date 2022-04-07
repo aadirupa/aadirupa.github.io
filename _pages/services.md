@@ -66,7 +66,7 @@ a:active {
    <li> <b><font color="#008080"> MUTeX Miner ML Hackathon at CSA Open Days. March 4-8, 2016. IISc, Bangalore, India</font></b></li>
    <li> <b><font color="#008080"> MSR, NYC ML Weekly Reading Group Meeting. 2020-2021.</li>
    <li> <b><font color="#008080"> Represented Microsoft booth and virtual lounge at UAI, 2021.</font></b></li>
-   <li> <b><font color="#008080"> Mentoring: AISTATS 2022 Submission Mentoring Program.</font></b></li> <a href="http://aistats.org/aistats2022/mentorship.html" target="_blank" LINK="red"> [AISATS Mentoring Homepage] </a>
+   <li> <b><font color="#008080"> Mentoring: AISTATS 2022 Submission Mentoring Program.</font></b> <a href="http://aistats.org/aistats2022/mentorship.html" target="_blank" LINK="red"> [AISATS Mentoring Homepage] </a></li>
 </ul>  
   
   
