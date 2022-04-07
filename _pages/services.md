@@ -39,13 +39,13 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
-  <li> <b>ICML Workshop, July, 2022. Baltimore, USA</b>  
+  <li> <b><font color="#008080">ICML Workshop, July, 2022. Baltimore, USA</font></b>  
    <br><b>Complex Feedback in Online Learning.</b>  <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [Workshop Homepage] </a> <a href="https://icml.cc/Conferences/2022/Schedule?showEvent=13466" target="_blank" LINK="red"> [ICML Schedule]</a>
   <br>  with Remy Degenne, Pierre Gaillard and Wouter Koolen
   <br> <b><font color="#800080">Submit your best work!</font></b>
   </li>
   
-   <li> <b>TTIC Summer Workshop, August, 2022. TTIC, Chicago, USA</b>  
+   <li> <b><font color="#008080">TTIC Summer Workshop, August, 2022. TTIC, Chicago, USA</font></b>  
    <br><b>New Models in Online Decision Making for Real-World Applications.</b>  <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red"> [Workshop Homepage] </a> 
   <br>  with Yonathan Efroni, Aldo Pacchiano, Akshay Krishnamurthy
   <br> <b><font color="#800080">Call for posters out soon!</font></b>
