@@ -39,6 +39,35 @@ a:active {
 <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
+
+  <hr style="color:black;"> 
+  <br>
+ <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> I have been really fortunate to be able to work with some of the amazing research minds: 
+   <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
+   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
+   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
+   <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
+   <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
+   <a href="https://sites.google.com/view/suprovat/home" target="_blank">Suprovat Ghoshal</a>,
+   <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
+   <a href="https://scholar.google.co.in/citations?user=Nt-tK2UAAAAJ&hl=en" target="_blank">Shubham Gupta</a>,
+   <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>,
+   <a href="https://www.kiml.ifi.lmu.de/team/huellermeier/" target="_blank">Eyke Hüllermeier</a>,
+   <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
+   <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
+   <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
+   <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
+   <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
+   <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
+   <a href="https://scholar.google.co.il/citations?user=pX2zzp0AAAAJ&hl=en" target="_blank">Nadav Merlis</a>,
+   <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
+   <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
+   <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
+   <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
+   <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
+  (in alphabetical order).</p>
+  <!--[Nadav Merlis]()-->
+  
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
