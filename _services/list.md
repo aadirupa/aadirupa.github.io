@@ -2,7 +2,7 @@
 title: ""
 collection: talks
 type: "Talk"
-permalink: /services/list.md
+permalink: /services/list
 ---
 
 
