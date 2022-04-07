@@ -63,12 +63,12 @@ a:active {
    <li> <font color="#008080"> Inquizitive Quiz Competition at CSA Open Days. March 4th, 2017. IISc, Bangalore, India</font>
    <br>  with Prince Jain and Raghav Sood</li>
    <li> <font color="#008080"> MUTeX Miner ML Hackathon at CSA Open Days. March 4-8, 2016. IISc, Bangalore, India</font></li>
-   <li> <font color="#008080"> MSR, NYC ML Weekly Reading Group Meeting. Aug 2020-July 2021.</li>
    <li> <font color="#008080"> Represented Microsoft booth and virtual lounge at UAI, 2021.</font></li>
    <li> <font color="#008080"> Mentoring: AISTATS 2022 Submission Mentoring Program.</font>
    <br> <a href="http://aistats.org/aistats2022/mentorship.html" target="_blank" LINK="red"> [AISATS Mentoring Homepage]</a></li>
 </ul>  
-  
+
+ <!--    <li> <font color="#008080"> MSR, NYC ML Weekly Reading Group Meeting. Aug 2020-July 2021.</li> --> 
   
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
 <h2 style="color:SteelBlue;" vspace="0px;">Reviewing:</h2>
