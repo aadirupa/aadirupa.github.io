@@ -47,7 +47,7 @@ a:active {
   
    <li> <b><font color="#008080">TTIC Summer Workshop, August, 2022. TTIC, Chicago, USA</font></b>  
    <br><b>New Models in Online Decision Making for Real-World Applications.</b>  <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red"> [Workshop Homepage] </a> 
-  <br>  with Yonathan Efroni, Aldo Pacchiano, Akshay Krishnamurthy
+  <br>  with Yonathan Efroni, Akshay Krishnamurthy and Aldo Pacchiano
   <br> <b><font color="#800080">Call for posters out soon!</font></b>
   </li>    
 </ul>  
