@@ -1,9 +1,8 @@
-
 ---
 title: ""
 collection: services
 type: "Services"
-permalink: /services/list.md
+permalink: /_services/list.md
 ---
 
 
