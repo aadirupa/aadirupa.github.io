@@ -52,6 +52,24 @@ a:active {
   </li>    
 </ul>  
 
+<h2 style="color:SteelBlue;" vspace="0px;">Summer School:</h2>  
+<ul style="margin:1;padding:1">
+   <li> <b><font color="#008080"> CSA Undergraduate Summer School 2016. June 4-9, 2016. IISc, Bangalore, India</font></b>  
+   <br>  with Aravind Acharya and Abhiruk Lahiri
+</ul>   
+  
+<h2 style="color:SteelBlue;" vspace="0px;">Event organization/ Mentoring:</h2>  
+<ul style="margin:1;padding:1">
+   <li> <b><font color="#008080"> Inquizitive Quiz Competition at CSA Open Days. March 4th, 2017. IISc, Bangalore, India</font></b>
+   <br>  with Prince Jain and Raghav Sood
+   </li>
+   <li> <b><font color="#008080"> MUTeX Miner ML Hackathon at CSA Open Days. March 4-8, 2016. IISc, Bangalore, India</font></b></li>
+   <li> <b><font color="#008080"> MSR, NYC ML Weekly Reading Group Meeting. 2020-2021.</li>
+   <li> <b><font color="#008080"> Represented Microsoft booth and virtual lounge at UAI, 2021.</font></b></li>
+   <li> <b><font color="#008080"> Mentoring: AISTATS 2022 Submission Mentoring Program.</font></b></li> <a href="http://aistats.org/aistats2022/mentorship.html" target="_blank" LINK="red"> [AISATS Mentoring Homepage] </a>
+</ul>  
+  
+  
 <br>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
 <h2 style="color:SteelBlue;" vspace="0px;">Reviewing:</h2>
