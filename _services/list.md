@@ -1,7 +1,7 @@
 ---
 title: ""
-collection: services
-type: "Services"
+collection: talk
+type: "Talk"
 permalink: /_services/list.md
 ---
 
