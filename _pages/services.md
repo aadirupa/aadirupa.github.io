@@ -70,7 +70,6 @@ a:active {
 </ul>  
   
   
-<br>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
 <h2 style="color:SteelBlue;" vspace="0px;">Reviewing:</h2>
   
