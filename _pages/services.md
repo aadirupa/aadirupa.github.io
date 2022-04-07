@@ -57,8 +57,8 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Machine Learning (MACH) Journal. 2022 </li>
-  <li>Journal of Machine Learning Research, 2021</li>
+  <li>Journal of Machine Learning Research (JMLR), 2021</li>
+  <li>Machine Learning (MACH) Journal, 2022 </li>
   <li>International Conference on Machine Learning (ICML), 2019-2022</li>
   <li>Neural Information Processing Systems (NeurIPS), 2020-2022</li>
   <li>International Conference on Artificial Intelligence and Statistics (AISTATS), 2019</li>
