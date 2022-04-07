@@ -55,7 +55,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Summer School:</h2>  
 <ul style="margin:1;padding:1">
    <li> <b><font color="#008080"> CSA Undergraduate Summer School 2016. June 4-9, 2016. IISc, Bangalore, India</font></b>  
-   <br>  with Aravind Acharya and Abhiruk Lahiri
+   <br>  with Aravind Acharya and Abhiruk Lahiri</li>
 </ul>   
   
 <h2 style="color:SteelBlue;" vspace="0px;">Event organization/ Mentoring:</h2>  
