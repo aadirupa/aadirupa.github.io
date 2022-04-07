@@ -53,7 +53,7 @@ a:active {
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
   <br>
-<!-- <hr style="color:black;">  -->
+<!-- <hr style="color:black;"> 
   <br>
  <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> I have been really fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
@@ -80,6 +80,7 @@ a:active {
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
   (in alphabetical order).</p>
 <!--[Nadav Merlis]()-->
+   -->
   
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
