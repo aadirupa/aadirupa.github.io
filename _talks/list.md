@@ -5,10 +5,11 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px;margin-bottom:0">
+     <dt><span style="color:DarkBlue">ML beyond rewards: Online Decision Making with Preference Feedback</span></dt> 
+     <dd>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2022. September, 2022.</dd>
      <dt><span style="color:DarkBlue">Preference Bandits.</span></dt> 
      <dd>Asian Conference of Machine Learning (ACML). November, 2021.</dd>
      <dt><span style="color:DarkBlue">Bandits for Beginners.</span></dt> 
