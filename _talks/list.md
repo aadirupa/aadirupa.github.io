@@ -10,7 +10,7 @@ permalink: /talks/list.md
 <dl style="margin:0px;margin-bottom:0">
      <dt><span style="color:DarkBlue">ML Beyond Rewards: Online Learning with Preference Feedback.</span>
           <a href="https://sites.google.com/view/olpf/home">[Tutorial Website]</a> </dt> 
-     <dd>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2022. September, 2022.</dd>
+     <dd>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). September, 2022.</dd>
      <dt><span style="color:DarkBlue">Battle of Bandits: Online learning from Preference Feedback.</span>
      <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/">[Tutorial Website]</a></dt> 
      <dd>Asian Conference of Machine Learning (ACML). November, 2021.</dd>
