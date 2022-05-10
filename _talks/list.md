@@ -25,6 +25,10 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
+  <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>
+     <dd>NASSCOM AI Gamechangers. April, 2022</dd> 
+     <dd>Data Science in India, KDD Conference, India, August 2021.</dd>    
+     
   <dt><span style="color:DarkBlue">Information Aggregation from Unconventional Feedback</span></dt>
      <dd>Oracle Research, November, 2021.</dd>
      <dd>Chalmers University of Technology, November, 2021.</dd>
@@ -41,10 +45,7 @@ permalink: /talks/list.md
      <dd>Computer Science department, Stanford University, Serra Mall, Stanford. August, 2019</dd>   
      <dd>EECS Symposium, IISc Bangalore. April, 2019.</dd>
      <dd>Carnegie Mellon University (CMU), Pittsburgh. March, 2019</dd>   
-     <dd>Qualcomm Research, Bangalore. May, 2018</dd> 
-     
-  <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>   
-     <dd>Data Science in India, KDD Conference, India, August 2021.</dd>    
+     <dd>Qualcomm Research, Bangalore. May, 2018</dd>      
      
   <dt><span style="color:DarkBlue">Bandits, Experts and Rank Aggregation</span></dt>   
      <dd>TCS Research Lab, Bangalore. June, 2018</dd>   
