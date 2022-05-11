@@ -26,7 +26,7 @@ permalink: /talks/list.md
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
   <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
-     <dd> <a href="https://sites.google.com/view/rltheoryseminars/future-seminars?authuser=0">RL Theory Seminar.</a> May, 2022</dd> 
+     <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022</dd> 
    
   <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>
      <dd><a href="https://nasscom.in/ai-gamechangers/">NASSCOM AI Gamechangers.</a> April, 2022</dd> 
