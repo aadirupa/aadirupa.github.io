@@ -42,13 +42,13 @@ a:active {
   <li> <font color="#008080">ICML Workshop, July, 2022. Baltimore, USA</font>
    <br>Complex Feedback in Online Learning.  <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [Workshop Homepage] </a> <a href="https://icml.cc/Conferences/2022/Schedule?showEvent=13466" target="_blank" LINK="red"> [ICML Schedule]</a>
   <br>  with Remy Degenne, Pierre Gaillard and Wouter Koolen
-  <br> <b><font color="#800080">Submit your best work!</font></b>
+  <!-- <br> <b><font color="#800080">Submit your best work!</font></b> -->
   </li>
   
    <li> <font color="#008080">TTIC Summer Workshop, July, 2022. TTIC, Chicago, USA</font>
    <br>New Models in Online Decision Making for Real-World Applications.  <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red"> [Workshop Homepage] </a> 
   <br>  with Yonathan Efroni, Akshay Krishnamurthy and Aldo Pacchiano
-  <br> <b><font color="#800080">Call for posters out soon!</font></b>
+  <br> <b><font color="#800080">Submit your posters! Call for Open Problems!</font></b>
   </li>    
 </ul>  
 
