@@ -98,7 +98,7 @@ a:active {
   <br>  In International Conference on Machine Learning, ICML 2022</li>
   
   <li>  <b>Optimal and Efficient Dynamic Regret Algorithms for Non-Stationary Dueling Bandits.</b>  <a href="https://arxiv.org/abs/2111.03917" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha*, Shubham Gupta* (Equal contribution)
+  <br>  Aadirupa Saha*, Shubham Gupta* (*Equal contribution)
   <br>  In International Conference on Machine Learning, ICML 2022</li>
   
   <li>  <b>Stochastic Contextual Dueling Bandits under Linear Stochastic Transitivity Models.</b>  <a href="https://arxiv.org/abs/2202.04593" target="_blank" LINK="red"> [Arxiv Version]</a>
