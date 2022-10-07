@@ -192,7 +192,7 @@ a:active {
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Algorithmic Learning Theory, ALT 2019</li>  
   
-  <li>  <a href="https://ojs.aaai.org//index.php/AAAI/article/view/5182" target="_blank">How Many Pairwise Preferences Do We Need to Rank A Graph Consistently?</a> <a href="https://arxiv.org/abs/1811.02161" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5182" target="_blank">How Many Pairwise Preferences Do We Need to Rank A Graph Consistently?</a> <a href="https://arxiv.org/abs/1811.02161" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Rakesh Shivanna, Chiranjib Bhattacharyya
   <br>  In AAAI Conference on Artificial Intelligence, AAAI 2019</li>  
 </ul>  
@@ -205,7 +205,7 @@ a:active {
   <br>  Aadirupa Saha, Aditya Gopalan
   <br> In Uncertainty in Artificial Intelligence, UAI 2018</li>
   
-  <li>  <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16518/16537" target="_blank">Online Learning for Structured Loss Spaces</a> <a href="https://arxiv.org/abs/1706.04125" target="_blank"> [Arxiv Version]</a>
+  <li>  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/11669" target="_blank">Online Learning for Structured Loss Spaces</a> <a href="https://arxiv.org/abs/1706.04125" target="_blank"> [Arxiv Version]</a>
   <br>  Siddharth Barman, Aditya Gopalan, Aadirupa Saha (Alphabetical Order)
   <br>  In AAAI Conference on Artificial Intelligence, AAAI 2018</li>  
 </ul>  
