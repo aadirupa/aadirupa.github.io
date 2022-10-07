@@ -75,7 +75,7 @@ a:active {
   <li>  <b>An Unified Framework for Achieving Optimal Regret Guarantees for Sleeping Bandits</b>  <a href="http://arxiv.org/abs/2202.06694" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard, Soham Dan</li>
 
-  <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="?" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
   
   <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
