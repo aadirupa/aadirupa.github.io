@@ -167,10 +167,6 @@ a:active {
   <br> Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>  
   
-  <li> <a href="http://proceedings.mlr.press/v115/s20a.html" target="_blank">Be Greedy: How Chromatic Number meets Regret Minimization in Graph Bandits</a>
-  <br> Shreyas Seshadri*, Aadirupa Saha*, Chiranjib Bhattacharyya (*Equal Contribution)
-  <br> In Uncertainty in Artificial Intelligence, UAI 2020</li>
-  
   <li>  <a href="http://proceedings.mlr.press/v129/saha20a.html" target="_blank" LINK="red">Polytime Decomposition of Generalized Submodular Base Polytopes with Efficient Sampling</a>
   <br>  Aadirupa Saha
   <br>  In Asian Conference on Machine Learning, ACML 2020</li>
@@ -183,6 +179,10 @@ a:active {
    <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank">Combinatorial Bandits with Relative Feedback</a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Neural Information Processing Systems, NeurIPS 2019</li>
+  
+  <li> <a href="http://proceedings.mlr.press/v115/s20a.html" target="_blank">Be Greedy: How Chromatic Number meets Regret Minimization in Graph Bandits</a>
+  <br> Shreyas Seshadri*, Aadirupa Saha*, Chiranjib Bhattacharyya (*Equal Contribution)
+  <br> In Uncertainty in Artificial Intelligence, UAI 2019</li>
     
   <li>  <a href="https://proceedings.mlr.press/v89/saha19a" target="_blank">Active Ranking with Subset-wise Preferences</a> <a href="https://arxiv.org/abs/1810.10321" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Aditya Gopalan
