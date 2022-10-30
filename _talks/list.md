@@ -22,6 +22,14 @@ permalink: /talks/list.md
      <dd style="margin-bottom:0">Undergraduate Summer School, CSA department, IISc Bangalore. July 2018.</dd>
 </dl>
 <hr>
+<h2 style="color:SteelBlue;" vspace="-60px;"><a id="panel">Panels:</a></h2>
+<hr style="height:1px;border-width:0;color:black;background-color:black">
+<dl style="margin:0px;margin-bottom:0">
+     <dt><span style="color:DarkBlue">Trusted and Trustworthy AI.</span>
+          <a href="https://www.summitonai.org/schedule">[Summit Website]</a> </dt> 
+     <dd>The Summit on AI in Society. October, 2022.</dd>
+</dl>
+<hr>
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
