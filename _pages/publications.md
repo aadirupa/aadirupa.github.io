@@ -55,6 +55,7 @@ a:active {
    <a href="https://www.kiml.ifi.lmu.de/team/huellermeier/" target="_blank">Eyke Hüllermeier</a>,
    <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
    <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
+   <a href="https://sites.google.com/view/thomaskb" target="_blank">Thomas Kleine Buening</a>,
    <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
    <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
    <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
@@ -72,7 +73,10 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
-  <li>  <b>An Unified Framework for Achieving Optimal Regret Guarantees for Sleeping Bandits</b>  <a href="http://arxiv.org/abs/2202.06694" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <b>ANACONDA: An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</b>  <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Thomas Kleine Buening, Aadirupa Saha</li>
+
+  <li>  <b>One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</b><a href="https://arxiv.org/pdf/2210.14998.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard, Soham Dan</li>
 
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
