@@ -77,7 +77,7 @@ a:active {
   <br>  Thomas Kleine Buening, Aadirupa Saha</li>
 
   <li>  <b>One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</b><a href="https://arxiv.org/pdf/2210.14998.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Pierre Gaillard, Soham Dan</li>
+  <br>  Pierre Gaillard, Aadirupa Saha, Soham Dan</li>
 
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
