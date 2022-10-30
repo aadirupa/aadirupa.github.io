@@ -33,9 +33,23 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
-  <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
-     <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022</dd> 
+  <dt><span style="color:DarkBlue">Battle for Better: When and How Can We Learn Faster with Subsetwise Preferences?</span></dt>
+     <dd> The Institute for Data, Econometrics, Algorithms, and Learning (IDEAL) Talk Series. October, 2022</dd>
    
+  <dt><span style="color:DarkBlue">Dueling-Opt: Convex Optimization with Relative Feedback</span></dt>
+     <dd> IFDS Seminar, University of Wisconsin–Madison. October, 2022</dd>
+     <dd> Fall OSL Seminar, Northwestern University. October, 2022</dd>
+     <dd> Research at TTIC Series. Toyota Technological Institute at Chicago (TTIC), October, 2022</dd> 
+     <dd> Theory Seminar, CS, Purdue University. November, 2022</dd> 
+     
+  <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
+     <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022</dd>
+     <dd> Talks at TTIC Series. Toyota Technological Institute at Chicago (TTIC), August, 2022</dd>
+     <dd> CS Seminar, Northwestern University. October, 2022</dd>
+     <dd> ML Seminar, University of Illinois, Chicago (UIC). October, 2022</dd>
+     <dd> University of Illinois Computer Science Speaker Series, UIUC. October, 2022</dd> 
+     <dd> ML Seminar, UChicago. October, 2022</dd> October, 2022</dd>
+           
   <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>
      <dd><a href="https://nasscom.in/ai-gamechangers/">NASSCOM AI Gamechangers.</a> April, 2022</dd> 
      <dd>Data Science in India, KDD Conference, India, August 2021.</dd>    
