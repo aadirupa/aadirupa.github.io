@@ -86,7 +86,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
    <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
    <a href="https://kishinmh.github.io/" target ="_blank">Kshitij Patel</a>, 
    <a href="https://sites.google.com/view/hanshao" target="_blank">Han Shao</a>, 
-   <a href="https://nati.ttic.edu/"_blank">Nati Srebro</a>, 
+   <a href="https://nati.ttic.edu/" target="_blank">Nati Srebro</a>, 
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
    <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>,
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
@@ -101,7 +101,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
   <br>  Thomas Kleine Buening, Aadirupa Saha
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                                            
                                               
-  <li>  <a href="https://proceedings.mlr.press/v162/saha22a.html" target="_blank"> Versatile Dueling Bandits</a> <a href="https://arxiv.org/pdf/2202.06694.pdf"_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v162/saha22a.html" target="_blank"> Versatile Dueling Bandits</a> <a href="https://arxiv.org/pdf/2202.06694.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  In International Conference on Machine Learning, ICML 2022</li>
 
