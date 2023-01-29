@@ -56,8 +56,6 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
-  <br>
-
   <hr style="color:black;"> 
   <br>
  <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
