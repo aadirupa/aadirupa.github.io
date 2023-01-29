@@ -85,7 +85,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
    <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
    <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
    <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
-   <a href="https://kishinmh.github.io/"_blank">Kshitij Patel</a>, 
+   <a href="https://kishinmh.github.io/" target ="_blank">Kshitij Patel</a>, 
    <a href="https://sites.google.com/view/hanshao"_blank">Han Shao</a>, 
    <a href="https://nati.ttic.edu/"_blank">Nati Srebro</a>, 
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
