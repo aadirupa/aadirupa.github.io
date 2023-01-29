@@ -68,7 +68,7 @@ a:active {
    <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
   (in alphabetical order).</p>
-  <!--[Nadav Merlis]()-->
+  
   -->
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
