@@ -90,7 +90,7 @@ a:active {
   <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
   
-  <li>  <b>Ranking from Pairwise Comparisons with Features: Algorithm and Graph Theoretic Analysis.</b>  <a href="[https://arxiv.org/abs/2104.05294](https://arxiv.org/abs/1808.03857)" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <b>Ranking from Pairwise Comparisons with Features: Algorithm and Graph Theoretic Analysis.</b>  <a href="https://arxiv.org/abs/1808.03857" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Arun Rajkumar</li>
       
 </ul>  
