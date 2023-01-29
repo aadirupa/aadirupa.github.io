@@ -48,7 +48,7 @@ permalink: /talks/list.md
      <dd> CS Seminar, Northwestern University. October, 2022</dd>
      <dd> ML Seminar, University of Illinois, Chicago (UIC). October, 2022</dd>
      <dd> University of Illinois Computer Science Speaker Series, UIUC. October, 2022</dd> 
-     <dd> ML Seminar, UChicago. October, 2022</dd> October, 2022</dd>
+     <dd> ML Seminar, UChicago. October, 2022</dd>
            
   <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>
      <dd><a href="https://nasscom.in/ai-gamechangers/">NASSCOM AI Gamechangers.</a> April, 2022</dd> 
