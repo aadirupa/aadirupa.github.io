@@ -78,10 +78,10 @@ a:active {
   <li>  <b>Variance Aware Thompson Sampling.</b> <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Branislav Kveton</li>
   
-  <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href=""_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
   
-  <li>  <b>Social Welfare for Recommender Systems</b> <a href=""_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <li>  <b>Social Welfare for Recommender Systems</b> <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu</li>
   
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
