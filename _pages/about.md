@@ -48,7 +48,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 
 <font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism design, Fairness, Privacy.
   <br><br>
-<p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
+<p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity environments, algorithmic fairness, differential privacy, multiplayer games, distributed optimization. Finding and bridging the gaps between theory and practice is always fun!</p>
   
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
@@ -60,7 +60,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 
   <hr style="color:black;"> 
   <br>
- <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> I have been really fortunate to be able to work with some of the amazing research minds: 
+ <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
