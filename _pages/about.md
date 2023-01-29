@@ -46,7 +46,7 @@ a:active {
 Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). 
 -->
 
-<font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism design, Fairness, Privacy.
+<font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism Design, Algorithmic Fairness, Privacy.
   <br><br>
 <p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity environments, distributed optimization, algorithmic fairness, differential privacy, multiplayer games, mechanism design. Finding and bridging the gaps between theory and practice is always fun!</p>
   
