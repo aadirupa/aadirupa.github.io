@@ -38,12 +38,17 @@ a:active {
 </head>  
   
 <body>
-<p align="justify" vspace = "-0px" width="200px"> I am currently a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I just finished a short-term research visit at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>, and completed my postdoc stinct at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a> before that. I obtained my P.h.D from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
-<!-- Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). -->
+<p align="justify" vspace = "-0px" width="200px"> I am a visiting faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>, broadly working in the area of Machine Learning theory, and completed my postdoc stinct at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a> before that. I obtained my P.h.D from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
 
-<font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Online learning, Bandits, Reinforcement Learning), Optimization, Federated Learning, Mechanism design, Fairness, Privacy.
+ <!-- 
+<p align="justify" vspace = "-0px" width="200px"> I am currently a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I just finished a short-term research visit at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>, and completed my postdoc stinct at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a> before that. I obtained my P.h.D from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>, <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>, and <a href="https://ai.google/">Google AI, Mountain View</a>.</p> 
+
+Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). 
+-->
+
+<font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism design, Fairness, Privacy.
   <br><br>
-<p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
+<p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity in contextual environments, differential privacy, multiplayer games, online convex optimization. Broadly, I am fascinated by the scopes of learning from unconventional partial monitoring feedback and the gaps between theory and practice.</p>
   
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
@@ -52,12 +57,14 @@ a:active {
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
   <br>
-<!-- 
+
   <hr style="color:black;"> 
   <br>
  <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> I have been really fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
+   <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
+   <a href="https://www.ttic.edu/faculty/cohen/"_blank">Lee Cohen</a>, 
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
    <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
@@ -68,7 +75,9 @@ a:active {
    <a href="https://www.kiml.ifi.lmu.de/team/huellermeier/" target="_blank">Eyke Hüllermeier</a>,
    <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
    <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
+   <a href="https://sites.google.com/view/thomaskb"_blank">Thomas Kleine Buening</a>, 
    <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
+   <a href="https://bkveton.com/"_blank">Branislav Kveton</a>, 
    <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
    <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
    <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
@@ -76,19 +85,32 @@ a:active {
    <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
    <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
    <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
-   <a href="https://scholar.google.ca/citations?user=izPG6OEAAAAJ&hl=en" target="_blank">Rakesh Shivanna</a>,
-   <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
-  (in alphabetical order).</p>
-[Nadav Merlis]()-->
+   <a href="https://kishinmh.github.io/"_blank">Kshitij Patel</a>, 
+   <a href="https://sites.google.com/view/hanshao"_blank">Han Shao</a>, 
+   <a href="https://nati.ttic.edu/"_blank">Nati Srebro</a>, 
+   <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
+   <a href="https://home.ttic.edu/~mwalter/"_blank">Matthew Walter</a>,
+   <a href="https://ttic.edu/faculty/wang/"_blank">Lingxiao Wang</a>, 
+   <a href="https://www.haifeng-xu.com/"_blank">Haifeng Xu</a>
+  (in alphabetical order).</p> 
+<!-- [Nadav Merlis]()-->
   
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
-  <li>  <a href="https://proceedings.neurips.cc/paper/2021/file/e97ee2054defb209c35fe4dc94599061-Supplemental.pdf" target="_blank"> Dueling Bandits with Adversarial Sleeping</a> <a href="https://arxiv.org/abs/2107.02274" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank"> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</a> <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Thomas Kleine Buening, Aadirupa Saha
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                                            
+                                              
+  <li>  <a href="https://proceedings.mlr.press/v162/saha22a.html" target="_blank"> Versatile Dueling Bandits</a> <a href="https://arxiv.org/pdf/2202.06694.pdf"_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
-  <br>  In Neural Information Processing Systems, NeurIPS 2021</li>
+  <br>  In International Conference on Machine Learning, ICML 2022</li>
 
-  <li>  <a href="https://proceedings.neurips.cc/paper/2021/file/fc3cf452d3da8402bebb765225ce8c0e-Supplemental.pdf" target="_blank">Optimal Algorithms for Stochastic Contextual Dueling Bandits</a> 
+  <li>  <a href="https://proceedings.mlr.press/v167/saha22a.html" target="_blank"> Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</a> <a href="https://arxiv.org/abs/2111.12306" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Akshay Krishnamurthy
+  <br>  In Algorithmic Learning Theory, ALT 2022</li>
+
+  <li>  <a href="https://proceedings.neurips.cc/paper/2021/hash/fc3cf452d3da8402bebb765225ce8c0e-Abstract.html" target="_blank">Optimal Algorithms for Stochastic Contextual Dueling Bandits</a> 
   <br>  Aadirupa Saha
   <br>  In Neural Information Processing Systems, NeurIPS 2021</li>
   
