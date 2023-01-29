@@ -41,6 +41,7 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
+  <!--
   <hr style="color:black;"> 
  <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> I have been really fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
@@ -68,23 +69,24 @@ a:active {
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>
   (in alphabetical order).</p>
   <!--[Nadav Merlis]()-->
-  
+  -->
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
-  <li>  <b>ANACONDA: An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</b>  <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Thomas Kleine Buening, Aadirupa Saha</li>
-
-  <li>  <b>One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</b><a href="https://arxiv.org/pdf/2210.14998.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Pierre Gaillard, Aadirupa Saha, Soham Dan</li>
-
+  
+  <li>  <b>Variance Aware Thompson Sampling.</b> <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Aadirupa Saha, Branislav Kveton</li>
+  
+  <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href=""_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
+  
+  <li>  <b>Social Welfare for Recommender Systems</b> <a href=""_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu</li>
+  
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
-  
-  <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences.</b>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br> Aadirupa Saha*,  Aldo Pacchiano*, Jonathan Lee (*Equal contribution)</li>
-  
+ 
   <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
     
@@ -92,28 +94,51 @@ a:active {
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
   
+<h2 style="color:DarkRed;">2023</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+  
+<ul style="margin:1;padding:1">
+  
+  <li>  <b> One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</b>   <a href="https://arxiv.org/abs/2210.14998" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Pierre Gaillard, Aadirupa Saha, Soham Dan
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>  
+  
+  <li>  <b> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</b>   <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Thomas Kleine Buening, Aadirupa Saha
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                     
+  
+  <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences</b>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br> Aadirupa Saha*,  Aldo Pacchiano*, Jonathan Lee (*Equal contribution)
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                     
+    
+</ul>    
+  
 <h2 style="color:DarkRed;">2022</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
   
-  <li>  <b>Versatile Dueling Bandits: Best-of-both-World Analyses for Online Learning from Preferences.</b>  <a href="http://arxiv.org/abs/2202.06694" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://kishinmh.github.io/FEDOSGD.pdf" target="_blank"> Distributed Online and Bandit Convex Optimization</a>
+  <br>  Kumar Kshitij Patel, Aadirupa Saha, Lingxiao Wang, Nati Srebro
+  <br>  In OPT ML Workshop, Neural Information Processing Systems, NeurIPS 2022</li>                     
+  
+  <li>  <a href ="https://proceedings.mlr.press/v162/saha22a.html"> Versatile Dueling Bandits: Best-of-both-World Analyses for Online Learning from Preferences.</a>  <a href="http://arxiv.org/abs/2202.06694" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br>  In International Conference on Machine Learning, ICML 2022</li>
   
-  <li>  <b>Optimal and Efficient Dynamic Regret Algorithms for Non-Stationary Dueling Bandits.</b>  <a href="https://arxiv.org/abs/2111.03917" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href ="https://proceedings.mlr.press/v162/saha22b.html"> Optimal and Efficient Dynamic Regret Algorithms for Non-Stationary Dueling Bandits.</a>  <a href="https://arxiv.org/abs/2111.03917" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha*, Shubham Gupta* (*Equal contribution)
   <br>  In International Conference on Machine Learning, ICML 2022</li>
   
-  <li>  <b>Stochastic Contextual Dueling Bandits under Linear Stochastic Transitivity Models.</b>  <a href="https://arxiv.org/abs/2202.04593" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v162/bengs22a/bengs22a.pdf"> Stochastic Contextual Dueling Bandits under Linear Stochastic Transitivity Models.</a>  <a href="https://arxiv.org/abs/2202.04593" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Viktor Bengs, Aadirupa Saha, Eyke Hüllermeier 
   <br>  In International Conference on Machine Learning, ICML 2022</li>
   
-  <li>  <b>Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</b>  <a href="https://arxiv.org/abs/2111.12306" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.neurips.cc/paper/2021/file/fc3cf452d3da8402bebb765225ce8c0e-Paper.pdf"> Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</a>  <a href="https://arxiv.org/abs/2111.12306" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Akshay Krishnamurthy
   <br>  In Algorithmic Learning Theory, ALT 2022</li>  
   
-  <li>  <b>Exploiting Correlation to Achieve Faster Learning Rates in Low-Rank Preference Bandits</b> <a href=""> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v151/saha22a/saha22a.pdf"> Exploiting Correlation to Achieve Faster Learning Rates in Low-Rank Preference Bandits</a> <a href=""> [Arxiv Version]</a>
   <br> Aadirupa Saha*, Suprovat Ghoshal* (*Equal contribution)
   <br> In International Conference on Artificial Intelligence and Statistics, AIStats 2022</li>  
     
