@@ -78,13 +78,13 @@ a:active {
   <li>Neural Computation (NEURCOMP), 2022</li>
   <li>Journal of Machine Learning Research (JMLR), 2021</li>
   <li>Information Processing Letters, ScienceDirect, 2023</li>
+  <li>Machine Learning (MACH) Journal, 2022 </li>
 </ul>   
   
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Machine Learning (MACH) Journal, 2022 </li>
   <li>International Conference on Machine Learning (ICML), 2019-2023</li>
   <li>International Conference on Learning Representations (ICLR), 2023</li>
   <li>Neural Information Processing Systems (NeurIPS), 2020-2022</li>
