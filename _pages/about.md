@@ -47,7 +47,7 @@ a:active {
 Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). 
 -->
 
-<font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism Design, Algorithmic Fairness, Privacy.
+<font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism Design.
   <br><br>
 <p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity environments, distributed optimization, algorithmic fairness, differential privacy, multiplayer games, mechanism design. Finding and bridging the gaps between theory and practice is always fun!</p>
   
@@ -57,6 +57,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
+  <!--
   <hr style="color:black;"> 
  <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
@@ -90,7 +91,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p> 
-<!-- [Nadav Merlis]()-->
+ [Nadav Merlis]()-->
   
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
