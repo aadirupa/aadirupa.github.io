@@ -34,6 +34,8 @@ permalink: /talks/list.md
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
   <dt><span style="color:DarkBlue">Battle for Better: When and How Can We Learn Faster with Subsetwise Preferences?</span></dt>
+     <dd>Spring Seminar, UT Austin. March 2023</dd>
+     <dd>ISyE Seminar, Goergia Tech. March 2023</dd>
      <dd> The Institute for Data, Econometrics, Algorithms, and Learning (IDEAL) Talk Series. October, 2022</dd>
    
   <dt><span style="color:DarkBlue">Dueling-Opt: Convex Optimization with Relative Feedback</span></dt>
