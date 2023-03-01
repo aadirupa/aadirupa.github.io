@@ -86,7 +86,7 @@ a:active {
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
   
   <li>  <b>Social Welfare for Recommender Systems</b> <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu</li>
+  <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis</li>
   
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
