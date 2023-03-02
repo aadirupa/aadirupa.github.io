@@ -49,7 +49,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 
 <font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism Design.
   <br><br>
-<p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for example, preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling non-stationarity environments, distributed optimization, algorithmic fairness, differential privacy, multiplayer games, mechanism design. Finding and bridging the gaps between theory and practice is always fun!</p>
+<p align="justify"> My current research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback. For example, say preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently I also got interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, differential privacy and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming the gap between the theory and practical aspects of any of these related directions!</p>
   
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
