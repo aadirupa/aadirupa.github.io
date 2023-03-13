@@ -27,7 +27,7 @@ permalink: /talks/list.md
 <dl style="margin:0px;margin-bottom:0">
      <dt><span style="color:DarkBlue">Trusted and Trustworthy AI.</span>
           <a href="https://ifk.uchicago.edu/events/1440/the-summit-on-ai-in-society/">[Summit Website]</a> </dt> 
-     <dd>The Summit on AI in Society. October, 2022.</dd>
+     <dd>The Summit on AI in Society at University of Chicago, October, 2022.</dd>
 </dl>
 <hr>
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
