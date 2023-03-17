@@ -79,8 +79,10 @@ a:active {
   
 <ul style="margin:1;padding:1">
   
-  <li>  <b>Variance Aware Thompson Sampling.</b> <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Aadirupa Saha, Branislav Kveton</li>
+  <li>  <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red"> [Arxiv version]</a>
+  <br>  Aadirupa Saha, Branislav Kveton
+  <br> <a style="color:DodgerBlue;"> Elevator pitch: We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances and develop Thompson sampling-type algorithms. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes!</a>
+  </li>
   
   <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
