@@ -115,7 +115,7 @@ a:active {
   <br>  Aadirupa Saha, Branislav Kveton
   <details>
   <summary><span style="color:Maroon;"> Elevator pitch!</span></summary>
-  <span class="abstract-text" style="font-size:.90em; color:Maroon;">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances and develop Thompson sampling-type algorithms. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident!</span>
+  <span class="abstract-text" style="font-size:.90em; color:Maroon;">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances with Thompson sampling. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident - Only Pay for What Is Uncertain!</span>
   </details>
   </li>
   
