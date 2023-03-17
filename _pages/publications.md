@@ -114,8 +114,8 @@ a:active {
   <li>  <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
   <br>  Aadirupa Saha, Branislav Kveton
   <details>
-  <summary><span style="color:Maroon;"> Elevator pitch: </span></summary>
-  <span class="abstract-text" style="font-size:.90em; color:Maroon;">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances and develop Thompson sampling-type algorithms. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes!</span>
+  <summary><span style="color:Maroon;"> Elevator pitch!</span></summary>
+  <span class="abstract-text" style="font-size:.90em; color:Maroon;">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances and develop Thompson sampling-type algorithms. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident!</span>
   </details>
   </li>
   
