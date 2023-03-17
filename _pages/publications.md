@@ -72,11 +72,6 @@ a:active {
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 -->  
-  
-<details>
-  <summary>Abstract</summary>
-  <p class="abstract-text" style="font-size:.90em">Does free riding in collective... unemployment, at a cost of employed earning less</p>
-</details>
 
 <hr style="color:black;"> 
 <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
@@ -118,7 +113,10 @@ a:active {
   
   <li>  <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
   <br>  Aadirupa Saha, Branislav Kveton
-  <br> <span style="color:Maroon;"> Elevator pitch: </span> We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances and develop Thompson sampling-type algorithms. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes!
+  <details>
+  <summary><span style="color:Maroon;"> Elevator pitch: </span></summary>
+  <span class="abstract-text" style="font-size:.90em; color:Maroon;">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances and develop Thompson sampling-type algorithms. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes!</span>
+  </details>
   </li>
   
   <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
