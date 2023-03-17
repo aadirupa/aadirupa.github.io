@@ -39,6 +39,13 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
+  
+  <li> <font color="#008080">ICML Workshop, July, 2023. Hawaii, USA</font>
+  <br>he Many Facets of Preference-Based Learning.  <a href="" target="_blank" LINK="red"> [Workshop Homepage (coming soon!)] </a> 
+  <br>  with Viktor Bengs, Robert Busa-Fekete, Mohammad Ghavazadeh and Branislav Kveton
+  <br> <b><font color="#800080">We will start accepting poster submissions very soon! Looking forward to it.</font></b> 
+  </li>
+  
   <li> <font color="#008080">ICML Workshop, July, 2022. Baltimore, USA</font>
    <br>Complex Feedback in Online Learning.  <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [Workshop Homepage] </a> <a href="https://icml.cc/Conferences/2022/Schedule?showEvent=13466" target="_blank" LINK="red"> [ICML Schedule]</a>
   <br>  with Remy Degenne, Pierre Gaillard and Wouter Koolen
