@@ -7,6 +7,7 @@ author_profile: true
 
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">  
 <style>
 a:link {
   color: RoyalBlue;
@@ -30,6 +31,29 @@ a:active {
   color: DarkRed;
   background-color: transparent;
   text-decoration: underline;
+}
+  
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
 }
 </style>  
 </head>  
