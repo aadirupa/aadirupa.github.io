@@ -155,7 +155,7 @@ a:active {
     Our proposed algorithm achieves sublinear Internal Regret, even when losses and availabilities are both adversarial, which is the hardest combination of sleeping setup! Further, our results show how a low internal regret leads to both low external regret and low policy regret - One arrow, Two Kills! 
     <br><br>
     Our unified notion of sleeping regret also helps to invent a general notion of Sleeping Dueling Bandits that is stronger than the existing regret definitions used in the contemporary dueling bandits literature and overcomes the issue of repeated draws if needed. This is the first bound of this kind in the dueling literature with many potentials!</span>
-  </details><br>
+  </details>
   
   <li>  <b> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</b>   <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha
