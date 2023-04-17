@@ -149,11 +149,11 @@ a:active {
   <details>
   <summary><span style="color:Maroon;"> Elevator pitch!</span></summary>
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">Sleeping Bandits are as interesting as they sound, but what is the right measure of Sleeping Regret? So many different notions of regrets were studied in the literature --- Sleeping External regret, Ordering regret, Policy regret --- but it is confusing to keep track of the implications of so many different notions, i.e. every combination of stochastic or adversarial losses and availability pairs.
-
+    <br>
     Can we unify them under a single measure? We found one in this work - Sleeping Internal Regret! One of our main contributions is unifying existing notions of regret in sleeping bandits and exploring their implications for each other. 
-    
+    <br>
     Our proposed algorithm achieves sublinear Internal Regret, even when losses and availabilities are both adversarial, which is the hardest combination of sleeping setup! Further, our results show how a low internal regret leads to both low external regret and low policy regret - One arrow, Two Kills! 
-
+    <br>
     Our unified notion of sleeping regret also helps to invent a general notion of Sleeping Dueling Bandits that is stronger than the existing regret definitions used in the contemporary dueling bandits literature and overcomes the issue of repeated draws if needed. This is the first bound of this kind in the dueling literature. </span>
   </details>
   
