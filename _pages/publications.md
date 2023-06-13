@@ -142,6 +142,10 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
+
+  <li>  <b> Federated Online and Bandit Convex Optimization</b> 
+  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
+  <br>  In International Conference on Machine Learning, ICML 2023</li>   
   
   <li>  <b> One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</b>   <a href="https://arxiv.org/abs/2210.14998" target="_blank" LINK="red"> [Arxiv Version]</a><a href="https://www.youtube.com/watch?v=m1qQe3lGXWI" target="_blank" LINK="red"> [Talk]</a>
   <br>  Pierre Gaillard, Aadirupa Saha, Soham Dan
