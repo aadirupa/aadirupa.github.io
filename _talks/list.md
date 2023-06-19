@@ -16,7 +16,7 @@ permalink: /talks/list.md
      <dt><span style="color:DarkBlue">Battle of Bandits: Online learning from Preference Feedback.</span>
      <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/">[Tutorial Website]</a></dt> 
      <dd>Asian Conference of Machine Learning (ACML). November, 2021.</dd>
-     <dt><span style="color:DarkBlue">Bandits for Beginners.</span></dt> 
+     <dt><span style="color:DarkBlue">Bandits for Beginners.</span><a href="https://www.youtube.com/watch?v=DB06M7ZA0Gs">[Video link]</a> </dt> 
      <dd>Microsoft Reactor: Data Science and Machine Learning Track. November, 2021.</dd>
      <dt><span style="color:DarkBlue">Short Tutorial: (1). Support Vector Machines, (2). Winnow and Perceptron Algorithms.</span></dt> 
      <dd>M.S. Ramaiah Institute of Technology, Bangalore. May, 2018.</dd>
