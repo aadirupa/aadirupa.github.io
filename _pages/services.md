@@ -41,9 +41,9 @@ a:active {
 <ul style="margin:1;padding:1">
 
   <li> <font color="#008080">TTIC Workshop, Sept, 2023. Chicago, USA</font>
-  <br> New Frontiers in Federated Learning: Recent Theoretical Advances & Practice.  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0"_blank" LINK="red"> [TTIC Workshop] </a>
+  <br> New Frontiers in Federated Learning: Recent Theoretical Advances & Practice.  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [TTIC Workshop] </a>
   <br>  with Kumar Kshitij Patel, Nati Sebro, Lingxiao Wang, Zheng Xu 
-  <br> <font color="#800080"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform"_blank" LINK="red"> Register here!</a></font>
+  <br> <font color="#800080"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform" LINK="red"> Register here!</a></font>
   </li>
   
   <li> <font color="#008080">ICML Workshop, July, 2023. Hawaii, USA</font>
