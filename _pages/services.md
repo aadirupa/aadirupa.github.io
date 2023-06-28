@@ -39,9 +39,15 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
+
+  <li> <font color="#008080">TTIC Workshop, Sept, 2023. Chicago, USA</font>
+  <br> New Frontiers in Federated Learning: Recent Theoretical Advances & Practice.  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0"_blank" LINK="red"> [TTIC Workshop] </a>
+  <br>  with Kumar Kshitij Patel, Nati Sebro, Lingxiao Wang, Zheng Xu 
+  <br> <font color="#800080"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform"_blank" LINK="red"> Register here!</a></font>
+  </li>
   
   <li> <font color="#008080">ICML Workshop, July, 2023. Hawaii, USA</font>
-  <br> The Many Facets of Preference-Based Learning.  <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [Workshop Homepage] </a>
+  <br> The Many Facets of Preference-Based Learning.  <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML23 Workshop] </a>
   <br>  with Viktor Bengs, Robert Busa-Fekete, Mohammad Ghavazadeh and Branislav Kveton
   <br> <font color="#800080">We have received ~65 submissions!! Thanks for your interest!</font>
   </li>
