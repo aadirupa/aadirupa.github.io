@@ -8,8 +8,8 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px;margin-bottom:0">
-     <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? </span></dt>
-     <dt>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc. <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> (updates on progress!) </dt>
+     <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? </span></dd>
+     <dd>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc. <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> (updates on progress!) </dt>
      <dd>37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. Dec 11th, 2023.</dd>
      <dd><font color="#800080">Pretty excited on this one! If you are planning to attend NeurIPS this year, please stop by!</font></dd>
      <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning.</span></dt>
@@ -55,6 +55,7 @@ permalink: /talks/list.md
      <dd> Fall OSL Seminar, Northwestern University. October, 2022</dd>
      <dd> Research at TTIC Series. Toyota Technological Institute at Chicago (TTIC), October, 2022</dd> 
      <dd> Theory Seminar, CS, Purdue University. November, 2022</dd> 
+     <dd> Samueli CS dept Seminar, UCLA. June, 2023</dd> 
      
   <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
      <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022</dd>
@@ -63,6 +64,7 @@ permalink: /talks/list.md
      <dd> ML Seminar, University of Illinois, Chicago (UIC). October, 2022</dd>
      <dd> University of Illinois Computer Science Speaker Series, UIUC. October, 2022</dd> 
      <dd> ML Seminar, UChicago. October, 2022</dd>
+     <dd> Theory/ML Seminar, CS dept, CMU. July, 2023</dd>
            
   <dt><span style="color:DarkBlue">Adversarial Dueling Bandits</span></dt>
      <dd><a href="https://nasscom.in/ai-gamechangers/">NASSCOM AI Gamechangers.</a> April, 2022</dd> 
