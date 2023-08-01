@@ -41,7 +41,10 @@ permalink: /talks/list.md
 <hr>
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
-<dl>
+<dl> 
+  <dt><span style="color:DarkBlue">Online Federated Learning</span></dt>
+     <dd><a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule">Federated and Collaborative Learning Workshop</a>, Simons Institute for the Theory of Computing. July 2023</dd>
+     
   <dt><span style="color:DarkBlue">Battle for Better: When and How Can We Learn Faster with Subsetwise Preferences?</span></dt>
      <dd>Spring Seminar, UT Austin. March 2023</dd>
      <dd>ISyE Seminar, Goergia Tech. March 2023</dd>
