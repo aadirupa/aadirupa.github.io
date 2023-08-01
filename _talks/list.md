@@ -8,11 +8,13 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px;margin-bottom:0">
-     <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? (With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc.) <a href=" ">[Tutorial Website]</a> (coming soon!) </span></dt> 
+     <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? </span></dt>
+     <dt>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc. <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> (updates on progress!) </dt>
      <dd>37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. Dec 11th, 2023.</dd>
      <dd><font color="#800080">Pretty excited on this one! If you are planning to attend NeurIPS this year, please stop by!</font></dd>
-     <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning. (With <a href="https://kkpatel.ttic.edu/" LINK="red"> Kshitij Kumar Patel</a>, TTIC.)</span></dt> 
-     <dd>39th Conference on Uncertainty in Artificial Intelligence (UAI), Pittsburgh. July 31st, 2023.</dd>
+     <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning.</span></dt>
+     <dd>With <a href="https://kkpatel.ttic.edu/" LINK="red"> Kshitij Kumar Patel</a>, TTIC.</dd>
+     <dd> <a href="https://www.auai.org/uai2023/tutorials" LINK="red"> 39th Conference on Uncertainty in Artificial Intelligence (UAI)</a>, Pittsburgh. July 31st, 2023.</dd>
      <dt><span style="color:DarkBlue">ML Beyond Rewards: Online Learning with Preference Feedback.</span>
           <a href="https://sites.google.com/view/olpf/home">[Tutorial Website]</a> </dt> 
      <dd>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). September, 2022.</dd>
