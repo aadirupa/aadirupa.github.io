@@ -8,7 +8,7 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px;margin-bottom:0">
-     <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? (With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc.) <a href=" ">[Tutorial Website](coming soon!)</a></span></dt> 
+     <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? (With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc.) <a href=" ">[Tutorial Website]</a>(coming soon!)</span></dt> 
      <dd>37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. Dec 11th, 2023.</dd>
      <dd><font color="#800080">Pretty excited on this one! If you are planning to attend NeurIPS this year, please stop by!</font></dd>
      <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning. (With <a href="https://kkpatel.ttic.edu/" LINK="red"> Kshitij Kumar Patel</a>, TTIC.)</span></dt> 
