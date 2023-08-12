@@ -36,7 +36,7 @@ a:active {
  
 <body>  
   
-<h3 style="color:DarkBlue;" vspace="-2px;">--------------- 2023 ------------------</h3>
+<h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
 <ol type="1">
 <li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at NeurIPS'23, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font></li>
