@@ -44,7 +44,7 @@ a:active {
 
 <br> Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at NeurIPS'23, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!
   
-<br> Sept 8-9: Organizing another workshop on Federated Learning <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [Event Website] </a> at TTI Chicago. <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform" LINK="red"> Register here! </a>
+<br> Sept 8-9: Organizing another workshop on Federated Learning <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [Event Website] </a> at TTI Chicago. <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform" LINK="red"> Don't forget to Register here! </a> Looking forward.
   
 <br> Aug 17-18: Attending <a href="https://sites.google.com/view/davidfestyishayfest" LINK="red">David & Yishay Fest</a>. Please reach out if you are around Chicago!
 
