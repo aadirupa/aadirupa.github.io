@@ -36,7 +36,7 @@ a:active {
  
 <body>  
   
-<h3 style="color:SteelBlue;" vspace="-2px;">--------------- 2023 ------------------</h3>
+<h3 style="color:DarkBlue;" vspace="-2px;">--------------- 2023 ------------------</h3>
 
 <ol type="1">
 <li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at NeurIPS'23, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font></li>
@@ -52,7 +52,7 @@ a:active {
 <li> - July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a></li>
 </ol>  
 
-<p style="text-align:right;">..... ..... ..... .....stay tuned!</p> 
+<p style="text-align:right;">..... ..... ..... .....  stay tuned!</p> 
   
 </body>
 </html>
