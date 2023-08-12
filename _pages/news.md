@@ -36,86 +36,26 @@ a:active {
  
 <body>  
   
-<h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
+#<h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
 
-  <li> <font color="#008080">TTIC Workshop, Sept, 2023. Chicago, USA</font>
-  <br> New Frontiers in Federated Learning: Recent Theoretical Advances & Practice.  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [TTIC Workshop] </a>
-  <br>  with Kumar Kshitij Patel, Nati Sebro, Lingxiao Wang, Zheng Xu 
-  <br> <font color="#800080"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform" LINK="red"> Register here!</a></font>
-  </li>
-  
-  <li> <font color="#008080">ICML Workshop, July, 2023. Hawaii, USA</font>
-  <br> The Many Facets of Preference-Based Learning.  <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML23 Workshop] </a>
-  <br>  with Viktor Bengs, Robert Busa-Fekete, Mohammad Ghavazadeh and Branislav Kveton
-  <br> <font color="#800080">We have received ~65 submissions!! Thanks for your interest!</font>
-  </li>
-  
-  <li> <font color="#008080">ICML Workshop, July, 2022. Baltimore, USA</font>
-   <br>Complex Feedback in Online Learning.  <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [Workshop Homepage] </a> <a href="https://icml.cc/Conferences/2022/Schedule?showEvent=13466" target="_blank" LINK="red"> [ICML Schedule]</a>
-  <br>  with Remy Degenne, Pierre Gaillard and Wouter Koolen
-  <!-- <br> <b><font color="#800080">Submit your best work!</font></b> -->
-  </li>
-  
-   <li> <font color="#008080">TTIC Summer Workshop, July, 2022. TTIC, Chicago, USA</font>
-   <br>New Models in Online Decision Making for Real-World Applications.  <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red"> [Workshop Homepage] </a> 
-  <br>  with Yonathan Efroni, Akshay Krishnamurthy and Aldo Pacchiano
-  <!-- <br> <b><font color="#800080">Submit your posters! Call for Open Problems!</font></b> -->
-  </li>    
-</ul>  
+<li> <font color="#008080">2023</font>
 
-<h2 style="color:SteelBlue;" vspace="0px;">Summer School:</h2>  
-<ul style="margin:1;padding:1">
-   <li> <font color="#008080"> CSA Undergraduate Summer School 2016. June 4-9, 2016. IISc, Bangalore, India</font>
-   <br>  with Aravind Acharya and Abhiruk Lahiri</li>
-</ul>   
+<br> Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at NeurIPS'23, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!
   
-<h2 style="color:SteelBlue;" vspace="0px;">Event organization/ Mentoring:</h2>  
-<ul style="margin:1;padding:1">
-   <li> <font color="#008080"> Inquizitive Quiz Competition at CSA Open Days. March 4th, 2017. IISc, Bangalore, India. </font>
-   <br>  with Prince Jain and Raghav Sood</li>
-   <li> <font color="#008080"> MUTeX Miner ML Hackathon at CSA Open Days. March 4-8, 2016. IISc, Bangalore, India. </font></li>
-   <li> <font color="#008080"> MSR NYC Weekly ML Reading Group. 2020-2021. Microsoft Research, NYC. </font></li>
-   <li> <font color="#008080"> Represented Microsoft booth and virtual lounge at UAI, 2021.</font></li>
-   <li> <font color="#008080"> Mentoring: AISTATS 2022 Submission Mentoring Program. </font>
-   <br> <a href="http://aistats.org/aistats2022/mentorship.html" target="_blank" LINK="red"> [AISATS Mentoring Homepage]</a></li>
-</ul>  
+<br> Sept 8-9: Organizing another workshop on Federated Learning <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [Event Website] </a> at TTI Chicago. <a href="https://docs.google.com/forms/d/e/1FAIpQLSepy6GbgB9Jna-jGOPRguH48HWXN9es24LeYqJffTQIouEoXA/viewform" LINK="red"> Register here! </a>
+  
+<br> Aug 17-18: Attending <a href="https://sites.google.com/view/davidfestyishayfest" LINK="red">David & Yishay Fest</a>. Please reach out if you are around Chicago!
 
- <!--    <li> <font color="#008080"> MSR, NYC ML Weekly Reading Group Meeting. Aug 2020-July 2021.</li> --> 
-<br>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
-<h2 style="color:SteelBlue;" vspace="0px;">Journal Reviewing:</h2>
-  
-<ul style="margin:1;padding:1">
-  <li>Journal of Machine Learning Research (JMLR), 2023</li>
-  <li>Neural Computation (NEURCOMP), 2022</li>
-  <li>Journal of Machine Learning Research (JMLR), 2021</li>
-  <li>Information Processing Letters, ScienceDirect, 2023</li>
-  <li>Machine Learning (MACH) Journal, 2022 </li>
-</ul>   
+ <br> July 31: Giving a tutorial at UAI'23 on 'Federated Learning'. <a href="https://www.auai.org/uai2023/tutorials" LINK="red">[UAI'23 tutorials]</a>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
-<h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
-  
-<ul style="margin:1;padding:1">
-  <li>Neural Information Processing Systems (NeurIPS), 2023</li>
-</ul>   
+ <br> July 28: Super excited about our workshop at ICML'23 on <a href="https://sites.google.com/view/mfpl-icml-2023" LINK="red">'Learning with Preferences'</a>.
+    
+ <br> July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a>
+</li>
   
   
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
-<h2 style="color:SteelBlue;" vspace="0px;">Conference Reviewing:</h2>
-  
-<ul style="margin:1;padding:1">
-  <li>International Conference on Machine Learning (ICML), 2019-2023</li>
-  <li>International Conference on Learning Representations (ICLR), 2020-2023</li>
-  <li>Neural Information Processing Systems (NeurIPS), 2020-2022</li>
-  <li>International Conference on Artificial Intelligence and Statistics (AISTATS), 2019, 2023</li>
-  <li>Conference on Learning Theory (COLT), 2020-2022</li>
-  <li>Algorithmic Learning Theory (ALT), 2021 </li>
-  <li>Association for the Advancement of Artificial Intelligence (AAAI), 2020-2022</li>
-  <li>International Joint Conference on Artificial Intelligence (IJCAI), 2020-2021</li>
-  <li>ACM India Joint International Conference on Data Science & Management of Data (CODS-COMAD), 2018-2019</li>
 </ul>   
  
   
