@@ -57,7 +57,9 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
-  <!--
+
+<!-- COMMENT STARTS
+
   <hr style="color:black;"> 
  <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
@@ -91,12 +93,17 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p> 
- [Nadav Merlis]()-->
-  
+ [Nadav Merlis]()
+  COMMENT ENDS -->
+ 
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
-  <li>  <b> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</b> <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank"> Federated Online and Bandit Convex Optimization</a> <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br> Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nathan Srebro
+  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li> 
+  
+  <li>  <a href="https://proceedings.mlr.press/v206/kleine-buening23a.html" target="_blank"> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</a> <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                                            
                                               
@@ -115,10 +122,6 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
   <li>  <a href="http://proceedings.mlr.press/v139/saha21b.html" target="_blank">Dueling Convex Optimization</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
   <br>  In International Conference on Machine Learning, ICML 2021</li>
-  
-  <li>  <a href="http://proceedings.mlr.press/v139/saha21a.html" target="_blank">Adversarial Dueling Bandits</a> <a href="https://arxiv.org/abs/2010.14563" target="_blank"> [Arxiv Version]</a>
- <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
-  <br>  In International Conference on Machine Learning, ICML 2021</li>
     
   <li> <a href="http://proceedings.mlr.press/v139/saha21c.html" target="_blank">Optimal Regret Algorithm for Pseudo-1d Bandit Convex Optimization</a> <a href="https://arxiv.org/abs/2102.07387" target="_blank"> [Arxiv Version]</a>
   <br> Aadirupa Saha, Nagarajan Natarajan, Praneeth Netrapalli, Prateek Jain
@@ -127,11 +130,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
   <li>  <a href="https://proceedings.mlr.press/v119/saha20b.html" target="_blank" LINK="red">From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model</a> <a href="https://arxiv.org/abs/1903.00558" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In International Conference on Machine Learning, ICML 2020</li>
-    
-  <li>  <a href="https://proceedings.mlr.press/v108/aadirupa-saha20a.html" target="_blank">Best-item Learning in Random Utility Models with Subset Choices</a> <a href="https://arxiv.org/abs/2002.07994" target="_blank"> [Arxiv Version]</a>
-  <br> Aadirupa Saha, Aditya Gopalan
-  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2020</li>
-    
+        
   <li>  <a href="http://papers.nips.cc/paper/8384-combinatorial-bandits-with-relative-feedback" target="_blank">Combinatorial Bandits with Relative Feedback</a><a href="https://arxiv.org/abs/1903.00543" target="_blank"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Neural Information Processing Systems, NeurIPS 2019</li>
@@ -140,7 +139,8 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
- 
+
+
 <hr style="color:black;"> 
  
 </body>
