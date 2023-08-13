@@ -72,9 +72,10 @@ a:active {
 <li> Book: <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Prediction Learning & Games</a> (by Nicolo Cesa-Bianchi and Gabor Lugosi)</li>  
 <li> Video lectures on Online Learning and Bandits (Simons Institute): 
   (1). <a href="https://www.youtube.com/watch?v=jDCIrDJ4MPQ&list=RDCMUCW1C2xOfXsIzPgjXyuhkw9g&start_radio=1&rv=jDCIrDJ4MPQ&t=32" LINK="red">Part-I</a> (by Wouter Koolen), 
-  (2). <a href="https://www.youtube.com/watch?v=_A2XJuRXPHo" LINK="red">Part-II</a> (Alan Malek).
+  (2). <a href="https://www.youtube.com/watch?v=_A2XJuRXPHo" LINK="red">Part-II</a> (Alan Malek),
+  (3). <a href="https://www.youtube.com/watch?v=C26gciixFHk" LINK="red">Online Learning</a> (Nicolo Cesa-Bianchi).
 </li>  
-</ul>  https://www.youtube.com/watch?v=jDCIrDJ4MPQ&list=RDCMUCW1C2xOfXsIzPgjXyuhkw9g&start_radio=1&rv=jDCIrDJ4MPQ&t=32
+</ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Bandits and Reinforcement Learning</h2>
 
@@ -99,7 +100,7 @@ a:active {
 <li> Notes on Convex Optimization: <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red">Convex Optimization: Algorithms and Complexity</a> (by Sebastin Bubeck). Also a blog <a href="https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/" LINK="red">I'm a Bandit</a></li>
 <li> Notes on Online Optimization: <a href="https://sites.google.com/view/intro-oco/" LINK="red">Introduction to
 Online Convex Optimization</a> (by Elad Hazan).</li>  
-<li>Video lectures: <a href="https://www.youtube.com/watch?v=6WeyTUnbwQQ" LINK="red">Part-I</a>, <a href="https://www.youtube.com/watch?v=6ZNLGTfbo7g" LINK="red">Part-II</a> (by Ben Recht)</li>  
+<li>Video lectures: <a href="https://www.youtube.com/watch?v=6WeyTUnbwQQ" LINK="red">Part-I</a>, <a href="https://www.youtube.com/watch?v=6ZNLGTfbo7g" LINK="red">Part-II</a> (by Ben Recht), <a href="https://www.youtube.com/watch?v=WvxNGy-RLy4"red">Online Convex Optimization</a> (by Nicolo Cesa-Bianchi)</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
