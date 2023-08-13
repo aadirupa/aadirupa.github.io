@@ -39,7 +39,7 @@ a:active {
   
 <body>
 
-<p>Hi! Thanks for visiting, I really appreciate your interest!</p> 
+<p>Hi! Thanks for visiting, really appreciate your interest!</p> 
 
 <p> First and foremost, I am my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>'s daughter, He is with me always.</p> 
   
