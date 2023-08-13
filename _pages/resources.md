@@ -60,8 +60,10 @@ a:active {
   <a href="https://proceedings.mlr.press/v206/saha23a/saha23a.pdf" LINK="red">(8). RL with Dueling Feedback</a>.</p>
 </li>  
 <li> Excellent Survey: <a href="https://arxiv.org/abs/1807.11398" LINK="red">Preference-based Online Learning with Dueling Bandits</a></li>
-<li> Book: <a href="https://www.google.com/books/edition/Preference_Learning/nc3XcH9XSgYC?hl=en&gbpv=0" LINK="red">Preference Learning</a></li>
-<li> Video talk: <a href="https://www.youtube.com/watch?v=tW9OuZ_-tYs" LINK="red">Preference Learning</a> (by Eyke Hullermeier) </li>
+<li> Book: <a href="https://www.google.com/books/edition/Preference_Learning/nc3XcH9XSgYC?hl=en&gbpv=0" LINK="red">Preference Learning</a>(by Johannes Fürnkranz, Eyke Hüllermeier)</li>
+<li> Video talk: (1). <a href="https://www.youtube.com/watch?v=tW9OuZ_-tYs" LINK="red">Preference Learning</a> (by Eyke Hullermeier), 
+(2). <a href="Learning with Humans in the Loop" LINK="red">Learning with Humans in the Loop (with Preferences)</a> (by Thorsten Joachims).
+</li>
   
 </ul> 
   
