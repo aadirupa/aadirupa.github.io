@@ -49,7 +49,7 @@ a:active {
   There are a lot more available online to get you excited!
 </p></li>  
 <li> <p align="justify" vspace = "-0px" width="200px"> Some breakthrough results (non-inclusive):
-  <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>,
+  <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>
   <a href="https://proceedings.mlr.press/v32/zoghi14.html" LINK="red">(2). Dueling Bandits with simple UCB</a>,
   <a href="http://proceedings.mlr.press/v32/ailon14.pdf" LINK="red">(3). Reducing Dueling Bandits to Standard MAB</a>,
   <a href="https://arxiv.org/abs/2210.14322" LINK="red">(4). Dynamic Dueling</a>,
