@@ -88,7 +88,8 @@ a:active {
 <ul type="1">
 <li> Books: 
   (1). <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" LINK="red">Convex Optimization</a> (by Lieven Vandenberghe and Stephen P. Boyd),
-  (2). <a href="https://www.nowpublishers.com/article/Details/MAL-058" LINK="red">Non-convex Optimization for Machine Learning </a>(by Lieven Vandenberghe and Stephen P. Boyd).
+  (2). <a href="https://www.nowpublishers.com/article/Details/MAL-058" LINK="red">Non-convex Optimization for Machine Learning </a> (by Prateek Jain, Purushottam Kar),
+  (3). <a href="https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf" LINK="red">Numerical Optimization</a> (by Jorge Nocedal Stephen J. Wright). 
 </li>  
 <li> Notes on Convex Optimization: <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red"></a> (by Sebastin Bubeck). Also a blog <a href="https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/" LINK="red">I'm a Bandit</a></li>
 <li> Notes on Online Optimization: <a href="https://sites.google.com/view/intro-oco/" LINK="red">Introduction to
