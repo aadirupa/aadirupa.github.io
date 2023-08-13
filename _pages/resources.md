@@ -41,12 +41,12 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">Dueling Bandits (Learning from Preferences)</h2>
 
 <ul type="1">
-<li>Some exciting blogs: <a href="" LINK="red">
+<li>Some exciting blogs: 
   (1). <a href="https://openai.com/research/learning-from-human-preferences" LINK="red">Reward design problem in RL</a> (OpenAI),
   (2). <a href="https://bair.berkeley.edu/blog/2019/02/11/learning_preferences/" LINK="red">Stop your Robots from making a mess!</a> (BAIR),  
   (3). <a href="https://openai.com/research/learning-to-summarize-with-human-feedback" LINK="red">Learning to summarize with human preferences</a> (OpenAI),
   (4). <a href="https://openai.com/research/instruction-following" LINK="red">Aligning language models with preference feedback!</a> (OpenAI). 
-  There are a lot more to get you excited!
+  There are a lot more available online to get you excited!
 </li>  
 <li> <p align="justify" vspace = "-0px" width="200px"> Some breakthrough results (non-inclusive):
   <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>,
