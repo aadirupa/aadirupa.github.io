@@ -41,7 +41,7 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">Dueling Bandits (Learning with Preferences)</h2>
 
 <ul type="1">
-<li> Some breakthrough results (non-inclusive):
+<li> <p align="justify" vspace = "-0px" width="200px"> Some breakthrough results (non-inclusive):
   <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>,
   <a href="https://proceedings.mlr.press/v32/zoghi14.html" LINK="red">(2). Dueling Bandits with simple UCB</a>,
   <a href="http://proceedings.mlr.press/v32/ailon14.pdf" LINK="red">(3). Reducing Dueling Bandits to Standard MAB</a>,
@@ -50,7 +50,7 @@ a:active {
   <a href="https://proceedings.mlr.press/v162/saha22a.html" LINK="red">(6). Best of Both Dueling Bandits</a>,
   <a href="http://proceedings.mlr.press/v139/saha21b/saha21b.pdf" LINK="red">(7). Optimization with Dueling Bandits</a>,
   <a href="https://proceedings.mlr.press/v167/saha22a/saha22a.pdf" LINK="red">(8). Optimal Rates for Contextual Dueling Bandits</a>,
-  <a href="https://proceedings.mlr.press/v206/saha23a/saha23a.pdf" LINK="red">(8). RL with Dueling Feedback</a>.
+  <a href="https://proceedings.mlr.press/v206/saha23a/saha23a.pdf" LINK="red">(8). RL with Dueling Feedback</a>.</p>
 </li>  
 <li> Excellent Survey: <a href="https://arxiv.org/abs/1807.11398" LINK="red">Preference-based Online Learning with Dueling Bandits</a></li>
 <li> Book: <a href="https://www.google.com/books/edition/Preference_Learning/nc3XcH9XSgYC?hl=en&gbpv=0" LINK="red">Preference Learning</a></li>
