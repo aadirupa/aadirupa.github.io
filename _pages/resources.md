@@ -36,11 +36,18 @@ a:active {
  
 <body>  
 
-<p style="text-align:center;"> ----- The page is under construction, please check again for updates. ----- </p> 
+<p style="text-align:center;"> ----- The page is under construction, please check again for updates. Suggestions are most welcome! ----- </p> 
 
-<h2 style="color:DarkBlue;" vspace="-2px;">Dueling Bandits (Learning with Preferences)</h2>
+<h2 style="color:DarkBlue;" vspace="-2px;">Dueling Bandits (Learning from Preferences)</h2>
 
 <ul type="1">
+<li>Some exciting blogs: <a href="" LINK="red">
+  (1). <a href="https://openai.com/research/learning-from-human-preferences" LINK="red">Reward design problem in RL</a> (OpenAI),
+  (2). <a href="https://bair.berkeley.edu/blog/2019/02/11/learning_preferences/" LINK="red">Stop your Robots from making a mess!</a> (BAIR),  
+  (3). <a href="https://openai.com/research/learning-to-summarize-with-human-feedback" LINK="red">Learning to summarize with human preferences</a> (OpenAI),
+  (4). <a href="https://openai.com/research/instruction-following" LINK="red">Aligning language models with preference feedback!</a> (OpenAI). 
+  There are a lot more to get you excited!
+</li>  
 <li> <p align="justify" vspace = "-0px" width="200px"> Some breakthrough results (non-inclusive):
   <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>,
   <a href="https://proceedings.mlr.press/v32/zoghi14.html" LINK="red">(2). Dueling Bandits with simple UCB</a>,
@@ -61,21 +68,27 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">Online Learning</h2>
 
 <ul type="1">
-<li> --- </li>
+<li> A great course (with many references and lecture notes): <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Online Prediction & Learning</a> (by Aditya Gopalan) </li>
+<li> Book: <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Prediction Learning & Games</a> (Nicolo Cesa-Bianchi and Gabor Lugosi)</li>  
 </ul>  
 
-<h2 style="color:DarkBlue;" vspace="-2px;">Bandits</h2>
+<h2 style="color:DarkBlue;" vspace="-2px;">Bandits and Reinforcement Learning</h2>
 
 <ul type="1">
-<li> --- </li>
+<li> Few amazing books:  
+(1) <a href="https://banditalgs.com/" LINK="red">Bandit Algorithms</a> (by Tor Lattimore, Csaba Szepesvari),
+(2) <a href="" LINK="red">Reinforcement Learning</a> (by Richard Sutton & Andrew Barto) 
+</li>
+<li> Course with comprehensive notes: <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" LINK="red">Bandits and Reinforcement Learning</a> (by Akshay Krishnamurthy)</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Optimization</h2>
 
 <ul type="1">
-<li> --- </li>
+<li> Classical books: </li>  
+<li> Notes on Convex Optimization: . Also a blog </li>
+<li> Notes on Online Optimization: </li>  
 </ul>  
-
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
 
@@ -83,7 +96,7 @@ a:active {
 <li> --- </li>
 </ul>
 
-<h2 style="color:DarkBlue;" vspace="-2px;">Privacy</h2>
+<h2 style="color:DarkBlue;" vspace="-2px;">Differential Privacy</h2>
 
 <ul type="1">
 <li> --- </li>
