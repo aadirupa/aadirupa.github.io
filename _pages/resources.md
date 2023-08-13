@@ -69,25 +69,29 @@ a:active {
 
 <ul type="1">
 <li> A great course (with many references and lecture notes): <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Online Prediction & Learning</a> (by Aditya Gopalan) </li>
-<li> Book: <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Prediction Learning & Games</a> (Nicolo Cesa-Bianchi and Gabor Lugosi)</li>  
+<li> Book: <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Prediction Learning & Games</a> (by Nicolo Cesa-Bianchi and Gabor Lugosi)</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Bandits and Reinforcement Learning</h2>
 
 <ul type="1">
 <li> Few amazing books:  
-(1) <a href="https://banditalgs.com/" LINK="red">Bandit Algorithms</a> (by Tor Lattimore, Csaba Szepesvari),
-(2) <a href="" LINK="red">Reinforcement Learning</a> (by Richard Sutton & Andrew Barto) 
-</li>
-<li> Course with comprehensive notes: <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" LINK="red">Bandits and Reinforcement Learning</a> (by Akshay Krishnamurthy)</li>  
+(1) <a href="https://banditalgs.com/" LINK="red">Bandit Algorithms</a> (by Tor Lattimore, Csaba Szepesvari), 
+(2) <a href="https://arxiv.org/abs/1904.07272" LINK="red">Introduction to Multiarmed Bandits</a>,   
+(3) <a href="http://incompleteideas.net/book/the-book-2nd.html" LINK="red">Reinforcement Learning: An Introduction</a> (by Richard Sutton & Andrew Barto),
+(4) <a href="https://academic.oup.com/book/26549" LINK="red">Concentration Inequalities</a> (by Stephane Boucheron, Gabor Lugosi, Pascal Massart)</li>
+<li> Course with comprehensive notes: <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" LINK="red">Bandits and Reinforcement Learning</a> (by Akshay Krishnamurthy), <a href="https://www.cs.umd.edu/~slivkins/CMSC858G-fall16/" LINK="red">Bandits, Experts, and Games</a> (by Alex Slivkins)</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Optimization</h2>
 
 <ul type="1">
-<li> Classical books: </li>  
-<li> Notes on Convex Optimization: . Also a blog </li>
-<li> Notes on Online Optimization: </li>  
+<li> Books: 
+  (1). <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" LINK="red">Convex Optimization</a> (by Lieven Vandenberghe and Stephen P. Boyd),
+  (2). <a href="https://www.nowpublishers.com/article/Details/MAL-058" LINK="red">Non-convex Optimization for Machine Learning </a>(by Lieven Vandenberghe and Stephen P. Boyd).
+</li>  
+<li> Notes on Convex Optimization: <a href="" LINK="red"></a> (by Sebastin Bubeck). Also a blog <a href="" LINK="red"> </a></li>
+<li> Notes on Online Optimization: <a href="" LINK="red"> </a> (by Elad Hazan).</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
