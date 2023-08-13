@@ -36,18 +36,18 @@ a:active {
  
 <body>  
 
-<p style="text-align:center;"> ----- The page is under construction, please check again for updates. Suggestions are most welcome! ----- </p> 
+<p style="text-align:center;"> <font color="#1E90FF">----- The page is under construction, please check again for updates. Suggestions are most welcome! ----- </font></p> 
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Battle of Bandits (Learning from Preferences)</h2>
 
 <ul type="1">
-<li>Some exciting blogs: 
+<li><p align="justify" vspace = "-0px" width="200px">Some exciting blogs: 
   (1). <a href="https://openai.com/research/learning-from-human-preferences" LINK="red">Reward design problem in RL</a> (OpenAI),
   (2). <a href="https://bair.berkeley.edu/blog/2019/02/11/learning_preferences/" LINK="red">Stop your Robots from making a mess!</a> (BAIR),  
   (3). <a href="https://openai.com/research/learning-to-summarize-with-human-feedback" LINK="red">Learning to summarize with human preferences</a> (OpenAI),
   (4). <a href="https://openai.com/research/instruction-following" LINK="red">Aligning language models with preference feedback!</a> (OpenAI). 
   There are a lot more available online to get you excited!
-</li>  
+</p></li>  
 <li> <p align="justify" vspace = "-0px" width="200px"> Some breakthrough results (non-inclusive):
   <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>,
   <a href="https://proceedings.mlr.press/v32/zoghi14.html" LINK="red">(2). Dueling Bandits with simple UCB</a>,
