@@ -119,7 +119,7 @@ Online Convex Optimization</a> (by Elad Hazan)</li>
 <ul type="1">
 <li> Books: (1). <a href="https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf" LINK="red">The Algorithmic Foundations of Differential Privacy</a> (by Cynthia Dwork & Aaron Roth), (2). <a href="https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf" LINK="red">The Complexity of Differential Privacy</a> (by Salil Vadhan), (3). <a href="https://arxiv.org/pdf/2210.00597.pdf" LINK="red">Composition of Differential Privacy & Privacy Amplification by Subsampling</a> (by Thomas Steinke)</li>  
 <li> One-stop blog! <a href="https://differentialprivacy.org/resources/" LINK="red">DifferentialPrivacy.org</a>. Another nice blog: <a href="https://blog.openmined.org/tag/differential-privacy/" LINK="red">Differential Privacy</a> (by OpenMinded)</li>  
-<li> Courses: (1). <a href="http://www.gautamkamath.com/CS860-fa2020.html" LINK="red">Algorithms for Private Data Analysis</a> (by Gautam Kamath), (2). <a href="https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html" LINK="red">The Algorithmic Foundations of Data Privacy
+<li> Courses (with video lectures): (1). <a href="http://www.gautamkamath.com/CS860-fa2020.html" LINK="red">Algorithms for Private Data Analysis</a> (by Gautam Kamath), (2). <a href="https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html" LINK="red">The Algorithmic Foundations of Data Privacy
 </a> (by Aaron Roth)</li>  
 </ul>
 
