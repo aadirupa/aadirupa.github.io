@@ -70,7 +70,11 @@ a:active {
 <ul type="1">
 <li> A great course (with many references and lecture notes): <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Online Prediction & Learning</a> (by Aditya Gopalan) </li>
 <li> Book: <a href="https://ece.iisc.ac.in/~aditya/E1245_F15.html" LINK="red">Prediction Learning & Games</a> (by Nicolo Cesa-Bianchi and Gabor Lugosi)</li>  
-</ul>  
+<li> Video lectures on Online Learning and Bandits (Simons Institute): 
+  (1). <a href="https://www.youtube.com/watch?v=jDCIrDJ4MPQ&list=RDCMUCW1C2xOfXsIzPgjXyuhkw9g&start_radio=1&rv=jDCIrDJ4MPQ&t=32" LINK="red">Part-I</a> (by Wouter Koolen), 
+  (2). <a href="https://www.youtube.com/watch?v=_A2XJuRXPHo" LINK="red">Part-II</a> (Alan Malek).
+</li>  
+</ul>  https://www.youtube.com/watch?v=jDCIrDJ4MPQ&list=RDCMUCW1C2xOfXsIzPgjXyuhkw9g&start_radio=1&rv=jDCIrDJ4MPQ&t=32
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Bandits and Reinforcement Learning</h2>
 
@@ -81,6 +85,7 @@ a:active {
 (3) <a href="http://incompleteideas.net/book/the-book-2nd.html" LINK="red">Reinforcement Learning: An Introduction</a> (by Richard Sutton & Andrew Barto),
 (4) <a href="https://academic.oup.com/book/26549" LINK="red">Concentration Inequalities</a> (by Stephane Boucheron, Gabor Lugosi, Pascal Massart).</li>
 <li> Course with comprehensive notes: <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" LINK="red">Bandits and Reinforcement Learning</a> (by Akshay Krishnamurthy), <a href="https://www.cs.umd.edu/~slivkins/CMSC858G-fall16/" LINK="red">Bandits, Experts, and Games</a> (by Alex Slivkins)</li>  
+<li>Video lectures: <a href="https://www.youtube.com/playlist?list=PLgKuh-lKre11De4uxkLE8a88n0InyJxa-" LINK="red">Theory of Reinforcement Learning Boot Camp</a> (hosted by Simons Institute)</li>   
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Optimization</h2>
