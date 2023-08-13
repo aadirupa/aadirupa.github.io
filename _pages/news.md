@@ -52,7 +52,7 @@ a:active {
 <li> - July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a></li>
 </ol>  
 
-<p style="text-align:right;">... stay tuned!</p> 
+<p style="text-align:right;">... <em>stay tuned!</em></p> 
   
 </body>
 </html>
