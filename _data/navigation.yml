@@ -9,6 +9,9 @@ main:
   - title: "Services"
     url: /services/  
 
+  - title: "Resources"
+    url: /resources/      
+
   - title: "News!"
     url: /news/      
 
