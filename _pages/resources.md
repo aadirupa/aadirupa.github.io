@@ -79,7 +79,7 @@ a:active {
 (1) <a href="https://banditalgs.com/" LINK="red">Bandit Algorithms</a> (by Tor Lattimore, Csaba Szepesvari), 
 (2) <a href="https://arxiv.org/abs/1904.07272" LINK="red">Introduction to Multiarmed Bandits</a>,   
 (3) <a href="http://incompleteideas.net/book/the-book-2nd.html" LINK="red">Reinforcement Learning: An Introduction</a> (by Richard Sutton & Andrew Barto),
-(4) <a href="https://academic.oup.com/book/26549" LINK="red">Concentration Inequalities</a> (by Stephane Boucheron, Gabor Lugosi, Pascal Massart)</li>
+(4) <a href="https://academic.oup.com/book/26549" LINK="red">Concentration Inequalities</a> (by Stephane Boucheron, Gabor Lugosi, Pascal Massart).</li>
 <li> Course with comprehensive notes: <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" LINK="red">Bandits and Reinforcement Learning</a> (by Akshay Krishnamurthy), <a href="https://www.cs.umd.edu/~slivkins/CMSC858G-fall16/" LINK="red">Bandits, Experts, and Games</a> (by Alex Slivkins)</li>  
 </ul>  
 
@@ -90,8 +90,9 @@ a:active {
   (1). <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" LINK="red">Convex Optimization</a> (by Lieven Vandenberghe and Stephen P. Boyd),
   (2). <a href="https://www.nowpublishers.com/article/Details/MAL-058" LINK="red">Non-convex Optimization for Machine Learning </a>(by Lieven Vandenberghe and Stephen P. Boyd).
 </li>  
-<li> Notes on Convex Optimization: <a href="" LINK="red"></a> (by Sebastin Bubeck). Also a blog <a href="" LINK="red"> </a></li>
-<li> Notes on Online Optimization: <a href="" LINK="red"> </a> (by Elad Hazan).</li>  
+<li> Notes on Convex Optimization: <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red"></a> (by Sebastin Bubeck). Also a blog <a href="https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/" LINK="red">I'm a Bandit</a></li>
+<li> Notes on Online Optimization: <a href="https://sites.google.com/view/intro-oco/" LINK="red">Introduction to
+Online Convex Optimization</a> (by Elad Hazan).</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
