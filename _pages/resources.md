@@ -38,7 +38,7 @@ a:active {
 
 <p style="text-align:center;"> <font color="#1E90FF">----- The page is under construction, please check again for updates. Suggestions are most welcome! ----- </font></p> 
 
-<h2 style="color:DarkBlue;" vspace="-2px;">Battle of Bandits (Learning from Preferences)</h2>
+<h2 style="color:DarkBlue;" vspace="-2px;">Battle of Bandits (Active Learning from Preferences)</h2>
 
 <ul type="1">
 <li><p align="justify" vspace = "-0px" width="200px">Some exciting blogs: 
