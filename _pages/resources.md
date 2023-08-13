@@ -73,7 +73,7 @@ a:active {
 <li> Video lectures on Online Learning and Bandits (Simons Institute): 
   (1). <a href="https://www.youtube.com/watch?v=jDCIrDJ4MPQ&list=RDCMUCW1C2xOfXsIzPgjXyuhkw9g&start_radio=1&rv=jDCIrDJ4MPQ&t=32" LINK="red">Part-I</a> (by Wouter Koolen), 
   (2). <a href="https://www.youtube.com/watch?v=_A2XJuRXPHo" LINK="red">Part-II</a> (Alan Malek),
-  (3). <a href="https://www.youtube.com/watch?v=C26gciixFHk" LINK="red">Online Learning</a> (Nicolo Cesa-Bianchi).
+  (3). <a href="https://www.youtube.com/watch?v=C26gciixFHk" LINK="red">Online Learning</a> (Nicolo Cesa-Bianchi)
 </li>  
 </ul>  
 
@@ -95,11 +95,11 @@ a:active {
 <li> Books: 
   (1). <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" LINK="red">Convex Optimization</a> (by Lieven Vandenberghe and Stephen P. Boyd),
   (2). <a href="https://www.nowpublishers.com/article/Details/MAL-058" LINK="red">Non-convex Optimization for Machine Learning </a> (by Prateek Jain, Purushottam Kar),
-  (3). <a href="https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf" LINK="red">Numerical Optimization</a> (by Jorge Nocedal Stephen J. Wright). 
+  (3). <a href="https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf" LINK="red">Numerical Optimization</a> (by Jorge Nocedal Stephen J. Wright)
 </li>  
 <li> Notes on Convex Optimization: <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red">Convex Optimization: Algorithms and Complexity</a> (by Sebastin Bubeck). Also a blog <a href="https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/" LINK="red">I'm a Bandit</a></li>
 <li> Notes on Online Optimization: <a href="https://sites.google.com/view/intro-oco/" LINK="red">Introduction to
-Online Convex Optimization</a> (by Elad Hazan).</li>  
+Online Convex Optimization</a> (by Elad Hazan)</li>  
 <li>Video lectures: <a href="https://www.youtube.com/watch?v=6WeyTUnbwQQ" LINK="red">Part-I</a>, <a href="https://www.youtube.com/watch?v=6ZNLGTfbo7g" LINK="red">Part-II</a> (by Ben Recht), <a href="https://www.youtube.com/watch?v=WvxNGy-RLy4"red">Online Convex Optimization</a> (by Nicolo Cesa-Bianchi)</li>  
 </ul>  
 
@@ -117,7 +117,10 @@ Online Convex Optimization</a> (by Elad Hazan).</li>
 <h2 style="color:DarkBlue;" vspace="-2px;">Differential Privacy</h2>
 
 <ul type="1">
-<li> --- </li>
+<li> Books: (1). <a href="https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf" LINK="red">The Algorithmic Foundations of Differential Privacy</a> (by Cynthia Dwork & Aaron Roth), (2). <a href="https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf" LINK="red">The Complexity of Differential Privacy</a> (by Salil Vadhan), (3). <a href="https://arxiv.org/pdf/2210.00597.pdf" LINK="red">Composition of Differential Privacy & Privacy Amplification by Subsampling</a> (by Thomas Steinke)</li>  
+<li> One-stop blog! <a href="https://differentialprivacy.org/resources/" LINK="red">DifferentialPrivacy.org</a>. More blogs: <a href="" LINK="red"></a>, <a href="https://blog.openmined.org/tag/differential-privacy/" LINK="red">Differential Privacy</a> (by OpenMinded)</li>  
+<li> Courses: (1). <a href="http://www.gautamkamath.com/CS860-fa2020.html" LINK="red">Algorithms for Private Data Analysis</a> (by Gautam Kamath), (2). <a href="https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html" LINK="red">The Algorithmic Foundations of Data Privacy
+</a> (by Aaron Roth)</li>  
 </ul>
 
 </body>
