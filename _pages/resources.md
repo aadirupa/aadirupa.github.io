@@ -99,7 +99,7 @@ Online Convex Optimization</a> (by Elad Hazan).</li>
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
 
-<ul type="1"> Google Workshop on Federated Learning and Analytics
+<ul type="1"> 
 <li> An awesome blog (with many references): <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red">Convex Optimization: Algorithms and Complexity</a>(from CMU, ML)</li>
 <li> Recent Surveys: 
   (1). <a href="https://arxiv.org/pdf/1912.04977.pdf" LINK="red">Advances and Open Problems in Federated Learning</a>, 
