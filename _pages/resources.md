@@ -91,15 +91,21 @@ a:active {
   (2). <a href="https://www.nowpublishers.com/article/Details/MAL-058" LINK="red">Non-convex Optimization for Machine Learning </a> (by Prateek Jain, Purushottam Kar),
   (3). <a href="https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf" LINK="red">Numerical Optimization</a> (by Jorge Nocedal Stephen J. Wright). 
 </li>  
-<li> Notes on Convex Optimization: <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red"></a> (by Sebastin Bubeck). Also a blog <a href="https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/" LINK="red">I'm a Bandit</a></li>
+<li> Notes on Convex Optimization: <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red">Convex Optimization: Algorithms and Complexity</a> (by Sebastin Bubeck). Also a blog <a href="https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/" LINK="red">I'm a Bandit</a></li>
 <li> Notes on Online Optimization: <a href="https://sites.google.com/view/intro-oco/" LINK="red">Introduction to
 Online Convex Optimization</a> (by Elad Hazan).</li>  
+<li>Video lectures: <a href="https://www.youtube.com/watch?v=6WeyTUnbwQQ" LINK="red">Part-I</a>, <a href="https://www.youtube.com/watch?v=6ZNLGTfbo7g" LINK="red">Part-II</a> (by Ben Recht)</li>  
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
 
-<ul type="1">
-<li> --- </li>
+<ul type="1"> Google Workshop on Federated Learning and Analytics
+<li> An awesome blog (with many references): <a href="http://sbubeck.com/Bubeck15.pdf" LINK="red">Convex Optimization: Algorithms and Complexity</a>(from CMU, ML)</li>
+<li> Recent Surveys: 
+  (1). <a href="https://arxiv.org/pdf/1912.04977.pdf" LINK="red">Advances and Open Problems in Federated Learning</a>, 
+  (2). <a href="https://arxiv.org/pdf/2107.06917.pdf" LINK="red">A Field Guide to Federated Optimization</a> </li>
+<li> Video lectures: <a href="https://www.youtube.com/playlist?list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu" LINK="red">Federated Learning and Analytics</a> (workshop by Google)</li>  
+<li> Distributed Optimization: (1). <a href="https://www.youtube.com/@federatedlearningoneworlds6443/featured" LINK="red">Federated Learning One World (FLOW) Seminar</a> (2). <a href="https://bbullins.github.io/CS_59200_DOM_syllabus.pdf" LINK="red">A compilation of theoretical developments</a> (by Brian Bullins)</li>  
 </ul>
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Differential Privacy</h2>
