@@ -36,42 +36,57 @@ a:active {
  
 <body>  
 
-<p style="text-align:center;"> -------------------- The page is under construction -------------------- </p> 
+<p style="text-align:center;"> ----- The page is under construction, please check again for updates. ----- </p> 
+
+<h2 style="color:DarkBlue;" vspace="-2px;">Dueling Bandits (Learning with Preferences)</h2>
+
+<ul type="1">
+<li> Some breakthrough results (non-inclusive):
+  <a href="https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf" LINK="red">(1). First Work!</a>,
+  <a href="https://proceedings.mlr.press/v32/zoghi14.html" LINK="red">(2). Dueling Bandits with simple UCB</a>,
+  <a href="http://proceedings.mlr.press/v32/ailon14.pdf" LINK="red">(3). Reducing Dueling Bandits to Standard MAB</a>,
+  <a href="https://arxiv.org/abs/2210.14322" LINK="red">(4). Dynamic Dueling</a>,
+  <a href="https://arxiv.org/abs/2010.14563" LINK="red">(5). Adversarial Dueling Bandits</a>,
+  <a href="https://proceedings.mlr.press/v162/saha22a.html" LINK="red">(6). Best of Both Dueling Bandits</a>,
+  <a href="http://proceedings.mlr.press/v139/saha21b/saha21b.pdf" LINK="red">(7). Optimization with Dueling Bandits</a>,
+  <a href="https://proceedings.mlr.press/v167/saha22a/saha22a.pdf" LINK="red">(8). Optimal Rates for Contextual Dueling Bandits</a>,
+  <a href="https://proceedings.mlr.press/v206/saha23a/saha23a.pdf" LINK="red">(8). RL with Dueling Feedback</a>.
+</li>  
+<li> Excellent Survey: <a href="https://arxiv.org/abs/1807.11398" LINK="red">Preference-based Online Learning with Dueling Bandits</a></li>
+<li> Book: <a href="https://www.google.com/books/edition/Preference_Learning/nc3XcH9XSgYC?hl=en&gbpv=0" LINK="red">Preference Learning</a></li>
+<li> Video talk (Eyke Hullermeier) <a href="https://www.youtube.com/watch?v=tW9OuZ_-tYs" LINK="red">Preference Learning</a> </li>
+  
+</ul> 
   
 <h2 style="color:DarkBlue;" vspace="-2px;">Online Learning</h2>
 
 <ul type="1">
-<li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font>
-</li>
+<li> --- </li>
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Bandits</h2>
 
 <ul type="1">
-<li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font>
-</li>
+<li> --- </li>
 </ul>  
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Optimization</h2>
 
 <ul type="1">
-<li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font>
-</li>
+<li> --- </li>
 </ul>  
 
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Federated Learning</h2>
 
 <ul type="1">
-<li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font>
-</li>
+<li> --- </li>
 </ul>
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Privacy</h2>
 
 <ul type="1">
-<li> <font color="#1E90FF">- Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor(!) </a> on 'Battling Bandits' (Learning with Preferences) at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</font>
-</li>
+<li> --- </li>
 </ul>
 
 </body>
