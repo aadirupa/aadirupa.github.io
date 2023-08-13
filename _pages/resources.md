@@ -54,7 +54,7 @@ a:active {
 </li>  
 <li> Excellent Survey: <a href="https://arxiv.org/abs/1807.11398" LINK="red">Preference-based Online Learning with Dueling Bandits</a></li>
 <li> Book: <a href="https://www.google.com/books/edition/Preference_Learning/nc3XcH9XSgYC?hl=en&gbpv=0" LINK="red">Preference Learning</a></li>
-<li> Video talk (Eyke Hullermeier) <a href="https://www.youtube.com/watch?v=tW9OuZ_-tYs" LINK="red">Preference Learning</a> </li>
+<li> Video talk: <a href="https://www.youtube.com/watch?v=tW9OuZ_-tYs" LINK="red">Preference Learning</a> (by Eyke Hullermeier) </li>
   
 </ul> 
   
