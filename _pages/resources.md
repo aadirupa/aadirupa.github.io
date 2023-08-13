@@ -38,7 +38,7 @@ a:active {
 
 <p style="text-align:center;"> ----- The page is under construction, please check again for updates. Suggestions are most welcome! ----- </p> 
 
-<h2 style="color:DarkBlue;" vspace="-2px;">Dueling Bandits (Learning from Preferences)</h2>
+<h2 style="color:DarkBlue;" vspace="-2px;">Battle of Bandits (Learning from Preferences)</h2>
 
 <ul type="1">
 <li>Some exciting blogs: 
