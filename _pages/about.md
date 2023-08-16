@@ -42,7 +42,7 @@ a:active {
 <!--<p>..</p> -->
 Hi! Thanks for visiting, I appreciate your interest!
 
-<p> First and foremost, I am my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>'s daughter, He is with me always.</p> 
+<!--<p> First and foremost, I am my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>'s daughter, He is with me always.</p> --> 
   
 <p align="justify" vspace = "-0px" width="200px">I am currently a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory. I just finished a short-term research visit at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>, and completed my postdoc stinct at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a> before that. I obtained my P.h.D from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a>. I was fortunate to intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>; <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>; and <a href="https://ai.google/">Google AI, Mountain View</a>.</p>  
  
@@ -57,7 +57,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
   <br><br>
 <p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback. For example, say preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently I also got interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, differential privacy and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming the gap between the theory and practical aspects of any of these related directions!</p>
 
-<p align="justify">... and I love my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>, He is with me always.
+<p align="justify">... and I love my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>, He is with me always.</p>
   
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
