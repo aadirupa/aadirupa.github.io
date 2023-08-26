@@ -99,6 +99,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
+  <li>Artificial Intelligence and Statistics (AIStats), 2024</li> 
   <li>Neural Information Processing Systems (NeurIPS), 2023</li>
 </ul>   
   
@@ -107,6 +108,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
+  <li>Symposium on Discrete Algorithms (SODA), 2024</li>
   <li>International Conference on Machine Learning (ICML), 2019-2023</li>
   <li>International Conference on Learning Representations (ICLR), 2020-2023</li>
   <li>Neural Information Processing Systems (NeurIPS), 2020-2022</li>
