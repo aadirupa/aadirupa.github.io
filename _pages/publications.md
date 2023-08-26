@@ -110,11 +110,15 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
+
+<li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
+  <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
+</li>
   
   <li>  <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
   <br>  Aadirupa Saha, Branislav Kveton
   <details>
-  <summary><span style="color:Maroon;"> Elevator pitch!</span></summary>
+  <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances with Thompson sampling. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident - Only Pay for What Is Uncertain!</span>
   </details>
   </li>
