@@ -47,7 +47,7 @@ a:active {
   
 <li> - Aug 17-18: Attending <a href="https://sites.google.com/view/davidfestyishayfest" LINK="red">David & Yishay Fest</a>. Please reach out if you are around Chicago!</li>
 
-<li> Serving as an AC for <a href="https://neurips.cc/Conferences/2023" LINK="red">NeurIPS'23</a> and <a href="https://virtual.aistats.org/Conferences/2024/Dates" LINK="red">AIStats'24</a>.</li>
+<li> - Serving as an AC for <a href="https://neurips.cc/Conferences/2023" LINK="red">NeurIPS'23</a> and <a href="https://virtual.aistats.org/Conferences/2024/Dates" LINK="red">AIStats'24</a>.</li>
 
 <li> - July 31: Giving a tutorial at UAI'23 on 'Federated Learning'. <a href="https://www.auai.org/uai2023/tutorials" LINK="red">[UAI'23 tutorials]</a></li>
 
