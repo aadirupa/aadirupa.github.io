@@ -149,6 +149,11 @@ a:active {
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
   <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
 
+  <li>  <a href="https://openreview.net/pdf?id=iIhXNqNh1c" target="_blank" LINK="red">Bandits Meet Mechanism Design
+to Combat Clickbait in Online Recommendation</a>
+  <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
+  <br>  Interactive Learning with Implicit Human Feedback Workshop, ICML 2023</li>
+
   <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
   <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
   <br>  In International Conference on Machine Learning, ICML 2023</li>   
