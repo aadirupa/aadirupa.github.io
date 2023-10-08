@@ -54,7 +54,7 @@ Hi, thanks for your interest!
 Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/). 
 -->
 
-<font color="SteelBlue">Research Interests:</font> Machine Learning Theory (esp. OL, Bandits, RL), Optimization, Federated Learning, Differential Privacy, Mechanism Design. You can find my resume [here].
+<font color="SteelBlue">Research Interests:</font> Machine Learning Theory (esp. OL, Bandits, RL), Optimization, Federated Learning, Differential Privacy, Mechanism Design. <a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/aadirupa-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0">[Short Bio]</a>
   <br><br>
 <p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my past ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently, I have also been interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, assortment optimization and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming any of these related directions!</p>
 
