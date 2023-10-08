@@ -66,7 +66,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
    Her research primarily focuses on designing Efficient Human Aligned Prediction Models: Few specific research areas include Online learning theory, Bandits & RL, Federated Optimization, and Differential Privacy. Of late, she has also been working on some problems at the intersection of Mechanism Design, Game Theory and Algorithmic Fairness.
   </span>
   </details>
-
+<br>
 <!--<p align="justify">... and I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a>, He is with me always.</p>-->
   
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
