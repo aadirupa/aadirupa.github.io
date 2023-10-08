@@ -59,7 +59,7 @@ permalink: /talks/list.md
      <dd> Samueli CS dept Seminar, UCLA. June, 2023</dd> 
      
   <dt><span style="color:DarkBlue">Personalized Prediction Models with Federated Human Preferences</span></dt>
-     <dd> TILOS Seminar, University of California, San Diego. November, 2023 </dd>
+     <dd> <a href="https://tilos.ai/">TILOS Seminar</a>, University of California, San Diego. November, 2023 </dd>
      <dd> CATS Seminar, University of Maryland. November, 2023 </dd>
      <dd> ML-Opt Seminar, University of Washington. October, 2023 </dd>
      
