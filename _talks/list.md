@@ -50,11 +50,6 @@ permalink: /talks/list.md
 <dl> 
   <dt><span style="color:DarkBlue">Online Federated Learning</span></dt>
      <dd><a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule">Federated and Collaborative Learning Workshop</a>, Simons Institute for the Theory of Computing. July 2023</dd>
-     
-  <dt><span style="color:DarkBlue">Battle for Better: When and How Can We Learn Faster with Subsetwise Preferences?</span></dt>
-     <dd>Spring Seminar, UT Austin. March 2023</dd>
-     <dd>ISyE Seminar, Goergia Tech. March 2023</dd>
-     <dd> The Institute for Data, Econometrics, Algorithms, and Learning (IDEAL) Talk Series. October, 2022</dd>
    
   <dt><span style="color:DarkBlue">Dueling-Opt: Convex Optimization with Relative Feedback</span></dt>
      <dd> IFDS Seminar, University of Wisconsin–Madison. October, 2022</dd>
@@ -62,8 +57,14 @@ permalink: /talks/list.md
      <dd> Research at TTIC Series. Toyota Technological Institute at Chicago (TTIC), October, 2022</dd> 
      <dd> Theory Seminar, CS, Purdue University. November, 2022</dd> 
      <dd> Samueli CS dept Seminar, UCLA. June, 2023</dd> 
+
+  <dt><span style="color:DarkBlue">Personalized Prediction Models with Federated Human Preferences</span></dt>
+     <dd> ML-Opt Seminar, University of Washington. October, 2023 </dd>
+     <dd> CATS Seminar, University of Maryland. October, 2023 </dd>
+     <dd> TILOS Seminar, University of California, San Diego. October, 2023 </dd>
      
   <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
+     <dd> <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/">UMich AI Symposium.</a></dd>
      <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022</dd>
      <dd> Talks at TTIC Series. Toyota Technological Institute at Chicago (TTIC), August, 2022</dd>
      <dd> CS Seminar, Northwestern University. October, 2022</dd>
@@ -79,6 +80,11 @@ permalink: /talks/list.md
   <dt><span style="color:DarkBlue">Information Aggregation from Unconventional Feedback</span></dt>
      <dd>Oracle Research, November, 2021.</dd>
      <dd>Chalmers University of Technology, November, 2021.</dd>
+
+  <dt><span style="color:DarkBlue">Battle for Better: When and How Can We Learn Faster with Subsetwise Preferences?</span></dt>
+     <dd>Spring Seminar, UT Austin. March 2023</dd>
+     <dd>ISyE Seminar, Goergia Tech. March 2023</dd>
+     <dd> The Institute for Data, Econometrics, Algorithms, and Learning (IDEAL) Talk Series. October, 2022</dd>   
      
   <dt><span style="color:DarkBlue">Preference based Reinforcement Learning (PbRL)</span></dt>
      <dd>Microsoft Research Tri-Lab Offsite. November, 2021</dd>
