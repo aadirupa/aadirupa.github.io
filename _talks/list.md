@@ -65,7 +65,7 @@ permalink: /talks/list.md
      
   <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
      <dd> <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/">UMich AI Symposium.</a> October, 2023</dd>
-     <dd> Theory-ML Seminar, CS dept, CMU. August, 2023</dd>
+     <dd> Theory-ML Seminar, CS dept, Carnegie Mellon University (CMU). August, 2023</dd>
      <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022 <a href="https://www.youtube.com/watch?v=Ec7EQnYYOe0">[Talk Recording]</a> </dd>
      <dd> Talks at TTIC Series. Toyota Technological Institute at Chicago (TTIC), August, 2022</dd>
      <dd> CS Seminar, Northwestern University. October, 2022</dd>
