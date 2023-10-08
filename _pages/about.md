@@ -56,9 +56,9 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 
 <font color="SteelBlue">Research Interests:</font> Machine Learning (esp. Bandits, OL, RL), Optimization, Federated Learning, Mechanism Design.
   <br><br>
-<p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback. For example, say preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently I also got interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, differential privacy and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming the gap between the theory and practical aspects of any of these related directions!</p>
+<p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my other recent ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently, I have also been interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, differential privacy and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming any of these related directions!</p>
 
-<!--<p align="justify">... and I love my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>, He is with me always.</p>-->
+<!--<p align="justify">... and I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a>, He is with me always.</p>-->
   
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
@@ -108,9 +108,13 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
+  <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
+  <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
+  
   <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank"> Federated Online and Bandit Convex Optimization</a> <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br> Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nathan Srebro
-  <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li> 
+  <br>  In International Conference on Machine Learning, ICML 2023</li> 
   
   <li>  <a href="https://proceedings.mlr.press/v206/kleine-buening23a.html" target="_blank"> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</a> <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha
