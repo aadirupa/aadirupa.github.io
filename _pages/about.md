@@ -59,7 +59,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 <p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my past ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently, I have also been interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, assortment optimization and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming any of these related directions!</p>
 
 <details>
-  <summary><span style="color:Black;" align="justify"> Short Bio (in third person)</span></summary>
+  <summary><span style="color:SteelBlue;" align="justify"> Short Bio (in third person)</span></summary>
   <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
     <br>
     Aadirupa is currently a research scientist at Apple ML research, broadly working in the area of Machine Learning theory. She did a short-term research visit at Toyota Technological Institute, Chicago (TTIC), after finishing her postdoc at Microsoft Research New York City. Aadirupa obtained her Ph.D. from IISc Bangalore with Aditya Gopalan and Chiranjib Bhattacharyya. 
