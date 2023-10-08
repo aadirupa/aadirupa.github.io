@@ -149,14 +149,14 @@ a:active {
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
   <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
 
+  <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
+  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
+  <br>  In International Conference on Machine Learning, ICML 2023</li>   
+
   <li>  <a href="https://openreview.net/pdf?id=iIhXNqNh1c" target="_blank" LINK="red">Bandits Meet Mechanism Design
 to Combat Clickbait in Online Recommendation</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
   <br>  Interactive Learning with Implicit Human Feedback Workshop, ICML 2023</li>
-
-  <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
-  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
-  <br>  In International Conference on Machine Learning, ICML 2023</li>   
   
   <li>  <a href="https://proceedings.mlr.press/v206/gaillard23a.html" target="_blank">One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</a>   <a href="https://arxiv.org/abs/2210.14998" target="_blank" LINK="red"> [Arxiv Version]</a><a href="https://www.youtube.com/watch?v=m1qQe3lGXWI" target="_blank" LINK="red"> [Talk]</a>
   <br>  Pierre Gaillard, Aadirupa Saha, Soham Dan
