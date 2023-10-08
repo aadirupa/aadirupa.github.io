@@ -59,12 +59,12 @@ permalink: /talks/list.md
      <dd> Samueli CS dept Seminar, UCLA. June, 2023</dd> 
 
   <dt><span style="color:DarkBlue">Personalized Prediction Models with Federated Human Preferences</span></dt>
+     <dd> TILOS Seminar, University of California, San Diego. November, 2023 </dd>
+     <dd> CATS Seminar, University of Maryland. November, 2023 </dd>
      <dd> ML-Opt Seminar, University of Washington. October, 2023 </dd>
-     <dd> CATS Seminar, University of Maryland. October, 2023 </dd>
-     <dd> TILOS Seminar, University of California, San Diego. October, 2023 </dd>
      
   <dt><span style="color:DarkBlue">Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</span></dt>
-     <dd> <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/">UMich AI Symposium.</a></dd>
+     <dd> <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/">UMich AI Symposium.</a>October, 2023</dd>
      <dd> <a href="https://sites.google.com/view/rltheoryseminars/home?authuser=0">RL Theory Seminar.</a> May, 2022</dd>
      <dd> Talks at TTIC Series. Toyota Technological Institute at Chicago (TTIC), August, 2022</dd>
      <dd> CS Seminar, Northwestern University. October, 2022</dd>
