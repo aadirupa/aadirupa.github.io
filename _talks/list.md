@@ -36,7 +36,7 @@ permalink: /talks/list.md
 <dl style="margin:0px;margin-bottom:0">
      <dt><span style="color:DarkBlue">Preference based Learning through a Critical Lens</span>
           <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> </dt> 
-     <dd>Do you Prefer Learning with Preferences?, December, 2023.</dd>
+     <dd>Do you Prefer Learning with Preferences? (at NeurIPS'24 Tutorial). December, 2023.</dd>
      <dt><span style="color:DarkBlue">Next decade of Federated Learning and role of Theory</span>
           <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0">[Workshop Website]</a> </dt> 
      <dd>New Frontiers in Federated Learning, September, 2023.</dd>
