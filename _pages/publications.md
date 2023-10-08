@@ -110,6 +110,8 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
+ <li>  <b>Preference PowerUp: Faster Convergence with MultiWay Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv Version] (coming soon!)</a>
+  <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour</li>
 
 <li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
   <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
@@ -122,10 +124,7 @@ a:active {
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances with Thompson sampling. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident - Only Pay for What Is Uncertain!</span>
   </details>
   </li>
-  
-  <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
-  
+   
   <li>  <b>Social Welfare for Recommender Systems</b> <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis</li>
   
@@ -146,12 +145,15 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
+  <li>  <a href="" target="_blank">Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</a>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
+  <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
 
-  <li>  <b> Federated Online and Bandit Convex Optimization</b> 
+  <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
   <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
   <br>  In International Conference on Machine Learning, ICML 2023</li>   
   
-  <li>  <b> One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</b>   <a href="https://arxiv.org/abs/2210.14998" target="_blank" LINK="red"> [Arxiv Version]</a><a href="https://www.youtube.com/watch?v=m1qQe3lGXWI" target="_blank" LINK="red"> [Talk]</a>
+  <li>  <a href="https://proceedings.mlr.press/v206/gaillard23a.html" target="_blank">One Arrow, Two Kills: An Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits</a>   <a href="https://arxiv.org/abs/2210.14998" target="_blank" LINK="red"> [Arxiv Version]</a><a href="https://www.youtube.com/watch?v=m1qQe3lGXWI" target="_blank" LINK="red"> [Talk]</a>
   <br>  Pierre Gaillard, Aadirupa Saha, Soham Dan
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>  
   <details>
@@ -165,11 +167,11 @@ a:active {
     Our unified notion of sleeping regret also helps to invent a general notion of Sleeping Dueling Bandits that is stronger than the existing regret definitions used in the contemporary dueling bandits literature and overcomes the issue of repeated draws if needed. This is the first bound of this kind in the dueling literature with many potentials!</span>
   </details>
   
-  <li>  <b> ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</b>   <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v206/kleine-buening23a/kleine-buening23a.pdf" target="_blank">ANACONDA: Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits</a>   <a href="https://arxiv.org/pdf/2210.14322.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                     
   
-  <li>  <b>Dueling RL: Reinforcement Learning with Trajectory Preferences</b>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v206/saha23a/saha23a.pdf" target="_blank">Dueling RL: Reinforcement Learning with Trajectory Preferences</a>  <a href="https://arxiv.org/abs/2111.04850" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br> Aadirupa Saha*,  Aldo Pacchiano*, Jonathan Lee (*Equal contribution)
   <br>  In International Conference on Artificial Intelligence and Statistics, AIStats 2023</li>                     
     
