@@ -60,7 +60,7 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
 
 <details>
   <summary><span style="color:Black;" align="justify"> Short Bio (in third person)</span></summary>
-  <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">
+  <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
     <br>
     Aadirupa is currently a research scientist at Apple ML research, broadly working in the area of Machine Learning theory. She did a short-term research visit at Toyota Technological Institute, Chicago (TTIC), after finishing her postdoc at Microsoft Research New York City. Aadirupa obtained her Ph.D. from IISc Bangalore with Aditya Gopalan and Chiranjib Bhattacharyya. 
     <br>
