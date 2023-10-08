@@ -146,7 +146,7 @@ a:active {
   
 <ul style="margin:1;padding:1">
   <li>  <a href="" target="_blank">Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</a>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter</li>
+  <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
   <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
 
   <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
