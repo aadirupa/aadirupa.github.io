@@ -45,7 +45,7 @@ permalink: /talks/list.md
      <dd>The Summit on AI in Society at University of Chicago, October, 2022.</dd>
 </dl>
 <hr>
-<h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Research Talks:</a></h2>
+<h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Invited Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl> 
   <dt><span style="color:DarkBlue">Online Federated Learning</span></dt>
