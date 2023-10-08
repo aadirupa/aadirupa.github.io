@@ -110,7 +110,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
- <li>  <b>Preference PowerUp: Faster Convergence with MultiWay Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!])</a>
+ <li>  <b>Preference PowerUp: Faster Convergence with MultiWay Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour</li>
 
 <li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
