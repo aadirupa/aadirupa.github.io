@@ -57,7 +57,7 @@ permalink: /talks/list.md
      <dd> Research at TTIC Series. Toyota Technological Institute at Chicago (TTIC), October, 2022</dd> 
      <dd> Theory Seminar, CS, Purdue University. November, 2022</dd> 
      <dd> Samueli CS dept Seminar, UCLA. June, 2023</dd> 
-
+     
   <dt><span style="color:DarkBlue">Personalized Prediction Models with Federated Human Preferences</span></dt>
      <dd> TILOS Seminar, University of California, San Diego. November, 2023 </dd>
      <dd> CATS Seminar, University of Maryland. November, 2023 </dd>
