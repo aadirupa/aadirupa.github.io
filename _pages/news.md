@@ -41,7 +41,7 @@ a:active {
 <ol type="1">
 <li> - Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> my advisor (Aditya Gopalan) </a> on 'Battling Bandits' (Learning with Preferences) at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well. More to come!</li>
 
-<li> - Oct 17-18: I am at UMich! Giving a lightning talk at <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/" LINK="red">Michigan AI Symposium </li>. If you are around and want to chat, please reach out.
+<li> - Oct 17-18: I am at <a href="https://cse.engin.umich.edu/about/beyster-building/" LINK="red">UMich, CSE (Bob and Betty Beyster Building)!</a> Giving a lightning talk at <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/" LINK="red">Michigan AI Symposium. If you are around and want to chat, please reach out.</li>
 
 <!--
 <li> - Oct 17: Four new papers (Budget, DP, MNL, P-DCO)</li>
