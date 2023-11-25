@@ -142,7 +142,7 @@ a:active {
   </details>
   </li>
    
-  <li>  <b>Social Welfare for Recommender Systems</b> <a href="" target="_blank" LINK="red"> [Arxiv]</a>
+  <li>  <b>Social Welfare for Recommender Systems</b> <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis</li>
   
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
