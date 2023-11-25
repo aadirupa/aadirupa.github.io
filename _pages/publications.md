@@ -75,12 +75,15 @@ a:active {
 
 <hr style="color:black;"> 
 <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
+   <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>
+   <a href="https://arindam.cs.illinois.edu/" target="_blank">Arindam Banerjee</a>
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
    <a href="https://www.ttic.edu/faculty/cohen/" target="_blank">Lee Cohen</a>, 
    <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
+   <a href="http://vtaly.net/" target="_blank">Vitaly Feldman</a>
    <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
    <a href="https://sites.google.com/view/suprovat/home" target="_blank">Suprovat Ghoshal</a>,
    <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
@@ -110,8 +113,22 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
+  
+  <li>  <b>Don’t Show Me the Same Movies on Repeat! Let the Bandits Battle Efficiently.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+ </li>
+
+ <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Aadirupa Saha, Hilal Asi
+ </li>
+
+ <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Rohan Deb, Aadirupa Saha, Arindam Banerjee
+ </li>
+  
  <li>  <b>Preference PowerUp: Faster Convergence with MultiWay Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour</li>
+  <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour
+ </li>
 
 <li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
   <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
@@ -145,6 +162,8 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
+  <Fairnes>
+  
   <li>  <a href="" target="_blank">Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</a>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
   <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
