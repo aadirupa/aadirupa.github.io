@@ -75,8 +75,8 @@ a:active {
 
 <hr style="color:black;"> 
 <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
-   <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>
-   <a href="https://arindam.cs.illinois.edu/" target="_blank">Arindam Banerjee</a>
+   <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>,
+   <a href="https://arindam.cs.illinois.edu/" target="_blank">Arindam Banerjee</a>,
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
