@@ -56,7 +56,7 @@ a:active {
   
 <li> - Sept 8-9: Organizing another workshop on Federated Learning <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [Event Website] </a> at TTI Chicago.</li>
   
-<li> - Aug 17-18: Attending <a href="https://sites.google.com/view/davidfestyishayfest" LINK="red">David & Yishay Fest</a>. Can't wait to meet David, Yishay, Rob (both Schapire and Nowak!), Nicolo, Alex, Michael, Mehryar, Haim, Sham and a bunch of learning theory folks.</li>
+<li> - Aug 17-18: Attending <a href="https://sites.google.com/view/davidfestyishayfest" LINK="red">David & Yishay Fest</a>. Can't wait to meet David, Yishay, Rob Nowak, Rob Schapire, Nicolo, Alex, Michael, Mehryar, Haim, Sham and a bunch of learning theory folks.</li>
 
 <li> - Serving as an AC for <a href="https://neurips.cc/Conferences/2023" LINK="red">NeurIPS'23</a>, <a href="https://iclr.cc/Conferences/2024" LINK="red">ICLR'24</a>, and <a href="https://virtual.aistats.org/Conferences/2024/Dates" LINK="red">AIStats'24</a>.</li>
 
