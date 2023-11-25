@@ -1,4 +1,4 @@
-c---
+---
 layout: archive
 title: ""
 permalink: /news/
