@@ -39,7 +39,7 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
 <ol type="1">
-<li> - Dec 18: New blog coming soon. Super excited! Stay tuned!</li>
+<li> - Dec 18: New blog coming soon. Super excited, stay tuned!</li>
 
 <li> - Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya </a> on 'Learning with Preferences' at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 mins panel discussion as well, with Yoshua, Craig, Rob, Kamalika and Tobias. Don't forget to check out our <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home" LINK="red">website</a> and leave your suggestions (including any topics/questions you want to be discussed). 
 <br><em>And I am nervous, it's my first tutorial at NeurIPS, wish me luck!</em>
