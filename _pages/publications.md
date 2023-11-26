@@ -130,10 +130,6 @@ a:active {
   <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour
  </li>
 
-<li>  <b>Dueling Optimization with a Monotone Adversary.</b> <a href="https://arxiv.org/abs/2311.11185" LINK="red">[Arxiv version]</a>
-  <br>  Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, Yuanyuan Yang
-</li>
-
   <li>  <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
   <br>  Aadirupa Saha, Branislav Kveton
   <details>
@@ -162,14 +158,19 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
-  <li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
-  <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
-  <br> Algorithmic Fairness through the Lens of Time Workshop, NeurIPS, 2023
-</li>
-  
   <li>  <a href="" target="_blank">Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</a>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
   <br>  In Neural Information Processing Systems, NeurIPS 2023
+  </li>
+  
+  <li>  <b>Dueling Optimization with a Monotone Adversary.</b> <a href="https://arxiv.org/abs/2311.11185" LINK="red">[Arxiv version]</a>
+  <br>  Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, Yuanyuan Yang
+  <br> NeurIPS OPT+ML Workshop, NeurIPS, 2023 <em>(Oral)</em>
+ </li>
+  
+  <li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
+  <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
+  <br> Algorithmic Fairness through the Lens of Time Workshop, NeurIPS, 2023
   </li> 
 
   <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
