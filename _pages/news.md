@@ -39,7 +39,7 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
 <ol type="1">
-<li> - Dec 20: Planning a new blog. Excited, updates soon!</li>
+<li> - Dec 20: Planning a new blog. Updates soon!</li>
 
 <li> - Dec 14: Chairing a session on "Online Learning" at NeurIPS, on Thu, Dec 14th <a href="https://neurips.cc/virtual/2023/session/74060" LINK="red">(Schedule: Oral 6D: Room R06-R09)</a>.</li>
 
