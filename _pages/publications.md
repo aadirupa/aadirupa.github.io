@@ -137,8 +137,8 @@ a:active {
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances with Thompson sampling. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident - Only Pay for What Is Uncertain!</span>
   </details>
   </li>
-   
-  <li>  <b>Social Welfare for Recommender Systems</b> <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+  
+  <li>  <b>Social Welfare for Recommender Systems</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis</li>
   
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
@@ -173,13 +173,13 @@ a:active {
   <br> Algorithmic Fairness through the Lens of Time Workshop, NeurIPS, 2023
   </li> 
 
-  <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> 
+  <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> <a href="https://arxiv.org/abs/2311.17586" target="_blank" LINK="red"> [Arxiv Version]</a> 
   <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
   <br>  In International Conference on Machine Learning, ICML 2023
   </li>   
 
   <li>  <a href="https://openreview.net/pdf?id=iIhXNqNh1c" target="_blank" LINK="red">Bandits Meet Mechanism Design
-to Combat Clickbait in Online Recommendation</a>
+to Combat Clickbait in Online Recommendation</a>  <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
   <br>  Interactive Learning with Implicit Human Feedback Workshop, ICML 2023</li>
   
