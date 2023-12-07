@@ -81,7 +81,8 @@ a:active {
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
    <a href="https://www.ttic.edu/faculty/cohen/" target="_blank">Lee Cohen</a>, 
-   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
+   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>,
+  <a href="https://sites.google.com/site/christosdimitrakakis" target="_blank">Christos Dimitrikakis</a>, 
    <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
    <a href="http://vtaly.net/" target="_blank">Vitaly Feldman</a>
    <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
