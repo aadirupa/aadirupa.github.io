@@ -123,7 +123,7 @@ a:active {
  </li>
 
  <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Rohan Deb, Aadirupa Saha
+  <br>  Rohan Deb, Aadirupa Saha, Arindam Banerjee
  </li>
   
  <li>  <b>Preference PowerUp: Faster Convergence with MultiWay Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
