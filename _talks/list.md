@@ -9,7 +9,7 @@ permalink: /talks/list.md
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
 <dl style="margin:0px;margin-bottom:0">
      <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? </span></dt>
-     <dd>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc. <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> (updates in progress!) </dd>
+     <dd>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan </a>, IISc. <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> <a href="https://neurips.cc/virtual/2023/tutorial/73950">[NeurIPS Website]</a> </dd>
      <dd>37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. Dec 11th, 2023.</dd>
      <dd><font color="#800080">Pretty excited on this one! If you are planning to attend NeurIPS this year, please stop by!</font></dd>
      <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning.</span> <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red"> [Tutorial Recording] </a> </dt>
