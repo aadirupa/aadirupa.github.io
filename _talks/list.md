@@ -11,8 +11,7 @@ permalink: /talks/list.md
      <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? </span> <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> <a href="https://neurips.cc/virtual/2023/tutorial/73950">[NeurIPS Website]</a></dt>
      <dd>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan</a>. Our (amazing) panel: <a href="https://yoshuabengio.org/">Yoshua Bengio</a> · <a href="https://www.cs.toronto.edu/~cebly/">Craig Boutilier</a> · <a href="https://www.ehazan.com/">Elad Hazan</a> · <a href="https://nowak.ece.wisc.edu/">Robert Nowak</a> · <a href="https://www.microsoft.com/en-us/research/people/toschnab/">Tobias Schnabel</a></dd>
      <dd>37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. Dec 11th, 2023.</dd>
-     <dd><font color="#800080">Pretty excited on this one! If you are planning to attend NeurIPS this year, please stop by!</font></dd>
-     <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning.</span> <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red"> [Tutorial Recording] </a> </dt>
+     <dt><span style="color:DarkBlue">Online Optimization meets Federated Learning.</span> <a href="https://www.auai.org/uai2023/tutorials" LINK="red"> [UAI Website] </a> <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red"> [Tutorial Recording] </a> </dt> 
      <dd>With <a href="https://kkpatel.ttic.edu/" LINK="red"> Kshitij Kumar Patel</a>, TTIC.</dd>
      <dd> <a href="https://www.auai.org/uai2023/tutorials" LINK="red"> 39th Conference on Uncertainty in Artificial Intelligence (UAI)</a>, Pittsburgh. July 31st, 2023.</dd>
      <dt><span style="color:DarkBlue">ML Beyond Rewards: Online Learning with Preference Feedback.</span>
