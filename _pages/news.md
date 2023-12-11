@@ -44,10 +44,10 @@ a:active {
 <li> - Dec 14: Chairing a session on "Online Learning" at NeurIPS, on Thu, Dec 14th <a href="https://neurips.cc/virtual/2023/session/74060" LINK="red">(Schedule: Oral 6D: Room R06-R09)</a>.</li>
 
 <li> - Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya </a> on 'Learning with Preferences' at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. Will have a 30 minutes panel discussion as well, with Yoshua Bengio, Craig Boutilier, Elad Hazan, Rob Nowak and Tobias Schnabel. 
-<br>Don't forget to check out our <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home" LINK="red">website</a> and leave your suggestions (including any topics/questions you want to be discussed). <em>And I am nervous, it's my first tutorial at NeurIPS, wish me luck!</em>
+<br>Don't forget to check out our <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home" LINK="red">website</a> 
 </li>
 
-<li> - Dec 9-11: Meeting all the "Alignment Enthusiasts" at <a href="https://www.alignment-workshop.com/nola-2023" LINK="red">New Orleans Alignment Workshop</a>! If you are around and want to chat, please reach out over email or the workshop slack :-) </li>
+<li> - Dec 9-11: Meeting all the "Alignment Enthusiasts" at <a href="https://www.alignment-workshop.com/nola-2023" LINK="red"> </li>
 
 <li> - Oct 17-18: I am at <a href="https://cse.engin.umich.edu/about/beyster-building/" LINK="red">UMich, CSE (Bob and Betty Beyster Building)</a>! Giving a lightning talk at <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/" LINK="red">Michigan AI Symposium</a>.</li>
 
