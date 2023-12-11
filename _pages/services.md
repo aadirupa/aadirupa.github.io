@@ -48,7 +48,7 @@ a:active {
   <li> <font color="#008080">ICML Workshop, July, 2023. Hawaii, USA</font>
   <br> The Many Facets of Preference-Based Learning.  <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML23 Workshop] </a>
   <br>  with Viktor Bengs, Robert Busa-Fekete, Mohammad Ghavazadeh and Branislav Kveton
-  <br> <font color="#800080">We have received ~65 submissions!! Thanks for your interest!</font>
+  <br> <font color="#800080">We received ~65 submissions!! Thanks for your interest!</font>
   </li>
   
   <li> <font color="#008080">ICML Workshop, July, 2022. Baltimore, USA</font>
