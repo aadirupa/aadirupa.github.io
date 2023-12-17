@@ -235,7 +235,7 @@ to Combat Clickbait in Online Recommendation</a>  <a href="https://arxiv.org/abs
   <br>  Viktor Bengs, Aadirupa Saha, Eyke Hüllermeier 
   <br>  In International Conference on Machine Learning, ICML 2022</li>
   
-  <li>  <a href="https://proceedings.neurips.cc/paper/2021/file/fc3cf452d3da8402bebb765225ce8c0e-Paper.pdf"> Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</a>  <a href="https://arxiv.org/abs/2111.12306" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://proceedings.mlr.press/v167/saha22a/saha22a.pdf"> Efficient and Optimal Algorithms for Contextual Dueling Bandits under Realizability</a>  <a href="https://arxiv.org/abs/2111.12306" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Akshay Krishnamurthy
   <br>  In Algorithmic Learning Theory, ALT 2022</li>  
   
