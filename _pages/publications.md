@@ -160,6 +160,19 @@ a:active {
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
+
+<h2 style="color:DarkRed;">2024</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+  
+<ul style="margin:1;padding:1"> 
+  <li> <a href="https://arxiv.org/abs/2311.11185" LINK="red">Dueling Optimization with a Monotone Adversary</a>
+  <br>  Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, Yuanyuan Yang
+  <br> Algorithmic Learning Theory, ALT, 2024 
+ </li>
+  
+    
+</ul>    
+
   
 <h2 style="color:DarkRed;">2023</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
