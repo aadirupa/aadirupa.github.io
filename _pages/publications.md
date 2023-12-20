@@ -133,7 +133,7 @@ a:active {
   <br>  Rohan Deb, Aadirupa Saha, Arindam Banerjee
  </li>
   
- <li>  <b>Preference PowerUp: Faster Convergence with MultiWay Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+ <li>  <b>Faster Convergence with MultiWay Preferences.</b>  <a href="https://arxiv.org/abs/2312.11788" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour
  </li>
 
