@@ -62,9 +62,11 @@ a:active {
 
 <li> - July 31: Giving a tutorial at UAI'23 on 'Federated Learning'. <a href="https://www.auai.org/uai2023/tutorials" LINK="red">[UAI'23 tutorials]</a>. Attending UAI, CMU, Pittsburgh!</li>
 
-<li> - July 28: Charged up for our workshop at ICML'23 on <a href="https://sites.google.com/view/mfpl-icml-2023" LINK="red">'Many Facets of Learning with Preferences'</a>. Attending ICML, Hawaii, Honolulu!</li>
+<li> - July 28: Charged up for our workshop at ICML'23 on <a href="https://sites.google.com/view/mfpl-icml-2023" LINK="red">Many Facets of Learning with Preferences</a>. Attending ICML, Hawaii, Honolulu!</li>
     
-<li> - July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a></li></ol>  
+
+</ol>  
+
 <p style="text-align:right;">... <em>stay tuned!</em></p> 
 
 <!-- <font color="#1E90FF"> </font> -->
