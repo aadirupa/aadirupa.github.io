@@ -39,8 +39,7 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
 <ol type="1">
-<li> - Dec 20: Planning a new blog. Updates soon!</li>
-
+<!--<li> - Dec 20: Planning a new blog. Updates soon!</li>-->
 <li> - Dec 14: Chairing a session on "Online Learning" at NeurIPS, on Thu, Dec 14th <a href="https://neurips.cc/virtual/2023/session/74060" LINK="red">(Schedule: Oral 6D: Room R06-R09)</a>.</li>
 
 <li> - Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya </a> on 'Learning with Preferences' at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. (Including panel discussion with Yoshua Bengio, Craig Boutilier, Elad Hazan, Rob Nowak and Tobias Schnabel. Our <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home" LINK="red">website.</a> 
@@ -65,9 +64,7 @@ a:active {
 
 <li> - July 28: Charged up for our workshop at ICML'23 on <a href="https://sites.google.com/view/mfpl-icml-2023" LINK="red">'Many Facets of Learning with Preferences'</a>. Attending ICML, Hawaii, Honolulu!</li>
     
-<li> - July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a></li>
-</ol>  
-
+<li> - July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a></li></ol>  
 <p style="text-align:right;">... <em>stay tuned!</em></p> 
 
 <!-- <font color="#1E90FF"> </font> -->
