@@ -50,7 +50,7 @@ a:active {
 
 <li> - Dec 11: Giving a tutorial with <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya </a> on 'Learning with Preferences' at <a href="https://nips.cc/" LINK="red">NeurIPS'23</a>, New Orleans, USA. (Including panel discussion with Yoshua Bengio, Craig Boutilier, Elad Hazan, Rob Nowak and Tobias Schnabel. Our <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home" LINK="red">website.</a></li>
 
-<li> - Dec 9-11: Meeting all the "Alignment Enthusiasts" at <a href="https://www.alignment-workshop.com/nola-2023" LINK="red">New Orleans Alignment Workshop</a> </li>
+<li> - Dec 9-11: Meeting all the "Alignment Enthusiasts" at <a href="https://www.alignment-workshop.com/nola-2023" LINK="red">New Orleans Alignment Workshop</a>, New Orleans, USA.</li>
 
 <li> - Oct 17-18: I am at <a href="https://cse.engin.umich.edu/about/beyster-building/" LINK="red">UMich, CSE (Bob and Betty Beyster Building)</a>! Giving a lightning talk at <a href="https://ai.engin.umich.edu/events/2023-ai-symposium/" LINK="red">Michigan AI Symposium</a>.</li>
   
