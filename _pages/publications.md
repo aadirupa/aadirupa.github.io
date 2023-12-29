@@ -129,7 +129,7 @@ a:active {
   <br>  Aadirupa Saha, Hilal Asi
  </li>
 
- <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+ <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="https://arxiv.org/pdf/2312.17229.pdf" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Rohan Deb, Aadirupa Saha
  </li>
   
