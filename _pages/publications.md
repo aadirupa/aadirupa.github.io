@@ -119,8 +119,7 @@ a:active {
  <li>  <b>A First Step to Contextual Dueling Bandits with Offline Oracles.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha
  </li>
--->
-  
+-->  
   <li>  <b>Don’t Show Me the Same Movies on Repeat! Let the Bandits Battle Efficiently.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
  </li>
@@ -128,25 +127,6 @@ a:active {
  <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Hilal Asi
  </li>
-
- <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="https://arxiv.org/pdf/2312.17229.pdf" target="_blank" LINK="red"> [Arxiv version]</a>
-  <br>  Rohan Deb, Aadirupa Saha
- </li>
-  
- <li>  <b>Faster Convergence with MultiWay Preferences.</b>  <a href="https://arxiv.org/abs/2312.11788" target="_blank" LINK="red"> [Arxiv version]</a>
-  <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour
- </li>
-
-  <li>  <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
-  <br>  Aadirupa Saha, Branislav Kveton
-  <details>
-  <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
-  <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances with Thompson sampling. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident - Only Pay for What Is Uncertain!</span>
-  </details>
-  </li>
-  
-  <li>  <b>Social Welfare for Recommender Systems</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
-  <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis</li>
   
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
@@ -165,6 +145,36 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1"> 
+
+   <li>  <b>Social Welfare for Recommender Systems</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
+  <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
+   <br> International Conference on Learning Representations (ICLR), 2024 
+   </li>
+  
+  <li> <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
+  <br>  Aadirupa Saha, Branislav Kveton
+  <br> International Conference on Learning Representations (ICLR), 2024 
+  <details>
+  <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
+  <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">We lay the foundations for Bayesian multi-armed bandits with known and unknown heterogeneous reward variances with Thompson sampling. Our regret analysis shows improved performance with lower reward variances, implying faster learning in low-variance regimes. So why regret if you are already confident - Only Pay for What Is Uncertain!</span>
+  </details>
+  </li>
+
+  <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="https://arxiv.org/pdf/2312.17229.pdf" target="_blank" LINK="red"> [Arxiv version]</a>
+  <br>  Rohan Deb, Aadirupa Saha
+  <br>  International Conference on Artificial Intelligence and Statistics, AIStats 2024
+ </li>
+
+<li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
+  <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
+  <br> International Conference on Artificial Intelligence and Statistics, AIStats 2024
+</li> 
+
+<li>  <b>Faster Convergence with MultiWay Preferences.</b>  <a href="https://arxiv.org/abs/2312.11788" target="_blank" LINK="red"> [Arxiv version]</a>
+  <br>  Aadirupa Saha, Vitaly Feldman, Tomer Koren, Yishay Mansour
+  <br>  International Conference on Artificial Intelligence and Statistics, AIStats 2024
+</li>
+  
   <li> <a href="https://arxiv.org/abs/2311.11185" LINK="red">Dueling Optimization with a Monotone Adversary</a>
   <br>  Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, Yuanyuan Yang
   <br> Algorithmic Learning Theory, ALT, 2024 
