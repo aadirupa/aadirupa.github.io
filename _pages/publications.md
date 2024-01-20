@@ -121,7 +121,7 @@ a:active {
  </li>
 -->  
 
- <li>  <b>Taming Two Monsters with Offline Regression.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+ <li>  <b>Taming Two Monsters with Offline Oracles</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Rob Schapire
  </li>
 
