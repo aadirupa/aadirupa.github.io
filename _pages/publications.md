@@ -121,6 +121,11 @@ a:active {
  </li>
 -->  
 
+<!--
+ <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
+ </li>
+-->  
 
  <li>  <b>Communication Efficient Differentially Private Distributed Non-Convex Optimization.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
