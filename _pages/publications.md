@@ -116,6 +116,21 @@ a:active {
 <ul style="margin:1;padding:1">
 
 <!--
+ <li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
+ </li>
+-->  
+
+
+ <li>  <b>Communication Efficient Differentially Private Distributed Non-Convex Optimization.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
+ </li>
+
+ <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
+ </li> 
+
+<!--
  <li>  <b>A First Step to Contextual Dueling Bandits with Offline Oracles.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha
  </li>
@@ -151,7 +166,7 @@ a:active {
   
 <ul style="margin:1;padding:1"> 
 
-   <li>  <b>Social Welfare for Recommender Systems</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
+   <li>  <b>Social Welfare for RecSys: Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation.</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
    <br> International Conference on Learning Representations (ICLR), 2024 
    </li>
