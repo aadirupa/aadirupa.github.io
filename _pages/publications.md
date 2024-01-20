@@ -120,6 +120,11 @@ a:active {
   <br>  Aadirupa Saha
  </li>
 -->  
+
+ <li>  <b>Taming Two Monsters with Offline Regression.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br>  Aadirupa Saha, Rob Schapire
+ </li>
+
   <li>  <b>Don’t Show Me the Same Movies on Repeat! Let the Bandits Battle Efficiently.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
  </li>
