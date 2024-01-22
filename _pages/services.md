@@ -98,6 +98,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
+  <li>Uncertainty in Artificial Intelligence (UAI), 2024</li>
   <li>International Conference on Learning Representations (ICLR), 2024</li>
   <li>Artificial Intelligence and Statistics (AIStats), 2024</li> 
   <li>Neural Information Processing Systems (NeurIPS), 2023</li>
