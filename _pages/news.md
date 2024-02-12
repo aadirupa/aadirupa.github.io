@@ -36,6 +36,12 @@ a:active {
  
 <body>  
   
+<h2 style="color:DarkBlue;" vspace="-2px;">2024</h2>
+
+<ol>
+<li> - Jan: We got six new papers! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Checkout publications for more details.</li>
+</ol>
+
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
 <ol>
