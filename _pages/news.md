@@ -39,10 +39,12 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="-2px;">2024</h2>
 
 <ol> 
-<li> - Dec 20: New blog out soon!</li>
+<li> - Feb: New blog out soon!</li>
   
 <li> - Jan: We got six new papers accepted! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Check out publications for more details.</li>
 </ol>
+
+<p style="text-align:right;">... <em>stay tuned!</em></p> 
 
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
@@ -69,8 +71,6 @@ a:active {
 <li> - July 20: Giving a talk at Simons on 'Online Federated Learning'. <a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule" LINK="red">[Event website]</a></li>    
 
 </ol>  
-
-<p style="text-align:right;">... <em>stay tuned!</em></p> 
 
 <!-- <font color="#1E90FF"> </font> -->
   
