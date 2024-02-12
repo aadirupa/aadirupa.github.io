@@ -38,19 +38,15 @@ a:active {
   
 <h2 style="color:DarkBlue;" vspace="-2px;">2024</h2>
 
-<ol>
-<li> - Jan: We got six new papers! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Checkout publications for more details.</li>
+<ol> 
+<li> - Dec 20: New blog out soon!</li>
+  
+<li> - Jan: We got six new papers accepted! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Check out publications for more details.</li>
 </ol>
 
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
 <ol>
-<!--
-<li> - Oct 17: Four new papers (Budget, DP, MNL, P-DCO)</li>
-
--->
-
-<!--<li> - Dec 20: Planning a new blog. Updates soon!</li>-->
 
 <li> - Dec 14: Chairing a session on "Online Learning" at NeurIPS, on Thu, Dec 14th <a href="https://neurips.cc/virtual/2023/session/74060" LINK="red">(Schedule: Oral 6D: Room R06-R09)</a>.</li>
 
