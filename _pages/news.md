@@ -39,7 +39,7 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="2px;">2024</h2>
 
 <ol>   
-<li> - Feb: New blog out soon!</li>
+<li> - Feb: New blog on "Preference Learning". Out soon!</li>
 </ol>
 
 <p style="text-align:right;">... <em>stay tuned!</em></p> 
