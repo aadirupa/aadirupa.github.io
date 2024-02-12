@@ -39,7 +39,11 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="2px;">2024</h2>
 
 <ol>   
+  
 <li> - Feb: New blog on "Preference Learning". Out soon!</li>
+
+<li> - Jan: We got six new papers accepted! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Check out publications for more details.</li>
+
 </ol>
 
 <p style="text-align:right;">... <em>stay tuned!</em></p> 
