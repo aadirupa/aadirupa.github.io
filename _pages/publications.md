@@ -145,7 +145,7 @@ a:active {
   <br>  Aadirupa Saha, Rob Schapire
  </li>
 
-  <li>  <b>Don’t Show Me the Same Movies on Repeat! Let the Bandits Battle Efficiently.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
  </li>
 
