@@ -180,7 +180,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
 
    <li>  <b>Social Welfare for RecSys: Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation.</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
-   <br> International Conference on Learning Representations (ICLR), 2024 
+   <br> International Conference on Learning Representations (ICLR), 2024 <span style="color:Red;"><b> (*Spotlight*)</b></span>
    </li>
   
   <li> <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
@@ -209,8 +209,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   
   <li> <a href="https://arxiv.org/abs/2311.11185" LINK="red">Dueling Optimization with a Monotone Adversary</a>
   <br>  Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, Yuanyuan Yang
-  <br> Algorithmic Learning Theory, ALT, 2024 
-  <br> <span style="color:Red;"><b>*Outstanding paper award*</b></span>  
+  <br> Algorithmic Learning Theory, ALT, 2024 <span style="color:Red;"><b> (*Outstanding Paper Award*)</b></span>  
  </li>
   
     
