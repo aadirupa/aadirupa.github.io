@@ -210,7 +210,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   <li> <a href="https://arxiv.org/abs/2311.11185" LINK="red">Dueling Optimization with a Monotone Adversary</a>
   <br>  Avrim Blum, Meghal Gupta, Gene Li, Naren Sarayu Manoj, Aadirupa Saha, Yuanyuan Yang
   <br> Algorithmic Learning Theory, ALT, 2024 
-  <br> <b>Outstanding paper award</b>  
+  <br> <p style="color:red"><b>*Outstanding paper award*</b></p>  
  </li>
   
     
