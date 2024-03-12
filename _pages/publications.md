@@ -127,10 +127,6 @@ a:active {
  </li>
 -->  
 
- <li>  <b>Communication Efficient Differentially Private Distributed Non-Convex Optimization.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
- </li>
-
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
@@ -192,6 +188,11 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </details>
   </li>
 
+  <li>  <b>Communication Efficient Differentially Private Distributed Non-Convex Optimization.</b>  <a href="" target="_blank" LINK="red">[On Arxiv soon!]</a>
+  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
+  <br>  Privacy Regulation and Protection in ML Workshop, International Conference on Learning Representations (ICLR), 2024 
+ </li>
+  
   <li>  <b>Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.</b>  <a href="https://arxiv.org/pdf/2312.17229.pdf" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Rohan Deb, Aadirupa Saha
   <br>  International Conference on Artificial Intelligence and Statistics, AIStats 2024
