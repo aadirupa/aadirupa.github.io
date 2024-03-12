@@ -188,8 +188,8 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </details>
   </li>
 
-  <li>  <b>Communication Efficient Differentially Private Distributed Non-Convex Optimization.</b>  <a href="" target="_blank" LINK="red">[On Arxiv soon!]</a>
-  <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
+  <li>  <b>Efficient Private Federated Non-Convex Optimization With Shuffled Model.</b>  <a href="" target="_blank" LINK="red">[On Arxiv soon!]</a>
+  <br>  Lingxiao Wang, Xingyu Zhou, Kumar Kshitij Patel, Lawrence Tang, Aadirupa Saha
   <br>  Privacy Regulation and Protection in ML Workshop, International Conference on Learning Representations (ICLR), 2024 
  </li>
   
