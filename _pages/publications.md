@@ -122,6 +122,12 @@ a:active {
 -->  
 
 <!--
+ <li>  <b>Optimal Rates for DCO</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br> Vitaly Feldman, Aadirupa Saha
+ </li>
+-->  
+
+<!--
  <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
  </li>
@@ -130,12 +136,6 @@ a:active {
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
-
-<!--
- <li>  <b>A First Step to Contextual Dueling Bandits with Offline Oracles.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Aadirupa Saha
- </li>
--->  
 
  <li>  <b>Taming Two Monsters with Offline Oracles</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Aadirupa Saha, Rob Schapire
