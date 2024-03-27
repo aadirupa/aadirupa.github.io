@@ -152,7 +152,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </details>
  </li>
 
- <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+ <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Hilal Asi
  </li>
   
