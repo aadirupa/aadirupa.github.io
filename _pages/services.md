@@ -40,6 +40,12 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
+ <li> <font color="#008080">ICML Workshop, July, 2024. Vienna, Austria</font>
+  <br> Models of Human Feedback for AI Alignment.  <a href="https://sites.google.com/view/mhf-icml2024" target="_blank" LINK="red"> [ICML24 Workshop] </a>
+  <br>  with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia.
+  <br> <font color="#800080">CFP out soon!! Stay tuned!</font>
+  </li>
+
   <li> <font color="#008080">TTIC Workshop, Sept, 2023. Chicago, USA</font>
   <br> New Frontiers in Federated Learning: Recent Theoretical Advances & Practice.  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red"> [TTIC Workshop] </a>
   <br>  with Kumar Kshitij Patel, Nati Sebro, Lingxiao Wang, Zheng Xu 
