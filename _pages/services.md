@@ -93,6 +93,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Journal Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
+  <li>Transactions on Machine Learning Research (TMLR), 2024</li>
   <li>Journal of Machine Learning Research (JMLR), 2023</li>
   <li>Neural Computation (NEURCOMP), 2022</li>
   <li>Journal of Machine Learning Research (JMLR), 2021</li>
@@ -104,6 +105,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
+  <li>Neural Information Processing Systems (NeurIPS), 2024</li>
   <li>Uncertainty in Artificial Intelligence (UAI), 2024</li>
   <li>International Conference on Learning Representations (ICLR), 2024</li>
   <li>Artificial Intelligence and Statistics (AIStats), 2024</li> 
