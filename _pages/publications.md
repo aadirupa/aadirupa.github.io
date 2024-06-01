@@ -129,7 +129,7 @@ a:active {
 -->  
 
  <li>  <b>Dueling in the Dark: An Efficient and Optimal O(&radic;T) Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br> Aadirupa Saha and Yonathan Efroni
+  <br> Aadirupa Saha, Yonathan Efroni
  </li>
  
  <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
