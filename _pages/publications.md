@@ -128,7 +128,7 @@ a:active {
  </li>
 -->  
 
- <li>  <b>Dueling in the Dark: An Efficient and Optimal  $O(\sqrt T)$ Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+ <li>  <b>Dueling in the Dark: An Efficient and Optimal  &radic;T Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br> Aadirupa Saha and Yonathan Efroni
  </li>
  
