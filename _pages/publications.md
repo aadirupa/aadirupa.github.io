@@ -74,7 +74,7 @@ a:active {
 -->  
 
 
-<!-- <hr style="color:black;"> 
+<hr style="color:black;"> 
 <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>,
    <!--<a href="https://arindam.cs.illinois.edu/" target="_blank">Arindam Banerjee</a>,-->
@@ -110,7 +110,7 @@ a:active {
    <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>,
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
-  (in alphabetical order).</p> -->    
+  (in alphabetical order).</p>    
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
@@ -163,9 +163,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
   
- <!-- <li>  <b>Ranking from Pairwise Comparisons with Features: Algorithm and Graph Theoretic Analysis.</b>  <a href="https://arxiv.org/abs/1808.03857" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Arun Rajkumar</li>
-  -->    
+
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
@@ -174,7 +172,11 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1"> 
-
+ <li><b>A Graph Theoretic Approach for Preference Learning with Feature Information.</b>  <a href=" " target="_blank" LINK="red"> [Arxiv Version]</a>
+ <br>  Aadirupa Saha, Arun Rajkumar
+ <br> In Uncertainty in Artificial Intelligence, UAI 2024 <span style="color:Red;"><b> (*Oral*)</b></span>
+ </li>
+  
    <li>  <b>Social Welfare for RecSys: Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation.</b> <a href="https://arxiv.org/abs/2311.15647" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
    <br> International Conference on Learning Representations (ICLR), 2024 <span style="color:Red;"><b> (*Spotlight*)</b></span>
