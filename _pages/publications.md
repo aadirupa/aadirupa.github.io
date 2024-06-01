@@ -128,11 +128,13 @@ a:active {
  </li>
 -->  
 
-<!--
+ <li>  <b>Dueling in the Dark: An Efficient and Optimal  $O(\sqrt T)$ Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br> Aadirupa Saha and Yonathan Efroni
+ </li>
+ 
  <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
  </li>
--->  
 
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
