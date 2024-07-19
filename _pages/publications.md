@@ -132,7 +132,7 @@ a:active {
   <br> Aadirupa Saha, Yonathan Efroni
  </li>
  
- <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+ <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="https://arxiv.org/pdf/2406.00551" target="_blank" LINK="red"> [Arxiv version]</a>
   <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
  </li>
 
