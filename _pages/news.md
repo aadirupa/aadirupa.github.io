@@ -41,6 +41,8 @@ a:active {
 <ol>  
   
 <li> - Jul: New ICML Workshop on <a href="https://sites.google.com/view/mhf-icml2024" LINK="red">Models of Human Feedback for AI Alignment</a>. Co-organizing with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia. Stay tuned, more details on the way! </li>
+
+<li> - May: Our UAI paper got accepted!</li>
   
 <!-- <li> - Feb: New blog out! On "Recent trends in preference learning, RLHF and fine tunings of LLM". Link <a href="https://www.preference-learning.org/" LINK="red">here</a>. </li> -->
 
