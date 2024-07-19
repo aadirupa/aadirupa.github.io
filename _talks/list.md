@@ -41,12 +41,15 @@ permalink: /talks/list.md
      <dd>New Frontiers in Federated Learning, September, 2023.</dd>
      <dt><span style="color:DarkBlue">Trusted and Trustworthy AI</span>
           <a href="https://ifk.uchicago.edu/events/1440/the-summit-on-ai-in-society/">[Summit Website]</a> </dt> 
-     <dd>The Summit on AI in Society at University of Chicago, October, 2022.</dd>
+     <dd>The Summit on AI in Society at the University of Chicago, October, 2022.</dd>
 </dl>
 <hr>
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Invited Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
-<dl> 
+<dl>
+  <dt><span style="color:DarkBlue">Principled Methods for Leveraging Human Feedback towards AI Alignment</span></dt>
+     <dd><a href="https://www.ideal-institute.org/2024/05/06/ideal-annual-meeting-and-industry-day-2024/">IDEAL Annual Meeting and Industry Day</a>, UIC Chicago. June 2024</dd>
+     
   <dt><span style="color:DarkBlue">Online Federated Learning</span></dt>
      <dd><a href="https://simons.berkeley.edu/workshops/federated-collaborative-learning/schedule">Federated and Collaborative Learning Workshop</a>, Simons Institute, UC Berkeley. July 2023 <a href="https://youtu.be/kzU8DzgBBkE?list=PLgKuh-lKre12czv-LXiEMfVU9mtFEciwC&t=1877">[Talk Recording]</a></dd>
    
