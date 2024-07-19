@@ -39,6 +39,10 @@ a:active {
 <h2 style="color:DarkBlue;" vspace="2px;">2024</h2>
 
 <ol>  
+
+<!-- <li> Survey out on Alignment and Preferneces </li> 
+<li> 2 New papers on arXiv: Rotting, Elad, Rob</li>    
+-->
   
 <li> - Jul: New ICML Workshop on <a href="https://sites.google.com/view/mhf-icml2024" LINK="red">Models of Human Feedback for AI Alignment</a>. Co-organizing with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia. Stay tuned, more details on the way! </li>
 
