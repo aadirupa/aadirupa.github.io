@@ -43,7 +43,8 @@ a:active {
  <li> <font color="#008080">ICML Workshop, July, 2024. Vienna, Austria</font>
   <br> Models of Human Feedback for AI Alignment.  <a href="https://sites.google.com/view/mhf-icml2024" target="_blank" LINK="red"> [ICML24 Workshop] </a>
   <br>  with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia.
-  <br> <font color="#800080">CFP out now! Please submit your work: </font> <a href="https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0" target="_blank" LINK="red">[here]</a>.
+  <br> <font color="#800080">We received ~75 submissions!! Thanks for your interest!</font>
+  <!-- <br> <font color="#800080">CFP out now! Please submit your work: </font> <a href="https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0" target="_blank" LINK="red">[here]</a>. -->
   </li>
 
   <li> <font color="#008080">TTIC Workshop, Sept, 2023. Chicago, USA</font>
