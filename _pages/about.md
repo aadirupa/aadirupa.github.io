@@ -114,7 +114,6 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p> 
  [Nadav Merlis]()
-  COMMENT ENDS -->
  
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
@@ -164,8 +163,10 @@ Before that, I was a CS undergrad at [IIEST, Shibpur](https://www.iiests.ac.in/)
   <br>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
 
-
 <hr style="color:black;"> 
+
+ COMMENT ENDS -->
+ 
  
 </body>
 </html>
