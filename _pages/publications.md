@@ -193,7 +193,8 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </details>
   </li>
 
-  <li>  <b>Efficient Private Federated Non-Convex Optimization With Shuffled Model.</b>  <a href="" target="_blank" LINK="red">[On Arxiv soon!]</a>
+  <li>  <b>Efficient Private Federated Non-Convex Optimization With Shuffled Model.</b>  <a href="https://openreview.net/forum?id=t7mv0y8OPE
+" target="_blank" LINK="red">[Workshop Version]</a>
   <br>  Lingxiao Wang, Xingyu Zhou, Kumar Kshitij Patel, Lawrence Tang, Aadirupa Saha
   <br>  Privacy Regulation and Protection in ML Workshop, International Conference on Learning Representations (ICLR), 2024 
  </li>
