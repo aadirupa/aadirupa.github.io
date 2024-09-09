@@ -106,10 +106,10 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Neural Information Processing Systems (NeurIPS): 2023, 2024</li>
-  <li>Uncertainty in Artificial Intelligence (UAI): 2024</li>
-  <li>International Conference on Learning Representations (ICLR): 2024, 2025</li>
-  <li>Artificial Intelligence and Statistics (AIStats): 2024</li> 
+  <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2023, 2024</font></li>
+  <li>Uncertainty in Artificial Intelligence (UAI): <font color="#008080">2024</font></li>
+  <li>International Conference on Learning Representations (ICLR): <font color="#008080">2024, 2025</font></li>
+  <li>Artificial Intelligence and Statistics (AIStats): <font color="#008080">2024</font></li> 
 </ul>   
   
   
@@ -117,16 +117,16 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Symposium on Discrete Algorithms (SODA): 2024</li>
-  <li>International Conference on Machine Learning (ICML): 2019-2023</li>
-  <li>International Conference on Learning Representations (ICLR): 2020-2023</li>
-  <li>Neural Information Processing Systems (NeurIPS): 2020-2022, 2024</li>
-  <li>International Conference on Artificial Intelligence and Statistics (AISTATS): 2019, 2023</li>
-  <li>Conference on Learning Theory (COLT): 2020-2022</li>
-  <li>Algorithmic Learning Theory (ALT): 2021 </li>
-  <li>Association for the Advancement of Artificial Intelligence (AAAI): 2020-2022</li>
-  <li>International Joint Conference on Artificial Intelligence (IJCAI): 2020-2021</li>
-  <li>ACM India Joint International Conference on Data Science & Management of Data (CODS-COMAD): 2018-2019</li>
+  <li>Symposium on Discrete Algorithms (SODA): <font color="#008080"> 2024 </font></li>
+  <li>International Conference on Machine Learning (ICML): <font color="#008080">2019-2023</font></li>
+  <li>International Conference on Learning Representations (ICLR): <font color="#008080">2020-2023</font></li>
+  <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2020-2022, 2024</font></li>
+  <li>International Conference on Artificial Intelligence and Statistics (AISTATS): <font color="#008080">2019, 2023</font></li>
+  <li>Conference on Learning Theory (COLT): <font color="#008080">2020-2022</font></li>
+  <li>Algorithmic Learning Theory (ALT): <font color="#008080">2021 </font></li>
+  <li>Association for the Advancement of Artificial Intelligence (AAAI): <font color="#008080">2020-2022</font></li>
+  <li>International Joint Conference on Artificial Intelligence (IJCAI): <font color="#008080">2020-2021</font></li>
+  <li>ACM India Joint International Conference on Data Science & Management of Data (CODS-COMAD): <font color="#008080">2018-2019</font></li>
 </ul>   
  
   
