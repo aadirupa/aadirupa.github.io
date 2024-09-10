@@ -109,7 +109,7 @@ a:active {
   <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2023, 2024</font></li>
   <li>Uncertainty in Artificial Intelligence (UAI): <font color="#008080">2024</font></li>
   <li>International Conference on Learning Representations (ICLR): <font color="#008080">2024, 2025</font></li>
-  <li>Artificial Intelligence and Statistics (AIStats): <font color="#008080">2024</font></li> 
+  <li>Artificial Intelligence and Statistics (AIStats): <font color="#008080">2024, 2025</font></li> 
 </ul>   
   
   
