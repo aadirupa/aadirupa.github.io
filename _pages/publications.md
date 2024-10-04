@@ -131,18 +131,10 @@ a:active {
  <li>  <b>Dueling in the Dark: An Efficient and Optimal O(&radic;T) Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br> Aadirupa Saha, Yonathan Efroni
  </li>
- 
- <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="https://arxiv.org/pdf/2406.00551" target="_blank" LINK="red"> [Arxiv version]</a>
-  <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
- </li>
 
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
-
- <li>  <b>Taming Two Monsters with Offline Oracles</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Aadirupa Saha, Rob Schapire
- </li>
 
   <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
@@ -174,7 +166,13 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1"> 
- <li><b>A Graph Theoretic Approach for Preference Learning with Feature Information.</b>  <a href=" " target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="https://arxiv.org/pdf/2406.00551" target="_blank" LINK="red"> [Arxiv version]</a>
+  <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
+  <br> In Neural Information Processing Systems, NeurIPS 2024  
+  </li>
+
+  
+  <li><b>A Graph Theoretic Approach for Preference Learning with Feature Information.</b>  <a href=" " target="_blank" LINK="red"> [Arxiv Version]</a>
  <br>  Aadirupa Saha, Arun Rajkumar
  <br> In Uncertainty in Artificial Intelligence, UAI 2024 <span style="color:Red;"><b> (*Oral*)</b></span>
  </li>
