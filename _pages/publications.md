@@ -167,7 +167,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </li>
 
  <li>  <b>Dueling in the Dark: An Efficient and Optimal O(&radic;T) Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br> Aadirupa Saha, Barry John Theobald, Yonathan Efroni
+  <br> Aadirupa Saha, Barry-John Theobald, Yonathan Efroni
   <br> In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2024       
  </li>
 
