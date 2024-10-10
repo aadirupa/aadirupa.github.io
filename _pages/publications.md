@@ -128,10 +128,6 @@ a:active {
  </li>
 -->  
 
- <li>  <b>Dueling in the Dark: An Efficient and Optimal O(&radic;T) Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br> Aadirupa Saha, Yonathan Efroni
- </li>
-
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
@@ -156,7 +152,6 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
  
   <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
-  
 
 </ul>  
   
@@ -171,7 +166,11 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   <br> In Neural Information Processing Systems, NeurIPS 2024  
   </li>
 
-  
+ <li>  <b>Dueling in the Dark: An Efficient and Optimal O(&radic;T) Mirror Descent Approach for Competing against Adversarial Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+  <br> Aadirupa Saha, Barry John Theobald, Yonathan Efroni
+  <br> In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2024</li>        
+ </li>
+
   <li><b>A Graph Theoretic Approach for Preference Learning with Feature Information.</b>  <a href=" " target="_blank" LINK="red"> [Arxiv Version]</a>
  <br>  Aadirupa Saha, Arun Rajkumar
  <br> In Uncertainty in Artificial Intelligence, UAI 2024 <span style="color:Red;"><b> (*Oral*)</b></span>
