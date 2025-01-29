@@ -152,7 +152,7 @@ a:active {
 <ul style="margin:1;padding:1"> 
   <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
-  <br> International Conference on Learning Representations (ICLR), 2024   
+  <br> International Conference on Learning Representations (ICLR), 2025   
   <details>
   <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">If you've ever encountered MNL Assortment Optimization problem, the go-to approach is to offer the same set of products repeatedly until your customer is really annoyed and selects no item! In fact, it requires a "belief" that no selection is their most preferred choice :-( Oh no! 
