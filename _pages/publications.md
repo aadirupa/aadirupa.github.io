@@ -126,24 +126,13 @@ a:active {
  <li>  <b>Optimal Rates for DCO</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br> Vitaly Feldman, Aadirupa Saha
  </li>
--->  
 
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
+-->
 
-  <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
-  <br>  Aadirupa Saha, Pierre Gaillard
-  <details>
-  <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
-  <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">If you've ever encountered MNL Assortment Optimization problem, the go-to approach is to offer the same set of products repeatedly until your customer is really annoyed and selects no item! In fact, it requires a "belief" that no selection is their most preferred choice :-( Oh no! 
-<br><br>
-But why be so pessimistic? And why annoy your customers repeatedly offering the same items and hoping them to leave (i.e. they decide to choose none of the offered items!)? We got a new idea with no such issues. How? We simply found better concentration tricks! It was a long time wish to resolve this efficiently. 
-  </span>
-  </details>
- </li>
-
- <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Hilal Asi
  </li>
   
@@ -161,6 +150,19 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1"> 
+  <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
+  <br>  Aadirupa Saha, Pierre Gaillard
+  <br> International Conference on Learning Representations (ICLR), 2024   
+  <details>
+  <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
+  <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">If you've ever encountered MNL Assortment Optimization problem, the go-to approach is to offer the same set of products repeatedly until your customer is really annoyed and selects no item! In fact, it requires a "belief" that no selection is their most preferred choice :-( Oh no! 
+<br><br>
+But why be so pessimistic? And why annoy your customers repeatedly offering the same items and hoping them to leave (i.e. they decide to choose none of the offered items!)? We got a new idea with no such issues. How? We simply found better concentration tricks! It was a long time wish to resolve this efficiently. 
+  </span>
+  </details>
+ </li>
+
+  
   <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="https://arxiv.org/pdf/2406.00551" target="_blank" LINK="red"> [Arxiv version]</a>
   <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
   <br> In Neural Information Processing Systems, NeurIPS 2024  
