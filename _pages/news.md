@@ -35,6 +35,16 @@ a:active {
 </head>  
  
 <body>  
+
+<h2 style="color:DarkBlue;" vspace="2px;">2025</h2>
+
+<ol>  
+
+<li> - Dec: Our paper on Efficient MNL Assortment Optimization is accepted to ICLR'25.</li>
+  
+</ol>
+
+<p style="text-align:right;">... <em>stay tuned!</em></p> 
   
 <h2 style="color:DarkBlue;" vspace="2px;">2024</h2>
 
@@ -55,8 +65,6 @@ a:active {
 <li> - Jan: We got six new papers accepted! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Check out publications for more details.</li>
 
 </ol>
-
-<p style="text-align:right;">... <em>stay tuned!</em></p> 
 
 <h2 style="color:DarkBlue;" vspace="-2px;">2023</h2>
 
