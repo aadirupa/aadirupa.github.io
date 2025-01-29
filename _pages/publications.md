@@ -146,9 +146,8 @@ a:active {
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
 
-<h2 style="color:DarkRed;">2024</h2>  
+<h2 style="color:DarkRed;">2025</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
-  
 <ul style="margin:1;padding:1"> 
   <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
@@ -162,7 +161,13 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </details>
  </li>
 
+
+</ul>    
+
+<h2 style="color:DarkRed;">2024</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
+<ul style="margin:1;padding:1"> 
   <li>  <b>Strategic Linear Contextual Bandits.</b>  <a href="https://arxiv.org/pdf/2406.00551" target="_blank" LINK="red"> [Arxiv version]</a>
   <br> Thomas Kleine Buening, Aadirupa Saha, Haifeng Xu, Christos Dimitrakakis
   <br> In Neural Information Processing Systems, NeurIPS 2024  
