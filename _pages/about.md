@@ -119,17 +119,17 @@ a:active {
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
-  <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
+  <li>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br> International Conference on Learning Representations (ICLR), 2025   
   </li>
 
-  <li> <b>Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</b> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">[Arxiv version]</a>
+  <li> <a href="https://arxiv.org/abs/2303.09033" target="_blank" LINK="red">Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling.</a>
   <br>  Aadirupa Saha, Branislav Kveton
   <br> International Conference on Learning Representations (ICLR), 2024 
   </li>
   
-  <li>  <b>Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</b>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <li>  <a href="https://arxiv.org/abs/2302.03805" target="_blank" LINK="red">Eliciting User Preferences for Personalized Multi-Objective Decision Making through Comparative Feedback</a>
   <br>  Han Shao, Lee Cohen, Avrim Blum, Yishay Mansour, Aadirupa Saha, Mathew Walter
   <br>  In Neural Information Processing Systems, NeurIPS 2023</li> 
   
