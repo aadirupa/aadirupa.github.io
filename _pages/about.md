@@ -50,8 +50,6 @@ a:active {
 
 <p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the UIC PhD program (and do mention my name in your application).</p>
 
-<br><br>
-
 <font color="Blue"><b>On a personal note, </b></font> 
 <br>
 <p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a> and am a proud daughter of <a href="https://sites.google.com/site/kashinathsaha2?pli=1&authuser=2">Prof. Saha</a> (as popular among his students as a super strict teacher, yet a truly charismatic and caring mentor)! I deeply wish to contribute to the education of students battling with <a href="https://en.wikipedia.org/wiki/Haemophilia">Hemophilia</a>. <i>If you are connected to any Hemophilia Welfare Organization or believe that my support in any capacity can make a difference, please do not hesitate to reach out.</i> Carrying forward my father's passion, I would love to collaborate with any organization or individual who shares the mission of improving the lives of hemophilic students and supporting their education.</p>
