@@ -45,11 +45,13 @@ Hi, thanks for your interest!
 <p align="justify" vspace = "-0px" width="200px"> I am a tenure-track assistant professor at the <a href="https://cs.uic.edu/">Department of Computer Science</a>, University of Illinois <a href="https://www.uic.edu/">(UIC)</a>, Chicago. Before this, I was a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory and a short-term visiting-faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>. I completed my postdoc at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a> and PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to be advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a> during my PhD, and to have been a part of several internships, including <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>; <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>; and <a href="https://ai.google/">Google AI, Mountain View</a>.</p>   
 
 <font color="SteelBlue">Main Research Focus:</font> AI-Alignment with RLHF. 
-<be>
+<br>
 <font color="SteelBlue">Research Areas:</font> Machine Learning (esp. Online Learning theory, Bandits, Reinforcement Learning), Optimization, Federated Learning, Differential Privacy, and Mechanism Design.
 <br>
  
 <p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my past ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. I am also interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, assortment optimization and strategic mechanisms. Feel free to reach out if you are interested!</p>
+
+<font color="SteelBlue">Prospective Students:</font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the UIC PhD program (and do mention my name in your application).
 
 <font color="SteelBlue">On a personal note, </font> 
 <br>
