@@ -38,9 +38,6 @@ a:active {
 </head>  
   
 <body>
-
-Hi, thanks for your interest!
-<br><br>
   
 <p align="justify" vspace = "-0px" width="200px"> I am a tenure-track assistant professor at the <a href="https://cs.uic.edu/">Department of Computer Science</a>, University of Illinois <a href="https://www.uic.edu/">(UIC)</a>, Chicago. Before this, I was a research scientist at <a href="https://machinelearning.apple.com/">Apple MLR</a>, broadly working in the area of Machine Learning theory and a short-term visiting-faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>. I completed my postdoc at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/">Microsoft Research New York City</a> and PhD from the department of <a href="https://www.csa.iisc.ac.in">Computer Science</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I was fortunate to be advised by <a href="https://ece.iisc.ac.in/~aditya/">Aditya Gopalan</a> and <a href="https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/">Chiranjib Bhattacharyya</a> during my PhD, and to have been a part of several internships, including <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research, Bangalore</a>; <a href="https://www.inria.fr/en/centre-inria-de-paris">Inria, Paris</a>; and <a href="https://ai.google/">Google AI, Mountain View</a>.</p>   
 
