@@ -40,7 +40,9 @@ a:active {
 
 <ol>  
 
-<li> - Dec: Our paper on Efficient MNL Assortment Optimization is accepted to ICLR'25.</li>
+<li> - Jan: Our paper on Efficient MNL Assortment Optimization is accepted to ICLR'25.</li>
+
+<li> - Feb: Left Apple and joined UIC as a tenure-track assistant professor. Hola, Dear Students!</li>
   
 </ol>
 
