@@ -74,7 +74,7 @@ a:active {
 -->  
 
 
-<hr style="color:black;"> 
+<!-- <hr style="color:black;"> 
 <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>,
    <!--<a href="https://arindam.cs.illinois.edu/" target="_blank">Arindam Banerjee</a>,-->
@@ -110,7 +110,7 @@ a:active {
    <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>,
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
-  (in alphabetical order).</p>    
+  (in alphabetical order).</p>   --> 
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
