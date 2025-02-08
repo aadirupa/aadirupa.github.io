@@ -48,7 +48,7 @@ a:active {
  
 <p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my past ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. I am also interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, assortment optimization and strategic mechanisms. Feel free to reach out if you are interested!</p>
 
-<p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the UIC PhD program (and do mention my name in your application).</p>
+<p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the <b>UIC-CS PhD program</b> (and do mention my name in your application).</p>
 
 <font color="Blue"><b>On a personal note, </b></font> 
 <br>
