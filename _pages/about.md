@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -46,7 +45,7 @@ a:active {
 <font color="SteelBlue">Research Areas:</font> Machine Learning (esp. Online Learning theory, Bandits, Reinforcement Learning), Optimization, Federated Learning, Differential Privacy, and Mechanism Design.
 <br>
  
-<p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my past ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. I am also interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, assortment optimization and strategic mechanisms. Feel free to reach out if you are interested!</p>
+<p align="justify"> My primary research focuses on developing, improving, and analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems, ... almost any system can improve itself through user interaction. A bit more generally, my work focuses on building large-scale, robust, intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, rankings, etc. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work comes under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p>
 
 <p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the <b>UIC-CS PhD program</b> (and do mention my name in your application).</p>
 
