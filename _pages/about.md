@@ -50,9 +50,11 @@ a:active {
 
 <font color="SteelBlue">Prospective Students:</font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the UIC PhD program (and do mention my name in your application).
 
-<font color="SteelBlue">On a personal note, </font> 
 <br>
-<p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a> and am a proud daughter of <a href="https://sites.google.com/site/kashinathsaha2?pli=1&authuser=2">Prof. Saha</a> (as popular among his students as a super strict teacher, yet a truly charismatic and caring mentor)! I deeply wish to contribute to the education of students battling with <a href="https://en.wikipedia.org/wiki/Haemophilia">Hemophilia</a>. <font color="#800080">If you are connected to any Hemophilia Welfare Organization or believe that my support in any capacity can make a difference, please do not hesitate to reach out.</font> Carrying forward my father's passion, I would love to collaborate with any organization or individual who shares the mission of improving the lives of hemophilic students and supporting their education.</p>
+
+<font color="SteelBlue"><b>On a personal note, </b></font> 
+<br>
+<p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a> and am a proud daughter of <a href="https://sites.google.com/site/kashinathsaha2?pli=1&authuser=2">Prof. Saha</a> (as popular among his students as a super strict teacher, yet a truly charismatic and caring mentor)! I deeply wish to contribute to the education of students battling with <a href="https://en.wikipedia.org/wiki/Haemophilia">Hemophilia</a>. <font color="#800080"><it>If you are connected to any Hemophilia Welfare Organization or believe that my support in any capacity can make a difference, please do not hesitate to reach out.</it></font> Carrying forward my father's passion, I would love to collaborate with any organization or individual who shares the mission of improving the lives of hemophilic students and supporting their education.</p>
 
 <!-- <details>
   <summary><span style="color:SteelBlue;" align="justify"> Short Bio (in third person)</span></summary>
