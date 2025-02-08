@@ -61,7 +61,7 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>
 
-<br>
+<br><br>
 
 <p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the <b>UIC-CS PhD program</b> (and do mention my name in your application).</p>
 
@@ -80,15 +80,8 @@ a:active {
   </details> -->
 
 <!-- COMMENT STARTS
-
-<a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
-<a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
-<a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
-<a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
-<a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
-
-  <hr style="color:black;"> 
- <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
+<hr style="color:black;"> 
+<p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
@@ -120,7 +113,8 @@ a:active {
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p> 
- [Nadav Merlis]()
+ [Nadav Merlis]() 
+  COMMENT ENDS -->
  
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
@@ -171,8 +165,6 @@ a:active {
 </ul>
 
 <hr style="color:black;"> 
-
- COMMENT ENDS -->
  
  
 </body>
