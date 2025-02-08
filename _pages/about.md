@@ -49,8 +49,13 @@ a:active {
 <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>-->  
- 
-<p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p>
+
+<details>
+<summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
+<span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
+ <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p> 
+</span>
+</details>
 
 <p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the <b>UIC-CS PhD program</b> (and do mention my name in your application).</p>
 
