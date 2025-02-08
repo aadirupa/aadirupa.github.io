@@ -67,9 +67,9 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
-
-<button type="button" class="collapsible">Collaborators:</button>
-<div class="content">
+<details>
+<summary><span style="color:SteelBlue;" align="justify"> Collaborators </span></summary>
+<span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
   <p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
    <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>,
    <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
@@ -105,7 +105,13 @@ a:active {
    <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p>
-</div>
+</span>
+</details>
+
+<button type="button" class="collapsible">Collaborators:</button>
+<div class="content">
+  hello world
+ </div>
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
