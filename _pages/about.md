@@ -52,7 +52,7 @@ Hi, thanks for your interest!
 <p align="justify"> My research focuses on developing large-scale robust algorithms for sequential decision-making tasks under restricted and unconventional feedback, for e.g., preference information, click data, proxy rewards, partial ranking, etc. Some of my past ventures also include handling complex prediction environments, like combinatorial decision spaces, dynamic regret, multiplayer games, distributed optimization, etc. Recently, I have also been interested in the interdisciplinary fields of prediction modeling with algorithmic fairness, assortment optimization and strategic mechanisms. Please feel free to reach out if you are interested in brainstorming any of these related directions!</p>
 
 <!--<p> First and foremost, I am my <a href="https://www.youtube.com/@KASHINATHSAHA">dad</a>'s daughter, He is with me always.</p> --> 
-<p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a> and a proud daughter of Prof. Saha (as popular among his students).</p>-->
+<p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father</a> and a proud daughter of Prof. Saha (as popular among his students).</p>
 
 <!-- <details>
   <summary><span style="color:SteelBlue;" align="justify"> Short Bio (in third person)</span></summary>
