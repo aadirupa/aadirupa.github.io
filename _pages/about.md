@@ -72,8 +72,6 @@ Aadirupa has organized several workshops and tutorials in recent years, includin
 
 She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View. <a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/aadirupa-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0" target="_blank">[Brief Resume]</a> (Last updated: Oct 15, 2023) -->
 
-<br>
-
 <a href="https://aadirupa.github.io#selected_publications">[Selected Papers]</a> &nbsp;
 <a href="https://aadirupa.github.io/publications#full_publications" target="_blank">[Full List]</a> &nbsp;
 <a href="https://scholar.google.co.in/citations?user=7a49tQYAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;
