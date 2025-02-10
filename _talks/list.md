@@ -5,27 +5,6 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-<details>
-<summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
-<p style="font-size:1em; color:Black; text-align:justify;">
-    Aadirupa Saha is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
-</p>
-
-<p style="font-size:1em; color:Black; text-align:justify;">
-    Her primary research focuses on AI alignment through Reinforcement Learning with Human Feedback (RLHF), with applications in language models, assistive robotics, autonomous systems, and personalized AI. More broadly, she works on Machine Learning theory, including online learning, multi-armed bandits, reinforcement learning, optimization, federated learning, differential privacy, and mechanism design. Her research aims to develop robust and scalable AI models for sequential decision-making under uncertain and partial feedback.
-</p>
-
-<p style="font-size:1em; color:Black; text-align:justify;">
-    Aadirupa has organized several workshops and tutorials in recent years, including a 
-    <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home" style="color:red;">[NeurIPS, 2023]</a> tutorial on Preference Learning, a  
-    <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" style="color:red;">[UAI, 2023]</a> tutorial on Federated Optimization, two tutorials at 
-    <a href="https://sites.google.com/view/olpf/home" target="_blank" style="color:red;">[ECML, 2022]</a>, 
-    <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" style="color:red;">[ACML, 2021]</a>,
-    and multiple ICML and TTIC workshops.
-</p>
-</details>
-
-
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
 
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
