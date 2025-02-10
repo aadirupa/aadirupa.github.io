@@ -5,6 +5,15 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
+
+  <summary><span style="color:SteelBlue;" align="justify"> Short Bio (in third person)</span></summary>
+  <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
+    Aadirupa is currently a research scientist at Apple ML research, broadly working in the area of Machine Learning theory. She did a short-term research visit at Toyota Technological Institute, Chicago (TTIC), after finishing her postdoc at Microsoft Research New York City. Aadirupa obtained her Ph.D. from IISc Bangalore under Aditya Gopalan and Chiranjib Bhattacharyya. 
+    <br>
+   Her research primarily focuses on designing Efficient Human Aligned Prediction Models: Few specific research areas include Online learning theory, Bandits & RL, Federated Optimization, and Differential Privacy. Of late, she has also been working on some problems at the intersection of Mechanism Design, Game Theory and Algorithmic Fairness. Aadirupa has organized several workshops and tutorials in recent years, including a <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home"> [NeurIPS, 2023] </a> tutorial on Preference Learning, a  <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red">[UAI, 2023] ]</a> tutorial on Federated Optimization, two tutorials at <a href="https://sites.google.com/view/olpf/home" target="_blank" LINK="red"> [ECML, 2022] </a>, <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" LINK="red"> [ACML, 2021]</a>, two ICML workshops <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML, 2023] </a> and <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [ICML, 2022]</a>, and two TTIC workshops  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red">[TTIC, 2023]</a> and <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red">[TTIC, 2022]</a>. She has also served in different panel discussions and reviewing committees. 
+    <a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/aadirupa-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0" target="_blank">[Brief Resume]</a> (Last updated: Oct 15, 2023)
+  </span>
+
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
 <dl style="margin:0px;margin-bottom:0">
