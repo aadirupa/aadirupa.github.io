@@ -6,17 +6,6 @@ permalink: /talks/list.md
 ---
 
 <details>
-<summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
-<span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
- <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. 
-   
-<br> <br>
-
-A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p> 
-</span>
-</details>
-
-<details>
 <summary><span style="color:SteelBlue;" align="justify"> Short Bio [In third person]</span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
 <p align="justify">Aadirupa Saha is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
