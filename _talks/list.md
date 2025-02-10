@@ -5,8 +5,6 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 
-<hr style="height:1px;border-width:0;color:black;background-color:black"> 
-
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
 <dl style="margin:0px;margin-bottom:0">
