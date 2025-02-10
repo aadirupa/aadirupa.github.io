@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/list.md
 ---
 <details>
-<summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
+<summary><span style="color:SteelBlue;"> <b>Short Bio [In third person]</b></span></summary>
 <p align="justify">Aadirupa Saha is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science (IISc), Bangalore. 
     <br>
 Her primary research focuses on AI alignment through Reinforcement Learning with Human Feedback (RLHF), with applications in language models, assistive robotics, autonomous systems, and personalized AI. More broadly, she works on Machine Learning theory, including online learning, multi-armed bandits, reinforcement learning, optimization, federated learning, differential privacy, and mechanism design. Her research aims to develop robust and scalable AI models for sequential decision-making under uncertain and partial feedback.    
