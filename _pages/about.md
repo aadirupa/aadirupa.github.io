@@ -61,19 +61,20 @@ A bit more generally, my work focuses on building large-scale, robust, and intel
 
 <br>
 
-<!-- <details>
+<details>
 <summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
 <p align="justify">Aadirupa Saha is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
     <br>
 Her primary research focuses on AI alignment through Reinforcement Learning with Human Feedback (RLHF), with applications in language models, assistive robotics, autonomous systems, and personalized AI. More broadly, she works on Machine Learning theory, including online learning, multi-armed bandits, reinforcement learning, optimization, federated learning, differential privacy, and mechanism design. Her research aims to develop robust and scalable AI models for sequential decision-making under uncertain and partial feedback.    
     <br>
-Aadirupa has organized several workshops and tutorials in recent years, including a <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home"> [NeurIPS, 2023] </a> tutorial on Preference Learning, a  <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red">[UAI, 2023] ]</a> tutorial on Federated Optimization, two tutorials at <a href="https://sites.google.com/view/olpf/home" target="_blank" LINK="red"> [ECML, 2022] </a>, <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" LINK="red"> [ACML, 2021]</a>, two ICML workshops <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML, 2023] </a> and <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [ICML, 2022]</a>, and two TTIC workshops  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red">[TTIC, 2023]</a> and <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red">[TTIC, 2022]</a>. She has also served in different panel discussions and reviewing committees. </p>
+Aadirupa has organized several workshops and tutorials in recent years, including a <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home"> [NeurIPS, 2023] </a> tutorial on Preference Learning, a  <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red">[UAI, 2023] ]</a> tutorial on Federated Optimization, two tutorials at <a href="https://sites.google.com/view/olpf/home" target="_blank" LINK="red"> [ECML, 2022] </a>, <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" LINK="red"> [ACML, 2021]</a>, two ICML workshops <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML, 2023] </a> and <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [ICML, 2022]</a>, and two TTIC workshops  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red">[TTIC, 2023]</a> and <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red">[TTIC, 2022]</a>. In addition, Aadirupa has also served in several **panel discussions and senior reviewing committees** for major Machine Learning conferences. </p>
 </span>
 </details>
-<a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/aadirupa-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0" target="_blank">[Brief Resume]</a> (Last updated: Oct 15, 2023) -->
+
+<!--<a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/aadirupa-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0" target="_blank">[Brief Resume]</a> (Last updated: Oct 15, 2023) -->
 
 
-<details>
+<!-- <details>
 <summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
 <p style="font-size:1em; color:Black; text-align:justify;">
     Aadirupa Saha is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
@@ -91,7 +92,7 @@ Aadirupa has organized several workshops and tutorials in recent years, includin
     <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" style="color:red;">[ACML, 2021]</a>,
     and multiple ICML and TTIC workshops.
 </p>
-</details>
+</details> -->
 
 <br>
 
