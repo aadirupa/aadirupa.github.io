@@ -43,33 +43,29 @@ a:active {
  
 <body>  
 
-<h2 style="color:DarkBlue;" vspace="2px;">2025</h2>
+<h2 style="color:DarkBlue;" vspace="2px;"> University of Illinois, Chicago (UIC) </h2>
 
 <ol>  
 
-<li> - Jan: Our paper on Efficient MNL Assortment Optimization is accepted to ICLR'25.</li>
-
-<li> - Feb: Left Apple and joined UIC as a tenure-track assistant professor. Hola Acamedia! Good to be back!</li>
+<li> - <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
   
 </ol>
 
-<h2 style="color:DarkBlue;" vspace="2px;">2024</h2>
+<h2 style="color:DarkBlue;" vspace="2px;"> Indian Institute of Science (IISc), Bangalore [Teaching Assistant] </h2>
 
 <ol>  
 
-<!-- <li> Survey out on Alignment and Preferneces </li> 
-<li> 2 New papers on arXiv: Rotting, Elad, Rob</li>    
--->
+<li> <font color="#1E90FF"> [Fall 2018] </font> E1-245: Online Prediction and Learning </li>
 
-<li> - Dec: One conference and one workshop paper at NeurIPS'24. See you in Vancouver!</li>
+<li> <font color="#1E90FF"> [Fall 2017] </font> E0-225: Design and Analysis of Algorithms </li>
   
-<li> - Jul: New ICML Workshop on <a href="https://sites.google.com/view/mhf-icml2024" LINK="red">Models of Human Feedback for AI Alignment</a>. Co-organizing with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia. Stay tuned, more details on the way! </li>
+<li> <font color="#1E90FF"> [Spring 2017] </font> E0-270: Machine Learning </li>
 
-<li> - May: Our UAI'24 paper got accepted!</li>
-  
-<!-- <li> - Feb: New blog out! On "Recent trends in preference learning, RLHF and fine tunings of LLM". Link <a href="https://www.preference-learning.org/" LINK="red">here</a>. </li> -->
+<li> <font color="#1E90FF"> [Spring 2017] </font> UM-102: Analysis and Linear Algebra-II </li>
 
-<li> - Jan: We got six new papers accepted! 1 in ALT'24, 2 in ICLR'24 and 3 in AISTATS'24. Check out publications for more details.</li>
+<li> <font color="#1E90FF"> [Fall 2016] </font> E0-230: Computational Methods of Optimization </li>
+
+<li> <font color="#1E90FF"> [Fall 2016] </font> UM-201: Probability and Statistics </li>
 
 </ol>
 
