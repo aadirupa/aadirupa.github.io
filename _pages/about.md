@@ -67,9 +67,12 @@ A bit more generally, my work focuses on building large-scale, robust, and intel
 
 <p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the <b>UIC-CS PhD program</b> (and do mention my name in your application).</p>
 
-<font color="Blue"><b>On a personal note, </b></font> 
-<br>
+<details>
+<summary><span style="color:SteelBlue;" align="justify"> <font color="Blue"><b>On a personal note, </b></font> </span></summary>
+<span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
 <p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">Father</a> and am a proud daughter of <a href="https://sites.google.com/site/kashinathsaha2?pli=1&authuser=2">Prof. Saha</a> (as fondly popular among his students, being a super strict teacher yet a truly charismatic and caring mentor)! I deeply wish to contribute to the education of students battling with <a href="https://en.wikipedia.org/wiki/Haemophilia">Hemophilia</a>. <i>If you are connected to any Hemophilia Welfare Organization or believe that my support in any capacity can make a difference, please do not hesitate to reach out.</i> Carrying forward my father's passion, I would love to collaborate with any organization, research lab, or individual who shares the mission of improving the lives of hemophilic students and supporting their education.</p>
+</span>
+</details>
 
 <!-- <details>
   <summary><span style="color:SteelBlue;" align="justify"> Short Bio (in third person)</span></summary>
@@ -81,43 +84,6 @@ A bit more generally, my work focuses on building large-scale, robust, and intel
   </span>
   </details> -->
 
-<!-- COMMENT STARTS
-<hr style="color:black;"> 
-<p align="justify" vspace = "0px" width="160px"><font color="SteelBlue">Collaborators.</font> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
-   <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
-   <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
-   <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
-   <a href="https://www.ttic.edu/faculty/cohen/" target="_blank">Lee Cohen</a>, 
-   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, 
-   <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
-   <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
-   <a href="https://sites.google.com/view/suprovat/home" target="_blank">Suprovat Ghoshal</a>,
-   <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>,
-   <a href="https://www.kiml.ifi.lmu.de/team/huellermeier/" target="_blank">Eyke Hüllermeier</a>,
-   <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
-   <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
-   <a href="https://sites.google.com/view/thomaskb" target="_blank">Thomas Kleine Buening</a>, 
-   <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
-   <a href="https://bkveton.com/" target="_blank">Branislav Kveton</a>, 
-   <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
-   <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
-   <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
-   <a href="https://sites.google.com/view/nadav-merlis/" target="_blank">Nadav Merlis</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
-   <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
-   <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
-   <a href="https://kishinmh.github.io/" target ="_blank">Kshitij Patel</a>, 
-   <a href="https://sites.google.com/view/hanshao" target="_blank">Han Shao</a>, 
-   <a href="https://nati.ttic.edu/" target="_blank">Nati Srebro</a>, 
-   <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
-   <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>,
-   <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
-   <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
-  (in alphabetical order).</p> 
- [Nadav Merlis]() 
-  COMMENT ENDS -->
- 
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
