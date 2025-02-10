@@ -53,6 +53,7 @@ a:active {
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
  <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. 
    
+<br>
 A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p> 
 </span>
 </details>
@@ -75,16 +76,6 @@ A bit more generally, my work focuses on building large-scale, robust, and intel
 <p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father's lectures</a> and am a proud daughter of <a href="https://sites.google.com/site/kashinathsaha2?pli=1&authuser=2">Prof. Saha</a> (as fondly popular among his students, being a super strict teacher yet a truly charismatic and caring mentor)! I deeply wish to contribute to the education of students battling with <a href="https://en.wikipedia.org/wiki/Haemophilia">Hemophilia</a>. If you are connected to any <i>Hemophilia Welfare Organization</i> and believe that my support in any capacity can make a difference, please do not hesitate to reach out. Carrying forward my father's passion, I would love to collaborate with any organization, research lab, or individual who shares the mission of improving the lives of hemophilic students and supporting their education.</p>
 </span>
 </details>
-
-<!-- <details>
-  <summary><span style="color:SteelBlue;" align="justify"> Short Bio (in third person)</span></summary>
-  <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
-    Aadirupa is currently a research scientist at Apple ML research, broadly working in the area of Machine Learning theory. She did a short-term research visit at Toyota Technological Institute, Chicago (TTIC), after finishing her postdoc at Microsoft Research New York City. Aadirupa obtained her Ph.D. from IISc Bangalore under Aditya Gopalan and Chiranjib Bhattacharyya. 
-    <br>
-   Her research primarily focuses on designing Efficient Human Aligned Prediction Models: Few specific research areas include Online learning theory, Bandits & RL, Federated Optimization, and Differential Privacy. Of late, she has also been working on some problems at the intersection of Mechanism Design, Game Theory and Algorithmic Fairness. Aadirupa has organized several workshops and tutorials in recent years, including a <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home"> [NeurIPS, 2023] </a> tutorial on Preference Learning, a  <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red">[UAI, 2023] ]</a> tutorial on Federated Optimization, two tutorials at <a href="https://sites.google.com/view/olpf/home" target="_blank" LINK="red"> [ECML, 2022] </a>, <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" LINK="red"> [ACML, 2021]</a>, two ICML workshops <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML, 2023] </a> and <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [ICML, 2022]</a>, and two TTIC workshops  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red">[TTIC, 2023]</a> and <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red">[TTIC, 2022]</a>. She has also served in different panel discussions and reviewing committees. 
-    <a href="https://www.dropbox.com/scl/fi/mk97cug7omc6icdfz3htx/aadirupa-cv-web.pdf?rlkey=w7un7napmd6eoh25yc61ghn19&dl=0" target="_blank">[Brief Resume]</a> (Last updated: Oct 15, 2023)
-  </span>
-  </details> -->
 
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
