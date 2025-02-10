@@ -114,11 +114,17 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<!--
+<li>  <b>Hybrid Preference Optimization for Alignment: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Avinandan Bose, Zhihan Xiong, Aadirupa Saha, Simon Shaolei Du, Maryam Fazel
+</li>
+
+<li>  <b>Tracking the Best Expert Privately</b>  <a href=" " target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+<br>  Hilal Asi, Vinod Raman, Aadirupa Saha
+</li>
+
  <li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
+<br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
  </li>
--->  
 
 <!--
  <li>  <b>Optimal Rates for DCO</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
@@ -131,8 +137,8 @@ a:active {
 -->
 
 <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
-  <br>  Aadirupa Saha, Hilal Asi
- </li>
+<br>  Aadirupa Saha, Hilal Asi
+</li>
   
   <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
