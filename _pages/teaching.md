@@ -47,7 +47,7 @@ a:active {
 
 <ol>  
 
-<li> - <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
+<li> <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
   
 </ol>
 
