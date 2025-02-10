@@ -46,7 +46,7 @@ a:active {
   
 </ol>
 
-<p style="text-align:right;">... <em>stay tuned!</em></p> 
+<!--<p style="text-align:right;">... <em>stay tuned!</em></p> -->
   
 <h2 style="color:DarkBlue;" vspace="2px;">2024</h2>
 
