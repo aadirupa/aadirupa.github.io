@@ -53,7 +53,7 @@ a:active {
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
  <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. 
    
-<br>
+<br> <br>
 
 A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p> 
 </span>
