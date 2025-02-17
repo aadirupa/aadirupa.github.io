@@ -106,7 +106,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2023, 2024</font></li>
+  <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2023, 2024, 2025</font></li>
   <li>Uncertainty in Artificial Intelligence (UAI): <font color="#008080">2024</font></li>
   <li>International Conference of Machine Learning (ICML): <font color="#008080">2025</font></li>
   <li>International Conference on Learning Representations (ICLR): <font color="#008080">2024, 2025</font></li>
