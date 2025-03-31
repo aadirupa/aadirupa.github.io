@@ -118,7 +118,7 @@ a:active {
 <br>  Avinandan Bose, Zhihan Xiong, Aadirupa Saha, Simon Shaolei Du, Maryam Fazel
 </li>
 
-<li>  <b>Tracking the Best Expert Privately</b>  <a href=" " target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+<li>  <b>Tracking the Best Expert Privately</b>  <a href="https://arxiv.org/abs/2503.09889" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Hilal Asi, Vinod Raman, Aadirupa Saha
 </li>
 
