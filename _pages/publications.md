@@ -118,10 +118,6 @@ a:active {
 <br>  Avinandan Bose, Zhihan Xiong, Aadirupa Saha, Simon Shaolei Du, Maryam Fazel
 </li>
 
-<li>  <b>Tracking the Best Expert Privately</b>  <a href="https://arxiv.org/abs/2503.09889" target="_blank" LINK="red"> [Arxiv version]</a>
-<br>  Hilal Asi, Vinod Raman, Aadirupa Saha
-</li>
-
  <li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
 <br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
  </li>
@@ -134,18 +130,18 @@ a:active {
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
+
+  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
 -->
 
 <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Aadirupa Saha, Hilal Asi
 </li>
   
-  <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour</li>
+  
  
-  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
-
+  
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="full_publications">Full list of Publications:</a></h2>
@@ -153,6 +149,17 @@ a:active {
 <h2 style="color:DarkRed;">2025</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
+
+ <li>  <b>Tracking the Best Expert Privately</b>  <a href="https://arxiv.org/abs/2503.09889" target="_blank" LINK="red"> [Arxiv version]</a> 
+ <br>  Hilal Asi, Vinod Raman, Aadirupa Saha (alphabetical)
+ <br>  International Conference on Machine Learning, ICML 2025
+ </li> 
+
+  <li>  <b>Dueling Convex Optimization for General Preferences: An Unified Framework for Optimal Convergence Rates.</b>  <a href="https://arxiv.org/pdf/2210.02562.pdf" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Aadirupa Saha, Tomer Koren, Yishay Mansour
+  <br>  International Conference on Machine Learning, ICML 2025
+  </li> 
+  
   <li>  <b>Stop Relying on No-Choice and Do not Repeat the Moves: Optimal, Efficient and Practical Algorithms for Assortment Optimization</b>  <a href="https://arxiv.org/abs/2402.18917" target="_blank" LINK="red"> [Arxiv version]</a>
   <br>  Aadirupa Saha, Pierre Gaillard
   <br> International Conference on Learning Representations (ICLR), 2025   
