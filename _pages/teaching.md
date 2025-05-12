@@ -48,6 +48,8 @@ a:active {
 <ol>  
 
 <li> <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
+<li> <font color="#1E90FF"> [Summer 2025] </font> CS-411: Artificial Intelligence.</li>
+<li> <font color="#1E90FF"> [Fall 2025] </font> CS-594: RLHF Theory for AI-Alignment and Efficient LLMs.</li>
   
 </ol>
 
