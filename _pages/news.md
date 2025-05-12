@@ -40,6 +40,10 @@ a:active {
 
 <ol>  
 
+<li> Teaching an AI summer course at UIC. Enroll to <a href="https://meng.uic.edu/apply/?utm_source=google&utm_medium=cpc&utm_campaign=visionpoint_uic_pros&utm_content=engineering-branded" target="_blank" LINK="red">Online MEng CS-411</a> by May 31st! </li>
+
+<li> Two papers accepted to ICML'25. </li>
+
 <li> - Jan: Our paper on Efficient MNL Assortment Optimization is accepted to ICLR'25.</li>
 
 <li> - Feb: Left Apple and joined UIC as a tenure-track assistant professor. Hola Acamedia! Good to be back!</li>
