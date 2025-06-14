@@ -72,6 +72,9 @@ tags:
     <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">RL Theory Monograph</a> by Agarwal, Jiang, Kakade, and Sun. Participants will take turns presenting key concepts weekly, with occasional discussions drawing from classic texts <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: An Introduction</a> by Sutton and Barto. 
     The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
     </p>
+
+    <p> Timing: Tuesday - Friday, 5:30-7 PM Central </p>
+    
     </div>
 
     <div id="Schedule" class="tabcontent">
@@ -98,15 +101,18 @@ tags:
           <li>
             <strong>SB:</strong>
             <a href="https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf" target="_blank">
-              Sutton & Barto – Reinforcement Learning: An Introduction (Textbook)
-            </a>
+              Reinforcement Learning: An Introduction</a> bySutton & Barto
           </li>
           <li>
             <strong>RLM:</strong>
             <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">
-              RL Theory Monograph by Agarwal, Jiang, Kakade, Sun
-            </a>
+              RL: Theory & Algorithms</a> by Agarwal, Jiang, Kakade, Sun
           </li>
+          <li>
+          <strong>FRL:</strong>
+          <a href="https://arxiv.org/abs/2312.16730" target="_blank">
+            Foundations of Reinforcement Learning and Interactive Decision Making</a> by Foster & Rakhlin
+        </li>
           <li>
             <strong>AK:</strong>
             <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" target="_blank">
