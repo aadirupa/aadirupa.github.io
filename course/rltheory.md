@@ -56,7 +56,7 @@ author_profile: true
             border: none;
             outline: none;
             cursor: pointer;
-            padding: 2px 2px;
+            padding: 10px 15px;
             transition: 0.3s;
         }
         .tab button:hover {
