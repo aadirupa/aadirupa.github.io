@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar
+layout: archive-taxonomy
 title: "Summer25 Reading Group"
 date: 2025-06-10
 permalink: /course/rltheory/
