@@ -1,11 +1,13 @@
 ---
-title: 'Summer25 Reading Group'
+layout: archive
+title: ""
 date: 2025-06-10
 permalink: /course/rltheory/
 tags:
   - rl
   - theory
   - course
+author_profile: true
 ---
 
 <html lang="en">
@@ -14,6 +16,29 @@ tags:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RL Theory Summer Reading Group</title>
     <style>
+      a:link {
+        color: RoyalBlue;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: Purple;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: RoyalBlue;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: DarkRed;
+        background-color: transparent;
+        text-decoration: underline;
+      }
       body {
         font-family: sans-serif;
         margin: 0;
