@@ -44,7 +44,7 @@ author_profile: true
        .container {
         max-width: 1500px; 
         margin: 0 auto;
-        padding: 10px;
+        padding: 2px;
         }
         .tab {
             overflow: hidden;
@@ -56,7 +56,7 @@ author_profile: true
             border: none;
             outline: none;
             cursor: pointer;
-            padding: 10px 20px;
+            padding: 2px 2px;
             transition: 0.3s;
         }
         .tab button:hover {
@@ -67,7 +67,7 @@ author_profile: true
         }
         .tabcontent {
             display: none;
-            padding: 10px;
+            padding: 2px;
         }
         table {
             width: 100%;
@@ -75,8 +75,8 @@ author_profile: true
         }
         
         th, td {
-            padding: 12px 16px;
-            border: 0px solid #ccc;
+            padding: 2px 2px;
+            border: 1px solid #ccc;
             text-align: left;
             vertical-align: top;
             white-space: normal;
