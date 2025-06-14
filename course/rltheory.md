@@ -102,7 +102,14 @@ tags:
                 <td>2025-06-13</td>
                 <td>Zhengyao</td>
                 <td>MDP Basics, Values, Policies, Bellman Consistency Equation</td>
-                <td>RLM (Chapter 1.1.1 - 1.1.3), AK (Lecture 5)</td>
+                <td>RLM (Chap 1.1.1 - 1.1.3), AK (Lec 5)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-06-17</td>
+                <td>Zhengyao</td>
+                <td>Bellman Optimality Equations, Value Iteration, Policy Iteration, Convergence Results</td>
+                <td>RLM (Thm 1.7, 1.8. Chap 1.3.1 - 1.3.3), AK (Lec 5, 6)</td>
                 <td>-</td>
             </tr>
         </table>
