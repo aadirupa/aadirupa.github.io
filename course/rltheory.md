@@ -69,6 +69,25 @@ author_profile: true
             display: none;
             padding: 10px;
         }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed;
+            word-wrap: break-word;
+        }
+        
+        th, td {
+            padding: 12px 16px;
+            border: 1px solid #ccc;
+            text-align: left;
+            vertical-align: top;
+            word-break: break-word;
+            white-space: normal;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
     </style>
     <script>
         function openTab(evt, tabName) {
