@@ -73,7 +73,7 @@ tags:
     The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
     </p>
 
-    <p> Timing: Tuesday - Friday, 5:30-7 PM Central </p>
+    <p> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
     
     </div>
 
@@ -83,14 +83,16 @@ tags:
             <tr>
                 <th>Date</th>
                 <th>Presenter</th>
+                <th>Topics</th>
                 <th>Resource</th>
                 <th>Notes</th>
             </tr>
             <tr>
-                <td>2025-06-20</td>
-                <td>Alice</td>
-                <td><a href="#">Intro Slides</a></td>
-                <td>Overview of ML</td>
+                <td>2025-06-13</td>
+                <td>Zhengyao</td>
+                <td>MDP Basics, Values, Policies, Bellman Consistency Equation</td>
+                <td>RLM (Chapter 1.1.1 - 1.1.3), AK (Lecture 5)</td>
+                <td>-</td>
             </tr>
         </table>
     </div>
