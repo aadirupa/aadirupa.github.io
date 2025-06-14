@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Summer25 Reading Group"
+title: ""
 date: 2025-06-10
 permalink: /course/rltheory/
 tags:
@@ -91,7 +91,7 @@ author_profile: true
     </script>
 </head>
 <body>
-    <h2>Reinforcement Learning Theory</h2>
+    <h1>Summer25 Reading Group: Reinforcement Learning Theory</h1>
     <!--<p>Instructor: Aadirupa Saha</p>-->
 
     <div class="tab">
