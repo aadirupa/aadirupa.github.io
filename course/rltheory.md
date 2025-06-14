@@ -14,6 +14,17 @@ tags:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RL Theory Summer Reading Group</title>
     <style>
+      body {
+        font-family: sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #fff;
+        }
+       .container {
+        max-width: 1200px; 
+        margin: 0 auto;
+        padding: 20px;
+        }
         .tab {
             overflow: hidden;
             border-bottom: 1px solid #ccc;
