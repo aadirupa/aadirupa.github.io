@@ -1,6 +1,6 @@
 ---
-title: 'RL Theory Reading Group'
-date: 2025-06-12
+title: 'Summer'25 Reading Group'
+date: 2025-06-10
 permalink: /course/rltheory/
 tags:
   - rl
@@ -12,7 +12,7 @@ tags:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Machine Learning Course</title>
+    <title>RL Theory Summer Reading Group</title>
     <style>
         .tab {
             overflow: hidden;
@@ -55,7 +55,7 @@ tags:
     </script>
 </head>
 <body>
-    <h1>CS 411: Introduction to Machine Learning</h1>
+    <h1>Reinforcement Learning Theory</h1>
     <p>Instructor: Aadirupa Saha</p>
 
     <div class="tab">
@@ -66,7 +66,16 @@ tags:
 
     <div id="Description" class="tabcontent">
         <h2>Course Description</h2>
-        <p>This course provides a broad introduction to machine learning including supervised learning, unsupervised learning, and reinforcement learning.</p>
+    <p>
+    This summer reading group explores foundational and advanced topics in Reinforcement Learning theory, 
+    following closely the 
+    <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">
+        RL Theory Monograph by Agarwal, Jiang, Kakade, and Sun
+    </a>.
+    Participants will take turns presenting key concepts weekly, with occasional discussions 
+    drawing from classic texts like Sutton & Barto. 
+    The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
+    </p>
     </div>
 
     <div id="Schedule" class="tabcontent">
