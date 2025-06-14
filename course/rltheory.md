@@ -11,9 +11,6 @@ author_profile: true
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RL Theory Summer Reading Group</title>
     <style>
       a:link {
         color: RoyalBlue;
