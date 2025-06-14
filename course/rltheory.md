@@ -122,8 +122,8 @@ classes: wide
     </script>
 </head>
 <body>
-    <h2>Reinforcement Learning Theory</h2>
-    <!--<p>Instructor: Aadirupa Saha</p>-->
+    <h2>Summer25 Reading Group: Reinforcement Learning (RL) Theory</h2>
+    <p>Instructor: Aadirupa Saha</p>
 
     <div class="tab">
         <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
