@@ -21,9 +21,9 @@ tags:
         background: #fff;
         }
        .container {
-        max-width: 1200px; 
+        max-width: 1500px; 
         margin: 0 auto;
-        padding: 20px;
+        padding: 10px;
         }
         .tab {
             overflow: hidden;
