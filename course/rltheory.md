@@ -66,8 +66,8 @@ tags:
     </script>
 </head>
 <body>
-    <h1>Reinforcement Learning Theory</h1>
-    <p>Instructor: Aadirupa Saha</p>
+    <h3>Reinforcement Learning Theory</h3>
+    <!--<p>Instructor: Aadirupa Saha</p>-->
 
     <div class="tab">
         <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
