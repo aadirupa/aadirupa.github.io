@@ -93,7 +93,34 @@ tags:
     </div>
 
     <div id="Resources" class="tabcontent">
-        <h2>Resources</h2>
+        <h2>Core References</h2>
+        <ul>
+          <li>
+            <strong>SB:</strong>
+            <a href="https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf" target="_blank">
+              Sutton & Barto – Reinforcement Learning: An Introduction (Textbook)
+            </a>
+          </li>
+          <li>
+            <strong>RLM:</strong>
+            <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">
+              RL Theory Monograph by Agarwal, Jiang, Kakade, Sun
+            </a>
+          </li>
+          <li>
+            <strong>AK:</strong>
+            <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" target="_blank">
+              COMS6998-11: RL Theory Course by Akshay Krishnamurthy
+            </a>
+          </li>
+          <li>
+            <strong>NJ:</strong>
+            <a href="https://nanjiang.cs.illinois.edu/cs542/" target="_blank">
+              CS 542: Reinforcement Learning by Nan Jiang (UIUC)
+            </a>
+          </li>
+        </ul>
+
         <ul>
             <li><a href="https://aadirupa.github.io">Back to Main Site</a></li>
         </ul>
