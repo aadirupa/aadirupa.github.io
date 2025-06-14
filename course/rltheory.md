@@ -76,10 +76,9 @@ author_profile: true
         
         th, td {
             padding: 12px 16px;
-            border: 1px solid #ccc;
+            border: 0px solid #ccc;
             text-align: left;
             vertical-align: top;
-            word-break: break-word;
             white-space: normal;
         }
         
