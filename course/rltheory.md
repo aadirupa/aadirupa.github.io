@@ -89,7 +89,7 @@ tags:
     </div>
 
     <div id="Schedule" class="tabcontent">
-        <h2>Class Sessions</h2>
+        <h2>Sessions</h2>
         <table border="1">
             <tr>
                 <th>Date</th>
@@ -121,7 +121,7 @@ tags:
           <li>
             <strong>SB:</strong>
             <a href="https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf" target="_blank">
-              Reinforcement Learning: An Introduction</a> bySutton & Barto
+              Reinforcement Learning: An Introduction</a> by Sutton & Barto
           </li>
           <li>
             <strong>RLM:</strong>
