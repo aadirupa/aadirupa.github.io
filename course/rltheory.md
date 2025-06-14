@@ -74,16 +74,24 @@ author_profile: true
             border-collapse: collapse;
         }
         
-        th, td {
+        td {
             padding: 2px 2px;
             border: 1px solid #ccc;
             text-align: left;
             vertical-align: top;
             white-space: normal;
+            font-size: 1.1em;          
         }
         
         th {
             background-color: #f2f2f2;
+            padding: 2px 2px;
+            border: 1px solid #ccc;
+            text-align: center;
+            font-size: 1.1em;          
+            font-weight: bold;
+            vertical-align: top;
+            white-space: normal;
         }
     </style>
     <script>
