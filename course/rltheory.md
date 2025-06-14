@@ -16,15 +16,15 @@ classes: wide
 <html lang="en">
 <head>
     <style>
-      .page__content {
+      body .page__content {
         max-width: 100% !important;
         width: 100% !important;
-        margin: 0 auto;
+        margin: 0 auto !important;
       }
-      .page__content {
+      body .page__content {
         max-width: 100% !important;
         width: 100% !important;
-        margin: auto;
+        margin: auto !important;
       }
       a:link {
         color: RoyalBlue;
