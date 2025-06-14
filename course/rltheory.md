@@ -109,7 +109,7 @@ tags:
                 <td>2025-06-17</td>
                 <td>Zhengyao</td>
                 <td>Bellman Optimality Equations, Value Iteration, Policy Iteration, Convergence Results</td>
-                <td>RLM (Thm 1.7, 1.8. Chap 1.3.1 - 1.3.3), AK (Lec 5, 6)</td>
+                <td>RLM (Thm 1.7, 1.8. Chap 1.3.1 - 1.3.3), AK (Lec 5,6)</td>
                 <td>-</td>
             </tr>
         </table>
@@ -148,7 +148,7 @@ tags:
         </ul>
 
        
-        <p><a href="https://aadirupa.github.io">Back to Main Site</a></p>
+       <! <p><a href="https://aadirupa.github.io">Back to Main Site</a></p>-->
        
     </div>
 
