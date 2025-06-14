@@ -69,11 +69,7 @@ tags:
     <p>
     This summer reading group explores foundational and advanced topics in Reinforcement Learning theory, 
     following closely the 
-    <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">
-        RL Theory Monograph by Agarwal, Jiang, Kakade, and Sun
-    </a>.
-    Participants will take turns presenting key concepts weekly, with occasional discussions 
-    drawing from classic texts like Sutton & Barto. 
+    <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">RL Theory Monograph</a> by Agarwal, Jiang, Kakade, and Sun. Participants will take turns presenting key concepts weekly, with occasional discussions drawing from classic texts <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: An Introduction</a> by Sutton and Barto. 
     The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
     </p>
     </div>
