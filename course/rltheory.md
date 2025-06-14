@@ -90,7 +90,7 @@ author_profile: true
     </script>
 </head>
 <body>
-    <h2>Reinforcement Learning Theory</h2>
+    <h3>Reinforcement Learning Theory</h3>
     <!--<p>Instructor: Aadirupa Saha</p>-->
 
     <div class="tab">
