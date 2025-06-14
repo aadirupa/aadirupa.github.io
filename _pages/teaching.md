@@ -47,9 +47,10 @@ a:active {
 
 <ol>  
 
-<li> <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
-<li> <font color="#1E90FF"> [Summer 2025] </font> CS-411: Artificial Intelligence. Apply to <a href="https://meng.uic.edu/apply/?utm_source=google&utm_medium=cpc&utm_campaign=visionpoint_uic_pros&utm_content=engineering-branded" target="_blank" LINK="red">Online MEng CS-411</a> by May 31st!</li>
 <li> <font color="#1E90FF"> [Fall 2025] </font> CS-594: RLHF Theory for AI-Alignment and Efficient LLMs.</li>
+<li> <font color="#1E90FF"> [Summer 2025] </font> CS-411: Artificial Intelligence. Apply to <a href="https://meng.uic.edu/apply/?utm_source=google&utm_medium=cpc&utm_campaign=visionpoint_uic_pros&utm_content=engineering-branded" target="_blank" LINK="red">Online MEng CS-411</a> by May 31st!</li>
+<li> <font color="#1E90FF"> [Summer 2025] </font> Reading-Group: Reinforcement Learning Theory <a href="https://aadirupa.github.io//course/rltheory/#" target="_blank" LINK="red">[Course website]</a> </li>
+<li> <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
   
 </ol>
 
