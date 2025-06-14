@@ -1,6 +1,5 @@
 ---
-author_profile: true
-classes: no-avatar
+layout: single
 title: "Summer25 Reading Group"
 date: 2025-06-10
 permalink: /course/rltheory/
@@ -9,13 +8,18 @@ tags:
   - ml
   - theory
   - course
+author_profile: false  
+sidebar: false         
+classes: wide          
 ---
 
 <html lang="en">
 <head>
     <style>
-      .page.no-avatar .author__avatar {
-        display: none !important;
+      .page__content {
+        max-width: 1000px;
+        margin: auto;
+        padding: 1rem;
       }
       a:link {
         color: RoyalBlue;
