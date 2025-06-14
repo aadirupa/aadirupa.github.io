@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
+
+<body class="layout--no-sidebar">
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
+
+  <main id="main" class="page-content" aria-label="Content" style="max-width: 100%; margin: 0 auto; padding: 2rem;">
+    {{ content }}
+  </main>
+
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
+
+  {% include scripts.html %}
+</body>
+</html>
