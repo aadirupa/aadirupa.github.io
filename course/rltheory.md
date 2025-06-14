@@ -1,27 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Machine Learning Course</title>
-</head>
-<body>
-    <h1>CS 411: Introduction to Machine Learning</h1>
-    <p>Instructor: Aadirupa Saha</p>
+---
+title: 'RL Theory Reading Group'
+date: 2025-06-12
+permalink: /course/rltheory/
+tags:
+  - rl
+  - theory
+  - course
+---
 
-    <h2>Course Description</h2>
-    <p>This course provides a broad introduction to machine learning including supervised learning, unsupervised learning, and reinforcement learning.</p>
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-    <h2>Schedule</h2>
-    <ul>
-        <li>Week 1: Introduction + Linear Regression</li>
-        <li>Week 2: Classification - Logistic Regression</li>
-        <!-- Add more weeks as needed -->
-    </ul>
+Headings are cool
+======
 
-    <h2>Resources</h2>
-    <ul>
-        <li><a href="https://aadirupa.github.io">Back to Main Site</a></li>
-    </ul>
-</body>
-</html>
+You can have many headings
+======
+
+Aren't headings cool?
+------
