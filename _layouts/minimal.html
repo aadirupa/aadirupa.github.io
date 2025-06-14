@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 20px;
+      font-family: sans-serif;
+      line-height: 1.6;
+    }
+    a {
+      color: royalblue;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 6px 10px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #f0f0f0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
