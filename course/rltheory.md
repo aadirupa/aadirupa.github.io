@@ -121,9 +121,9 @@ tags:
           </li>
         </ul>
 
-        <ul>
-            <li><a href="https://aadirupa.github.io">Back to Main Site</a></li>
-        </ul>
+       
+        <p><a href="https://aadirupa.github.io">Back to Main Site</a></p>
+       
     </div>
 
     <script>
