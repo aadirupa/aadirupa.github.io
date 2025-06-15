@@ -75,7 +75,7 @@ classes: wide
         background-color: #cce0ff;
       }
       .tab button.active {
-        background-color: #0074D9;
+        background-color: #4682B4;
         color: white;
       }
       .tabcontent {
