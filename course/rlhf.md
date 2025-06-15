@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Intro to ML"
-date: 2025-01-14
+date: Jan - May, 2025
 permalink: /course/rlhf/
 tags:
   - ml
