@@ -21,29 +21,21 @@ classes: wide
         width: 100% !important;
         margin: 0 auto !important;
       }
-      body .page__content {
-        max-width: 100% !important;
-        width: 100% !important;
-        margin: auto !important;
-      }
       a:link {
         color: RoyalBlue;
         background-color: transparent;
         text-decoration: none;
       }
-      
       a:visited {
         color: Purple;
         background-color: transparent;
         text-decoration: none;
       }
-      
       a:hover {
         color: RoyalBlue;
         background-color: transparent;
         text-decoration: underline;
       }
-      
       a:active {
         color: DarkRed;
         background-color: transparent;
@@ -54,57 +46,68 @@ classes: wide
         margin: 0;
         padding: 0;
         background: #fff;
-        }
-       .container {
+      }
+      .container {
         max-width: 1500px; 
         margin: 0 auto;
         padding: 2px;
-        }
-        .tab {
-            overflow: hidden;
-            border-bottom: 1px solid #ccc;
-        }
-        .tab button {
-            background-color: inherit;
-            float: left;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 10px 15px;
-            transition: 0.3s;
-        }
-        .tab button:hover {
-            background-color: #ddd;
-        }
-        .tab button.active {
-            background-color: #ccc;
-        }
-        .tabcontent {
-            display: none;
-            padding: 2px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        td {
-            padding: 2px 2px;
-            border: 1px solid #ccc;
-            text-align: left;
-            fonr-size: 1.0em;
-            vertical-align: top;
-            white-space: normal;          
-        }
-        th {
-            background-color: #f2f2f2;
-            padding: 2px 2px;
-            border: 1px solid #ccc;
-            text-align: center;
-            font-size: 1.1em;          
-            font-weight: bold;
-            vertical-align: top;
-            white-space: normal;
-        }
+      }
+      .tab {
+        overflow: hidden;
+        border-bottom: 2px solid #0074D9;
+        background-color: #f1f1f1;
+        border-radius: 5px 5px 0 0;
+      }
+      .tab button {
+        background-color: #e6f0ff;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 10px 20px;
+        transition: 0.3s;
+        font-weight: bold;
+        font-size: 1em;
+        border-radius: 5px 5px 0 0;
+        color: #004080;
+      }
+      .tab button:hover {
+        background-color: #cce0ff;
+      }
+      .tab button.active {
+        background-color: #0074D9;
+        color: white;
+      }
+      .tabcontent {
+        display: none;
+        padding: 15px;
+        border: 1px solid #ccc;
+        border-top: none;
+        background-color: #ffffff;
+        border-radius: 0 0 5px 5px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      td {
+        padding: 6px 8px;
+        border: 1px solid #ccc;
+        text-align: left;
+        font-size: 1em;
+        vertical-align: top;
+        white-space: normal;          
+      }
+      th {
+        background-color: #f2f2f2;
+        padding: 6px 8px;
+        border: 1px solid #ccc;
+        text-align: center;
+        font-size: 1.1em;          
+        font-weight: bold;
+        vertical-align: top;
+        white-space: normal;
+      }
     </style>
     <script>
         function openTab(evt, tabName) {
@@ -123,7 +126,7 @@ classes: wide
     </script>
 </head>
 <body>
-    <h2 style="color:DarkBlue;" vspace="-2px;">Summer25 Reading Group: Reinforcement Learning (RL) Theory</h2>
+    <h2 style="color:DarkBlue;">Summer25 Reading Group: Reinforcement Learning (RL) Theory</h2>
     <p>Instructor: Aadirupa Saha</p>
 
     <div class="tab">
@@ -134,15 +137,14 @@ classes: wide
 
     <div id="Description" class="tabcontent">
         <h2>Course Description</h2>
-    <p style="text-align: justify;">
-    This summer reading group explores foundational and advanced topics in Reinforcement Learning theory, 
-    following closely the 
-    <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">RL Theory Monograph</a> by Agarwal, Jiang, Kakade, and Sun. Participants will take turns presenting key concepts weekly, with occasional discussions drawing from classic texts <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: An Introduction</a> by Sutton and Barto. 
-    The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
-    </p>
+        <p style="text-align: justify;">
+        This summer reading group explores foundational and advanced topics in Reinforcement Learning theory, 
+        following closely the 
+        <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">RL Theory Monograph</a> by Agarwal, Jiang, Kakade, and Sun. Participants will take turns presenting key concepts weekly, with occasional discussions drawing from classic texts <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: An Introduction</a> by Sutton and Barto. 
+        The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
+        </p>
 
-    <p style="color:DarkBlue;"> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
-    
+        <p style="color:DarkBlue;"> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
     </div>
 
     <div id="Schedule" class="tabcontent">
@@ -193,20 +195,14 @@ classes: wide
           <li>
             <strong>AK:</strong>
             <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" target="_blank">
-              COMS6998-11: Bandits and Reinforcement Learning
-            </a>, by Akshay Krishnamurthy
+              COMS6998-11: Bandits and Reinforcement Learning</a>, by Akshay Krishnamurthy
           </li>
           <li>
             <strong>NJ:</strong>
             <a href="https://nanjiang.cs.illinois.edu/cs542/" target="_blank">
-              CS 542: Statistical Reinforcement Learning
-            </a>, by Nan Jiang
+              CS 542: Statistical Reinforcement Learning</a>, by Nan Jiang
           </li>
         </ul>
-
-       
-       <!-- <p><a href="https://aadirupa.github.io">Back to Main Site</a></p>-->
-       
     </div>
 
     <script>
