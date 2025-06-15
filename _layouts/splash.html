@@ -12,7 +12,7 @@ layout: default
   <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}
-      <p class="page__date" style="font-size: 1.1em; color: #666; display: flex; align-items: center; gap: 0.5em;">
+      <p class="page__date" style="font-size: 1.0em; color: #666; display: flex; align-items: center; gap: 0.5em;">
         <i class="fas fa-calendar-alt" style="font-size: 1.2em;"></i>
         {{ page.date | date: "%B %d, %Y" }}
       </p>
@@ -25,10 +25,7 @@ layout: default
       {{ content }}
     </section>
     <div class="page__meta">
-    {% if page.date %}
-      <span class="page__date"><i class="fas fa-calendar-alt"></i> {{ page.date | date: "%B %d, %Y" }}</span>
-    {% endif %}
-    
+
     {% if page.tags %}
       <p class="page__tags" style="margin-top: 2rem; font-size: 0.95em;">
         <strong>Tags:</strong>
