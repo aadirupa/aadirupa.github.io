@@ -91,6 +91,7 @@ classes: wide
             padding: 2px 2px;
             border: 1px solid #ccc;
             text-align: left;
+            fonr-size: 1.0em;
             vertical-align: top;
             white-space: normal;          
         }
@@ -122,7 +123,7 @@ classes: wide
     </script>
 </head>
 <body>
-    <h2>Summer25 Reading Group: Reinforcement Learning (RL) Theory</h2>
+    <h2 style="color:DarkBlue;" vspace="-2px;">Summer25 Reading Group: Reinforcement Learning (RL) Theory</h2>
     <p>Instructor: Aadirupa Saha</p>
 
     <div class="tab">
