@@ -19,67 +19,59 @@ classes: wide
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Intro to Machine Learning - Summer 2025</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f8f9fa;
-      color: #333;
-    }
-    header {
-      background-color: #003366;
-      color: white;
-      padding: 1rem 2rem;
-      text-align: center;
-    }
-    nav {
-      background-color: #e9ecef;
-      padding: 0.5rem 2rem;
-      display: flex;
-      gap: 1rem;
-    }
-    nav a {
-      color: #003366;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      max-width: 960px;
-      margin: auto;
-      padding: 2rem;
-      background-color: white;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-    }
-    th, td {
-      padding: 0.75rem;
-      text-align: left;
-    }
-    footer {
-      text-align: center;
-      font-size: 0.9rem;
-      color: #777;
-      margin-top: 3rem;
-      padding-bottom: 2rem;
-    }
-  </style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .banner {
+    background-color: #0b5394;
+    color: white;
+    padding: 20px 40px; /* Reduced padding = thinner height */
+    text-align: left;
+  }
+
+  .banner h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+
+  .banner p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+  }
+
+  .content {
+    padding: 30px 40px;
+    width: 100%;       /* Ensure full width */
+    box-sizing: border-box; /* Include padding in width */
+  }
+
+  .section {
+    margin-bottom: 30px;
+  }
+
+  .section h2 {
+    color: #0b5394;
+    border-bottom: 2px solid #0b5394;
+    padding-bottom: 5px;
+  }
+
+  a {
+    color: #0b5394;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 </head>
 <body>
   <header>
-    <h1>Intro to Machine Learning (CS XXXX)</h1>
-    <p>University of Illinois Chicago — Summer 2025</p>
+    <h1>CS 412: Intro to Machine Learning</h1>
+    <p> — Spring 2025, University of Illinois Chicago</p>
   </header>
 
   <nav>
