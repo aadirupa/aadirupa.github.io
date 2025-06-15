@@ -2,7 +2,7 @@
 layout: splash
 title: "Intro to ML"
 date: 2025-01-14
-permalink: /course/rltheory/
+permalink: /course/iml/
 tags:
   - ml
   - ai
