@@ -193,14 +193,14 @@ classes: wide
           <li>
             <strong>AK:</strong>
             <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" target="_blank">
-              COMS6998-11: RL Theory Course by Akshay Krishnamurthy
-            </a>
+              COMS6998-11: Bandits and Reinforcement Learning
+            </a>, by Akshay Krishnamurthy
           </li>
           <li>
             <strong>NJ:</strong>
             <a href="https://nanjiang.cs.illinois.edu/cs542/" target="_blank">
-              CS 542: Reinforcement Learning by Nan Jiang (UIUC)
-            </a>
+              CS 542: Statistical Reinforcement Learning
+            </a>, by Nan Jiang
           </li>
         </ul>
 
