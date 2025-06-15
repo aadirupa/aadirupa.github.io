@@ -141,7 +141,7 @@ classes: wide
     The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
     </p>
 
-    <p> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
+    <p style="color:DarkBlue;"> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
     
     </div>
 
