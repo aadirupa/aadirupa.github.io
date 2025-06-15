@@ -47,10 +47,10 @@ a:active {
 
 <ol>  
 
-<li> <font color="#1E90FF"> [Fall 2025] </font> CS-594: RLHF Theory for AI-Alignment and Efficient LLMs.</li>
-<li> <font color="#1E90FF"> [Summer 2025] </font> CS-411: Artificial Intelligence. Apply to <a href="https://meng.uic.edu/apply/?utm_source=google&utm_medium=cpc&utm_campaign=visionpoint_uic_pros&utm_content=engineering-branded" target="_blank" LINK="red">Online MEng CS-411</a> by May 31st!</li>
-<li> <font color="#1E90FF"> [Summer 2025] </font> Reading-Group: Reinforcement Learning Theory <a href="https://aadirupa.github.io//course/rltheory/#" target="_blank" LINK="red">[Course website]</a> </li>
-<li> <font color="#1E90FF"> [Spring 2025] </font> CS-412: Introduction to Machine Learning.</li>
+<li> <font color="#6082B6"> [Fall 2025] </font> CS-594: RLHF Theory for AI-Alignment and Efficient LLMs. <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">[Course website]</a> </li>
+<li> <font color="#6082B6"> [Summer 2025] </font> CS-411: Artificial Intelligence. Apply to <a href="https://meng.uic.edu/apply/?utm_source=google&utm_medium=cpc&utm_campaign=visionpoint_uic_pros&utm_content=engineering-branded" target="_blank" LINK="red">Online MEng CS-411</a> by May 31st!</li>
+<li> <font color="#6082B6"> [Summer 2025] </font> Reading-Group: Reinforcement Learning Theory <a href="https://aadirupa.github.io//course/rltheory/#" LINK="red">[Course website]</a> </li>
+<li> <font color="#6082B6"> [Spring 2025] </font> CS-412: Introduction to Machine Learning. <a href="https://aadirupa.github.io//course/iml/#" LINK="red">[Course website]</a></li>
   
 </ol>
 
@@ -58,17 +58,17 @@ a:active {
 
 <ol>  
 
-<li> <font color="#1E90FF"> [Fall 2018] </font> E1-245: Online Prediction and Learning </li>
+<li> <font color="#6082B6"> [Fall 2018] </font> E1-245: Online Prediction and Learning </li>
 
-<li> <font color="#1E90FF"> [Fall 2017] </font> E0-225: Design and Analysis of Algorithms </li>
+<li> <font color="#6082B6"> [Fall 2017] </font> E0-225: Design and Analysis of Algorithms </li>
   
-<li> <font color="#1E90FF"> [Spring 2017] </font> E0-270: Machine Learning </li>
+<li> <font color="#6082B6"> [Spring 2017] </font> E0-270: Machine Learning </li>
 
-<li> <font color="#1E90FF"> [Spring 2017] </font> UM-102: Analysis and Linear Algebra-II </li>
+<li> <font color="#6082B6"> [Spring 2017] </font> UM-102: Analysis and Linear Algebra-II </li>
 
-<li> <font color="#1E90FF"> [Fall 2016] </font> E0-230: Computational Methods of Optimization </li>
+<li> <font color="#6082B6"> [Fall 2016] </font> E0-230: Computational Methods of Optimization </li>
 
-<li> <font color="#1E90FF"> [Fall 2016] </font> UM-201: Probability and Statistics </li>
+<li> <font color="#6082B6"> [Fall 2016] </font> UM-201: Probability and Statistics </li>
 
 </ol>
 
