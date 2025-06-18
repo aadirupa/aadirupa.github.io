@@ -192,6 +192,11 @@ classes: wide
           <a href="https://arxiv.org/abs/2312.16730" target="_blank">
             Foundations of Reinforcement Learning and Interactive Decision Making</a> by Foster & Rakhlin
         </li>
+          <strong>MFRL:</strong>
+          <a href="[https://arxiv.org/abs/2312.16730](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/tree/main)" target="_blank">
+            Mathematical Foundation of Reinforcement Learning</a> by Shiyu Zhao
+        <li>
+        </li>
           <li>
             <strong>AK:</strong>
             <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/index.html" target="_blank">
