@@ -168,14 +168,21 @@ classes: wide
                 <td>2025-06-17</td>
                 <td>Zhengyao</td>
                 <td>Bellman Optimality Equations, Value Iteration, <br> Policy Iteration, Convergence Results</td>
-                <td>RLM (Thm 1.7, 1.8. Chap 1.3.1-1.3.3), <br> AK (Lec 5,6)</td>
+                <td>RLM (Thm 1.7, 1.8. Chap 1.3.1-1.3.3), <br> AK (Lec 5)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-20</td>
                 <td>Aniket</td>
                 <td> Policy Iteration, Convergence Guarantee, Episodic, Generative and Offline RL setting <br>The performance difference lemma </td>
-                <td>RLM (Thm 1.14, Lem 1.16. Chap 1.3.2, 1.4, 1.5)</td>
+                <td>RLM (Thm 1.14, Lem 1.16. Chap 1.3.2, 1.4, 1.5) <br> AK (Lec 6)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-06-24</td>
+                <td> TBA </td>
+                <td> Example of Policy Classes, Policy Gradient methods,  <br>Non-convexity and Convergence of Value functions under Softmax Parameterizations</td>
+                <td>RLM (Lem 11.4, 11.5, 11.6. Chap 11.1, 11.2) <br> AK (Lec 6)</td>
                 <td>-</td>
             </tr>
         </table>
