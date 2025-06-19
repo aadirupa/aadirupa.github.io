@@ -171,6 +171,13 @@ classes: wide
                 <td>RLM (Thm 1.7, 1.8. Chap 1.3.1-1.3.3), <br> AK (Lec 5,6)</td>
                 <td>-</td>
             </tr>
+            <tr>
+                <td>2025-06-20</td>
+                <td>Aniket</td>
+                <td> Policy Iteration, Convergence Guarantee, Episodic, Generative and Offline RL setting <br>The performance difference lemma </td>
+                <td>RLM (Thm 1.14, Lem 1.16. Chap 1.3.2, 1.4, 1.5)</td>
+                <td>-</td>
+            </tr>
         </table>
     </div>
 
