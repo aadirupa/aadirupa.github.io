@@ -130,21 +130,9 @@ classes: wide
     <p>Instructor: Aadirupa Saha</p>
 
     <div class="tab">
-        <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
         <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
+        <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
         <button class="tablinks" onclick="openTab(event, 'Resources')">Resources</button>
-    </div>
-
-    <div id="Description" class="tabcontent">
-        <h2>Course Description</h2>
-        <p style="text-align: justify;">
-        This summer reading group explores foundational and advanced topics in Reinforcement Learning theory, 
-        following closely the 
-        <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">RL Theory Monograph</a> by Agarwal, Jiang, Kakade, and Sun. Participants will take turns presenting key concepts weekly, with occasional discussions drawing from classic texts <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: An Introduction</a> by Sutton and Barto. 
-        The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
-        </p>
-
-        <p style="color:DarkBlue;"> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
     </div>
 
     <div id="Schedule" class="tabcontent">
@@ -168,24 +156,50 @@ classes: wide
                 <td>2025-06-17</td>
                 <td>Zhengyao</td>
                 <td>Bellman Optimality Equations, Value Iteration, <br> Policy Iteration, Convergence Results</td>
-                <td>RLM (Thm 1.7, 1.8. Chap 1.3.1-1.3.3), <br> AK (Lec 5)</td>
+                <td>RLM (Thm 1.7, 1.8; Chap 1.3.1-1.3.3), <br> AK (Lec 5)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-20</td>
                 <td>Aniket</td>
                 <td> Policy Iteration, Convergence Guarantee, Episodic, Generative and Offline RL setting <br>The performance difference lemma </td>
-                <td>RLM (Thm 1.14, Lem 1.16. Chap 1.3.2, 1.4, 1.5) <br> AK (Lec 6)</td>
+                <td>RLM (Thm 1.14, Lem 1.16; Chap 1.3.2, 1.4, 1.5) <br> AK (Lec 6)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-24</td>
-                <td> TBA </td>
+                <td> Amir </td>
                 <td> Example of Policy Classes, Policy Gradient methods,  <br>Non-convexity and Convergence of Value functions under Softmax Parameterizations</td>
-                <td>RLM (Lem 11.4, 11.5, 11.6. Chap 11.1, 11.2) <br> AK (Lec 6)</td>
+                <td>RLM (Lem 11.4, 11.5, 11.6; Chap 11.1, 11.2) <br> AK (Lec 6)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-06-27</td>
+                <td> Amir </td>
+                <td> Natural Policy Gradient (NPG),  <br>NPG update with Softmax Parameterization and Fisher information</td>
+                <td>RLM (Lem 12.6; Chap 12.3) <br> AK (Lem 4; Lec 6)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-01</td>
+                <td> Amir </td>
+                <td> Convergence of vanilla PG,  <br>Convergence of NPG </td>
+                <td>RLM (Thm 12.3, Cor 12.5, Thm 12.7; Chap 12.3, 12.4) <br> AK (Lem1, Thm 2, Thm 3, Lem 4; Lec 7)</td>
                 <td>-</td>
             </tr>
         </table>
+    </div>
+
+    <div id="Description" class="tabcontent">
+        <h2>Course Description</h2>
+        <p style="text-align: justify;">
+        This summer reading group explores foundational and advanced topics in Reinforcement Learning theory, 
+        following closely the 
+        <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">RL Theory Monograph</a> by Agarwal, Jiang, Kakade, and Sun. Participants will take turns presenting key concepts weekly, with occasional discussions drawing from classic texts <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: An Introduction</a> by Sutton and Barto. 
+        The group aims to build theoretical intuition while fostering informal collaboration around RL and broader ML theory.
+        </p>
+
+        <p style="color:DarkBlue;"> Timing: Tuesday-Friday, 5:30-7 PM Central </p>
     </div>
 
     <div id="Resources" class="tabcontent">
@@ -208,8 +222,13 @@ classes: wide
         </li>
         <li>
           <strong>MFRL:</strong>
-          <a href="[https://arxiv.org/abs/2312.16730](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/tree/main)" target="_blank">
+          <a href="https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/tree/main" target="_blank">
             Mathematical Foundation of Reinforcement Learning</a> by Shiyu Zhao
+        </li> 
+        <li>
+          <strong>TFRL:</strong>
+          <a href="https://rltheory.github.io/" target="_blank">
+            Theoretical Foundations of Reinforcement Learning</a> by Csaba Szepesvári 
         </li>
           <li>
             <strong>AK:</strong>
