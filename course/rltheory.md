@@ -229,6 +229,27 @@ classes: wide
                 <td>RLM (Alg 6, Thm 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> </td>
                 <td>-</td>
             </tr>
+            <tr>
+                <td>2025-07-18</td>
+                <td> --- </td>
+                <td> Off-Policy Evaluation in Offline RL,  <br>  Weaker assumptions and linear Bellman completeness </td>
+                <td>RLM (Alg 2, Thm 3.7, 3.9; Chap 3.5)  <br> AK (Assump 4, Lec 5; Sec 3; Lec 9)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-22</td>
+                <td> --- </td>
+                <td> Learning Transition using Ridge Linear Regression,  <br> Uniform Convergence and learning transition dynamics in Linear-MDPs </td>
+                <td>RLM (Lem 8.3, Lem 8.4, Lem 8.6, 8.7; Chap 8.3, 8.4)  <br> </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-25</td>
+                <td> -- </td>
+                <td> UCBVI for Linear MDPs,  <br> Analysis of UCBVI for Linear MDPs </td>
+                <td>RLM (Alg 6, Thm 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> </td>
+                <td>-</td>
+            </tr>
         </table>
     </div>
 
