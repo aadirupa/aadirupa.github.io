@@ -181,10 +181,52 @@ classes: wide
                 <td>-</td>
             </tr>
             <tr>
-                <td>2025-07-01</td>
+                <td>2025-07-04</td>
                 <td> Amir </td>
                 <td> Convergence of vanilla PG,  <br>Convergence of NPG </td>
-                <td>RLM (Thm 12.3, Cor 12.5, Thm 12.7; Chap 12.3, 12.4) <br> AK (Lem1, Thm 2, Thm 3, Lem 4; Lec 7)</td>
+                <td>RLM (Thm 12.3, Cor 12.5, Thm 12.7; Chap 12.3, 12.4) <br> AK (Lem 1, Thm 2, Thm 3, Lem 4; Lec 7)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-08</td>
+                <td> Amith </td>
+                <td> Exploration of Tabular MDPs,  <br>UCB-VI Algorithm, Regret Analysis </td>
+                <td>RLM (Alg 5, Thm 7.1; Chap 7.1, 7.2, 7.3) <br> AK (Sec 2, Sec 3, Thm 5; Lec 8)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-11</td>
+                <td> Amith </td>
+                <td> Improved bound for UCB-VI,  <br> Linear MDP problem, Planning in Linear MDPs </td>
+                <td>RLM (Thm 7.6; Chap 7.4. Sec 8.1, 8.2; Chap 8)  <br> AK (Sec 3.1; Lec 8. Prop. 2, Sec 1; Lec 9)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-15</td>
+                <td> -- </td>
+                <td> Linear Bellman Completeness, LSVI Algorithm <br> Analysis of LSVI </td>
+                <td>RLM (Def 3.1, Alg 1, Thm 3.3; Chap 3.1-3.3)  <br> AK (Sec 2, Thm 3; Lec 9)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-18</td>
+                <td> --- </td>
+                <td> Off-Policy Evaluation in Offline RL,  <br>  Weaker assumptions and linear Bellman completeness </td>
+                <td>RLM (Alg 2, Thm 3.7, 3.9; Chap 3.5)  <br> AK (Assump 4, Lec 5; Sec 3; Lec 9)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-22</td>
+                <td> --- </td>
+                <td> Learning Transition using Ridge Linear Regression,  <br> Uniform Convergence and learning transition dynamics in Linear-MDPs </td>
+                <td>RLM (Lem 8.3, Lem 8.4, Lem 8.6, 8.7; Chap 8.3, 8.4)  <br> </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-25</td>
+                <td> -- </td>
+                <td> UCBVI for Linear MDPs,  <br> Analysis of UCBVI for Linear MDPs </td>
+                <td>RLM (Alg 6, Thm 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> </td>
                 <td>-</td>
             </tr>
         </table>
