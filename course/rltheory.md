@@ -150,84 +150,98 @@ classes: wide
                 <td>2025-06-13</td>
                 <td>Zhengyao</td>
                 <td>MDP Basics, Values, Policies, <br> Bellman Consistency Equation</td>
-                <td>RLM (Chap 1.1.1-1.1.3), <br> AK (Lec 5)</td>
+                <td> RLM (Chap 1.1.1-1.1.3), <br> AK (Lec 5)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-17</td>
                 <td>Zhengyao</td>
                 <td>Bellman Optimality Equations, Value Iteration, <br> Policy Iteration, Convergence Results</td>
-                <td>RLM (Thm 1.7, 1.8; Chap 1.3.1-1.3.3), <br> AK (Lec 5)</td>
+                <td> RLM (Thm 1.7, 1.8; Chap 1.3.1-1.3.3), <br> AK (Lec 5)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-20</td>
                 <td>Aniket</td>
                 <td> Policy Iteration, Convergence Guarantee, Episodic, Generative and Offline RL setting <br>The performance difference lemma </td>
-                <td>RLM (Thm 1.14, Lem 1.16; Chap 1.3.2, 1.4, 1.5) <br> AK (Lec 6)</td>
+                <td> RLM (Thm 1.14, Lem 1.16; Chap 1.3.2, 1.4, 1.5) <br> AK (Lec 6)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-24</td>
                 <td> Amir </td>
                 <td> Example of Policy Classes, Policy Gradient methods,  <br>Non-convexity and Convergence of Value functions under Softmax Parameterizations</td>
-                <td>RLM (Lem 11.4, 11.5, 11.6; Chap 11.1, 11.2) <br> AK (Lec 6)</td>
+                <td> RLM (Lem 11.4, 11.5, 11.6; Chap 11.1, 11.2) <br> AK (Lec 6)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-27</td>
                 <td> Amir </td>
                 <td> Natural Policy Gradient (NPG),  <br>NPG update with Softmax Parameterization and Fisher information</td>
-                <td>RLM (Lem 12.6; Chap 12.3) <br> AK (Lem 4; Lec 6)</td>
+                <td> RLM (Lem 12.6; Chap 12.3) <br> AK (Lem 4; Lec 6)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-04</td>
                 <td> Amir </td>
                 <td> Convergence of vanilla PG,  <br>Convergence of NPG </td>
-                <td>RLM (Thm 12.3, Cor 12.5, Thm 12.7; Chap 12.3, 12.4) <br> AK (Lem 1, Thm 2, Thm 3, Lem 4; Lec 7)</td>
+                <td> RLM (Thm 12.3, Cor 12.5, Thm 12.7; Chap 12.3, 12.4) <br> AK (Lem 1, Thm 2, Thm 3, Lem 4; Lec 7)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-08</td>
                 <td> Amith </td>
                 <td> Exploration of Tabular MDPs,  <br>UCB-VI Algorithm, Regret Analysis </td>
-                <td>RLM (Alg 5, Thm 7.1; Chap 7.1, 7.2, 7.3) <br> AK (Sec 2, Sec 3, Thm 5; Lec 8)</td>
+                <td> RLM (Alg 5, Thm 7.1; Chap 7.1, 7.2, 7.3) <br> AK (Sec 2, Sec 3, Thm 5; Lec 8)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-11</td>
                 <td> Amith </td>
-                <td> Improved bound for UCB-VI,  <br> Linear MDP problem, Planning in Linear MDPs </td>
-                <td>RLM (Thm 7.6; Chap 7.4. Sec 8.1, 8.2; Chap 8)  <br> AK (Sec 3.1; Lec 8. Prop. 2, Sec 1; Lec 9)</td>
+                <td> UCB-VI Algorithm, Regret Analysis (contd), <br> Improved bound for UCB-VI </td>
+                <td> RLM (Thm 7.1, 7.6; Chap 7.3, 7.4)  <br> AK (Thm 5, Sec 3.1; Lec 8)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-15</td>
-                <td> -- </td>
-                <td> Linear Bellman Completeness, LSVI Algorithm <br> Analysis of LSVI </td>
-                <td>RLM (Def 3.1, Alg 1, Thm 3.3; Chap 3.1-3.3)  <br> AK (Sec 2, Thm 3; Lec 9)</td>
+                <td> Amith </td>
+                <td> Improved bound for UCB-VI (contd),  <br> Linear Bandits (LinUCB) and Regret Analysis </td>
+                <td> RLM (Thm 7.6; Chap 7.4. Alg 4, Thm 6.3, Prop 6.6; Chap 6)  <br> AK (Sec 3.1; Lec 8. Sec 3, Thm 2, Lem 3; Lec 9)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-18</td>
-                <td> --- </td>
-                <td> Off-Policy Evaluation in Offline RL,  <br>  Weaker assumptions and linear Bellman completeness </td>
-                <td>RLM (Alg 2, Thm 3.7, 3.9; Chap 3.5)  <br> AK (Assump 4, Lec 5; Sec 3; Lec 9)</td>
+                <td> Ali </td>
+                <td> Linear MDP problem, Planning in Linear MDPs, <br> LSVI Algorithm </td>
+                <td> RLM (Sec 8.1, 8.2; Chap 8. Alg 1, Chap 3.2)  <br> AK (Def 1, Prop. 2, Sec 1; Lec 9)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-22</td>
-                <td> --- </td>
-                <td> Learning Transition using Ridge Linear Regression,  <br> Uniform Convergence and learning transition dynamics in Linear-MDPs </td>
-                <td>RLM (Lem 8.3, Lem 8.4, Lem 8.6, 8.7; Chap 8.3, 8.4)  <br> </td>
+                <td> Ali </td>
+                <td> LSVI Algorithm (contd), Linear Bellman Completeness <br> Analysis of LSVI </td>
+                <td> RLM (Def 3.1, Alg 1, Thm 3.3; Chap 3.1-3.3)  <br> AK (Sec 2, Thm 3; Lec 9)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-25</td>
+                <td> --- </td>
+                <td> Off-Policy Evaluation in Offline RL,  <br>  Weaker assumptions and linear Bellman completeness </td>
+                <td> RLM (Alg 2, Thm 3.7, 3.9; Chap 3.5)  <br> AK (Assump 4, Lec 5; Sec 3; Lec 9)</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-07-29</td>
+                <td> --- </td>
+                <td> Learning Transition using Ridge Linear Regression,  <br> Uniform Convergence and learning transition dynamics in Linear-MDPs </td>
+                <td> RLM (Lem 8.3, Lem 8.4, Lem 8.6, 8.7; Chap 8.3, 8.4)  <br> </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-08-01</td>
                 <td> -- </td>
                 <td> UCBVI for Linear MDPs,  <br> Analysis of UCBVI for Linear MDPs </td>
-                <td>RLM (Alg 6, Thm 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> </td>
+                <td> RLM (Alg 6, Thm 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> </td>
                 <td>-</td>
             </tr>
         </table>
