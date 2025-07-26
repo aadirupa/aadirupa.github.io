@@ -133,8 +133,7 @@ classes: wide
 
     <section id="resources">
       <h2>Resources</h2>
-      <h3>Recommended Reading</h3>
-<p>Class lectures will be based on, but not limited to, the following books:</p>
+<p>Class lectures are based on, but not limited to, the following books:</p>
 
 <ul>
   <li>
