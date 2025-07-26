@@ -102,83 +102,816 @@ classes: wide
       <th>Notes</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>Jan 21</td>
-      <td>Introduction (Course Logistics)<br>Basics of Supervised Learning</td>
-      <td>PML 1.2<br>ESL 2.1, 2.2</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/Intro.pdf" target="_blank">Intro Slides</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jan 23</td>
-      <td>Understanding loss functions</td>
-      <td>PML 4.3</td>
-      <td>Scribe1: Edomwonyi, Uwadia</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jan 28</td>
-      <td>Hypothesis (Func) Class<br>ERM<br>Linear Regression</td>
-      <td>PML 11.1, 11.2, 11.3<br>ESL 3.2</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe1.pdf" target="_blank">Scribe2</a>: Shelke, Harsh</td>
-      <td>HW1 due today!</td>
-    </tr>
-    <tr>
-      <td>Jan 30</td>
-      <td>Overfitting & Regularizers<br>Lin-Reg: Linear Regression (contd)</td>
-      <td>PML 4.3, 5.4</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe3.pdf" target="_blank">Scribe3</a>: Hulu, Charis / Lokesh</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Feb 4</td>
-      <td>Logistic Regression<br>Multiclass Logistic Regression (MLR)</td>
-      <td>PML 10.2.1, 10.2.2<br>ESL 4.4.1</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe4.pdf" target="_blank">Scribe4</a>: Dahagam, Sujay</td>
-      <td>HW2 out (UIC credentials required)<br>Finalize scribe assignment</td>
-    </tr>
-    <tr>
-    <td>Feb 6</td>
-    <td>Multiclass logistic (contd)<br>MLE (Bernoulli)<br>MAP (Bernoulli)</td>
-    <td>PML 4.2, 4.5<br>Slides CMU 10701<br>Tom Mitchell's note</td>
-    <td>
-      <a href="https://aadirupa.github.io/course/iml_repo/scribe5.pdf" target="_blank">Scribe5</a>: Bhat, Amith
-    </td>
-    <td>Bonus-Quiz [qz-feb6.pdf] (submit to Gradescope)<br>Feedback form<br>Announcements</td>
-  </tr>
-    <tr>
-    <td>Feb 8</td>
-    <td>[Extra Class-1]<br>MLE for Regression<br>MAP = Regularization</td>
-    <td>PML 4.2.5 - 4.2.7, 4.5<br>CMU 10-315 notes<br>Nice blog</td>
-    <td>
-      <a href="https://aadirupa.github.io/course/iml_repo/scribe6.pdf" target="_blank">Scribe6: Sappidi, Yugesh
-    </td>
-    <td>Optional Reading: Conjugate Priors<br>Nice blog<br>Duke STA114</td>
-  </tr>
-    <tr>
-      <td>Feb 11</td>
-      <td>Regularized logistic regression thru' MAP<br>Convex functions</td>
-      <td>PML 10.1-10.3<br>CvxO 1.1-1.3<br>Notes-IFT 6085</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe7.pdf" target="_blank">Scribe7</a>: Ferdowsi, Farhad</td>
-      <td>HW2 due!</td>
-    </tr>
-    <tr>
-      <td>Feb 13</td>
-      <td>Properties of Cvx funcs<br>Gradient descent (GD)<br>Convergence rates</td>
-      <td>CvxO 1.1-1.3, 3.1<br>Notes by A. Ahmadi<br>Notes by C Wang</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe8.pdf" target="_blank">Scribe8</a>: Ferdowsi, Farhad</td>
-      <td>Extra Reading: Matrix Norms</td>
-    </tr>
-    <tr>
-      <td>Feb 18</td>
-      <td>Convergence of GD<br>Newton's method</td>
-      <td>CvxO 3.1, 3.2, 3.4, 5.3.2<br>Nice notes on Cvx Optimization<br>Notes-CS 6820</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe9.pdf" target="_blank">Scribe9</a>: Datta Sai VVN</td>
-      <td>Extra Reading: Matrix Derivative<br>Taylor Series<br>Newton's Method</td>
-    </tr>
-  </tbody>
-</table>
+ <tbody>
+                <tr>
+                    <td class="date-col">Jan 21</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Introduction (Course Logistics)</li>
+                            <li>Basics of Supervised Learning</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">PML 1.2<br>ESL 2.1, 2.2</td>
+                    <td class="slides-col"><a href="#" target="_blank">CS412-Intro.pdf</a></td>
+                    <td class="assignment-col">
+                        <a href="#" target="_blank">HW1.pdf</a> (Self-Assessment)<br>
+                        [Submit on Gradescope]<br>
+                        Due: Jan 28
+                    </td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Jan 23</td>
+                    <td class="topic-col">Understanding loss functions</td>
+                    <td class="reading-col">PML 4.3</td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec1.pdf</a> (handwritten)<br>
+                        [<a href="#" target="_blank">scribe1.pdf</a>, <a href="#" target="_blank">scribe1.tex</a>]<br>
+                        Scribe: Edomwonyi, Uwadia
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Jan 28</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Hypothesis (Func) Class</li>
+                            <li>ERM</li>
+                            <li>Linear Regression</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">PML 11.1, 11.2, 11.3<br>ESL 3.2</td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec2.pdf</a> (handwritten)<br>
+                        [<a href="#" target="_blank">scribe2.pdf</a>, <a href="#" target="_blank">scribe2.tex</a>]<br>
+                        [<a href="#" target="_blank">plots2.zip</a>]<br>
+                        Scribe: Shelke, Harsh
+                    </td>
+                    <td class="assignment-col">HW1 due today!</td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Jan 30</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Overfitting & Regularizers</li>
+                            <li>Lin-Reg: Linear Regression (contd)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">PML 4.3, 5.4</td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec3.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">Lin-Reg demo</a><br>
+                        [<a href="#" target="_blank">scribe3.pdf</a>, <a href="#" target="_blank">scribe3.tex</a>]<br>
+                        Scribe: Hulu, Charis/ Lokesh
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 4</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Logistic Regression</li>
+                            <li>Multiclass Logistic Regression (MLR)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">PML 10.2.1, 10.2.2<br>ESL 4.4.1</td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec4.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">MLR demo</a><br>
+                        [<a href="#" target="_blank">scribe4.pdf</a>, <a href="#" target="_blank">scribe4.tex</a>]<br>
+                        Scribe: Dahagam, Sujay
+                    </td>
+                    <td class="assignment-col">
+                        HW2 out [<a href="#" target="_blank">link</a>]<br>
+                        (UIC credentials rqd.)
+                    </td>
+                    <td class="notes-col">Finalize scribe assignment</td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 6</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Multiclass logistic (contd)</li>
+                            <li>MLE (Bernoulli)</li>
+                            <li>MAP (Bernoulli)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 4.2, 4.5<br>
+                        <a href="#" target="_blank">Slides CMU 10701</a><br>
+                        <a href="#" target="_blank">Tom Mitchell's note</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec5.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">Beta demo</a><br>
+                        [<a href="#" target="_blank">scribe5.pdf</a>, <a href="#" target="_blank">scribe5.tex</a>]<br>
+                        Scribe: Bhat, Amith
+                    </td>
+                    <td class="assignment-col">
+                        Bonus-Quiz [<a href="#" target="_blank">qz-feb6.pdf</a>]<br>
+                        (submit to gradescope)
+                    </td>
+                    <td class="notes-col">
+                        <a href="#" target="_blank">Feedback form</a><br>
+                        <a href="#" target="_blank">Announcements</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 8<br><span class="extra-class">[Extra Class-1]</span></td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>MLE for Regression</li>
+                            <li>MAP = Regularization</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 4.2.5 - 4.2.7, 4.5<br>
+                        <a href="#" target="_blank">CMU 10-315 notes</a><br>
+                        <a href="#" target="_blank">Nice blog</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec6.pdf</a> (handwritten)<br>
+                        [<a href="#" target="_blank">scribe6.pdf</a>, <a href="#" target="_blank">scribe6.tex</a>]<br>
+                        Scribe: Sappidi, Yugesh
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Optional Reading:<br>
+                        Conjugate Priors<br>
+                        <ul>
+                            <li><a href="#" target="_blank">Nice blog</a></li>
+                            <li><a href="#" target="_blank">Duke STA114</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 11</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Regularized logistic regression thru' MAP</li>
+                            <li>Convex functions</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 10.1-10.3<br>
+                        CvxO 1.1-1.3<br>
+                        <a href="#" target="_blank">Notes-IFT 6085</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec7.pdf</a> (handwritten)<br>
+                        [<a href="#" target="_blank">scribe7.pdf</a>, <a href="#" target="_blank">scribe7.tex</a>]<br>
+                        Scribe: Ferdowsi, Farhad
+                    </td>
+                    <td class="assignment-col">HW2 due!</td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 13</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Properties of Cvx funcs</li>
+                            <li>Gradient descent (GD)</li>
+                            <li>Convergence rates</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        CvxO 1.1-1.3, 3.1<br>
+                        <a href="#" target="_blank">Notes by A. Ahmadi</a><br>
+                        <a href="#" target="_blank">Notes by C Wang</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec8.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">GD demo</a><br>
+                        [<a href="#" target="_blank">scribe8.pdf</a>, <a href="#" target="_blank">scribe8.tex</a>]<br>
+                        Scribe: Ferdowsi, Farhad
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading<br>
+                        <ol>
+                            <li><a href="#" target="_blank">Matrix Norms</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 18</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Convergence of GD</li>
+                            <li>Newton's method</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        CvxO 3.1, 3.2, 3.4, 5.3.2<br>
+                        <a href="#" target="_blank">Nice notes on Cvx Optimization</a><br>
+                        <a href="#" target="_blank">Notes-CS 6820</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec9.pdf</a> (handwritten)<br>
+                        [<a href="#" target="_blank">scribe9.pdf</a>, <a href="#" target="_blank">scribe9.tex</a>]<br>
+                        Scribe: Datta Sai VVN
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ol>
+                            <li><a href="#" target="_blank">Matrix Derivative</a></li>
+                            <li><a href="#" target="_blank">Taylor Series</a></li>
+                            <li><a href="#" target="_blank">Newton's Method</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 20</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>GD convergence analysis</li>
+                            <li>SGD + Convergence guarantees</li>
+                            <li>Batched SGD</li>
+                            <li>Variants of GD</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        CvxO 3.1-3.2<br>
+                        <a href="#" target="_blank">Notes on SGD</a><br>
+                        <a href="#" target="_blank">Notes on Heavy Ball & Nesterov's Accelerated GD</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec10.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">SGD demo</a><br>
+                        [<a href="#" target="_blank">scribe10.pdf</a>, <a href="#" target="_blank">scribe10.tex</a>]<br>
+                        Scribe: Aniket Wagde
+                    </td>
+                    <td class="assignment-col">HW3 out [<a href="#" target="_blank">link</a>]</td>
+                    <td class="notes-col">
+                        <a href="#" target="_blank">Announcements</a><br>
+                        Extra Reading:<br>
+                        <ol>
+                            <li><a href="#" target="_blank">Comprehensive study of SGD & Batched-SGD</a></li>
+                            <li><a href="#" target="_blank">Nice demo</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 25</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Max-Margin Formulation</li>
+                            <li>SVM objective</li>
+                            <li>KKT conditions</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 17.3.1-17.3.2<br>
+                        <a href="#" target="_blank">Caltech CS156 Slides</a>-1<br>
+                        <a href="#" target="_blank">KKT conditions (CMU-10-725)</a><br>
+                        <a href="#" target="_blank">Notes by Wang & Pavlu</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec11.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">Nice visual demo!</a><br>
+                        [<a href="#" target="_blank">scribe11.pdf</a>, <a href="#" target="_blank">scribe11.tex</a>]<br>
+                        Scribe: Harsh Kothari
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ol>
+                            <li><a href="#" target="_blank">Slides CMU 10-601</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Feb 27</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>KKT conditions (contd)</li>
+                            <li>Dual Optimization</li>
+                            <li>SVM with strong duality</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">Strong Duality and Slater's Conditions</a><br>
+                        <a href="#" target="_blank">Caltech CS156 Slides</a>-2
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec12.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">Nice visualization!</a><br>
+                        [<a href="#" target="_blank">scribe12.pdf</a>, <a href="#" target="_blank">scribe12.tex</a>]<br>
+                        Scribe: Boggavarapu, Lokesh
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ol>
+                            <li><a href="#" target="_blank">Primer on QP</a></li>
+                            <li><a href="#" target="_blank">Strong Duality</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Mar 1<br><span class="extra-class">[Extra Class-2]</span></td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Kernel SVM</li>
+                            <li>Kernel Properties</li>
+                            <li>Examples</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 17.3.4<br>
+                        <a href="#" target="_blank">CMU-10701 slides</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec13.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">Kernel tricks demo</a><br>
+                        [<a href="#" target="_blank">scribe13.pdf</a>, <a href="#" target="_blank">scribe13.tex</a>]<br>
+                        Scribe: Madishetty, Aravind
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ol>
+                            <li><a href="#" target="_blank">SVM-vs-Perceptron</a></li>
+                            <li><a href="#" target="_blank">Another amazing demo w/ Kernels!</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Mar 4</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Soft-Margin SVM</li>
+                            <li>SVM Regression</li>
+                            <li>Perceptron</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 17.3.3<br>
+                        <a href="#" target="_blank">COMP-652 slides</a><br>
+                        <a href="#" target="_blank">CMU-15-859</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec14.pdf</a> (handwritten)<br>
+                        [<a href="#" target="_blank">scribe14.pdf</a>, <a href="#" target="_blank">scribe14.tex</a>]<br>
+                        Scribe: Lukau, Please
+                    </td>
+                    <td class="assignment-col">HW3 due!</td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Mar 6</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Perceptron Mistake bounds</li>
+                            <li>Perceptron w/o perfect linear separator</li>
+                            <li>Kernel Perceptron</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        PML 10.2.5, 13.2<br>
+                        <a href="#" target="_blank">Princeton CoS495</a><br>
+                        <a href="#" target="_blank">CMU 10-607</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec15.pdf</a> (handwritten)<br>
+                        <a href="#" target="_blank">Youtube demo</a><br>
+                        [<a href="#" target="_blank">scribe15.pdf</a>, <a href="#" target="_blank">scribe15.tex</a>]<br>
+                        Scribe: Rithish Reddy Chichili
+                    </td>
+                    <td class="assignment-col">
+                        HW3 solutions posted: [<a href="#" target="_blank">link</a>]
+                    </td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr class="exam-row">
+                    <td class="date-col">Mar 13</td>
+                    <td class="topic-col">Mid Term</td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Mar 15<br><span class="extra-class">[Extra Class-3]</span></td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Winnow's Algorithm</li>
+                            <li>Mistake Bounds</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        Winnow: <a href="#" target="_blank">CS 4540</a><br>
+                        Mistake Bound: <a href="#" target="_blank">CS260</a><br>
+                        <a href="#" target="_blank">Winnow Example</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec16.pdf</a> (handwritten)<br>
+                        Scribe: Nemi Chakrawarthy Bhupathiraju / Simran<br>
+                        [<a href="#" target="_blank">scribe16.pdf</a>, <a href="#" target="_blank">scribe16.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ol>
+                            <li>Proving lower bounds <a href="#" target="_blank">CMSC 35900</a> (Sec 2)</li>
+                            <li>Advanced topics on Winnow & Perceptron: PLG Chap 12</li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Mar 18</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Boosting</li>
+                            <li>Adaboost</li>
+                            <li>Mistake Bounds</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        Boosting: <a href="#" target="_blank">CSCI699</a><br>
+                        <a href="#" target="_blank">Slides</a>, Rob Schapire
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec17.pdf</a> (handwritten)<br>
+                        Scribe: Gabriel Zhang<br>
+                        [<a href="#" target="_blank">scribe17.pdf</a>, <a href="#" target="_blank">scribe17.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ol>
+                            <li>Original paper by <a href="#" target="_blank">Freund & Schapire'99</a></li>
+                            <li>Advanced topics: <a href="#" target="_blank">Tutorial (Sec 9)</a></li>
+                            <li>General winnow: <a href="#" target="_blank">Alg1</a>, <a href="#" target="_blank">Alg2</a></li>
+                        </ol>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">Mar 20</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Midterm solutions</li>
+                            <li>PCA</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col">Scribe: Jiachen Tao</td>
+                    <td class="assignment-col">
+                        <a href="#" target="_blank">Project List out!</a><br>
+                        HW4 (Lab2) out! [<a href="#" target="_blank">link</a>]
+                    </td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr class="break-row">
+                    <td class="date-col">Mar 25</td>
+                    <td class="topic-col">Spring Break!</td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr class="break-row">
+                    <td class="date-col">Mar 27</td>
+                    <td class="topic-col">Spring Break!</td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 1</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Orthonormal Basis (OB)</li>
+                            <li>PCA (Min-Error Formulation)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        OB: <a href="#" target="_blank">Gilbert Strang</a> [Chap 3.4]<br>
+                        PCA: PRML 12.1-12.2
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec19.pdf</a> (handwritten)<br>
+                        Scribe: Jiachen Tao / Aksun<br>
+                        [<a href="#" target="_blank">Scribe19.pdf</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Project selection deadline.<br>
+                        [<a href="#" target="_blank">add project preference</a>]<br>
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">Basics of LA</a></li>
+                            <li><a href="#" target="_blank">Basics of Vector Space</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 3</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>PCA (Max-Var Formulation)</li>
+                            <li>Eigen Values-Vectors (EV)</li>
+                            <li>Clustering</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">MA262 EV basics</a><br>
+                        PCA: PML 20.1<br>
+                        Clustering: <a href="#" target="_blank">J. Cadler Slides</a><br>
+                        <a href="#" target="_blank">E Liberty lecture</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec20.pdf</a> (handwritten)<br>
+                        Scribe: Mishra, Simran<br>
+                        [<a href="#" target="_blank">scribe20.pdf</a>, <a href="#" target="_blank">scribe20.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Find a collaborator/ submit your preference latest by Apr 4th<br>
+                        [<a href="#" target="_blank">Project-groups</a>]<br>
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">Nice video tutorial on EV!</a></li>
+                            <li>K-Medoids: <a href="#" target="_blank">CSC 380 slides</a></li>
+                            <li>KPCA: <a href="#" target="_blank">CSCI 5512 slides</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 10</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>K-Means</li>
+                            <li>Spectral Clustering (SC)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        K-Means: <a href="#" target="_blank">CS217</a><br>
+                        PML 21
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec21.pdf</a> (handwritten)<br>
+                        Scribe: Wang, Haoxuan<br>
+                        [<a href="#" target="_blank">scribe21.pdf</a>, <a href="#" target="_blank">scribe21.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">More on Graph Laplacian</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 12</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Spectral clustering (SC)</li>
+                            <li>Neural Net Intro</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        SC: <a href="#" target="_blank">ML10.701</a>, <a href="#" target="_blank">CSE902</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec22.pdf</a> (handwritten)<br>
+                        Scribe: Wang, Haoxuan<br>
+                        [<a href="#" target="_blank">scribe22.pdf</a>, <a href="#" target="_blank">scribe22.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">Advanced SC</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 15</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Feed-Forward NN (FFNN)</li>
+                            <li>Back-Propagation (BP)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        CS217: <a href="#" target="_blank">FFNN</a>, <a href="#" target="_blank">BP</a><br>
+                        COS 324: <a href="#" target="_blank">FFNN & BP</a>
+                    </td>
+                    <td class="slides-col">
+                        Scribe: Pipim, Charles / Rithish<br>
+                        [<a href="#" target="_blank">scribe23.pdf</a>, <a href="#" target="_blank">scribe23.tex</a>]
+                    </td>
+                    <td class="assignment-col">HW4 due!</td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 17</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Backpropagation (contd)</li>
+                            <li>RNN</li>
+                            <li>CNN (Intro)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">CS217-RNN</a><br>
+                        <a href="#" target="_blank">RNN Slides</a><br>
+                        EECS-498: <a href="#" target="_blank">RNN Slides</a>
+                    </td>
+                    <td class="slides-col">
+                        Scribe: Salvi, Yukta<br>
+                        [<a href="#" target="_blank">scribe24.pdf</a>, <a href="#" target="_blank">scribe24.tex</a>]
+                    </td>
+                    <td class="assignment-col">HW5 (Lab3) out! [<a href="#" target="_blank">link</a>]</td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">Detailed Applied YT course on DL</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 22</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>CNN</li>
+                            <li>Dropout regularization</li>
+                            <li>Vanishing & Exploding Gradients (VE-Grads)</li>
+                            <li>RNN-LSTM</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">CS217-CNN</a><br>
+                        COS 324: <a href="#" target="_blank">CNN</a><br>
+                        EECS-498: <a href="#" target="_blank">CNN Slides</a><br>
+                        <a href="#" target="_blank">VE-Grads in RNN</a><br>
+                        <a href="#" target="_blank">LSTM slides</a>
+                    </td>
+                    <td class="slides-col">
+                        Scribe: Agnihotri, Akshun<br>
+                        [<a href="#" target="_blank">scribe25.pdf</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">Regularization in NNs</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 24</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Gaussian Processes (GP)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        GP: <a href="#" target="_blank">CS229 notes</a><br>
+                        <a href="#" target="_blank">ESE-680 notes</a>
+                    </td>
+                    <td class="slides-col">
+                        <a href="#" target="_blank">Lec26.pdf</a> (handwritten)<br>
+                        Scribe: Bhat, Amith<br>
+                        [<a href="#" target="_blank">scribe26.pdf</a>, <a href="#" target="_blank">scribe26.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        <a href="#" target="_blank">OMD.pdf</a><br>
+                        <a href="#" target="_blank">OCO.pdf</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 26<br><span class="extra-class">[Optional Extra class-1]</span></td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Transformers for LMs</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">CMU 11-785 slides</a><br>
+                        <a href="#" target="_blank">Attention Paper (Google)</a>
+                    </td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        Lecture topic not included in the final exam!<br>
+                        <a href="#" target="_blank">CS4780 Slides</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">April 29</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Online Learning Basics-1</li>
+                            <li>- Halving (HA)</li>
+                            <li>- Wtd-Majority (WMA)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">HA.pdf</a><br>
+                        <a href="#" target="_blank">WMA.pdf</a>
+                    </td>
+                    <td class="slides-col">
+                        Scribe: Kothari, Harsh<br>
+                        [<a href="#" target="_blank">scribe28.pdf</a>, <a href="#" target="_blank">scribe28.tex</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">May 1</td>
+                    <td class="topic-col">
+                        <ul>
+                            <li>Online Learning Basics-2</li>
+                            <li>- EXP-Wt</li>
+                            <li>- OMD (OCO)</li>
+                        </ul>
+                    </td>
+                    <td class="reading-col">
+                        <a href="#" target="_blank">Exp-Wt.pdf</a>
+                    </td>
+                    <td class="slides-col">
+                        Scribe: Datta, Sai VVN<br>
+                        [<a href="#" target="_blank">scribe29.pdf</a>]
+                    </td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">
+                        [Topic not included in the final exam]<br>
+                        Extra Reading:<br>
+                        <ul>
+                            <li><a href="#" target="_blank">OMD.pdf</a></li>
+                            <li><a href="#" target="_blank">OCO.pdf</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="date-col">May 3</td>
+                    <td class="topic-col"></td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col">HW5 due!</td>
+                    <td class="notes-col"></td>
+                </tr>
+                
+                <tr class="exam-row">
+                    <td class="date-col">May 6</td>
+                    <td class="topic-col">Final Exam</td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col"></td>
+                    <td class="notes-col">Time: 1-2:30 pm CT<br>Room: LC F6</td>
+                </tr>
+                
+                <tr class="exam-row">
+                    <td class="date-col">May 9</td>
+                    <td class="topic-col">Project Presentations</td>
+                    <td class="reading-col"></td>
+                    <td class="slides-col"></td>
+                    <td class="assignment-col">Final project report due!</td>
+                    <td class="notes-col">Time: 3-5:30 pm CT<br>Room: TBD</td>
+                </tr>
+            </tbody>
+        </table>
       
     </section>
 
