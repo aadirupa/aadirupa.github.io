@@ -133,11 +133,53 @@ classes: wide
 
     <section id="resources">
       <h2>Resources</h2>
-      <ul>
-        <li><a href="https://www.statlearning.com/" target="_blank">The Elements of Statistical Learning (ESL)</a></li>
-        <li><a href="https://scikit-learn.org/stable/" target="_blank">Scikit-learn Documentation</a></li>
-        <li><a href="https://colab.research.google.com/" target="_blank">Google Colab for ML Assignments</a></li>
-      </ul>
+      <h3>Recommended Reading</h3>
+<p>Class lectures will be based on, but not limited to, the following books:</p>
+
+<ul>
+  <li>
+    <strong>[ESL]</strong> <em>The Elements of Statistical Learning</em> by Hastie, Tibshirani, and Friedman –
+    <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Book website</a>
+  </li>
+  <li>
+    <strong>[MLTM]</strong> <em>Machine Learning</em> by Tom Mitchell –
+    <a href="https://www.cs.cmu.edu/~tom/mlbook.html">Online copy</a>
+  </li>
+  <li>
+    <strong>[PML]</strong> <em>Probabilistic Machine Learning: An Introduction</em> by Kevin Murphy –
+    <a href="https://probml.github.io/pml-book/">Book website</a>
+  </li>
+  <li>
+    <strong>[PLG]</strong> <em>Prediction, Learning and Games</em> by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 –
+    <a href="https://people.eecs.berkeley.edu/~adityag/E1245/plg.pdf">Local Copy from E1 245 by Aditya Gopalan</a>
+  </li>
+  <li>
+    <strong>[PRML]</strong> <em>Pattern Recognition and Machine Learning</em> by Christopher Bishop (optional) –
+    <a href="https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/">Free copy</a>
+  </li>
+  <li>
+    <strong>[PyAG]</strong> (Optional) <em>Hands-On Machine Learning with Scikit-Learn & TensorFlow</em> by Aurélien Géron –
+    <a href="https://github.com/ageron/handson-ml2">Online (GitHub)</a>
+  </li>
+  <li>
+    <strong>[CIML]</strong> (Optional) <em>A Course in Machine Learning</em> by Hal Daumé III –
+    <a href="http://ciml.info/">Online copy</a>,
+    <a href="http://ciml.info/errata.html">Errata</a>
+  </li>
+  <li>
+    <strong>[UML]</strong> (Optional) <em>Understanding Machine Learning: From Theory to Algorithms</em> by Shai Ben-David and Shai Shalev-Shwartz –
+    <a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/">Online copy</a>
+  </li>
+  <li>
+    <strong>[OCO]</strong> (Optional) <em>Introduction to Online Convex Optimization</em> by Elad Hazan –
+    <a href="https://ocobook.cs.princeton.edu/">Book website</a>
+  </li>
+  <li>
+    <strong>[CvxO]</strong> <em>Convex Optimization: Algorithms and Complexity</em> by Sébastien Bubeck –
+    <a href="https://sbubeck.com/Bubeck15-survey.pdf">Book website</a>
+  </li>
+</ul>
+
     </section>
 
     <section id="logistics">
