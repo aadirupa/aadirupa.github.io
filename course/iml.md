@@ -74,7 +74,7 @@ classes: wide
     <p> — Spring 2025, University of Illinois Chicago</p>
   </header>
 
-  <nav>
+  <nav style="display: flex; gap: 20px;">
     <a href="#description">Description</a>
     <a href="#schedule">Schedule</a>
     <a href="#resources">Resources</a>
@@ -93,19 +93,42 @@ classes: wide
 
     <section id="schedule">
       <h2>Weekly Schedule</h2>
-      <table>
-        <tr>
-          <th>Week</th>
-          <th>Topics</th>
-          <th>Readings</th>
-        </tr>
-        <tr>
-          <td>Week 1</td>
-          <td>Introduction, Linear Regression</td>
-          <td>Chapter 1–2, ESL Textbook</td>
-        </tr>
-        <!-- Add more rows as needed -->
-      </table>
+      <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Reading</th>
+      <th>Slides</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jan 21</td>
+      <td>
+        Introduction (Course Logistics)<br>
+        Basics of Supervised Learning
+      </td>
+      <td>
+        PML 1.2<br>
+        ESL 2.1, 2.2
+      </td>
+      <td><a href="CS412-Intro.pdf">CS412-Intro.pdf</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jan 23</td>
+      <td>Understanding loss functions</td>
+      <td>PML 4.3</td>
+      <td>
+        <a href="Lec1.pdf">Lec1.pdf*</a> (handwritten)<br>
+        [<a href="scribe1.pdf">scribe1.pdf</a>, <a href="scribe1.tex">scribe1.tex</a>]
+      </td>
+      <td>Scribe: Edomwonyi, Uwadia</td>
+    </tr>
+  </tbody>
+</table>
     </section>
 
     <section id="resources">
