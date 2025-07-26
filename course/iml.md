@@ -139,24 +139,42 @@ classes: wide
       <td>HW2 out (UIC credentials required)<br>Finalize scribe assignment</td>
     </tr>
     <tr>
+    <td>Feb 6</td>
+    <td>Multiclass logistic (contd)<br>MLE (Bernoulli)<br>MAP (Bernoulli)</td>
+    <td>PML 4.2, 4.5<br>Slides CMU 10701<br>Tom Mitchell's note</td>
+    <td>
+      <a href="https://aadirupa.github.io/course/iml_repo/scribe5.pdf" target="_blank">Scribe5</a>: Bhat, Amith
+    </td>
+    <td>Bonus-Quiz [qz-feb6.pdf] (submit to Gradescope)<br>Feedback form<br>Announcements</td>
+  </tr>
+    <tr>
+    <td>Feb 8</td>
+    <td>[Extra Class-1]<br>MLE for Regression<br>MAP = Regularization</td>
+    <td>PML 4.2.5 - 4.2.7, 4.5<br>CMU 10-315 notes<br>Nice blog</td>
+    <td>
+      <a href="https://aadirupa.github.io/course/iml_repo/scribe6.pdf" target="_blank">Scribe6: Sappidi, Yugesh
+    </td>
+    <td>Optional Reading: Conjugate Priors<br>Nice blog<br>Duke STA114</td>
+  </tr>
+    <tr>
       <td>Feb 11</td>
       <td>Regularized logistic regression thru' MAP<br>Convex functions</td>
       <td>PML 10.1-10.3<br>CvxO 1.1-1.3<br>Notes-IFT 6085</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe5.pdf" target="_blank">Scribe5</a>: Ferdowsi, Farhad</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe7.pdf" target="_blank">Scribe7</a>: Ferdowsi, Farhad</td>
       <td>HW2 due!</td>
     </tr>
     <tr>
       <td>Feb 13</td>
       <td>Properties of Cvx funcs<br>Gradient descent (GD)<br>Convergence rates</td>
       <td>CvxO 1.1-1.3, 3.1<br>Notes by A. Ahmadi<br>Notes by C Wang</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe6.pdf" target="_blank">Scribe6</a>: Ferdowsi, Farhad</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe8.pdf" target="_blank">Scribe8</a>: Ferdowsi, Farhad</td>
       <td>Extra Reading: Matrix Norms</td>
     </tr>
     <tr>
       <td>Feb 18</td>
       <td>Convergence of GD<br>Newton's method</td>
       <td>CvxO 3.1, 3.2, 3.4, 5.3.2<br>Nice notes on Cvx Optimization<br>Notes-CS 6820</td>
-      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe6.pdf" target="_blank">Scribe6</a>: Datta Sai VVN</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe9.pdf" target="_blank">Scribe9</a>: Datta Sai VVN</td>
       <td>Extra Reading: Matrix Derivative<br>Taylor Series<br>Newton's Method</td>
     </tr>
   </tbody>
