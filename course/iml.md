@@ -150,7 +150,7 @@ classes: wide
   </li>
   <li>
     <strong>[PLG]</strong> <em>Prediction, Learning and Games</em> by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 –
-    <a href="https://people.eecs.berkeley.edu/~adityag/E1245/plg.pdf">Local Copy from E1 245 by Aditya Gopalan</a>
+    <a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a>
   </li>
   <li>
     <strong>[PRML]</strong> <em>Pattern Recognition and Machine Learning</em> by Christopher Bishop (optional) –
