@@ -91,7 +91,8 @@ classes: wide
 
     <section id="schedule">
       <h2>Weekly Schedule</h2>
-      <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+      
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th>Date</th>
@@ -104,29 +105,42 @@ classes: wide
   <tbody>
     <tr>
       <td>Jan 21</td>
-      <td>
-        Introduction (Course Logistics)<br>
-        Basics of Supervised Learning
-      </td>
-      <td>
-        PML 1.2<br>
-        ESL 2.1, 2.2
-      </td>
-      <td><a href="CS412-Intro.pdf">CS412-Intro.pdf</a></td>
+      <td>Introduction (Course Logistics)<br>Basics of Supervised Learning</td>
+      <td>PML 1.2<br>ESL 2.1, 2.2</td>
+      <td>Scribe: Edomwonyi, Uwadia</td>
       <td></td>
     </tr>
     <tr>
       <td>Jan 23</td>
       <td>Understanding loss functions</td>
       <td>PML 4.3</td>
-      <td>
-        <a href="Lec1.pdf">Lec1.pdf*</a> (handwritten)<br>
-        [<a href="scribe1.pdf">scribe1.pdf</a>, <a href="scribe1.tex">scribe1.tex</a>]
-      </td>
       <td>Scribe: Edomwonyi, Uwadia</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jan 28</td>
+      <td>Hypothesis (Func) Class<br>ERM<br>Linear Regression</td>
+      <td>PML 11.1, 11.2, 11.3<br>ESL 3.2</td>
+      <td>Scribe: Shelke, Harsh</td>
+      <td>HW1 due today!</td>
+    </tr>
+    <tr>
+      <td>Jan 30</td>
+      <td>Overfitting & Regularizers<br>Lin-Reg: Linear Regression (contd)</td>
+      <td>PML 4.3, 5.4</td>
+      <td>Scribe: Hulu, Charis / Lokesh</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Feb 4</td>
+      <td>Logistic Regression<br>Multiclass Logistic Regression (MLR)</td>
+      <td>PML 10.2.1, 10.2.2<br>ESL 4.4.1</td>
+      <td>Scribe: Dahagam, Sujay</td>
+      <td>HW2 out (UIC credentials required)<br>Finalize scribe assignment</td>
     </tr>
   </tbody>
 </table>
+      
     </section>
 
     <section id="resources">
