@@ -94,13 +94,14 @@ classes: wide
       
 <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th>Date</th>
-      <th>Topic</th>
-      <th>Reading</th>
-      <th>Slides</th>
-      <th>Notes</th>
-    </tr>
+                <tr>
+                    <th>Date</th>
+                    <th>Topic</th>
+                    <th>Reading</th>
+                    <th>Slides</th>
+                    <th>Assignment</th>
+                    <th>Notes</th>
+                </tr>
   </thead>
  <tbody>
                 <tr>
