@@ -57,15 +57,116 @@ classes: wide
     border-bottom: 2px solid #0b5394;
     padding-bottom: 5px;
   }
+  .schedule-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+       
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+       
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+       
+        th {
+            background: #34495e;
+            color: white;
+            padding: 12px 8px;
+            text-align: center;
+            font-weight: 600;
+            border: 1px solid #2c3e50;
+        }
+       
+        td {
+            padding: 10px 8px;
+            border: 1px solid #ddd;
+            vertical-align: top;
+        }
+       
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+       
+        tr:hover {
+            background-color: #e8f4f8;
+        }
+       
+        .date-col {
+            text-align: center;
+            font-weight: bold;
+            color: #2c3e50;
+            min-width: 80px;
+        }
+       
+        .topic-col {
+            max-width: 200px;
+        }
+       
+        .reading-col {
+            max-width: 150px;
+            font-size: 12px;
+        }
+       
+        .slides-col {
+            max-width: 200px;
+            font-size: 12px;
+        }
+       
+        .assignment-col {
+            max-width: 150px;
+            font-size: 12px;
+        }
+       
+        .notes-col {
+            max-width: 200px;
+            font-size: 12px;
+        }
+       
+        ul {
+            margin: 5px 0;
+            padding-left: 20px;
+        }
+       
+        li {
+            margin-bottom: 3px;
+        }
+       
+        .extra-class {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+       
+        .exam-row {
+            background-color: #fff3cd !important;
+            font-weight: bold;
+        }
+       
+        .break-row {
+            background-color: #d1ecf1 !important;
+            font-style: italic;
+        }
 
-  a {
-    color: #0b5394;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
+        a {
+          color: #0b5394;
+          text-decoration: none;
+        }
+      
+        a:hover {
+          text-decoration: underline;
+        } 
 </style>
 </head>
 <body>
