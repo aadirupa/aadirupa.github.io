@@ -86,9 +86,6 @@ classes: wide
     <section id="description">
       <h2>Course Overview</h2>
       
-      <p style="font-weight: bold;"> ------- Page Under Construction ----------- </p>
-
-      
       <p>This course provides an introduction to the fundamental concepts and algorithms in machine learning. Topics include supervised and unsupervised learning, decision trees, regression, SVMs, neural networks, and clustering techniques, with an emphasis on both theoretical foundations and practical implementation.</p>
     </section>
 
