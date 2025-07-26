@@ -107,36 +107,57 @@ classes: wide
       <td>Jan 21</td>
       <td>Introduction (Course Logistics)<br>Basics of Supervised Learning</td>
       <td>PML 1.2<br>ESL 2.1, 2.2</td>
-      <td>Scribe: Edomwonyi, Uwadia</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/Intro.pdf" target="_blank">Intro Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Jan 23</td>
       <td>Understanding loss functions</td>
       <td>PML 4.3</td>
-      <td>Scribe: Edomwonyi, Uwadia</td>
+      <td>Scribe1: Edomwonyi, Uwadia</td>
       <td></td>
     </tr>
     <tr>
       <td>Jan 28</td>
       <td>Hypothesis (Func) Class<br>ERM<br>Linear Regression</td>
       <td>PML 11.1, 11.2, 11.3<br>ESL 3.2</td>
-      <td>Scribe: Shelke, Harsh</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe1.pdf" target="_blank">Scribe2</a>: Shelke, Harsh</td>
       <td>HW1 due today!</td>
     </tr>
     <tr>
       <td>Jan 30</td>
       <td>Overfitting & Regularizers<br>Lin-Reg: Linear Regression (contd)</td>
       <td>PML 4.3, 5.4</td>
-      <td>Scribe: Hulu, Charis / Lokesh</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe3.pdf" target="_blank">Scribe3</a>: Hulu, Charis / Lokesh</td>
       <td></td>
     </tr>
     <tr>
       <td>Feb 4</td>
       <td>Logistic Regression<br>Multiclass Logistic Regression (MLR)</td>
       <td>PML 10.2.1, 10.2.2<br>ESL 4.4.1</td>
-      <td>Scribe: Dahagam, Sujay</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe4.pdf" target="_blank">Scribe4</a>: Dahagam, Sujay</td>
       <td>HW2 out (UIC credentials required)<br>Finalize scribe assignment</td>
+    </tr>
+    <tr>
+      <td>Feb 11</td>
+      <td>Regularized logistic regression thru' MAP<br>Convex functions</td>
+      <td>PML 10.1-10.3<br>CvxO 1.1-1.3<br>Notes-IFT 6085</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe5.pdf" target="_blank">Scribe5</a>: Ferdowsi, Farhad</td>
+      <td>HW2 due!</td>
+    </tr>
+    <tr>
+      <td>Feb 13</td>
+      <td>Properties of Cvx funcs<br>Gradient descent (GD)<br>Convergence rates</td>
+      <td>CvxO 1.1-1.3, 3.1<br>Notes by A. Ahmadi<br>Notes by C Wang</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe6.pdf" target="_blank">Scribe6</a>: Ferdowsi, Farhad</td>
+      <td>Extra Reading: Matrix Norms</td>
+    </tr>
+    <tr>
+      <td>Feb 18</td>
+      <td>Convergence of GD<br>Newton's method</td>
+      <td>CvxO 3.1, 3.2, 3.4, 5.3.2<br>Nice notes on Cvx Optimization<br>Notes-CS 6820</td>
+      <td><a href="https://aadirupa.github.io/course/iml_repo/scribe6.pdf" target="_blank">Scribe6</a>: Datta Sai VVN</td>
+      <td>Extra Reading: Matrix Derivative<br>Taylor Series<br>Newton's Method</td>
     </tr>
   </tbody>
 </table>
