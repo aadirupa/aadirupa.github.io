@@ -78,6 +78,7 @@ classes: wide
     <a href="#description">Description</a>
     <a href="#schedule">Schedule</a>
     <a href="#resources">Resources</a>
+    <a href="#prerequisite">Prerequisite</a>
     <a href="#logistics">Logistics</a>
   </nav>
 
@@ -179,6 +180,51 @@ classes: wide
   </li>
 </ul>
 
+    </section>
+
+    <section id="prerequisite">
+      <h2>Prerequisite</h2>
+      <p>Please familiarize yourself with the basics of <strong>Probability & Statistics (PS)</strong> and <strong>Linear Algebra (LA)</strong>. Below are recommended introductory resources to help you build a solid foundation:</p>
+
+<ul>
+  <li>
+    <strong>PS Review:</strong>
+    <ol>
+      <li><a href="https://cs229.stanford.edu/section/cs229-prob.pdf">Stanford CS229 Probability Review</a></li>
+      <li><a href="https://www2.isye.gatech.edu/~sman/courses/6761/6761-1-ProbReview.pdf">Georgia Tech Prob Review (ISYE 6761)</a></li>
+      <li><a href="https://users.ssc.wisc.edu/~ctaber/410/statrev.pdf">UW-Madison Stat Review</a></li>
+    </ol>
+  </li>
+  
+  <li>
+    <strong>LA Review:</strong>
+    <ol>
+      <li><a href="https://cs229.stanford.edu/section/cs229-linalg.pdf">Stanford CS229 Linear Algebra Review</a></li>
+      <li><a href="https://james-chuang.github.io/notes/linalg_review.pdf">Linear Algebra Notes by James Chuang</a></li>
+      <li><a href="https://www.cs.cmu.edu/~jingx/docs/linearalgebra.pdf">CMU Linear Algebra Review</a></li>
+    </ol>
+  </li>
+
+  <li>
+    <strong>LaTeX for Scientific Writing:</strong>
+    <br>
+    Familiarity with LaTeX is expected for scribing lecture notes and writing assignments.
+    <br>
+    Learn the basics: <a href="https://www.youtube.com/watch?v=lgiCpA4zzGU">LaTeX Tutorial (YouTube)</a> — many other beginner tutorials are also available online.
+  </li>
+
+  <li>
+    <strong>Programming Assignments:</strong>
+    <br>
+    Assignments will involve coding in Python or Matlab. Be prepared to write code.
+    <br>
+    Python tutorial: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">Programming for Beginners (YouTube Playlist)</a>
+    <br>
+    Google Colab is recommended — many online tutorials are available.
+  </li>
+</ul>
+
+<p><strong>Note:</strong> Familiarity with the above basics is <em>highly recommended</em> for those taking the course for credit. A lack of understanding may impact your performance and grades.</p>
     </section>
 
     <section id="logistics">
