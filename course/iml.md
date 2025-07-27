@@ -18,7 +18,7 @@ classes: wide
 .ml-course-header {
     background: linear-gradient(135deg, #1565c0 0%, #1976d2 50%, #42a5f5 100%);
     color: white;
-    padding: 3rem 2rem;
+    padding: 1rem 1rem;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -70,8 +70,8 @@ classes: wide
 }
 
 .ml-course-nav a {
-    color: #1565c0 !important;
-    text-decoration: none !important;
+    color: #1565c0;
+    text-decoration: none;
     font-weight: 600;
     padding: 0.8rem 1.5rem;
     border-radius: 25px;
@@ -82,8 +82,8 @@ classes: wide
 
 .ml-course-nav a:hover {
     background: linear-gradient(135deg, #1565c0, #1976d2) !important;
-    color: white !important;
-    text-decoration: none !important;
+    color: white;
+    text-decoration: none;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(21, 101, 192, 0.3);
 }
