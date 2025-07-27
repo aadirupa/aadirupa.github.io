@@ -13,18 +13,28 @@ sidebar: false
 classes: wide          
 ---
 
+<div class="ml-course-page-wrapper">
 <style>
-/* Only target course-specific elements to avoid affecting main site navigation */
-.ml-course-header {
+/* Completely isolate all styles to this specific wrapper */
+.ml-course-page-wrapper {
+    /* Reset only within this wrapper, not affecting parent elements */
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+/* Only style direct children and descendants of .ml-course-page-wrapper */
+.ml-course-page-wrapper .ml-course-header {
     background: linear-gradient(135deg, #1565c0 0%, #1976d2 50%, #42a5f5 100%);
     color: white;
     padding: 3rem 2rem;
     text-align: center;
     position: relative;
     overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
-.ml-course-header::before {
+.ml-course-page-wrapper .ml-course-header::before {
     content: '';
     position: absolute;
     top: 0;
@@ -35,31 +45,33 @@ classes: wide
     pointer-events: none;
 }
 
-.ml-course-header h1 {
+.ml-course-page-wrapper .ml-course-header h1 {
     font-size: 2.8rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
     text-shadow: 0 2px 4px rgba(0,0,0,0.2);
     position: relative;
     z-index: 1;
+    color: white;
 }
 
-.ml-course-header p {
+.ml-course-page-wrapper .ml-course-header p {
     font-size: 1.3rem;
     font-weight: 300;
     opacity: 0.95;
     position: relative;
     z-index: 1;
+    color: white;
 }
 
-.ml-course-nav {
+.ml-course-page-wrapper .ml-course-nav {
     background: linear-gradient(to right, #ffffff 0%, #f8f9fa 100%);
     padding: 1.2rem 0;
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     border-bottom: 3px solid #e3f2fd;
 }
 
-.ml-nav-container {
+.ml-course-page-wrapper .ml-nav-container {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
@@ -69,34 +81,36 @@ classes: wide
     padding: 0 2rem;
 }
 
-.ml-course-nav a {
-    color: #1565c0 !important;
-    text-decoration: none !important;
+/* Very specific targeting for course navigation only */
+.ml-course-page-wrapper .ml-course-nav .ml-nav-container a {
+    color: #1565c0;
+    text-decoration: none;
     font-weight: 600;
     padding: 0.8rem 1.5rem;
     border-radius: 25px;
     transition: all 0.3s ease;
     background: rgba(21, 101, 192, 0.05);
     border: 2px solid transparent;
+    display: inline-block;
 }
 
-.ml-course-nav a:hover {
-    background: linear-gradient(135deg, #1565c0, #1976d2) !important;
-    color: white !important;
-    text-decoration: none !important;
+.ml-course-page-wrapper .ml-course-nav .ml-nav-container a:hover {
+    background: linear-gradient(135deg, #1565c0, #1976d2);
+    color: white;
+    text-decoration: none;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(21, 101, 192, 0.3);
 }
 
-.ml-course-content {
+.ml-course-page-wrapper .ml-course-content {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
     background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%);
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
-.ml-course-section {
+.ml-course-page-wrapper .ml-course-section {
     background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
     margin-bottom: 2.5rem;
     padding: 2.5rem;
@@ -108,12 +122,12 @@ classes: wide
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.ml-course-section:hover {
+.ml-course-page-wrapper .ml-course-section:hover {
     transform: translateY(-2px);
     box-shadow: 0 12px 35px rgba(0,0,0,0.12);
 }
 
-.ml-course-section::before {
+.ml-course-page-wrapper .ml-course-section::before {
     content: '';
     position: absolute;
     top: 0;
@@ -123,7 +137,7 @@ classes: wide
     background: linear-gradient(90deg, #1565c0, #1976d2, #42a5f5);
 }
 
-.ml-course-section h2 {
+.ml-course-page-wrapper .ml-course-section h2 {
     color: #1565c0;
     font-size: 2rem;
     font-weight: 700;
@@ -133,7 +147,7 @@ classes: wide
     position: relative;
 }
 
-.ml-course-section h2::after {
+.ml-course-page-wrapper .ml-course-section h2::after {
     content: '';
     position: absolute;
     bottom: -2px;
@@ -143,14 +157,14 @@ classes: wide
     background: linear-gradient(90deg, #1565c0, #42a5f5);
 }
 
-.ml-course-section p {
+.ml-course-page-wrapper .ml-course-section p {
     margin-bottom: 1rem;
     color: #424242;
     font-size: 1rem;
     line-height: 1.7;
 }
 
-.ml-schedule-table {
+.ml-course-page-wrapper .ml-schedule-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 1.5rem;
@@ -160,7 +174,7 @@ classes: wide
     box-shadow: 0 4px 15px rgba(0,0,0,0.08);
 }
 
-.ml-schedule-table th {
+.ml-course-page-wrapper .ml-schedule-table th {
     background: linear-gradient(135deg, #1565c0 0%, #1976d2 100%);
     color: white;
     padding: 1.2rem 1rem;
@@ -172,7 +186,7 @@ classes: wide
     text-shadow: 0 1px 2px rgba(0,0,0,0.2);
 }
 
-.ml-schedule-table td {
+.ml-course-page-wrapper .ml-schedule-table td {
     padding: 1.2rem 1rem;
     border-bottom: 1px solid rgba(66, 165, 245, 0.1);
     vertical-align: top;
@@ -180,33 +194,35 @@ classes: wide
     transition: background-color 0.2s ease;
 }
 
-.ml-schedule-table tr:hover {
+.ml-course-page-wrapper .ml-schedule-table tr:hover {
     background: linear-gradient(135deg, rgba(66, 165, 245, 0.05) 0%, rgba(25, 118, 210, 0.05) 100%);
 }
 
-.ml-schedule-table tr:nth-child(even) {
+.ml-course-page-wrapper .ml-schedule-table tr:nth-child(even) {
     background: rgba(248, 249, 250, 0.7);
 }
 
-.ml-schedule-table a {
-    color: #1565c0 !important;
-    text-decoration: none !important;
+/* Very specific targeting for table links only */
+.ml-course-page-wrapper .ml-schedule-table td a {
+    color: #1565c0;
+    text-decoration: none;
     font-weight: 500;
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
     background: rgba(66, 165, 245, 0.1);
     transition: all 0.2s ease;
+    display: inline-block;
 }
 
-.ml-schedule-table a:hover {
-    background: linear-gradient(135deg, #1565c0, #1976d2) !important;
-    color: white !important;
-    text-decoration: none !important;
+.ml-course-page-wrapper .ml-schedule-table td a:hover {
+    background: linear-gradient(135deg, #1565c0, #1976d2);
+    color: white;
+    text-decoration: none;
     transform: translateY(-1px);
     box-shadow: 0 2px 8px rgba(21, 101, 192, 0.3);
 }
 
-.ml-prereq-box {
+.ml-course-page-wrapper .ml-prereq-box {
     background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
     padding: 2rem;
     border-radius: 12px;
@@ -215,23 +231,23 @@ classes: wide
     box-shadow: 0 4px 12px rgba(255, 152, 0, 0.1);
 }
 
-.ml-prereq-box h3 {
+.ml-course-page-wrapper .ml-prereq-box h3 {
     color: #e65100;
     margin-bottom: 1rem;
     font-weight: 600;
 }
 
-.ml-prereq-box ol {
+.ml-course-page-wrapper .ml-prereq-box ol {
     padding-left: 1.5rem;
 }
 
-.ml-prereq-box li {
+.ml-course-page-wrapper .ml-prereq-box li {
     margin-bottom: 0.8rem;
     color: #424242;
     line-height: 1.6;
 }
 
-.ml-resources-item {
+.ml-course-page-wrapper .ml-resources-item {
     background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%);
     padding: 1.5rem;
     margin-bottom: 1rem;
@@ -241,29 +257,29 @@ classes: wide
     transition: transform 0.2s ease;
 }
 
-.ml-resources-item:hover {
+.ml-course-page-wrapper .ml-resources-item:hover {
     transform: translateX(5px);
 }
 
-.ml-resources-item strong {
+.ml-course-page-wrapper .ml-resources-item strong {
     color: #2e7d32;
     font-weight: 700;
 }
 
 @media (max-width: 768px) {
-    .ml-course-header h1 {
+    .ml-course-page-wrapper .ml-course-header h1 {
         font-size: 2.2rem;
     }
     
-    .ml-course-content {
+    .ml-course-page-wrapper .ml-course-content {
         padding: 1rem;
     }
     
-    .ml-nav-container {
+    .ml-course-page-wrapper .ml-nav-container {
         gap: 1rem;
     }
     
-    .ml-course-nav a {
+    .ml-course-page-wrapper .ml-course-nav .ml-nav-container a {
         padding: 0.6rem 1.2rem;
         font-size: 0.9rem;
     }
@@ -358,4 +374,6 @@ classes: wide
         <p><strong>👨‍🏫 Office Hours:</strong> Wednesdays 1:00-3:00 PM or by appointment</p>
         <p><strong>📧 Contact:</strong> Questions via Blackboard discussion forum preferred</p>
     </div>
+</div>
+
 </div>
