@@ -235,7 +235,6 @@ classes: wide
         <td>Soft-Margin SVM<br><em>SVM Regression</em><br><em>Perceptron</em></td>
         <td>PML 17.3.3<br><a href="https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture06.pdf">COMP-652 slides</a><br><a href="https://www.cs.cmu.edu/~avrim/ML10/lect0125.pdf">CMU-15-859</a></td>
         <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F3a613054d357552fe8227d7b23e1b3059b8d9d08e4f41cebaf31cc32909d6854%2FLec14.pdf">Lec14.pdf</a> (handwritten)<br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fac8ac84bfd07b51928e1f6b808a7c384db605aad648c87ae4cf34cd663d92917%2Fscribe14.pdf">scribe14.pdf</a>, <a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fa459e50eb1ab1996d4159f35acd69fd7beb1c91c9d596a60ce46e4ed18ac74cc%2Fscribe14.tex">scribe14.tex</a>]<br><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Febc649abfa27c9cc3cda05a0345501da4b5598e5d4e1e29c8c34d87feaad57c3%2Fplots14.zip">plots14.zip</a><br><a href="#">Scribe14</a>: Lukau, Please</td>
-        <td>HW3 due!</td>
         <td></td>
       </tr>
       <tr>
@@ -243,7 +242,6 @@ classes: wide
         <td>Perceptron Mistake bounds<br><em>Perceptron w/o perfect linear separator</em><br><em>Kernel Perceptron</em></td>
         <td>PML 10.2.5, 13.2<br><a href="https://www.cs.princeton.edu/courses/archive/spring16/cos495/slides/ML_basics_lecture3_Perceptron.pdf">Princeton CoS495</a><br><a href="https://www.cs.cmu.edu/~mgormley/courses/606-607-f18/slides607/lecture4-pmb.pdf">CMU 10-607</a></td>
         <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F40cd22feb2a69e7736cc5aec478f88b9056b3b0ec30a3302b73e1d8c59953aa2%2FLec15.pdf">Lec15.pdf</a> (handwritten)<br><a href="https://www.youtube.com/watch?v=xjKMD7T6ods">Youtube demo</a><br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Ffcf40a2d03409d46a92e029e7b0c573cde82e19d67c4536cc1807383af0c09dc%2Fscribe15.pdf">scribe15.pdf</a>, <a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F82eb8f30a5810fd7f2c63a94d0c8a841ed0ea73b98fc6f2c27741bd612cdb9ed%2Fscribe15.tex">scribe15.tex</a>]<br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fafa521f48467dd4af67633c6fec7f5deda62444f470319df9b8383eef403bd1a%2Fplots15.zip">plots15.zip</a>]<br><a href="#">Scribe15</a>: Rithish Reddy Chichili</td>
-        <td>HW3 solutions posted: [<a href="https://drive.google.com/file/d/1Bha24ak9U6MWyBS3D7dvFO3elXSjLFL5/view?usp=drive_link">link</a>]</td>
         <td></td>
       </tr>
       <tr>
@@ -277,7 +275,6 @@ classes: wide
       <tr>
         <td><strong>Mar 25</strong></td>
         <td>Spring Break!</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
