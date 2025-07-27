@@ -408,9 +408,13 @@ Extra Reading:<br>
 
   <div id="Description" class="tabcontent">
     <h2>📚 Course Description</h2>
-    <p style="text-align: justify;">
-      This course provides a comprehensive introduction to machine learning concepts, algorithms, and applications. Students will explore supervised and unsupervised learning techniques, neural networks, and real-world implementations using Python and popular ML libraries. The course emphasizes both theoretical understanding and practical skills.
-    </p>
+    <p style="text-align: justify;">This is a <strong>comprehensive, math-intensive</strong> machine learning course that bridges theoretical foundations with practical applications. The course covers core supervised learning algorithms including linear/logistic regression, support vector machines, neural networks, and ensemble methods like boosting. Students will dive deep into optimization techniques (gradient descent, Newton's method), convex analysis, kernel methods, dimensionality reduction (PCA), clustering, and modern topics like deep learning architectures (CNNs, RNNs, LSTMs) and online learning algorithms.</p>
+    
+    <p style="text-align: justify;">The course emphasizes <strong>rigorous mathematical understanding</strong> alongside <strong>hands-on implementation</strong>. Students will engage through programming assignments in Python/MATLAB, scribe detailed lecture notes using LaTeX, and work on a significant course project. Topics progress from fundamental concepts like loss functions and regularization to advanced methods including spectral clustering, Gaussian processes, and transformer architectures. The curriculum balances theoretical analysis (convergence proofs, mistake bounds, duality theory) with practical machine learning skills.</p>
+    
+    <p style="text-align: justify;"><strong>Upon completion</strong>, students will have a solid theoretical foundation in machine learning mathematics, practical experience implementing algorithms from scratch, and the ability to analyze and apply ML methods to real-world problems. Success requires strong backgrounds in probability, statistics, and linear algebra, along with programming proficiency. This course prepares students for advanced ML research, industry roles requiring deep technical understanding, or pursuing graduate studies in machine learning and AI.</p>
+    
+    
   </div>
 
   <div id="Prerequisites" class="tabcontent">
