@@ -121,7 +121,7 @@ classes: wide
     <span style="font-weight: bold;">Aadirupa Saha</span>
   </div>
   <div>
-    <span style="font-weight: bold;">🔬 •TA:</span>
+    <span style="font-weight: bold;">🔬 •Teaching Assistant:</span>
     <span style="font-weight: bold;">
       <a href="https://portfolio-rug0.onrender.com/" style="text-decoration: none; color: #003366;">
         Akhil S Nair
@@ -434,7 +434,7 @@ Extra Reading:<br>
 
   <div id="Prerequisites" class="tabcontent">
     <h2>⚠️ Prerequisites</h2>
-    <p style="text-align: justify;"><strong>This is a <strong>mathematically intensive</strong> course.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
+    <p style="text-align: justify;"><strong>Expect this to be a fairly <strong>mathematically intensive</strong> course.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
     
     <ul>
         <li><strong>PS review:</strong>
