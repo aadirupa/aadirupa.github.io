@@ -115,10 +115,22 @@ classes: wide
 
 <body> 
   <h2 style="color:DarkBlue;">CS 412: Intro to Machine Learning (Spring 2025)</h2>
-  <div style="font-size: 1.05em; margin-bottom: 20px; color: #003366;"> <span style="font-weight: bold;">🖍️ Instructor:</span> <span style="font-size: 1.1em; font-weight: bold;">Aadirupa Saha</span>
-  <span style="font-weight: bold;">🖍️ TA:</span> <span style="font-size: 1.1em; font-weight: bold;"><a href="https://portfolio-rug0.onrender.com/">Akhil S Nair</a></span>
+  <div style="font-size: 1.05em; color: #003366; margin-bottom: 30px; line-height: 1.6;">
+  <div>
+    <span style="font-weight: bold;">🖍️ Instructor:</span>
+    <span style="font-weight: bold;">Aadirupa Saha</span>
   </div>
+  <div>
+    <span style="font-weight: bold;">🖍️ TA:</span>
+    <span style="font-weight: bold;">
+      <a href="https://portfolio-rug0.onrender.com/" style="text-decoration: none; color: #003366;">
+        Akhil S Nair
+      </a>
+    </span>
+  </div>
+</div>
 
+  
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
     <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
