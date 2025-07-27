@@ -192,8 +192,7 @@ classes: wide
 
     <section id="schedule">
       <h2>Weekly Schedule</h2>
-      
-<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<table border="1" cellpadding="1" cellspacing="0" style="border-collapse: collapse; width: 100%; margin-top: 0px">
   <thead>
                 <tr>
                     <th>Date</th>
