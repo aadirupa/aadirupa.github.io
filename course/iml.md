@@ -414,7 +414,7 @@ Extra Reading:<br>
   </div>
 
   <div id="Prerequisites" class="tabcontent">
-    <h2>📚 Prerequisites</h2>
+    <h2>⚠️ Prerequisites</h2>
     <p><strong>This course is going to be MATH-HEAVY.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
     
     <ul>
