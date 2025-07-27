@@ -27,7 +27,7 @@ classes: wide
 .ml-course-page-wrapper .ml-course-header {
     background: linear-gradient(135deg, #1565c0 0%, #1976d2 50%, #42a5f5 100%);
     color: white;
-    padding: 3rem 2rem;
+    padding: 2rem 1rem;
     text-align: center;
     position: relative;
     overflow: hidden;
