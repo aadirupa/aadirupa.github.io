@@ -82,6 +82,11 @@ classes: wide
       border: 1px solid #ccc;
       vertical-align: top;
     }
+    td {
+   font-size: 1.1em;
+   line-height: 1.5;
+   padding: 10px;
+   }
     th {
       background-color: #f2f2f2;
       font-weight: bold;
