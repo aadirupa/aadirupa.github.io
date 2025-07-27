@@ -12,7 +12,11 @@ author_profile: false
 sidebar: false        
 classes: wide          
 ---
-
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intro to Machine Learning - Summer 2025</title>
 <style>
 .ml-course-wrapper .ml-course-header {
     background: linear-gradient(135deg, #1565c0 0%, #1976d2 50%, #42a5f5 100%);
@@ -266,8 +270,8 @@ classes: wide
     }
 }
 </style>
-
-
+</head>
+<body>
 <div class="ml-course-wrapper">
   <div class="ml-course-header">
     <h2>CS 412: Intro to Machine Learning</h2>
@@ -359,3 +363,5 @@ classes: wide
     </div>
   </div>
 </div>
+</body>
+</html>
