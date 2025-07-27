@@ -43,7 +43,7 @@ classes: wide
   }
 
   .content {
-    padding: 30px 40px;
+    padding: 3px 4px;
     width: 100%;       /* Ensure full width */
     box-sizing: border-box; /* Include padding in width */
   }
@@ -58,7 +58,7 @@ classes: wide
     padding-bottom: 5px;
   }
   .schedule-container {
-            max-width: 1200px;
+            max-width: 12px;
             margin: 0 auto;
             background: white;
             border-radius: 8px;
