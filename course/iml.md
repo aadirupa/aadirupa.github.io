@@ -69,24 +69,6 @@ classes: wide
     padding: 0 2rem;
 }
 
-.ml-course-nav a {
-    color: #1565c0;
-    text-decoration: none;
-    font-weight: 600;
-    padding: 0.8rem 1.5rem;
-    border-radius: 25px;
-    transition: all 0.3s ease;
-    background: rgba(21, 101, 192, 0.05);
-    border: 2px solid transparent;
-}
-
-.ml-course-nav a:hover {
-    background: linear-gradient(135deg, #1565c0, #1976d2) !important;
-    color: white;
-    text-decoration: none;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(21, 101, 192, 0.3);
-}
 
 .ml-course-content {
     max-width: 1200px;
@@ -271,7 +253,7 @@ classes: wide
 </style>
 
 <div class="ml-course-header">
-    <h1>CS 412: Intro to Machine Learning</h1>
+    <h3>CS 412: Intro to Machine Learning</h3>
     <p>Spring 2025, University of Illinois Chicago</p>
 </div>
 
