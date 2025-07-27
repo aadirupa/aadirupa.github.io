@@ -479,7 +479,7 @@ Extra Reading:<br>
     <ul>
       <li><strong>📍 Location:</strong> Lecture Complex F6</li>
       <li><strong>⏰ Schedule:</strong> Tuesday & Thursday, 2:00 PM - 3:15 PM</li>
-      <li><strong>👨‍🏫 Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
+      <li><strong>🏛️ Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
       <li><strong>📧 Contact:</strong> Email or Piazza </li>
     </ul>
   </div>
