@@ -228,7 +228,6 @@ classes: wide
         <td>Kernel SVM<br><em>Kernel Properties</em><br><em>Examples</em></td>
         <td>PML 17.3.4<br><a href="https://www.cs.cmu.edu/~aarti/Class/10701_Spring21/Lecs/svm_dual_kernel_inked.pdf">CMU-10701 slides</a></td>
         <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fee04f70f200622c3f50e7c54bd29be4f0723973776d9d0e605d3202106bce454%2FLec13.pdf">Lec13.pdf</a> (handwritten)<br><a href="https://www.youtube.com/watch?v=3liCbRZPrZA">Kernel tricks demo</a><br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F9fb9e640a58ce97fd946af5e034617144890b506afd9b1d6085129805c163e7b%2Fscribe13.pdf">scribe13.pdf</a>, <a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fbcaee6ea29f38bf8cfc834ffb034b5d5d39504a69af05a085236c4f694ccd29b%2Fscribe13.tex">scribe13.tex</a>]<br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F6ebf7c3409788dc6bd4d1d052f6e448f156c26fd9b96c77036a933c75c998af3%2Fplots13.zip">plots13.zip</a>]<br><a href="#">Scribe13</a>: Madishetty, Aravind</td>
-        <td></td>
         <td>Extra Reading:<br>1. <a href="https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture21_SVM3.pdf">SVM-vs-Perceptron</a><br>2. <a href="https://www.youtube.com/watch?v=-Z4aojJ-pdg">Another amazing demo w/ Kernels!</a></td>
       </tr>
       <tr>
