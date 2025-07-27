@@ -332,6 +332,11 @@ classes: wide
       <tr>
         <td><strong>April 17</strong></td>
         <td>Backpropagation (contd)<br><em>RNN</em><br><em>CNN (Intro)</em></td>
+            <td>
+                <a href="https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf">CS217-RNN</a><br>
+                <a href="https://harvard-iacs.github.io/2019-CS109B/lectures/lecture10/presentation/cs109b_lecture10_RNN.pdf">RNN Slides</a><br>
+                EECS-498: <a href="https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture12.pdf">RNN Slides</a>
+            </td>
         <td><a href="https://aadirupa.github.io//course/iml_repo/scribe24.pdf">Scribe24</a>: Salvi, Yukta</td>
         <td>Extra Reading:<br>• <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">Detailed Applied YT course on DL</a></td>
       </tr>
