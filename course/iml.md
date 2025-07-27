@@ -433,8 +433,7 @@ Extra Reading:<br>
   </div>
 
   <div id="Prerequisites" class="tabcontent">
-    <h2>⚠️ Prerequisites</h2>
-    <p><strong>This course is going to be MATH-HEAVY.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
+    <p style="text-align: justify;">⚠️ <strong>The course is MATH-HEAVY.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
     
     <ul>
         <li><strong>PS review:</strong>
@@ -453,11 +452,11 @@ Extra Reading:<br>
         </li>
     </ul>
     
-    <p><strong>Familiarity with LaTeX for scientific writing</strong> (for scribing the lecture notes and writing assignments). You can learn the basics from here: <a href="https://www.youtube.com/watch?v=lgiCpA4zzGU">https://www.youtube.com/watch?v=lgiCpA4zzGU</a> (many online tutorials available for beginners.)</p>
+    <p style="text-align: justify;"><strong>Familiarity with LaTeX for scientific writing</strong> for scribing the lecture notes (only for MS students). You can learn the basics from <a href="https://www.youtube.com/watch?v=lgiCpA4zzGU">A Simple Quickstart Guide</a>. Many other online tutorials are available for beginners — feel free to explore and use whichever best suits your needs.</p>
     
-    <p><strong>Programming assignments</strong> (in Python or Matlab). Be prepared to code: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">[A Simple Quickstart Guide]</a>, <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP">[Google Colab]</a> (many online tutorials available for beginners).</p>
+    <p style="text-align: justify;"><strong>Programming assignments</strong> (in Python or Matlab). Be prepared to code: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">[Python ML Tutorials]</a>, <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP">[Google Colab]</a> (many online tutorials available for beginners).</p>
     
-    <p>Familiarity with the above basics is highly recommended for those taking the course for credit — Lack of understanding may impact your grades.</p>
+    <p style="text-align: justify;">Familiarity with the above basics is highly recommended for those taking the course for credit — Lack of understanding may impact your grades.</p>
  
   </div>
 
