@@ -19,20 +19,21 @@ classes: wide
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CS 412: Intro to Machine Learning - Spring 2025</title>
     <style>
-        * {
+        /* Scope all styles to .course-container */
+        .course-container * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        body {
+        .course-container {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
             line-height: 1.6;
             color: #333;
             background-color: #fafafa;
         }
 
-        header {
+        .course-container header {
             background: linear-gradient(135deg, #0b5394 0%, #1a73e8 100%);
             color: white;
             padding: 2rem 0;
@@ -40,19 +41,19 @@ classes: wide
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
 
-        header h1 {
+        .course-container header h1 {
             font-size: 2.5rem;
             font-weight: 600;
             margin-bottom: 0.5rem;
         }
 
-        header p {
+        .course-container header p {
             font-size: 1.2rem;
             font-weight: 300;
             opacity: 0.9;
         }
 
-        nav {
+        .course-container nav {
             background: white;
             padding: 1rem 0;
             box-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -61,7 +62,7 @@ classes: wide
             z-index: 100;
         }
 
-        nav .nav-container {
+        .course-container nav .nav-container {
             max-width: 1200px;
             margin: 0 auto;
             display: flex;
@@ -71,7 +72,7 @@ classes: wide
             padding: 0 2rem;
         }
 
-        nav a {
+        .course-container nav a {
             color: #0b5394;
             text-decoration: none;
             font-weight: 500;
@@ -80,18 +81,18 @@ classes: wide
             transition: all 0.2s ease;
         }
 
-        nav a:hover {
+        .course-container nav a:hover {
             background-color: #f8f9fa;
             color: #1a73e8;
         }
 
-        .container {
+        .course-container .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 2rem;
         }
 
-        section {
+        .course-container section {
             background: white;
             margin-bottom: 2rem;
             padding: 2rem;
@@ -99,7 +100,7 @@ classes: wide
             box-shadow: 0 2px 8px rgba(0,0,0,0.06);
         }
 
-        section h2 {
+        .course-container section h2 {
             color: #0b5394;
             font-size: 1.8rem;
             font-weight: 600;
@@ -108,14 +109,14 @@ classes: wide
             border-bottom: 3px solid #e8f0fe;
         }
 
-        section p {
+        .course-container section p {
             margin-bottom: 1rem;
             color: #555;
             font-size: 1rem;
         }
 
         /* Schedule Table Styles */
-        .schedule-table {
+        .course-container .schedule-table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 1rem;
@@ -125,7 +126,7 @@ classes: wide
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
 
-        .schedule-table th {
+        .course-container .schedule-table th {
             background: #0b5394;
             color: white;
             padding: 1rem 0.75rem;
@@ -136,48 +137,51 @@ classes: wide
             letter-spacing: 0.5px;
         }
 
-        .schedule-table td {
+        .course-container .schedule-table td {
             padding: 1rem 0.75rem;
             border-bottom: 1px solid #e8eaed;
             vertical-align: top;
             font-size: 0.9rem;
         }
 
-        .schedule-table tr:hover {
+        .course-container .schedule-table tr:hover {
             background-color: #f8f9fa;
         }
 
-        .schedule-table tr:nth-child(even) {
+        .course-container .schedule-table tr:nth-child(even) {
             background-color: #fafbfc;
         }
 
-        .date-col {
+        .course-container .date-col {
             font-weight: 600;
             color: #0b5394;
             min-width: 100px;
             text-align: center;
         }
 
-        .topic-col {
+        .course-container .topic-col {
             max-width: 220px;
         }
 
-        .topic-col ul {
+        .course-container .topic-col ul {
             margin: 0;
             padding-left: 1.2rem;
         }
 
-        .topic-col li {
+        .course-container .topic-col li {
             margin-bottom: 0.25rem;
             color: #333;
         }
 
-        .reading-col, .slides-col, .assignment-col, .notes-col {
+        .course-container .reading-col, 
+        .course-container .slides-col, 
+        .course-container .assignment-col, 
+        .course-container .notes-col {
             max-width: 180px;
             font-size: 0.85rem;
         }
 
-        .extra-class {
+        .course-container .extra-class {
             color: #d73027;
             font-weight: 600;
             font-size: 0.8rem;
@@ -185,44 +189,44 @@ classes: wide
             margin-top: 0.25rem;
         }
 
-        .exam-row {
+        .course-container .exam-row {
             background-color: #fff3e0 !important;
             font-weight: 600;
         }
 
-        .exam-row:hover {
+        .course-container .exam-row:hover {
             background-color: #ffe0b3 !important;
         }
 
-        .break-row {
+        .course-container .break-row {
             background-color: #e8f5e8 !important;
             font-style: italic;
             color: #666;
         }
 
-        .break-row:hover {
+        .course-container .break-row:hover {
             background-color: #d4edda !important;
         }
 
-        /* Links */
-        a {
+        /* Links - only affect links within course content */
+        .course-container a {
             color: #1a73e8;
             text-decoration: none;
             transition: color 0.2s ease;
         }
 
-        a:hover {
+        .course-container a:hover {
             color: #0b5394;
             text-decoration: underline;
         }
 
         /* Resources Section */
-        .resources-list {
+        .course-container .resources-list {
             padding-left: 0;
             list-style: none;
         }
 
-        .resources-list li {
+        .course-container .resources-list li {
             margin-bottom: 1rem;
             padding: 1rem;
             background: #f8f9fa;
@@ -230,13 +234,13 @@ classes: wide
             border-left: 4px solid #1a73e8;
         }
 
-        .resources-list strong {
+        .course-container .resources-list strong {
             color: #0b5394;
             font-weight: 600;
         }
 
         /* Prerequisites Section */
-        .prereq-section {
+        .course-container .prereq-section {
             background: #f8f9fa;
             padding: 1.5rem;
             border-radius: 8px;
@@ -244,21 +248,21 @@ classes: wide
             margin-bottom: 1rem;
         }
 
-        .prereq-section h3 {
+        .course-container .prereq-section h3 {
             color: #e65100;
             margin-bottom: 0.5rem;
         }
 
-        .prereq-section ol {
+        .course-container .prereq-section ol {
             padding-left: 1.5rem;
         }
 
-        .prereq-section li {
+        .course-container .prereq-section li {
             margin-bottom: 0.5rem;
         }
 
         /* Footer */
-        footer {
+        .course-container footer {
             text-align: center;
             padding: 2rem;
             color: #666;
@@ -269,29 +273,29 @@ classes: wide
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .container {
+            .course-container .container {
                 padding: 1rem;
             }
 
-            header h1 {
+            .course-container header h1 {
                 font-size: 2rem;
             }
 
-            nav .nav-container {
+            .course-container nav .nav-container {
                 flex-wrap: wrap;
                 gap: 1rem;
             }
 
-            .schedule-table {
+            .course-container .schedule-table {
                 font-size: 0.8rem;
             }
 
-            .schedule-table th,
-            .schedule-table td {
+            .course-container .schedule-table th,
+            .course-container .schedule-table td {
                 padding: 0.5rem 0.5rem;
             }
         }
-    </style>
+</style>
 </head>
 <body>
     <header>
@@ -1230,12 +1234,8 @@ classes: wide
             <h2>Course Logistics</h2>
             <p><strong>Instructor:</strong> Prof. Aadirupa Saha</p>
             <p><strong>Email:</strong> aadirupa@uic.edu</p>
-            <p><strong>Office Hours:</strong> TBD</p>
+            <p><strong>Office Hours:</strong> Thu, 5-6pm</p>
         </section>
     </div>
-
-    <footer>
-        &copy; 2025 Intro to ML @ UIC — Designed by Aadirupa Saha
-    </footer>
 </body>
 </html>
