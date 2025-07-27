@@ -139,7 +139,7 @@ classes: wide
         <td><strong>Jan 21</strong></td>
         <td>Introduction (Course Logistics)<br><em>Basics of Supervised Learning</em></td>
         <td>PML 1.2<br>ESL 2.1, 2.2</td>
-        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F43e40d119046fe4dd1970ddbd56585281098e18111604334417617958e222171%2FCS412-Intro.pdf">📊 CS412-Intro.pdf</a></td>
+        <td><a href="https://aadirupa.github.io//course/iml_repo/Intro.pdf">📊 CS412-Intro.pdf</a></td>
         <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fd08138670a36d8bb680654314bd90e2efec733d31cf47f41f911afee8765539a%2FHW1.pdf">HW1.pdf</a> (Self-Assessment)<br>[Submit on Gradescope]<br>Due: Jan 28</td>
       </tr>
       <tr>
