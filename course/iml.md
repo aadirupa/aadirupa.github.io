@@ -117,12 +117,12 @@ classes: wide
   <h2 style="color:DarkBlue;">CS 412: Intro to Machine Learning (Spring 2025)</h2>
   <div style="font-size: 1.05em; color: #003366; margin-bottom: 30px; line-height: 1.6;">
   <div>
-    <span style="font-weight: bold;">📡 •Instructor:</span>
-    <span style="font-weight: bold;">Aadirupa Saha</span>
+    <span style="font-weight: normal;">📡 •Instructor:</span>
+    <span style="font-weight: normal;">Aadirupa Saha</span>
   </div>
   <div>
-    <span style="font-weight: bold;">🔬 •Teaching Assistant:</span>
-    <span style="font-weight: bold;">
+    <span style="font-weight: normal;">🔬 •Teaching Assistant:</span>
+    <span style="font-weight: normal;">
       <a href="https://portfolio-rug0.onrender.com/" style="text-decoration: none; color: #003366;">
         Akhil S Nair
       </a>
@@ -434,7 +434,7 @@ Extra Reading:<br>
 
   <div id="Prerequisites" class="tabcontent">
     <h2>⚠️ Prerequisites</h2>
-    <p style="text-align: justify;"><strong>Expect this to be a fairly <strong>mathematically intensive</strong> course.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
+    <p style="text-align: justify;">Expect this to be a <strong> fairly <strong>math intensive</strong> course. Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
     
     <ul>
         <li><strong>PS review:</strong>
