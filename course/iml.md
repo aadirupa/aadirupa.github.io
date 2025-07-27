@@ -1,4 +1,18 @@
-<!DOCTYPE html>
+---
+layout: splash
+title: "Intro to ML"
+date: 2025-01-14
+permalink: /course/iml/
+tags:
+  - ml
+  - ai
+  - python
+  - course
+author_profile: false  
+sidebar: false        
+classes: wide          
+---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
