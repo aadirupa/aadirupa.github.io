@@ -131,10 +131,6 @@ classes: wide
          <strong>Email:</strong> aadirupa@uic.edu<br>
          <strong>Office Hours:</strong> TBD</p>
     </section>
-
-    <footer>
-      &copy; 2025 Intro to ML @ UIC — Designed by Aadirupa Saha
-    </footer>
   </div>
 </body>
 </html>
