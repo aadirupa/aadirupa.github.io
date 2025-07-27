@@ -434,7 +434,7 @@ Extra Reading:<br>
 
   <div id="Prerequisites" class="tabcontent">
     <h2>⚠️ Prerequisites</h2>
-    <p style="text-align: justify;"><strong>The course is MATH-HEAVY.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
+    <p style="text-align: justify;"><strong>This is a <strong>mathematically intensive</strong> course.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
     
     <ul>
         <li><strong>PS review:</strong>
@@ -457,7 +457,7 @@ Extra Reading:<br>
     
     <p style="text-align: justify;"><strong>Programming assignments</strong> (in Python or Matlab). Be prepared to code: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">[Python ML Tutorials]</a>, <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP">[Google Colab]</a> (many online tutorials available for beginners).</p>
     
-    <p style="text-align: justify;">Familiarity with the above basics is highly recommended for those taking the course for credit — Lack of understanding may impact your grades.</p>
+    <p style="text-align: justify;">A strong command of the foundational material outlined above is expected of all students taking the course for credit. Insufficient preparation may adversely affect your ability to engage with the course content and perform successfully in assessments, which may impact your final grades.</p>
  
   </div>
 
