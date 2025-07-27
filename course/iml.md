@@ -270,7 +270,7 @@ classes: wide
 
 <div class="ml-course-wrapper">
   <div class="ml-course-header">
-    <h1>CS 412: Intro to Machine Learning</h1>
+    <h2>CS 412: Intro to Machine Learning</h2>
     <p>Spring 2025, University of Illinois Chicago</p>
   </div>
 
