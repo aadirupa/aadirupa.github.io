@@ -472,7 +472,7 @@ Extra Reading:<br>
         
         <li><strong>[PML]</strong> Probabilistic Machine Learning: An Introduction, by Kevin Murphy [<a href="https://probml.github.io/pml-book/book1.html">Book website</a>]</li>
         
-        <li><strong>[PLG]</strong> Prediction, Learning and Games by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 [<a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a> by Aditya Gopalan]</li>
+        <li><strong>[PLG]</strong> Prediction, Learning and Games by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 [<a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a>]</li>
         
         <li><strong>[PRML]</strong> Pattern Recognition and Machine Learning by Christopher Bishop (optional) [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
         
