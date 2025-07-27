@@ -20,12 +20,14 @@ classes: wide
       max-width: 100% !important;
       width: 100% !important;
       margin: 0 auto !important;
+      padding-bottom: 60px;
     }
     body {
       font-family: sans-serif;
       margin: 0;
       padding: 0;
       background: #fff;
+      padding-bottom: 60px;
     }
     a:link {
       color: RoyalBlue;
@@ -440,7 +442,7 @@ Extra Reading:<br>
     
     <p><strong>Familiarity with LaTeX for scientific writing</strong> (for scribing the lecture notes and writing assignments). You can learn the basics from here: <a href="https://www.youtube.com/watch?v=lgiCpA4zzGU">https://www.youtube.com/watch?v=lgiCpA4zzGU</a> (many online tutorials available for beginners.)</p>
     
-    <p><strong>Programming assignments</strong> (in Python or Matlab). Be prepared to code: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr</a>, <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP">Google Colab</a> (many online tutorials available for beginners).</p>
+    <p><strong>Programming assignments</strong> (in Python or Matlab). Be prepared to code: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">[A Simple Quickstart Guide]</a>, <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP">[Google Colab]</a> (many online tutorials available for beginners).</p>
     
     <p>Familiarity with the above basics is highly recommended for those taking the course for credit — Lack of understanding may impact your grades.</p>
  
