@@ -335,6 +335,68 @@ classes: wide
         <td>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fde5c28ea6da0c376860c1f55389baccec356fd11d6e857f016dafacb6a378719%2Fscribe25.pdf">scribe25.pdf</a>]<br><a href="#">Scribe25</a>: Agnihotri, Akshun</td>
         <td>Extra Reading:<br>• <a href="https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf">Regularization in NNs</a></td>
       </tr>
+      <tr>
+        <td><strong>April 24</strong></td>
+        <td>Gaussian Processes (GP)</td>
+        <td>GP: <a href="https://cs229.stanford.edu/section/cs229-gaussian_processes.pdf">CS229 notes</a><br>
+<a href="https://nikolaimatni.github.io/courses/ese680-fall2019/scribe-notes/lecture24.pdf">ESE-680 notes</a></td>
+        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fbbd347154c57a07b48e647c5e8d06560df98cb57d0045c5f75c08ffadccc46b0%2FLec26.pdf">Lec26.pdf</a> (handwritten)<br>
+<a href="#">Scribe26</a>: Bhat, Amith<br>
+[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F56324245304ec0f104298319317ad48477b37f65bc881fee3602caf0dd99862d%2Fscribe26.pdf">scribe26.pdf</a>, <a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Febcdfe8e7c45d091d3d0ef75f8233f488457110c8c93ffa0359aeb9be6c1d743%2Fscribe26.tex">scribe26.tex</a>]<br>
+[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fa32fcda243a9f2a840f18b183916c0355376f0109f31a72b11921429e0c3a9e8%2Fplots26.zip">plots26.zip</a>]</td>
+        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F2f719a54fdbec94b5fb470a5345521762476a671b579a18f692ea1239e9455b1%2FOMD.pdf">OMD.pdf</a><br>
+<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F0fc611eda0a9dbf8dd789a802aab8f41a3e5f997f4a4b12a8dac15445c373a78%2FOCO.pdf">OCO.pdf</a></td>
+      </tr>
+      <tr>
+        <td><strong>April 26</strong><br>[<strong>Optional</strong> Extra class-1]</td>
+        <td>Transformers for LMs</td>
+        <td><a href="https://deeplearning.cs.cmu.edu/S24/document/slides/lec19.transformers.pdf">CMU 11-785 slides</a><br>
+<a href="https://arxiv.org/pdf/1706.03762">Attention Paper (Google)</a></td>
+        <td></td>
+        <td>Lecture topic not included in the final exam!<br>
+<a href="https://www.cs.cornell.edu/courses/cs4780/2024sp/slides/Transformers.pdf">CS4780 Slides</a></td>
+      </tr>
+      <tr>
+        <td><strong>April 29</strong></td>
+        <td>Online Learning Basics-1<br><em>- Halving (HA)<br>- Wtd-Majority (WMA)</em></td>
+        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F12d9a5a0db23d7dfc5f094a43b1ec479f1e5476c6b0b2ebf05eed1382a1b3708%2FHA.pdf">HA.pdf</a><br>
+<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F240d2330907b4e21e71b1709bc09c6e0746df9a6f2afb5141b41efe94dbb518a%2FWMA.pdf">WMA.pdf</a></td>
+        <td><a href="#">Scribe28</a>: Kothari, Harsh<br>
+[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F97a7a5ba21d32860460d1b6be5e3155180c7d13853afc608e9ba293a2a0d7268%2Fscribe28.pdf">scribe28.pdf</a>, <a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Ff11636ea39986473860cf1b3ec0e3315640e0ddf2070cb8fec002e058cc9afcb%2Fscribe28.tex">scribe28.tex</a>]</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><strong>May 1</strong></td>
+        <td>Online Learning Basics-2<br><em>- EXP-Wt<br>- OMD (OCO)</em></td>
+        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F5da6699dd76e46cf8f487d8b9d3a3a2d3b340c8b9eecc0c26e42a5dab19fe476%2FExp-Wt.pdf">Exp-Wt.pdf</a></td>
+        <td><a href="#">Scribe29</a>: Datta, Sai VVN<br>
+[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Ffd688bfeccdb05313b64e5c79d31e9a9f23157c544fd69e0ee938e4e0b5c061d%2Fscribe29.pdf">scribe29.pdf</a>]</td>
+        <td>[Topic not included in the final exam]<br><br>
+Extra Reading:<br>
+<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F2f719a54fdbec94b5fb470a5345521762476a671b579a18f692ea1239e9455b1%2FOMD.pdf">OMD.pdf</a><br>
+<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F0fc611eda0a9dbf8dd789a802aab8f41a3e5f997f4a4b12a8dac15445c373a78%2FOCO.pdf">OCO.pdf</a></td>
+      </tr>
+      <tr>
+        <td><strong>May 3</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>HW5 due!</td>
+      </tr>
+      <tr>
+        <td><strong>May 6</strong></td>
+        <td><strong>Final Exam</strong></td>
+        <td></td>
+        <td></td>
+        <td>Time: 1-2:30 pm CT<br>Room: LC F6</td>
+      </tr>
+      <tr>
+        <td><strong>May 9</strong></td>
+        <td><strong>Project Presentations</strong></td>
+        <td></td>
+        <td></td>
+        <td>Final project report due!<br>Time: 3-5:30 pm CT</td>
+      </tr>
     </table>
   </div>
 
