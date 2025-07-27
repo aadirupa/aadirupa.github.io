@@ -115,7 +115,7 @@ classes: wide
 
 <body>
   <h2 style="color:DarkBlue;">CS 412: Intro to Machine Learning (Spring 2025)</h2>
-  <div style="font-size: 1.05em; margin-bottom: 20px; color: #003366;"> <span style="font-weight: bold;">👩‍🏫 Instructor:</span> <span style="font-size: 1.1em; font-weight: 600;">Aadirupa Saha</span><br> <span style="font-style: italic; font-size: 0.95em;">University of Illinois Chicago</span> </div>
+  <div style="font-size: 1.05em; margin-bottom: 20px; color: #003366;"> <span style="font-weight: bold;">✏️ Instructor:</span> <span style="font-size: 1.1em; font-weight: 600;">Aadirupa Saha</span>  </div>
 
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
