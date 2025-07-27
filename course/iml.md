@@ -118,6 +118,7 @@ classes: wide
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
     <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
+    <button class="tablinks" onclick="openTab(event, 'Prerequisites')">Prerequisites</button>
     <button class="tablinks" onclick="openTab(event, 'Resources')">Resources</button>
     <button class="tablinks" onclick="openTab(event, 'Logistics')">Logistics</button>
   </div>
@@ -412,22 +413,69 @@ Extra Reading:<br>
     </p>
   </div>
 
+  <div id="Prerequisites" class="tabcontent">
+    <h2>📚 Prerequisites</h2>
+    <p><strong>This course is going to be MATH-HEAVY.</strong> Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
+    
+    <ul>
+        <li><strong>PS review:</strong>
+            <ol>
+                <li><a href="https://cs229.stanford.edu/section/cs229-prob.pdf">https://cs229.stanford.edu/section/cs229-prob.pdf</a></li>
+                <li><a href="https://www2.isye.gatech.edu/~sman/courses/6761/6761-1-ProbReview.pdf">https://www2.isye.gatech.edu/~sman/courses/6761/6761-1-ProbReview.pdf</a></li>
+                <li><a href="https://users.ssc.wisc.edu/~ctaber/410/statrev.pdf">https://users.ssc.wisc.edu/~ctaber/410/statrev.pdf</a></li>
+            </ol>
+        </li>
+        <li><strong>LA review:</strong>
+            <ol>
+                <li><a href="https://cs229.stanford.edu/section/cs229-linalg.pdf">https://cs229.stanford.edu/section/cs229-linalg.pdf</a></li>
+                <li><a href="https://james-chuang.github.io/notes/linalg_review.pdf">https://james-chuang.github.io/notes/linalg_review.pdf</a></li>
+                <li><a href="https://www.cs.cmu.edu/~jingx/docs/linearalgebra.pdf">https://www.cs.cmu.edu/~jingx/docs/linearalgebra.pdf</a></li>
+            </ol>
+        </li>
+    </ul>
+    
+    <p><strong>Familiarity with LaTeX for scientific writing</strong> (for scribing the lecture notes and writing assignments). You can learn the basics from here: <a href="https://www.youtube.com/watch?v=lgiCpA4zzGU">https://www.youtube.com/watch?v=lgiCpA4zzGU</a> (many online tutorials available for beginners.)</p>
+    
+    <p><strong>Programming assignments</strong> (in Python or Matlab). Be prepared to code: <a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr">https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr</a>, <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP">Google Colab</a> (many online tutorials available for beginners).</p>
+    
+    <p>Familiarity with the above basics is highly recommended for those taking the course for credit — Lack of understanding may impact your grades.</p>
+ 
+  </div>
+
   <div id="Resources" class="tabcontent">
     <h2>📖 Resources</h2>
+    <p>Class lecture will be based on, but not limited to, the following books:</p>
+    
     <ul>
-      <li><strong>Textbook:</strong> <em>Pattern Recognition and Machine Learning</em> by Christopher Bishop</li>
-      <li><strong>Platform:</strong> Course materials and submissions via Blackboard</li>
-      <li><strong>Programming:</strong> Python 3.8+, Jupyter Notebooks, scikit-learn, pandas, numpy</li>
+        <li><strong>[ESL]</strong> The Elements of Statistical Learning by Hastie, Tibshirani, and Friedman [<a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Book website</a>]</li>
+        
+        <li><strong>[MLTM]</strong> Machine Learning by Tom Mitchell [<a href="https://www.cs.cmu.edu/~tom/mlbook.html">Online copy</a>]</li>
+        
+        <li><strong>[PML]</strong> Probabilistic Machine Learning: An Introduction, by Kevin Murphy [<a href="https://probml.github.io/pml-book/book1.html">Book website</a>]</li>
+        
+        <li><strong>[PLG]</strong> Prediction, Learning and Games by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 [<a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a> by Aditya Gopalan]</li>
+        
+        <li><strong>[PRML]</strong> Pattern Recognition and Machine Learning by Christopher Bishop (optional) [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
+        
+        <li><strong>[PyAG]</strong> <em>(Optional):</em> Hands-On Machine Learning with Scikit-Learn &amp; Tensorflow by Aurelien Geron [<a href="https://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Online</a>, <a href="https://github.com/ageron/handson-ml">Github</a>]</li>
+        
+        <li><strong>[CIML]</strong> <em>(Optional):</em> A Course in Machine Learning by Hal Daume III [<a href="http://ciml.info/">Online copy</a>], [<a href="https://github.com/hal3/ciml/issues">Errata</a>]</li>
+        
+        <li><strong>[UML]</strong> (Optional): Understanding Machine Learning: From Theory to Algorithms by Shai Ben-David, Shai Shalev-Shwartz [<a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html">Online copy</a>]</li>
+        
+        <li><strong>[OCO]</strong> (Optional) Introduction to Online Convex Optimization by Elad Hazan [<a href="https://sites.google.com/view/intro-oco/">Book website</a>]</li>
+        
+        <li><strong>[CvxO]</strong> Convex Optimization: Algorithms and Complexity by Sebastien Bubeck [<a href="https://arxiv.org/abs/1405.4980">Book Website</a>]</li>
     </ul>
   </div>
 
   <div id="Logistics" class="tabcontent">
     <h2>🎯 Course Logistics</h2>
     <ul>
-      <li><strong>📍 Location:</strong> Science & Engineering Offices (SEO) 1000</li>
+      <li><strong>📍 Location:</strong> Lecture Complex F6</li>
       <li><strong>⏰ Schedule:</strong> Tuesday & Thursday, 2:00 PM - 3:15 PM</li>
-      <li><strong>👨‍🏫 Office Hours:</strong> Wednesdays 1:00–3:00 PM or by appointment</li>
-      <li><strong>📧 Contact:</strong> Questions via Blackboard discussion forum preferred</li>
+      <li><strong>👨‍🏫 Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
+      <li><strong>📧 Contact:</strong> Email or Piazza </li>
     </ul>
   </div>
 
