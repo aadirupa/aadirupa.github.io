@@ -478,7 +478,7 @@ Extra Reading:<br>
         
         <li><strong>[PyAG]</strong> <em>(Optional):</em> Hands-On Machine Learning with Scikit-Learn &amp; Tensorflow by Aurelien Geron [<a href="https://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Online</a>, <a href="https://github.com/ageron/handson-ml">Github</a>]</li>
 
-        <li><strong>[PRML]</strong> Pattern Recognition and Machine Learning by Christopher Bishop (optional) [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
+        <li><strong>[PRML]</strong> <em>(Optional):</em> Pattern Recognition and Machine Learning by Christopher Bishop [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
         
         <li><strong>[CIML]</strong> <em>(Optional):</em> A Course in Machine Learning by Hal Daume III [<a href="http://ciml.info/">Online copy</a>], [<a href="https://github.com/hal3/ciml/issues">Errata</a>]</li>
         
