@@ -473,10 +473,12 @@ Extra Reading:<br>
         <li><strong>[PML]</strong> Probabilistic Machine Learning: An Introduction, by Kevin Murphy [<a href="https://probml.github.io/pml-book/book1.html">Book website</a>]</li>
         
         <li><strong>[PLG]</strong> Prediction, Learning and Games by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 [<a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a>]</li>
-        
-        <li><strong>[PRML]</strong> Pattern Recognition and Machine Learning by Christopher Bishop (optional) [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
+
+        <li><strong>[CvxO]</strong> Convex Optimization: Algorithms and Complexity by Sebastien Bubeck [<a href="https://arxiv.org/abs/1405.4980">Book Website</a>]</li>
         
         <li><strong>[PyAG]</strong> <em>(Optional):</em> Hands-On Machine Learning with Scikit-Learn &amp; Tensorflow by Aurelien Geron [<a href="https://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Online</a>, <a href="https://github.com/ageron/handson-ml">Github</a>]</li>
+
+        <li><strong>[PRML]</strong> Pattern Recognition and Machine Learning by Christopher Bishop (optional) [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
         
         <li><strong>[CIML]</strong> <em>(Optional):</em> A Course in Machine Learning by Hal Daume III [<a href="http://ciml.info/">Online copy</a>], [<a href="https://github.com/hal3/ciml/issues">Errata</a>]</li>
         
@@ -484,7 +486,6 @@ Extra Reading:<br>
         
         <li><strong>[OCO]</strong> (Optional) Introduction to Online Convex Optimization by Elad Hazan [<a href="https://sites.google.com/view/intro-oco/">Book website</a>]</li>
         
-        <li><strong>[CvxO]</strong> Convex Optimization: Algorithms and Complexity by Sebastien Bubeck [<a href="https://arxiv.org/abs/1405.4980">Book Website</a>]</li>
     </ul>
   </div>
 
