@@ -282,6 +282,11 @@ classes: wide
               Reinforcement Learning: An Introduction</a> by Sutton & Barto
           </li>
           <li>
+            <strong>BALG:</strong>
+            <a href="https://tor-lattimore.com/downloads/book/book.pdf" target="_blank">
+              Bandit Algorithms</a> by Szepesvari & Lattimore
+          </li>
+          <li>
             <strong>RLM:</strong>
             <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">
               RL: Theory & Algorithms</a> by Agarwal, Jiang, Kakade, Sun
