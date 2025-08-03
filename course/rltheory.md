@@ -198,50 +198,64 @@ classes: wide
             <tr>
                 <td>2025-07-11</td>
                 <td> Amith </td>
-                <td> UCB-VI Algorithm, Regret Analysis (contd), <br> Improved bound for UCB-VI </td>
+                <td> UCB-VI Algorithm, Regret Analysis (contd) </td>
                 <td> RLM (Thm 7.1, 7.6; Chap 7.3, 7.4)  <br> AK (Thm 5, Sec 3.1; Lec 8)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-15</td>
                 <td> Amith </td>
-                <td> Improved bound for UCB-VI (contd),  <br> Linear Bandits (LinUCB) and Regret Analysis </td>
-                <td> RLM (Thm 7.6; Chap 7.4. Alg 4, Thm 6.3, Prop 6.6; Chap 6)  <br> AK (Sec 3.1; Lec 8. Sec 3, Thm 2, Lem 3; Lec 9)</td>
+                <td> Improved bound for UCB-VI,  <br> Intro to Linear Bandits </td>
+                <td> RLM (Thm 7.6; Chap 7.4. Alg 4; Chap 6.2)  <br> AK (Sec 3.1; Lec 8. Sec 3; Lec 3)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-18</td>
-                <td> Ali </td>
-                <td> Linear MDP problem, Planning in Linear MDPs, <br> LSVI Algorithm </td>
-                <td> RLM (Sec 8.1, 8.2; Chap 8. Alg 1, Chap 3.2)  <br> AK (Def 1, Prop. 2, Sec 1; Lec 9)</td>
+                <td> Amith </td>
+                <td> LinUCB Algorithm <br> Regret Analysis of LinUCB </td>
+                <td> RLM (Alg 4, Thm 6.3, Prop 6.6; Chap 6.2, 6.3)  <br> AK (Sec 3, Thm 2, Lem 3; Lec 3)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-22</td>
                 <td> Ali </td>
-                <td> LSVI Algorithm (contd), Linear Bellman Completeness <br> Analysis of LSVI </td>
-                <td> RLM (Def 3.1, Alg 1, Thm 3.3; Chap 3.1-3.3)  <br> AK (Sec 2, Thm 3; Lec 9)</td>
+                <td> Linear Bellman Completeness, D-Optimal Design <br> LSVI Algorithm (Value Iteration for Linear Bellman Complete MDP) </td>
+                <td> RLM (Defn 3.1, Alg 1, Thm 3.2; Chap 3.1-3.3)  <br> AK (Def 1, Prop. 2, Sec 1; Lec 9)</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-25</td>
-                <td> --- </td>
-                <td> Off-Policy Evaluation in Offline RL,  <br>  Weaker assumptions and linear Bellman completeness </td>
-                <td> RLM (Alg 2, Thm 3.7, 3.9; Chap 3.5)  <br> AK (Assump 4, Lec 5; Sec 3; Lec 9)</td>
+                <td> Ali / AS </td>
+                <td> Convergence Analysis of LSVI Algorithm <br> Interpretation of G-Optimal and D-Optimal Design, Kiefer–Wolfowitz Theorem </td>
+                <td> RLM (Thm 3.3, Lem 3.4; Chap 3.3.2, 3.3.3)  <br> BALG (Thm 21.1; Chap 21.1) </td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-29</td>
-                <td> --- </td>
-                <td> Learning Transition using Ridge Linear Regression,  <br> Uniform Convergence and learning transition dynamics in Linear-MDPs </td>
-                <td> RLM (Lem 8.3, Lem 8.4, Lem 8.6, 8.7; Chap 8.3, 8.4)  <br> </td>
+                <td> Ali </td>
+                <td> Convergence Analysis of LSVI Algorithm (contd) <br>  Least Squares Policy Evaluation (LSPE) and Analysis  </td>
+                <td> RLM (Lem 3.5, Thm 3.3; Chap 3.3)  <br> RLM (Defn 3.8, Alg 2, Thm 3.9; Chap 3.5) </td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>2025-08-01</td>
-                <td> -- </td>
-                <td> UCBVI for Linear MDPs,  <br> Analysis of UCBVI for Linear MDPs </td>
-                <td> RLM (Alg 6, Thm 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> </td>
+                <td> AS </td>
+                <td> Low-Rank MDPs and Linear MDPs, Planning in Linear MDPs  <br> Learning Transition using Ridge Linear Regression </td>
+                <td> RLM (Claim 8.2, Lem 8.3, 8.4; Chap 8.1, 8.2, 8.3)  <br> AK (Defn 1, Prop 2, Sec 1; Lec 9) </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-08-05</td>
+                <td> Ali </td>
+                <td> Covering Number, Uniform Convergence via Covering <br> Uniform Convergence to Estimate Transition Dynamics </td>
+                <td> RLM (Lem 8.5, 8.6, 8.7; Chap 8.4)  <br> --- </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2025-08-08</td>
+                <td> Aniket </td>
+                <td> LSVI-UCB: UCBVI for Linear MDPs,  <br> Analysis of LSVI-UCB </td>
+                <td> RLM (Lem 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> AK (Thm 3, Sec 2 2; Lec 9) </td>
                 <td>-</td>
             </tr>
         </table>
