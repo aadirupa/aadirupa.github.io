@@ -367,8 +367,7 @@ classes: wide
         <td>GP: <a href="https://cs229.stanford.edu/section/cs229-gaussian_processes.pdf">CS229 notes</a><br>
 <a href="https://nikolaimatni.github.io/courses/ese680-fall2019/scribe-notes/lecture24.pdf">ESE-680 notes</a></td>
         <td><a href="https://aadirupa.github.io//course/iml_repo/scribe26.pdf">Scribe26</a>: Bhat, Amith</td>
-        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F2f719a54fdbec94b5fb470a5345521762476a671b579a18f692ea1239e9455b1%2FOMD.pdf">OMD.pdf</a><br>
-<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F0fc611eda0a9dbf8dd789a802aab8f41a3e5f997f4a4b12a8dac15445c373a78%2FOCO.pdf">OCO.pdf</a></td>
+        <td></td>
       </tr>
       <tr>
         <td><strong>April 26</strong><br>[<strong>Optional</strong> Extra class-1]</td>
@@ -382,20 +381,20 @@ classes: wide
       <tr>
         <td><strong>April 29</strong></td>
         <td>Online Learning Basics-1<br><em>- Halving (HA)<br>- Wtd-Majority (WMA)</em></td>
-        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F12d9a5a0db23d7dfc5f094a43b1ec479f1e5476c6b0b2ebf05eed1382a1b3708%2FHA.pdf">HA.pdf</a><br>
-<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F240d2330907b4e21e71b1709bc09c6e0746df9a6f2afb5141b41efe94dbb518a%2FWMA.pdf">WMA.pdf</a></td>
+        <td><a href="https://aadirupa.github.io//course/iml_repo/HA.pdf">HA.pdf</a><br>
+<a href="https://aadirupa.github.io//course/iml_repo/WMA.pdf">WMA.pdf</a></td>
         <td><a href="https://aadirupa.github.io//course/iml_repo/scribe28.pdf">Scribe28</a>: Kothari, Harsh</td>
         <td></td>
       </tr>
       <tr>
         <td><strong>May 1</strong></td>
         <td>Online Learning Basics-2<br><em>- EXP-Wt<br>- OMD (OCO)</em></td>
-        <td><a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F5da6699dd76e46cf8f487d8b9d3a3a2d3b340c8b9eecc0c26e42a5dab19fe476%2FExp-Wt.pdf">Exp-Wt.pdf</a></td>
+        <td><a href="https://aadirupa.github.io//course/iml_repo/Exp-Wt.pdf">Exp-Wt.pdf</a></td>
         <td><a href="https://aadirupa.github.io//course/iml_repo/scribe29.pdf">Scribe29</a>: Datta, Sai VVN</td>
         <td>[Topic not included in the final exam]<br><br>
 Extra Reading:<br>
-<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F2f719a54fdbec94b5fb470a5345521762476a671b579a18f692ea1239e9455b1%2FOMD.pdf">OMD.pdf</a><br>
-<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F0fc611eda0a9dbf8dd789a802aab8f41a3e5f997f4a4b12a8dac15445c373a78%2FOCO.pdf">OCO.pdf</a></td>
+<a href="https://aadirupa.github.io//course/iml_repo/OMD.pdf">OMD.pdf</a><br>
+<a href="https://aadirupa.github.io//course/iml_repo/OCO.pdf">OCO.pdf</a></td>
       </tr>
       <tr>
         <td><strong>May 3</strong></td>
