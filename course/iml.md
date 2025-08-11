@@ -135,7 +135,7 @@ classes: wide
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
     <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
     <button class="tablinks" onclick="openTab(event, 'Prerequisites')">Prerequisites</button>
-    <button class="tablinks" onclick="openTab(event, 'Grading')">Grading Policy</button>
+    <button class="tablinks" onclick="openTab(event, 'Grading')">Grading</button>
     <button class="tablinks" onclick="openTab(event, 'Resources')">Resources</button>
     <button class="tablinks" onclick="openTab(event, 'Logistics')">Logistics</button>
   </div>
