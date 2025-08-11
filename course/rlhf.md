@@ -153,13 +153,18 @@ classes: wide
   </tr>
   <tr>
     <td><strong>Aug 26</strong></td>
-    <td></td><td></td><td></td><td></td>
+    <td>
+        Introduction
+        <br>
+        Basics of AI-Alignment
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><strong>Aug 28</strong></td>
-    <td>Introduction
-    <br>
-    Basics of AI-Alignment
+    <td>
     </td>
     <td></td>
     <td></td>
@@ -268,7 +273,7 @@ classes: wide
   </tr>
   <tr>
     <td><strong>Nov 27</strong></td>
-    <td colspan="4">Thanksgiving Break</td>
+    <td colspan="4" align="center"> ----- Thanksgiving Break ----- </td>
   </tr>
   <tr>
     <td><strong>Dec 2</strong></td>
