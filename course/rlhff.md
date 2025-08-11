@@ -130,7 +130,7 @@ classes: wide
   </div>
 </div>
 
-<p> ---------- This website is under construction ---------- </p>
+<h3> ---------- This website is under construction ---------- </h3>
   
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
