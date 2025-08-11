@@ -449,7 +449,7 @@ classes: wide
   <div id="Logistics" class="tabcontent">
     <h2>🎯 Course Logistics</h2>
     <ul>
-      <li><strong>📍 Location:</strong> CDLRC </li>
+      <li><strong>📍 Location:</strong> CDRLC </li>
       <li><strong>⏰ Schedule:</strong> Tuesday & Thursday, 2:00 - 3:15 PM</li>
       <li><strong>🏛️ Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
       <li><strong>📧 Piazza:</strong> TBA </li>
