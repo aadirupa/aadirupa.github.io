@@ -130,6 +130,7 @@ classes: wide
   </div>
 </div>
 
+<p> ---------- This website is under construction ---------- </p>
   
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
@@ -389,36 +390,38 @@ classes: wide
     <p>Class lecture will be based on, but not limited to, the following books:</p>
     
     <ul>
-        <li><strong>[ESL]</strong> The Elements of Statistical Learning by Hastie, Tibshirani, and Friedman [<a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Book website</a>]</li>
-        
-        <li><strong>[MLTM]</strong> Machine Learning by Tom Mitchell [<a href="https://www.cs.cmu.edu/~tom/mlbook.html">Online copy</a>]</li>
-        
-        <li><strong>[PML]</strong> Probabilistic Machine Learning: An Introduction, by Kevin Murphy [<a href="https://probml.github.io/pml-book/book1.html">Book website</a>]</li>
-        
-        <li><strong>[PLG]</strong> Prediction, Learning and Games by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 [<a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a>]</li>
+        <li>
+            <strong>[SB] </strong>
+            <a href="https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf" target="_blank">
+              Reinforcement Learning: An Introduction</a> by Sutton & Barto
+          </li>
+          <li>
+            <strong>[BA] </strong>
+            <a href="https://tor-lattimore.com/downloads/book/book.pdf" target="_blank">
+              Bandit Algorithms</a> by Szepesvari & Lattimore
+          </li>
+          <li>
+            <strong>[RLM] </strong>
+            <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">
+              RL: Theory & Algorithms</a> by Agarwal, Jiang, Kakade, Sun
+          </li>
+          <li>
+          <strong>[FRL] </strong>
+          <a href="https://arxiv.org/abs/2312.16730" target="_blank">
+            Foundations of Reinforcement Learning and Interactive Decision Making</a> by Foster & Rakhlin
+        </li>
 
-        <li><strong>[CvxO]</strong> Convex Optimization: Algorithms and Complexity by Sebastien Bubeck [<a href="https://arxiv.org/abs/1405.4980">Book Website</a>]</li>
-        
-        <li><strong>[PyAG]</strong> <em>(Optional):</em> Hands-On Machine Learning with Scikit-Learn &amp; Tensorflow by Aurelien Geron [<a href="https://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Online</a>, <a href="https://github.com/ageron/handson-ml">Github</a>]</li>
-
-        <li><strong>[PRML]</strong> <em>(Optional):</em> Pattern Recognition and Machine Learning by Christopher Bishop [<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Free copy</a>]</li>
-        
-        <li><strong>[CIML]</strong> <em>(Optional):</em> A Course in Machine Learning by Hal Daume III [<a href="http://ciml.info/">Online copy</a>], [<a href="https://github.com/hal3/ciml/issues">Errata</a>]</li>
-        
-        <li><strong>[UML]</strong> (Optional): Understanding Machine Learning: From Theory to Algorithms by Shai Ben-David, Shai Shalev-Shwartz [<a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html">Online copy</a>]</li>
-        
-        <li><strong>[OCO]</strong> (Optional) Introduction to Online Convex Optimization by Elad Hazan [<a href="https://sites.google.com/view/intro-oco/">Book website</a>]</li>
-        
+    
     </ul>
   </div>
 
   <div id="Logistics" class="tabcontent">
     <h2>🎯 Course Logistics</h2>
     <ul>
-      <li><strong>📍 Location:</strong> Lecture Complex F6</li>
+      <li><strong>📍 Location:</strong> CDLRC </li>
       <li><strong>⏰ Schedule:</strong> Tuesday & Thursday, 2:00 - 3:15 PM</li>
       <li><strong>🏛️ Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
-      <li><strong>📧 Contact:</strong> Email or Piazza </li>
+      <li><strong>📧 Piazza:</strong> TBA </li>
     </ul>
   </div>
 
