@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "CS 412: Intro to Machine Learning"
-date: 2025-01-14
+title: "RLHF for AI-Alignment"
+date: 2025-08-25
 permalink: /course/rlhf/
 tags:
   - ml
