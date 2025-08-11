@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "CS 412: Intro to Machine Learning"
+title: "CS 412: Introduction to Machine Learning"
 date: 2025-01-14
 permalink: /course/iml/
 tags:
@@ -114,7 +114,7 @@ classes: wide
 </head>
 
 <body> 
-  <h2 style="color:DarkBlue;">CS 412: Intro to Machine Learning (Spring 2025)</h2>
+  <h2 style="color:DarkBlue;">CS 412: Introduction to Machine Learning (Spring, 2025)</h2>
   <div style="font-size: 1.05em; color: #003366; margin-bottom: 30px; line-height: 1.6;">
   <div>
     <span style="font-weight: normal;">📡 •Instructor:</span>
