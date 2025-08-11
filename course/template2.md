@@ -2,7 +2,7 @@
 layout: splash
 title: "Intro to ML"
 date: 2025-08-25
-permalink: /course/rlhf/
+permalink: /course/temp/
 tags:
   - ml
   - ai
