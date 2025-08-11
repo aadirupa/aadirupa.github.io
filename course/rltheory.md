@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Summer25 Reading Group"
+title: "Summer25 RL Reading Group"
 date: 2025-06-10
 permalink: /course/rltheory/
 tags:
@@ -127,7 +127,7 @@ classes: wide
     </script>
 </head>
 <body>
-    <h2 style="color:DarkBlue;"> Reading Group: Reinforcement Learning Theory (Summer 2025) </h2>
+    <h2 style="color:DarkBlue;"> Reading Group: Reinforcement Learning Theory (Summer, 2025) </h2>
     <div style="font-size: 1.05em; color: #003366; margin-bottom: 30px; line-height: 1.6;">
       <div>
       <span style="font-weight: normal;">📡 •Instructor:</span>
