@@ -191,11 +191,11 @@ classes: wide
   </tr>
   <tr>
     <td><strong>Sep 23</strong></td>
-    <td></td><td></td><td></td><td></td>
+    <td>NA</td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td><strong>Sep 25</strong></td>
-    <td></td><td></td><td></td><td></td>
+    <td>NA</td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td><strong>Sep 30</strong></td>
@@ -203,7 +203,7 @@ classes: wide
   </tr>
   <tr>
     <td><strong>Oct 2</strong></td>
-    <td></td><td></td><td></td><td></td>
+    <td>NA</td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td><strong>Oct 7</strong></td>
@@ -235,7 +235,8 @@ classes: wide
   </tr>
   <tr>
     <td><strong>Oct 30</strong></td>
-    <td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td>
+    <td>Happy Halloween!</td>
   </tr>
   <tr>
     <td><strong>Nov 4</strong></td>
@@ -267,7 +268,7 @@ classes: wide
   </tr>
   <tr>
     <td><strong>Nov 27</strong></td>
-    <td></td><td></td><td></td><td></td>
+    <td colspan="4">Thanksgiving Break</td>
   </tr>
   <tr>
     <td><strong>Dec 2</strong></td>
