@@ -159,7 +159,7 @@ classes: wide
     <td><strong>Aug 28</strong></td>
     <td>Introduction
     <br>
-    Basics of AL-Alignment
+    Basics of AI-Alignment
     </td>
     <td></td>
     <td></td>
