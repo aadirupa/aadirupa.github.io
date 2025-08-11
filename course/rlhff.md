@@ -114,7 +114,7 @@ classes: wide
 </head>
 
 <body> 
-  <h2 style="color:DarkBlue;">CS 412: Intro to Machine Learning (Spring 2025)</h2>
+  <h2 style="color:DarkBlue;">CS 594: RLHF Theory for AI-Alignment and Fine-Tuning LLMs (Fall, 2025)</h2>
   <div style="font-size: 1.05em; color: #003366; margin-bottom: 30px; line-height: 1.6;">
   <div>
     <span style="font-weight: normal;">📡 •Instructor:</span>
@@ -123,8 +123,8 @@ classes: wide
   <div>
     <span style="font-weight: normal;">🔬 •Teaching Assistant:</span>
     <span style="font-weight: normal;">
-      <a href="https://portfolio-rug0.onrender.com/" style="text-decoration: none; color: #003366;">
-        Akhil S Nair
+      <a href=" " style="text-decoration: none; color: #003366;">
+        ---
       </a>
     </span>
   </div>
@@ -422,11 +422,94 @@ Extra Reading:<br>
 
   <div id="Description" class="tabcontent">
     <h2>📚 Course Description</h2>
-    <p style="text-align: justify;">This is a <strong>comprehensive, math-intensive</strong> machine learning course that bridges theoretical foundations with practical applications. The course covers core supervised learning algorithms including linear/logistic regression, support vector machines, neural networks, and ensemble methods like boosting. Students will dive deep into optimization techniques (gradient descent, Newton's method), convex analysis, kernel methods, dimensionality reduction (PCA), clustering, and modern topics like deep learning architectures (CNNs, RNNs, LSTMs) and online learning algorithms.</p>
     
-    <p style="text-align: justify;">The course emphasizes <strong>rigorous mathematical understanding</strong> alongside <strong>hands-on implementation</strong>. Students will engage through programming assignments in Python/MATLAB, scribe detailed lecture notes using LaTeX, and work on a significant course project. Topics progress from fundamental concepts like loss functions and regularization to advanced methods including spectral clustering, Gaussian processes, and transformer architectures. The curriculum balances theoretical analysis (convergence proofs, mistake bounds, duality theory) with practical machine learning skills.</p>
-    
-    <p style="text-align: justify;"><strong>Upon completion</strong>, students will have a solid theoretical foundation in machine learning mathematics, practical experience implementing algorithms from scratch, and the ability to analyze and apply ML methods to real-world problems. Success requires a strong background in probability, statistics, and linear algebra, along with programming proficiency. This course prepares students for advanced ML research, industry roles requiring deep technical understanding, or pursuing research-level graduate studies in ML and AI.</p>
+    <section id="overview">
+      <h2>Overview</h2>
+      <p style="text-align: justify;>
+        This course aims to provide a rigorous mathematical foundation for understanding and implementing
+        Reinforcement Learning from Human Feedback (RLHF), the critical technology behind modern large language models
+        like ChatGPT and Claude. The curriculum is structured around interconnected modules that progress from
+        theoretical foundations to practical implementation.
+      </p>
+    </section>
+
+    <section id="modules">
+      <h2>Modules</h2>
+
+      <article id="alignment-formalization">
+        <h3>Lecture Set 1: Formalizing the Alignment Problem</h3>
+        <p>
+          Establishes the conceptual framework for AI alignment, examining outer versus inner alignment, reward
+          misspecification, and Goodhart’s Law in human feedback systems. Students analyze real-world failure
+          modes and develop intuition for how alignment can degrade in deployed systems.
+        </p>
+      </article>
+
+      <article id="evaluation-verification">
+        <h3>Lecture Set 2: Evaluation &amp; Alignment Verification</h3>
+        <p>
+          Addresses measuring alignment beyond simple reward maximization, covering multi-dimensional evaluation
+          frameworks (HHH: Helpfulness, Harmlessness, Honesty), human evaluation pipeline design, adversarial
+          testing, and robustness verification techniques essential for production deployment.
+        </p>
+      </article>
+
+      <article id="rl-theory">
+        <h3>Module 3: Reinforcement Learning Theory</h3>
+        <p>
+          Provides the mathematical foundations underlying RLHF algorithms. Beginning with MDP fundamentals and
+          Bellman equations, the module progresses through policy gradient methods, exploration strategies in
+          tabular and linear settings, and advanced topics including low-rank MDPs and uniform convergence theory.
+          Students master both classical results and recent theoretical developments.
+        </p>
+      </article>
+
+      <article id="rlhf-theory-practice">
+        <h3>Module 4: RLHF Theory and Practice</h3>
+        <p>
+          Synthesizes preference learning, contextual bandits, and human-in-the-loop optimization. Topics include
+          active learning for efficient feedback collection, handling noisy and biased human inputs, integrating
+          multiple feedback sources, and maintaining safety and robustness guarantees throughout the pipeline.
+        </p>
+      </article>
+
+      <article id="llm-theory">
+        <h3>Module 5: Large Language Model Theory</h3>
+        <p>
+          Bridges abstract RL theory and practical LLM deployment. Covers transformer architectures, fine-tuning
+          methodologies, parameter-efficient adaptation (LoRA, adapters), preference modeling for reward extraction,
+          and specialized RL algorithms (e.g., PPO with KL regularization) tailored to language model optimization.
+        </p>
+      </article>
+    </section>
+
+    <section id="prerequisites">
+      <h2>Prerequisites</h2>
+      <p>
+        This course demands strong mathematical maturity and technical proficiency.
+        <strong>Advanced linear algebra</strong> and <strong>probability theory</strong> are essential (matrix analysis,
+        eigendecompositions, concentration inequalities, stochastic processes). Knowledge of
+        <strong>machine learning theory</strong> (optimization, generalization bounds, statistical learning theory) is
+        required.
+      </p>
+      <p>
+        Programming competency in <strong>Python</strong> is required (PyTorch or similar recommended), and
+        <strong>LaTeX proficiency</strong> is mandatory for assignments and the final project. The theoretical content
+        assumes familiarity with measure theory, basics of functional analysis, and advanced calculus. Students unsure
+        about preparation should complete prerequisite coursework before enrolling.
+      </p>
+    </section>
+
+    <section id="outcomes">
+      <h2>Learning Outcomes</h2>
+      <p>
+        Graduates will understand the mathematical principles governing preference learning, design and evaluate
+        alignment verification systems, and implement production-grade RLHF pipelines. The course prepares students for
+        advanced research roles in AI labs, senior engineering roles deploying large language models, and independent
+        research in AI alignment. Students will be equipped to drive innovation, lead technical teams, and contribute to
+        the theoretical and practical advances shaping the future of safe AI deployment.
+      </p>
+    </section>
     
     
   </div>
