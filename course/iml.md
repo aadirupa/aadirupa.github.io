@@ -135,6 +135,7 @@ classes: wide
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
     <button class="tablinks" onclick="openTab(event, 'Description')">Description</button>
     <button class="tablinks" onclick="openTab(event, 'Prerequisites')">Prerequisites</button>
+    <button class="tablinks" onclick="openTab(event, 'Grading')">Grading Policy</button>
     <button class="tablinks" onclick="openTab(event, 'Resources')">Resources</button>
     <button class="tablinks" onclick="openTab(event, 'Logistics')">Logistics</button>
   </div>
@@ -459,6 +460,28 @@ Extra Reading:<br>
     <p style="text-align: justify;">A strong grasp of the foundational material outlined above is expected of all students taking the course for credit. Insufficient preparation may adversely affect your ability to engage with the course content and perform successfully in assessments, which may impact your final grades.</p>
  
   </div>
+
+  <div id="Grading" class="tabcontent">
+    <h2>📊 Grading Policy (MS) </h2>
+    <ul>
+      <li><strong>Project:</strong> 30% </li>
+      <li><strong>Assignment:</strong> 20% </li>
+      <li><strong>Final Exam:</strong> 15% </li>
+      <li><strong>Midterm:</strong> 15% </li>
+      <li><strong>Scribe:</strong> 10% </li>
+      <li><strong>Quiz:</strong> 10% </li>
+    </ul>
+
+    <h2>📊 Grading Policy (UG) </h2>
+    <ul>
+      <li><strong>Project:</strong> 30% </li>
+      <li><strong>Assignment:</strong> 20% </li>
+      <li><strong>Final Exam:</strong> 20% </li>
+      <li><strong>Midterm:</strong> 20% </li>
+      <li><strong>Quiz:</strong> 10% </li>
+    </ul>
+  </div>
+
 
   <div id="Resources" class="tabcontent">
     <h2>📖 Resources</h2>
