@@ -408,11 +408,11 @@ classes: wide
     <h2>🏆 Grading Policies</h2>
     <ul>
       <li><strong>Scribe:</strong> 25% </li>
+      <li><strong>Project:</strong> 25% </li>
       <li><strong>Paper Presentation:</strong> 20% </li>
       <li><strong>Piazza Posts:</strong> 10% </li>
       <li><strong>Class Discussion:</strong> 10% </li>
       <li><strong>Quiz:</strong> 10% </li>
-      <li><strong>Project:</strong> 25% </li>
     </ul>
   </div>
 
