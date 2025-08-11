@@ -2,7 +2,7 @@
 layout: splash
 title: "CS 412: Intro to Machine Learning"
 date: 2025-01-14
-permalink: /course/rlhff/
+permalink: /course/rlhf/
 tags:
   - ml
   - ai
