@@ -405,7 +405,7 @@ classes: wide
   </div>
 
   <div id="Grading" class="tabcontent">
-    <h2>🏆 Grading Policies</h2>
+    <h2>🏆 Grading Policy</h2>
     <ul>
       <li><strong>Scribe:</strong> 25% </li>
       <li><strong>Project:</strong> 25% </li>
