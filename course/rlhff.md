@@ -425,7 +425,7 @@ Extra Reading:<br>
     
     <section id="overview">
       <h2>Overview</h2>
-      <p style="text-align: justify;>
+      <p style="text-align: justify;">
         This course aims to provide a rigorous mathematical foundation for understanding and implementing
         Reinforcement Learning from Human Feedback (RLHF), the critical technology behind modern large language models
         like ChatGPT and Claude. The curriculum is structured around interconnected modules that progress from
