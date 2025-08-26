@@ -404,13 +404,15 @@ classes: wide
   <div id="Grading" class="tabcontent">
     <h2>🏆 Grading Policy</h2>
     <ul>
-      <li><strong>Project:</strong> 25% [Problem choice 5%; Motivation 5%; Solution 10%; Experiemnts 5%] </li>
-      <li><strong>Paper Presentation:</strong> 20% </li>
-      <li><strong>Scribe:</strong> 15% </li>
-      <li><strong>Piazza-Weekly Problem:</strong> 10% </li>
-      <li><strong>Piazza-Weekly Topic+Paper:</strong> 10% </li>
-      <li><strong>Class Participation:</strong> 10% </li>
-      <li><strong>Quiz:</strong> 10% </li>
+      <li><strong>Project:</strong> 25% [Problem selection 5%; Motivation 5%; Solution 10%; Experiments 5%] 
+      <span style="background: #4caf50; color: white; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-left: 0.5rem;">+2% extra credit</span>
+      </li>
+      <li><strong>Paper Presentation:</strong> 20% [Topic choice + Motivation 5%; Theoretical explanation 10%; Experiments 5%] </li>
+      <li><strong>Scribe:</strong> 15% [approx 2 lectures] </li>
+      <li><strong>Piazza-Weekly Problem:</strong> 10% [Post a new unresolved problem per week (with motivation based), on that week's lectures] </li>
+      <li><strong>Piazza-Weekly Topic+Paper:</strong> 10% [Find a related paper per week based on the topics covered in that week] </li>
+      <li><strong>Class Participation:</strong> 10% [Lecture qs/ans 5%; Presentation qs: 5%] </li>
+      <li><strong>Quiz:</strong> 10% [Random iClicker quizzes] </li>
     </ul>
     <p style="text-align: justify;">More details on finer grading policy .</p>
   </div>
