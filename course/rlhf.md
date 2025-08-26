@@ -269,7 +269,7 @@ classes: wide
   </tr>
   <tr>
     <td>Oct 30</td>
-    <td colspan="5">—-- Happy Halloween! —--</td>
+    <td colspan="5" style="text-align:center;">—-- Happy Halloween! —--</td>
   </tr>
   <tr>
     <td>Nov 4</td>
@@ -308,7 +308,7 @@ classes: wide
   </tr>
   <tr>
     <td>Nov 27</td>
-    <td colspan="5">—-- Thanksgiving Break! —--</td>
+    <td colspan="5" style="text-align:center;">—-- Thanksgiving Break! —--</td>
   </tr>
   <tr>
     <td>Dec 2</td>
