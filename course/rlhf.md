@@ -120,15 +120,7 @@ classes: wide
     <span style="font-weight: normal;">📡 •Instructor:</span>
     <span style="font-weight: normal;">Aadirupa Saha</span>
   </div>
-  <div>
-    <span style="font-weight: normal;">🔬 •Teaching Assistant:</span>
-    <span style="font-weight: normal;">
-      <a href=" " style="text-decoration: none; color: #003366;">
-        ---
-      </a>
-    </span>
   </div>
-</div>
 
 <h3> ---------- This website is under construction ---------- </h3>
   
