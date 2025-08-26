@@ -450,7 +450,7 @@ classes: wide
     <h2>🏆 Grading Policy</h2>
     <ul>
      <li>
-                <strong style="color: #1565c0;">Project:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">25%</span>
+                <strong style="color: #1565c0;">Project + Report:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">25%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">
                         Problem selection <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
@@ -461,7 +461,7 @@ classes: wide
                 </div>
             </li>
             <li>
-                <strong style="color: #1565c0;">Paper Presentation:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">20%</span>
+                <strong style="color: #1565c0;">Paper Presentation + Coding:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">20%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">
                         Topic choice + Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
