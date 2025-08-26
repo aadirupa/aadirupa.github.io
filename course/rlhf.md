@@ -134,149 +134,196 @@ classes: wide
   </div>
 
   <div id="Schedule" class="tabcontent">
-    <h2>📅 Course Schedule</h2>
-    <table>
+    <h2>📅 Course Schedule (NOT FINALIZED)</h2>
+    <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Date</th>
     <th>Topic</th>
     <th>Reading</th>
     <th>Materials</th>
     <th>Notes</th>
+    <th>Top-3 Paper Recommendation</th>
   </tr>
   <tr>
-    <td><strong>Aug 26</strong></td>
-    <td>
-        Introduction
-        <br>
-        Basics of AI-Alignment
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Aug 28</strong></td>
-    <td>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Sep 2</strong></td>
+    <td>Aug 26</td>
+    <td>Introduction<br>Basics of AI-Alignment</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Sep 4</strong></td>
+    <td>Aug 28</td>
+    <td>Concentration Bounds MAB</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Sep 9</strong></td>
+    <td>Sep 2</td>
+    <td>UCB</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Sep 11</strong></td>
+    <td>Sep 4</td>
+    <td>OMD</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Sep 16</strong></td>
+    <td>Sep 9</td>
+    <td>Linear Bandits</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Sep 18</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Sep 23</strong></td>
-    <td>NA</td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Sep 25</strong></td>
-    <td>NA</td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Sep 30</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 2</strong></td>
-    <td>NA</td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 7</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 9</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 14</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 16</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 21</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 23</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 28</strong></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td><strong>Oct 30</strong></td>
+    <td>Sep 11</td>
+    <td>Paper presentation</td>
     <td></td><td></td><td></td>
-    <td>Happy Halloween!</td>
+    <td>
+      <ul>
+        <li>Heavy-tailed bandits</li>
+        <li>Bandits with side info</li>
+        <li>Bandits with budgets</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td><strong>Nov 4</strong></td>
+    <td>Sep 16</td>
+    <td>Linear Bandits (contd)</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 6</strong></td>
+    <td>Sep 18</td>
+    <td>Dueling Bandits: Learning from Preferences</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 11</strong></td>
+    <td>Sep 23</td>
+    <td>Paper presentation</td>
+    <td></td><td></td><td></td>
+    <td>
+      <ul>
+        <li>Beyond Linear Bandits: Kernel Bandits</li>
+        <li>Lipschitz bandits</li>
+        <li>Neural Bandits</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Sep 25</td>
+    <td>Paper presentation</td>
+    <td></td><td></td><td></td>
+    <td>
+      <ul>
+        <li>MNL Bandits</li>
+        <li>Dynamic Bandits</li>
+        <li>Sleeping Bandits</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Sep 30</td>
+    <td>Dueling Bandits (contd)</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 13</strong></td>
+    <td>Oct 2</td>
+    <td>Paper presentation</td>
+    <td></td><td></td><td></td>
+    <td>
+      <ul>
+        <li>Robust DB</li>
+        <li>Fair DB</li>
+        <li>DB with correlated preferences</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Oct 7</td>
+    <td>Contextual Bandits: EXP4 (1 step RL)</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 18</strong></td>
+    <td>Oct 9</td>
+    <td>Paper presentation</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 20</strong></td>
+    <td>Oct 14</td>
+    <td>Contextual MAB (contd)</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 25</strong></td>
+    <td>Oct 16</td>
+    <td>Contextual - Dueling Bandits</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Nov 27</strong></td>
-    <td colspan="4" align="center"> ----- Thanksgiving Break ----- </td>
+    <td>Oct 21</td>
+    <td>Intro to RL + MDP Basics</td>
+    <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
-    <td><strong>Dec 2</strong></td>
+    <td>Oct 23</td>
+    <td>Tabular MDP-UCB-VI</td>
     <td></td><td></td><td></td><td></td>
-  </tr>   
+  </tr>
   <tr>
-    <td><strong>Dec 4</strong></td>
+    <td>Oct 28</td>
+    <td>Paper presentation</td>
     <td></td><td></td><td></td><td></td>
-  </tr>    
+  </tr>
+  <tr>
+    <td>Oct 30</td>
+    <td>—-- Happy Halloween! —--</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 4</td>
+    <td>Linear function approximation</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 6</td>
+    <td>PG Methods</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 11</td>
+    <td>PPO + TRPO</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 13</td>
+    <td>Paper presentation</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 18</td>
+    <td>Imitation Learning</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 20</td>
+    <td>Paper presentation</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 25</td>
+    <td>Presentation (20 mins/ team)</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Nov 27</td>
+    <td>----- Thanksgiving Break -----</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Dec 2</td>
+    <td>Presentation (20 mins/ team)</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Dec 4</td>
+    <td>Presentation (20 mins/ team)</td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
 </table>
-    
+
   </div>
 
   <div id="Description" class="tabcontent">
@@ -505,9 +552,9 @@ classes: wide
 
     <h2>📌 Important Dates</h2>
     <ul>
-      <li><strong>Select Project Topic:</strong> Oct 10th'25 </li>
-      <li><strong>Project Presentation:</strong> Nov 25th, Dec 2nd, Dec 4th'25 </li>
-      <li><strong>Project Report:</strong> Dec 6th'25 </li>
+      <li><strong>Select Project Topic:</strong> Oct 3rd, 2025 </li>
+      <li><strong>Project Presentation:</strong> Nov 25th, Dec 2nd, Dec 4th, 2025 </li>
+      <li><strong>Project Report:</strong> Dec 6th, 2025 </li>
     </ul>
     
   </div>
