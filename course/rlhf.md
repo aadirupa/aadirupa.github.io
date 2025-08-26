@@ -118,7 +118,7 @@ classes: wide
   <div style="font-size: 1.05em; color: #003366; margin-bottom: 30px; line-height: 1.6;">
   <div>
     <span style="font-weight: normal;">📡 •Instructor:</span>
-    <span style="font-weight: normal;">Aadirupa Saha</span>
+    <span style="color:#2a52be; font-weight:bold;">Aadirupa Saha</span>
   </div>
   </div>
 
