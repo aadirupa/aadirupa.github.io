@@ -404,7 +404,7 @@ classes: wide
   <div id="Grading" class="tabcontent">
     <h2>🏆 Grading Policy</h2>
     <ul>
-     <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+     <li>
                 <strong style="color: #1565c0;">Project:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">25%</span>
                 <span style="background: #4caf50; color: white; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-left: 0.5rem;">+2% extra credit</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
