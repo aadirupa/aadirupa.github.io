@@ -462,7 +462,6 @@ classes: wide
                 </div>
             </li>
     </ul>
-    <p style="text-align: justify;">More details on finer grading policy .</p>
   </div>
 
   <div id="Resources" class="tabcontent">
@@ -503,6 +502,14 @@ classes: wide
       <li><strong>🏛️ Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
       <li><strong>📧 Piazza:</strong> TBA </li>
     </ul>
+
+    <h2>📌 Important Dates</h2>
+    <ul>
+      <li><strong>Select Project Topic:</strong> Oct 10th'25 </li>
+      <li><strong>Project Presentation:</strong> Nov 25th, Dec 2nd, Dec 4th'25 </li>
+      <li><strong>Project Report:</strong> Dec 6th'25 </li>
+    </ul>
+    
   </div>
 
   <script>
