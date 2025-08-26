@@ -404,6 +404,7 @@ classes: wide
   <div id="Grading" class="tabcontent">
     <h2>🏆 Grading Policy</h2>
     <ul>
+     <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
                 <strong style="color: #1565c0;">Project:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">25%</span>
                 <span style="background: #4caf50; color: white; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-left: 0.5rem;">+2% extra credit</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
@@ -414,12 +415,50 @@ classes: wide
                         Experiments <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span>
                     </span>
                 </div>
-      <li><strong>Paper Presentation:</strong> 20% [Topic choice + Motivation 5%; Theoretical explanation 10%; Experiments 5%] </li>
-      <li><strong>Scribe:</strong> 15% [approx 2 lectures] </li>
-      <li><strong>Piazza-Weekly Problem:</strong> 10% [Post a new unresolved problem per week (with motivation based), on that week's lectures] </li>
-      <li><strong>Piazza-Weekly Topic+Paper:</strong> 10% [Find a related paper per week based on the topics covered in that week] </li>
-      <li><strong>Class Participation:</strong> 10% [Lecture qs/ans 5%; Presentation qs: 5%] </li>
-      <li><strong>Quiz:</strong> 10% [Random iClicker quizzes] </li>
+            </li>
+            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+                <strong style="color: #1565c0;">Paper Presentation:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">20%</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">
+                        Topic choice + Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
+                        Theoretical explanation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">10%</span> • 
+                        Experiments <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span>
+                    </span>
+                </div>
+            </li>
+            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+                <strong style="color: #1565c0;">Scribe:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">15%</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">Approximately 2 lectures</span>
+                </div>
+            </li>
+            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+                <strong style="color: #1565c0;">Piazza-Weekly Problem:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">Post a new unresolved problem per week (with motivation based), on that week's lectures</span>
+                </div>
+            </li>
+            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+                <strong style="color: #1565c0;">Piazza-Weekly Topic+Paper:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">Find a related paper per week based on the topics covered in that week</span>
+                </div>
+            </li>
+            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+                <strong style="color: #1565c0;">Class Participation:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">
+                        Lecture questions/answers <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
+                        Presentation questions <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span>
+                    </span>
+                </div>
+            </li>
+            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+                <strong style="color: #1565c0;">Quiz:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">Random iClicker quizzes</span>
+                </div>
+            </li>
     </ul>
     <p style="text-align: justify;">More details on finer grading policy .</p>
   </div>
