@@ -421,22 +421,22 @@ classes: wide
     <h2>⚠️ Prerequisites</h2>
     <p style="text-align: justify;">Expect this to be a fairly <strong>math intensive</strong> course. Please familiarize yourself with the basics of Probability-Statistics (PS) and Linear-Algebra (LA). Recommended introductory lectures to check if you are comfortable with the basics:</p>
     
-    <ul>
-        <li><strong>PS review:</strong>
-            <ol>
-                <li><a href="https://cs229.stanford.edu/section/cs229-prob.pdf">https://cs229.stanford.edu/section/cs229-prob.pdf</a></li>
-                <li><a href="https://www2.isye.gatech.edu/~sman/courses/6761/6761-1-ProbReview.pdf">https://www2.isye.gatech.edu/~sman/courses/6761/6761-1-ProbReview.pdf</a></li>
-                <li><a href="https://users.ssc.wisc.edu/~ctaber/410/statrev.pdf">https://users.ssc.wisc.edu/~ctaber/410/statrev.pdf</a></li>
-            </ol>
-        </li>
-        <li><strong>LA review:</strong>
-            <ol>
-                <li><a href="https://cs229.stanford.edu/section/cs229-linalg.pdf">https://cs229.stanford.edu/section/cs229-linalg.pdf</a></li>
-                <li><a href="https://james-chuang.github.io/notes/linalg_review.pdf">https://james-chuang.github.io/notes/linalg_review.pdf</a></li>
-                <li><a href="https://www.cs.cmu.edu/~jingx/docs/linearalgebra.pdf">https://www.cs.cmu.edu/~jingx/docs/linearalgebra.pdf</a></li>
-            </ol>
-        </li>
-    </ul>
+   <ul>
+  <li><strong>PS review:</strong>
+    <ol>
+      <li><a href="https://cs229.stanford.edu/section/cs229-prob.pdf">Stanford CS229 Probability Review</a></li>
+      <li><a href="https://www2.isye.gatech.edu/~sman/courses/6761/6761-1-ProbReview.pdf">Georgia Tech Probability Review</a></li>
+      <li><a href="https://users.ssc.wisc.edu/~ctaber/410/statrev.pdf">UW Madison Probability Review Notes</a></li>
+    </ol>
+  </li>
+  <li><strong>LA review:</strong>
+    <ol>
+      <li><a href="https://cs229.stanford.edu/section/cs229-linalg.pdf">Stanford CS229 Linear Algebra Review</a></li>
+      <li><a href="https://james-chuang.github.io/notes/linalg_review.pdf">Linear Algebra Review Notes (James Chuang)</a></li>
+      <li><a href="https://www.cs.cmu.edu/~jingx/docs/linearalgebra.pdf">CMU Linear Algebra Review Notes</a></li>
+    </ol>
+  </li>
+</ul>
     
     <p style="text-align: justify;"><strong>Familiarity with LaTeX for scientific writing</strong> for scribing the lecture notes (only for MS students). You can learn the basics from <a href="https://www.youtube.com/watch?v=lgiCpA4zzGU">A Simple Quickstart Guide</a>. Many other online tutorials are available for beginners — feel free to explore and use whichever best suits your needs.</p>
     
