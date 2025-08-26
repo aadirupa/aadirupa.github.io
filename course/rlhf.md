@@ -156,12 +156,12 @@ classes: wide
   </tr>
   <tr>
     <td>Sep 2</td>
-    <td>UCB</td>
+    <td>UCB Algorithm</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>Sep 4</td>
-    <td>OMD</td>
+    <td>Online Mirror Descent </td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
@@ -269,8 +269,7 @@ classes: wide
   </tr>
   <tr>
     <td>Oct 30</td>
-    <td>—-- Happy Halloween! —--</td>
-    <td></td><td></td><td></td><td></td>
+    <td colspan="5">—-- Happy Halloween! —--</td>
   </tr>
   <tr>
     <td>Nov 4</td>
@@ -309,8 +308,7 @@ classes: wide
   </tr>
   <tr>
     <td>Nov 27</td>
-    <td>----- Thanksgiving Break -----</td>
-    <td></td><td></td><td></td><td></td>
+    <td colspan="5">—-- Thanksgiving Break! —--</td>
   </tr>
   <tr>
     <td>Dec 2</td>
