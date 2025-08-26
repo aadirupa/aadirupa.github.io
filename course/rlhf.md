@@ -416,7 +416,7 @@ classes: wide
                     </span>
                 </div>
             </li>
-            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+            <li>
                 <strong style="color: #1565c0;">Paper Presentation:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">20%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">
@@ -426,25 +426,25 @@ classes: wide
                     </span>
                 </div>
             </li>
-            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+            <li>
                 <strong style="color: #1565c0;">Scribe:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">15%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">Approximately 2 lectures</span>
                 </div>
             </li>
-            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+            <li>
                 <strong style="color: #1565c0;">Piazza-Weekly Problem:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">Post a new unresolved problem per week (with motivation based), on that week's lectures</span>
                 </div>
             </li>
-            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+            <li>
                 <strong style="color: #1565c0;">Piazza-Weekly Topic+Paper:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">Find a related paper per week based on the topics covered in that week</span>
                 </div>
             </li>
-            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+            <li>
                 <strong style="color: #1565c0;">Class Participation:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">
@@ -453,7 +453,7 @@ classes: wide
                     </span>
                 </div>
             </li>
-            <li style="margin-bottom: 1rem; padding: 1rem 1.5rem; background: rgba(248, 249, 250, 0.8); border-radius: 12px; border-left: 4px solid #1565c0; color: #424242;">
+            <li>
                 <strong style="color: #1565c0;">Quiz:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">Random iClicker quizzes</span>
