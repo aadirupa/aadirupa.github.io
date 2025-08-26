@@ -404,9 +404,16 @@ classes: wide
   <div id="Grading" class="tabcontent">
     <h2>🏆 Grading Policy</h2>
     <ul>
-      <li><strong>Project:</strong> 25% [Problem selection 5%; Motivation 5%; Solution 10%; Experiments 5%] 
-      <span style="background: #4caf50; color: white; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-left: 0.5rem;">+2% extra credit</span>
-      </li>
+                <strong style="color: #1565c0;">Project:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">25%</span>
+                <span style="background: #4caf50; color: white; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-left: 0.5rem;">+2% extra credit</span>
+                <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
+                    <span style="color: #666; font-size: 0.9rem;">
+                        Problem selection <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
+                        Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
+                        Solution <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">10%</span> • 
+                        Experiments <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span>
+                    </span>
+                </div>
       <li><strong>Paper Presentation:</strong> 20% [Topic choice + Motivation 5%; Theoretical explanation 10%; Experiments 5%] </li>
       <li><strong>Scribe:</strong> 15% [approx 2 lectures] </li>
       <li><strong>Piazza-Weekly Problem:</strong> 10% [Post a new unresolved problem per week (with motivation based), on that week's lectures] </li>
