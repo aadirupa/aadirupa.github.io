@@ -280,14 +280,13 @@ classes: wide
   </div>
 
   <div id="Description" class="tabcontent">
-    <h2>📚 Course Description</h2>
+    <h2>📚 Course Description (Tentitive) </h2>
     
     <section id="overview">
       <h2>Overview</h2>
       <p style="text-align: justify;">
         This course aims to provide a rigorous mathematical foundation for understanding and implementing
-        Reinforcement Learning from Human Feedback (RLHF), the critical technology behind modern large language models
-        like ChatGPT and Claude. The curriculum is structured around interconnected modules that progress from
+        Reinforcement Learning from Human Feedback (RLHF). The curriculum is structured around interconnected modules that progress from
         theoretical foundations to practical implementation.
       </p>
     </section>
@@ -296,7 +295,7 @@ classes: wide
       <h2>Modules</h2>
 
       <article id="alignment-formalization">
-        <h3>Lecture Set 1: Formalizing the Alignment Problem</h3>
+        <h3>Topics Set 1: Formalizing the Alignment Problem</h3>
         <p>
           Establishes the conceptual framework for AI alignment, examining outer versus inner alignment, reward
           misspecification, and Goodhart’s Law in human feedback systems. Students analyze real-world failure
@@ -305,16 +304,16 @@ classes: wide
       </article>
 
       <article id="evaluation-verification">
-        <h3>Lecture Set 2: Evaluation &amp; Alignment Verification</h3>
+        <h3>Topics Set 2: Evaluation &amp; Alignment Verification</h3>
         <p>
           Addresses measuring alignment beyond simple reward maximization, covering multi-dimensional evaluation
           frameworks (HHH: Helpfulness, Harmlessness, Honesty), human evaluation pipeline design, adversarial
-          testing, and robustness verification techniques essential for production deployment.
+          testing, and robustness verification techniques are essential for production deployment.
         </p>
       </article>
 
       <article id="rl-theory">
-        <h3>Module 3: Reinforcement Learning Theory</h3>
+        <h3>Topics Set 3: Reinforcement Learning Theory</h3>
         <p>
           Provides the mathematical foundations underlying RLHF algorithms. Beginning with MDP fundamentals and
           Bellman equations, the module progresses through policy gradient methods, exploration strategies in
@@ -324,7 +323,7 @@ classes: wide
       </article>
 
       <article id="rlhf-theory-practice">
-        <h3>Module 4: RLHF Theory and Practice</h3>
+        <h3>Topics Set 4: RLHF Theory and Practice</h3>
         <p>
           Synthesizes preference learning, contextual bandits, and human-in-the-loop optimization. Topics include
           active learning for efficient feedback collection, handling noisy and biased human inputs, integrating
@@ -333,7 +332,7 @@ classes: wide
       </article>
 
       <article id="llm-theory">
-        <h3>Module 5: Large Language Model Theory</h3>
+        <h3>Topics Set 5: Large Language Model Theory</h3>
         <p>
           Bridges abstract RL theory and practical LLM deployment. Covers transformer architectures, fine-tuning
           methodologies, parameter-efficient adaptation (LoRA, adapters), preference modeling for reward extraction,
@@ -405,13 +404,15 @@ classes: wide
   <div id="Grading" class="tabcontent">
     <h2>🏆 Grading Policy</h2>
     <ul>
-      <li><strong>Scribe:</strong> 25% </li>
-      <li><strong>Project:</strong> 25% </li>
+      <li><strong>Project:</strong> 25% [Problem choice 5%; Motivation 5%; Solution 10%; Experiemnts 5%] </li>
       <li><strong>Paper Presentation:</strong> 20% </li>
-      <li><strong>Piazza Posts:</strong> 10% </li>
-      <li><strong>Class Discussion:</strong> 10% </li>
+      <li><strong>Scribe:</strong> 15% </li>
+      <li><strong>Piazza-Weekly Problem:</strong> 10% </li>
+      <li><strong>Piazza-Weekly Topic+Paper:</strong> 10% </li>
+      <li><strong>Class Participation:</strong> 10% </li>
       <li><strong>Quiz:</strong> 10% </li>
     </ul>
+    <p style="text-align: justify;">More details on finer grading policy .</p>
   </div>
 
   <div id="Resources" class="tabcontent">
