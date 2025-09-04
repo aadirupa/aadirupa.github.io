@@ -209,11 +209,11 @@ classes: wide
     <td></td>
     <td></td>
     <td>
-      <ul>
+      <!--<ul>
         <li>Heavy-tailed bandits</li>
         <li>Bandits with side info</li>
         <li>Bandits with budgets</li>
-      </ul>
+      </ul>-->
     </td>
   </tr>
   <tr>
