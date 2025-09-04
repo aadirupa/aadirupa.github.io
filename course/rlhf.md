@@ -147,7 +147,7 @@ classes: wide
   <tr>
     <td>Aug 26</td>
     <td>Introduction <br>Basics of AI-Alignment</td>
-    <td><a href="https://arxiv.org/pdf/2310.19852">AI-Alignment Survey</a> (Chap 1.1, 2.1) </td>
+    <td><a href="https://arxiv.org/pdf/2310.19852">AI-Alignment Survey</a> <br>[Chap 1.1, 2.1] </td>
     <td></td>
     <td>Piazza up!</td>
     <td></td>
