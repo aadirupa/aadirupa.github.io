@@ -175,7 +175,7 @@ classes: wide
     <td>
       <ul>
         <li><a href="https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter1/">SubGaussianity</a></li>
-        <li><a href="https://cs229.stanford.edu/extra-notes/hoeffding.pdf">Hoeffding's Ineq</a></li> 
+        <li><a href="https://cs229.stanford.edu/extra-notes/hoeffding.pdf">Hoeffding's Inequality</a></li> 
       </ul>
     </td>
     <td></td>
@@ -191,7 +191,7 @@ classes: wide
         <li><a href="https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf?utm_source=chatgpt.com">Thompson Sampling</a></li>
       </ul>
     </td>
-    <td>Sign-up Sheet <br> on Piazza (by Sept 11th) </td>
+    <td>Sign-up Sheet <br> up on Piazza! <br> <b>Deadline: Sept 11th</b> </td>
     <td></td>
   </tr>
   <tr>
