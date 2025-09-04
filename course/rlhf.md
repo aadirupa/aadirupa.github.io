@@ -140,39 +140,53 @@ classes: wide
     <th>Date</th>
     <th>Topic</th>
     <th>Reading</th>
-    <th>Materials</th>
+    <th>Extra</th>
     <th>Notes</th>
-    <th>Top-3 Paper Recommendation</th>
+    <th>Top-3 Paper</th>
   </tr>
   <tr>
     <td>Aug 26</td>
-    <td>Introduction<br>Basics of AI-Alignment</td>
-    <td></td><td></td><td></td><td></td>
+    <td>Introduction <br>Basics of AI-Alignment</td>
+    <td><a href="https://arxiv.org/pdf/2310.19852">AI-Alignment Survey</a> (Chap 1.1, 2.1) </td>
+    <td></td>
+    <td>Piazza up!</td>
+    <td></td>
   </tr>
   <tr>
     <td>Aug 28</td>
-    <td>Concentration Bounds MAB</td>
-    <td></td><td></td><td></td><td></td>
+    <td>Basics of Stochastic MAB <br>ETC Algorithm </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Sep 2</td>
-    <td>UCB Algorithm</td>
+    <td>ETC Analysis <br>Basic Concentration Inequalities </td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>Sep 4</td>
-    <td>Online Mirror Descent </td>
-    <td></td><td></td><td></td><td></td>
+    <td>ETC Analysis (contd) <br> UCB Algorithm + Analysis </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Sep 9</td>
     <td>Linear Bandits</td>
-    <td></td><td></td><td></td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Sep 11</td>
     <td>Paper presentation</td>
-    <td></td><td></td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td>
       <ul>
         <li>Heavy-tailed bandits</li>
@@ -183,7 +197,7 @@ classes: wide
   </tr>
   <tr>
     <td>Sep 16</td>
-    <td>Linear Bandits (contd)</td>
+    <td>Online Mirror Descent (Adversarial Case)</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
