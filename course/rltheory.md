@@ -149,119 +149,134 @@ classes: wide
                 <th>Presenter</th>
                 <th>Topics</th>
                 <th>Resource</th>
-                <th>Notes</th>
             </tr>
             <tr>
                 <td>2025-06-13</td>
                 <td>Zhengyao</td>
                 <td>MDP Basics, Values, Policies, <br> Bellman Consistency Equation</td>
                 <td> RLM (Chap 1.1.1-1.1.3), <br> AK (Lec 5)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-17</td>
                 <td>Zhengyao</td>
                 <td>Bellman Optimality Equations, Value Iteration, <br> Policy Iteration, Convergence Results</td>
                 <td> RLM (Thm 1.7, 1.8; Chap 1.3.1-1.3.3), <br> AK (Lec 5)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-20</td>
                 <td>Aniket</td>
                 <td> Policy Iteration, Convergence Guarantee, Episodic, Generative and Offline RL setting <br>The performance difference lemma </td>
                 <td> RLM (Thm 1.14, Lem 1.16; Chap 1.3.2, 1.4, 1.5) <br> AK (Lec 6)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-24</td>
                 <td> Amir </td>
                 <td> Example of Policy Classes, Policy Gradient methods,  <br>Non-convexity and Convergence of Value functions under Softmax Parameterizations</td>
                 <td> RLM (Lem 11.4, 11.5, 11.6; Chap 11.1, 11.2) <br> AK (Lec 6)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-06-27</td>
                 <td> Amir </td>
                 <td> Natural Policy Gradient (NPG),  <br>NPG update with Softmax Parameterization and Fisher information</td>
                 <td> RLM (Lem 12.6; Chap 12.3) <br> AK (Lem 4; Lec 6)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-04</td>
                 <td> Amir </td>
                 <td> Convergence of vanilla PG,  <br>Convergence of NPG </td>
                 <td> RLM (Thm 12.3, Cor 12.5, Thm 12.7; Chap 12.3, 12.4) <br> AK (Lem 1, Thm 2, Thm 3, Lem 4; Lec 7)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-08</td>
                 <td> Amith </td>
                 <td> Exploration of Tabular MDPs,  <br>UCB-VI Algorithm, Regret Analysis </td>
                 <td> RLM (Alg 5, Thm 7.1; Chap 7.1, 7.2, 7.3) <br> AK (Sec 2, Sec 3, Thm 5; Lec 8)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-11</td>
                 <td> Amith </td>
                 <td> UCB-VI Algorithm, Regret Analysis (contd) </td>
                 <td> RLM (Thm 7.1, 7.6; Chap 7.3, 7.4)  <br> AK (Thm 5, Sec 3.1; Lec 8)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-15</td>
                 <td> Amith </td>
                 <td> Improved bound for UCB-VI,  <br> Intro to Linear Bandits </td>
                 <td> RLM (Thm 7.6; Chap 7.4. Alg 4; Chap 6.2)  <br> AK (Sec 3.1; Lec 8. Sec 3; Lec 3)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-18</td>
                 <td> Amith </td>
                 <td> LinUCB Algorithm <br> Regret Analysis of LinUCB </td>
                 <td> RLM (Alg 4, Thm 6.3, Prop 6.6; Chap 6.2, 6.3)  <br> AK (Sec 3, Thm 2, Lem 3; Lec 3)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-22</td>
                 <td> Ali </td>
                 <td> Linear Bellman Completeness, D-Optimal Design <br> LSVI Algorithm (Value Iteration for Linear Bellman Complete MDP) </td>
                 <td> RLM (Defn 3.1, Alg 1, Thm 3.2; Chap 3.1-3.3)  <br> AK (Def 1, Prop. 2, Sec 1; Lec 9)</td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-25</td>
                 <td> Ali / AS </td>
                 <td> Convergence Analysis of LSVI Algorithm <br> Interpretation of G-Optimal and D-Optimal Design, Kiefer–Wolfowitz Theorem </td>
                 <td> RLM (Thm 3.3, Lem 3.4; Chap 3.3.2, 3.3.3)  <br> BALG (Thm 21.1; Chap 21.1) </td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-07-29</td>
                 <td> Ali </td>
                 <td> Convergence Analysis of LSVI Algorithm (contd) <br>  Least Squares Policy Evaluation (LSPE) and Analysis  </td>
                 <td> RLM (Lem 3.5, Thm 3.3; Chap 3.3)  <br> RLM (Defn 3.8, Alg 2, Thm 3.9; Chap 3.5) </td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-08-01</td>
                 <td> AS </td>
                 <td> Low-Rank MDPs and Linear MDPs, Planning in Linear MDPs  <br> Learning Transition using Ridge Linear Regression </td>
                 <td> RLM (Claim 8.2, Lem 8.3, 8.4; Chap 8.1, 8.2, 8.3)  <br> AK (Defn 1, Prop 2, Sec 1; Lec 9) </td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-08-05</td>
                 <td> Ali </td>
                 <td> Covering Number, Uniform Convergence via Covering <br> Uniform Convergence to Estimate Transition Dynamics </td>
                 <td> RLM (Lem 8.5, 8.6, 8.7; Chap 8.4)  <br> --- </td>
-                <td>-</td>
             </tr>
             <tr>
                 <td>2025-08-08</td>
                 <td> Aniket </td>
                 <td> LSVI-UCB: UCBVI for Linear MDPs,  <br> Analysis of LSVI-UCB </td>
-                <td> RLM (Lem 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> AK (Thm 3, Sec 2 2; Lec 9) </td>
-                <td>-</td>
+                <td> RLM (Lem 8.8, Thm 8.9; Chap 8.5, 8.6)  <br> AK (Thm 3, Sec 2; Lec 9) </td>
+            </tr>
+             <tr>
+                <td>2025-08-12</td>
+                <td> Aniket </td>
+                <td> LSVI-UCB Analysis (contd),  <br> Hypothesis Class of Bounded Q and V Bellman Rank </td>
+                <td> RLM (Lem 8.10, 8.11, 8.12; Thm 8.9; Chap 8.6)  <br> RLM (Defn 9.1, Sec 9.2; Chap 9.1, 9.2) </td>
+            </tr>
+             <tr>
+                <td>2025-08-15</td>
+                <td> Aniket </td>
+                <td> Example of MDPs with `small' Q, V Bellman Rank  <br> Understanding OLIVE under low-Bellman Rank </td>
+                <td> RLM (Prop 9.3-9.8; Chap 9.3)  <br> <a href="https://proceedings.mlr.press/v70/jiang17c/jiang17c.pdf" target="_blank">
+            OLIVE paper</a>, <a href="https://nanjiang.cs.illinois.edu/files/cs598/slides_bellman_rank.pdf" target="_blank">
+            Bellman Rank notes</a>, Nan Jiang</td>           
+            </tr>
+             <tr>
+                <td>2025-08-19</td>
+                <td> Aniket </td>
+                <td> Bilinear Class of MDPs and Examples  <br> BLin-UCB: PAC-RL with Bounded Bilinear Rank and Sample Complexity Analysis </td>
+                <td> RLM (Def 9.10, Prop 9.11; Chap 9.4)  <br> RLM (Alg 7, Thm 9.16, Cor 9.17; Chap 9.5) </td>
+            </tr>
+             <tr>
+                <td>2025-08-22</td>
+                <td> Amir </td>
+                <td> Compatible function approximation, NPG, Q-NPG, and Examples.  <br> NPG Regret Lemma </td>
+                <td> RLM (Lem 13.1, 13.2; Chap 13.1, 13.2)  <br> RLG (Lem 13.3, Chap 13.3) </td>
+            </tr>
+             <tr>
+                <td>2025-09-05</td>
+                <td> Amir </td>
+                <td> Analysis of NPG Regret Lemma (contd), <br> Relative condition number, Sample Complexity Analysis of Q-NPG for Log-Linear Policies </td>
+                <td> RLM (Lem 13.3, Chap 13.3)  <br> RLM (Assump 13.5, Thm 13.6; Chap 13.4) </td>
             </tr>
         </table>
     </div>
