@@ -450,13 +450,15 @@ classes: wide
     <h2>🏆 Grading Policy</h2>
     <ul>
      <li>
-                <strong style="color: #1565c0;">Project + Report:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">25%</span>
+                <strong style="color: #1565c0;">Project + Report:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">20%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">
-                        Problem selection <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
-                        Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
+                        Problem selection + Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
                         Solution <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">10%</span> • 
-                        Experiments <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span>
+                        Experiments 
+                        <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;"> 
+                          <span style="background: #4caf50; color: white; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-left: 0.5rem;"> +5% extra credit</span>
+                        </span>
                     </span>
                 </div>
             </li>
@@ -464,7 +466,7 @@ classes: wide
                 <strong style="color: #1565c0;">Paper Presentation + Coding:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">20%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
                     <span style="color: #666; font-size: 0.9rem;">
-                        Topic choice + Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
+                        Work Motivation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span> • 
                         Theoretical explanation <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">10%</span> • 
                         Experiments <span style="background: #f5f5f5; color: #666; padding: 0.1rem 0.4rem; border-radius: 3px; font-weight: 500;">5%</span>
                     </span>
@@ -503,7 +505,7 @@ classes: wide
             <li>
                 <strong style="color: #1565c0;">Quiz:</strong> <span style="background: #e3f2fd; color: #1565c0; padding: 0.2rem 0.5rem; border-radius: 6px; font-weight: 600;">10%</span>
                 <div style="margin-top: 0.5rem; padding-left: 1rem; border-left: 2px solid #e3f2fd;">
-                    <span style="color: #666; font-size: 0.9rem;">Random iClicker quizzes</span>
+                    <span style="color: #666; font-size: 0.9rem;">Random quizzes</span>
                 </div>
             </li>
     </ul>
@@ -560,7 +562,7 @@ classes: wide
       <li><strong>📍 Location:</strong> CDRLC </li>
       <li><strong>⏰ Schedule:</strong> Tuesday & Thursday, 2:00 - 3:15 PM</li>
       <li><strong>🏛️ Office Hours:</strong> Thurdays 5:00–6:00 PM or by appointment</li>
-      <li><strong>📧 Piazza:</strong> TBA </li>
+      <li><strong>📧 Piazza:</strong> <a href="https://piazza.com/uic/fall2025/cs_594" target="_blank">CS_594</a> [Only Creditors!] </li>
     </ul>
 
     <h2>📌 Important Dates</h2>
