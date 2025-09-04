@@ -514,15 +514,30 @@ classes: wide
     <p>Class lecture will be based on, but not limited to, the following books:</p>
     
     <ul>
-        <li>
+          <li>
             <strong>[SB] </strong>
             <a href="https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf" target="_blank">
               Reinforcement Learning: An Introduction</a> by Sutton & Barto
           </li>
           <li>
-            <strong>[BA] </strong>
+            <strong>[SL] </strong>
             <a href="https://tor-lattimore.com/downloads/book/book.pdf" target="_blank">
               Bandit Algorithms</a> by Szepesvari & Lattimore
+          </li>
+          <li>
+            <strong>[PG] </strong>
+            <a href="http://pierre.gaillard.me/doc/teaching/online_learning_lecture_notes.pdf" target="_blank">
+              Online Learning Notes</a> by Pierre Gaillard
+          </li>
+          <li>
+            <strong>[FO] </strong>
+            <a href="https://arxiv.org/abs/1912.13213" target="_blank">
+              A Modern Introduction to Online Learning</a> by Francesco Orabona
+          </li>
+          <li>
+            <strong>[THK] </strong>
+            <a href="https://mlhp.stanford.edu/" target="_blank">
+              Reinforcement Learning: An Introduction</a> by Truong, Haupt, Koyejo
           </li>
           <li>
             <strong>[RLM] </strong>
@@ -533,7 +548,7 @@ classes: wide
           <strong>[FRL] </strong>
           <a href="https://arxiv.org/abs/2312.16730" target="_blank">
             Foundations of Reinforcement Learning and Interactive Decision Making</a> by Foster & Rakhlin
-        </li>
+          </li>
 
     
     </ul>
