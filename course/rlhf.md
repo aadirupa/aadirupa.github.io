@@ -155,21 +155,34 @@ classes: wide
   <tr>
     <td>Aug 28</td>
     <td>Basics of Stochastic MAB <br>ETC Algorithm </td>
-    <td></td>
-    <td></td>
+    <td>SL 4.1-4.4, 6.1 <br>PG 5.1, 5.2 </td>
+    <td>
+      <ul>
+        <li>Order Notations</li>
+        <li>Basic Distributions</li>
+      </ul>
+    </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Sep 2</td>
     <td>ETC Analysis <br>Basic Concentration Inequalities </td>
-    <td></td><td></td><td></td><td></td>
+    <td>SL 4.5, 5.1-5.3, 6.1 <br>PG 5.2 </td>
+    <td>
+      <ul>
+        <li>SubG</li>
+        <li>Thompson Sampling</li>
+      </ul>
+    </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Sep 4</td>
-    <td>ETC Analysis (contd) <br> UCB Algorithm + Analysis </td>
-    <td></td>
-    <td></td>
+    <td>ETC Analysis (contd) <br>UCB Algorithm + Analysis </td>
+    <td>SL 5.2, 6.1, 7.1 <br>PG 5.2, 5.3 </td>
+    <td>Nice note on CI</td>
     <td></td>
     <td></td>
   </tr>
