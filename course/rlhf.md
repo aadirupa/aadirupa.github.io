@@ -178,7 +178,7 @@ classes: wide
         <li><a href="https://cs229.stanford.edu/extra-notes/hoeffding.pdf">Hoeffding's Inequality</a></li> 
       </ul>
     </td>
-    <td></td>
+    <td>Instructions for Weekly <br> Posts on Piazza!</td>
     <td></td>
   </tr>
   <tr>
