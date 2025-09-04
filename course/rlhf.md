@@ -158,9 +158,12 @@ classes: wide
     <td>SL 4.1-4.4, 6.1 <br>PG 5.1, 5.2 </td>
     <td>
       <ul>
-        <li>Order Notations</li>
-        <li>Basic Distributions</li>
-      </ul>
+        <li><a href="https://ilyasergey.net/YSC2229/week-02b_notation.html">Order Notations</a></li>
+        <li>Basic Distributions:
+          <a href="http://users.stat.umn.edu/~helwig/notes/ProbabilityDistributions.pdf"> [1], </a>
+          <a href="https://www.colorado.edu/amath/sites/default/files/attached-files/ch3_0.pdf">[2]</a>
+        </li>
+      </ul> 
     </td>
     <td></td>
     <td></td>
@@ -171,8 +174,8 @@ classes: wide
     <td>SL 4.5, 5.1-5.3, 6.1 <br>PG 5.2 </td>
     <td>
       <ul>
-        <li>SubG</li>
-        <li>Thompson Sampling</li>
+        <li><a href="https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter1/">SubGaussianity</a></li>
+        <li><a href="https://cs229.stanford.edu/extra-notes/hoeffding.pdf">Hoeffding's Ineq</a></li> 
       </ul>
     </td>
     <td></td>
@@ -182,8 +185,13 @@ classes: wide
     <td>Sep 4</td>
     <td>ETC Analysis (contd) <br>UCB Algorithm + Analysis </td>
     <td>SL 5.2, 6.1, 7.1 <br>PG 5.2, 5.3 </td>
-    <td>Nice note on CI</td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Eps-Greedy: PG 5.4</li>
+        <li><a href="https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf?utm_source=chatgpt.com">Thompson Sampling</a></li>
+      </ul>
+    </td>
+    <td>Sign-up Sheet <br> on Piazza (by Sept 11th) </td>
     <td></td>
   </tr>
   <tr>
@@ -223,11 +231,11 @@ classes: wide
     <td>Paper presentation</td>
     <td></td><td></td><td></td>
     <td>
-      <ul>
+      <!--<ul>
         <li>Beyond Linear Bandits: Kernel Bandits</li>
         <li>Lipschitz bandits</li>
         <li>Neural Bandits</li>
-      </ul>
+      </ul>-->
     </td>
   </tr>
   <tr>
@@ -236,9 +244,9 @@ classes: wide
     <td></td><td></td><td></td>
     <td>
       <ul>
-        <li>MNL Bandits</li>
+        <!--<li>MNL Bandits</li>
         <li>Dynamic Bandits</li>
-        <li>Sleeping Bandits</li>
+        <li>Sleeping Bandits</li>-->
       </ul>
     </td>
   </tr>
@@ -253,9 +261,9 @@ classes: wide
     <td></td><td></td><td></td>
     <td>
       <ul>
-        <li>Robust DB</li>
+        <!--<li>Robust DB</li>
         <li>Fair DB</li>
-        <li>DB with correlated preferences</li>
+        <li>DB with correlated preferences</li>-->
       </ul>
     </td>
   </tr>
@@ -563,7 +571,7 @@ classes: wide
           <li>
             <strong>[THK] </strong>
             <a href="https://mlhp.stanford.edu/" target="_blank">
-              Reinforcement Learning: An Introduction</a> by Truong, Haupt, Koyejo
+              Machine Learning from Human Preferences</a> by Truong, Haupt, Koyejo
           </li>
           <li>
             <strong>[RLM] </strong>
