@@ -351,7 +351,7 @@ classes: wide
   </tr>
   <tr>
     <td>Nov 25</td>
-    <td>Presentation (20 mins/ team)</td>
+    <td>Project Presentation</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
@@ -360,12 +360,12 @@ classes: wide
   </tr>
   <tr>
     <td>Dec 2</td>
-    <td>Presentation (20 mins/ team)</td>
+    <td>Project Presentation</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>Dec 4</td>
-    <td>Presentation (20 mins/ team)</td>
+    <td>Project Presentation</td>
     <td></td><td></td><td></td><td></td>
   </tr>
 </table>
