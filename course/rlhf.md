@@ -183,8 +183,8 @@ classes: wide
   </tr>
   <tr>
     <td>Sep 4</td>
-    <td>ETC Analysis (contd) <br>UCB Algorithm + Analysis </td>
-    <td>SL 5.2, 6.1, 7.1 <br>PG 5.2, 5.3 </td>
+    <td>SubGaussianity, Hoeffding's Inequality <br>ETC Analysis (contd) </td>
+    <td>SL 5.2, 5.3, 6.1 <br>PG 5.2 </td>
     <td>
       <ul>
         <li>Eps-Greedy: PG 5.4</li>
@@ -194,6 +194,19 @@ classes: wide
     <td>Sign-up Sheet <br> up on Piazza! <br> <b>Deadline: Sept 11th</b> </td>
     <td></td>
   </tr>
+  <tr>
+    <td>Sep 6 <br><p style="color:red;">[Extra Class]</p> </td>
+    <td>UCB Algorithm <br> Analysis of UCB-Regret Optimality </td>
+    <td>SL 7.1 <br>PG 5.3 </td>
+    <td>
+      <ul>
+        <li><a href="https://www.stat.cmu.edu/~arinaldo/Teaching/36709/S19/Scribed_Lectures/Feb5_Aleksandr.pdf">SubExp RVs and Concentrations</a></li>
+        <li><a href="https://www.hse.ru/data/2016/11/24/1113029206/Concentration%20inequalities.pdf">Book: Conc. Inequalities</a></li>
+      </ul>
+    </td>
+    <td>Sign-up Sheet <br> up on Piazza! <br> <b>Deadline: Sept 11th</b> </td>
+    <td></td>
+  </tr>    
   <tr>
     <td>Sep 9</td>
     <td>Linear Bandits</td>
