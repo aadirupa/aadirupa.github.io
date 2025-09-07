@@ -201,10 +201,10 @@ classes: wide
     <td>
       <ul>
         <li><a href="https://www.stat.cmu.edu/~arinaldo/Teaching/36709/S19/Scribed_Lectures/Feb5_Aleksandr.pdf">SubExp RVs and Concentrations</a></li>
-        <li><a href="https://www.hse.ru/data/2016/11/24/1113029206/Concentration%20inequalities.pdf">Book: Conc. Inequalities</a></li>
+        <li><a href="https://www.hse.ru/data/2016/11/24/1113029206/Concentration%20inequalities.pdf">Book: Concentration Inequalities</a></li>
       </ul>
     </td>
-    <td>Sign-up Sheet <br> up on Piazza! <br> <b>Deadline: Sept 11th</b> </td>
+    <td>Scribing Instructions <br> on Piazza! </td>
     <td></td>
   </tr>    
   <tr>
