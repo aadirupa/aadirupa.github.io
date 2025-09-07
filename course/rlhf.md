@@ -139,10 +139,10 @@ classes: wide
   <tr>
     <th>Date</th>
     <th>Topic</th>
-    <th>Reading</th>
+    <th>Materials</th>
     <th>Extra</th>
-    <th>Notes</th>
-    <th>Top-3 Paper</th>
+    <th>Announcements</th>
+    <th>Top-3 Papers</th>
   </tr>
   <tr>
     <td>Aug 26</td>
@@ -210,7 +210,7 @@ classes: wide
   <tr>
     <td>Sep 9</td>
     <td>Linear Bandits</td>
-    <td></td>
+    <td>SL 19.1, 19.2, 20.1 <br>PG 6.1.2 </td>
     <td></td>
     <td></td>
     <td></td>
