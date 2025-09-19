@@ -114,12 +114,28 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<li>  <b>Hybrid Preference Optimization for Alignment: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version]</a>
-<br>  Avinandan Bose, Zhihan Xiong, Aadirupa Saha, Simon Shaolei Du, Maryam Fazel
+<li>  <b>Confidence Calibration for Trustworthy LLM-as-a-Judge</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<br>  Aadirupa Saha, Branislav Kveton
+</li>
+
+<li>  <b>Source Adaptive Online Learning under Heteroscedastic Noise</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<br>  Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo,
+</li>
+
+<li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Aadirupa Saha, Hilal Asi
+</li>
+
+<li>  <b>Learning to Allocate Resources with Censored Feedback</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<br>  Giovanni Montanari, Côme Fiegel, Aadirupa Saha, Vianney Perchet
 </li>
 
  <li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
 <br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
+ </li>
+
+ <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
+  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
  </li>
 
 <!--
@@ -130,18 +146,8 @@ a:active {
  <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
   <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
  </li> 
-
-  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya</li>
 -->
 
-<li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
-<br>  Aadirupa Saha, Hilal Asi
-</li>
-  
-  
- 
-  
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="full_publications">Full list of Publications:</a></h2>
@@ -149,6 +155,21 @@ a:active {
 <h2 style="color:DarkRed;">2025</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
+
+<li> <b>Efficient and Near-Optimal Algorithm for General Contextual Dueling Bandits with Offline Regression Oracles</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Aadirupa Saha, Robert Schapire
+<br>  In Neural Information Processing Systems, NeurIPS 2025 
+</li>
+
+<li> <b>Imitation Beyond Expectation Using Pluralistic Stochastic Dominance</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Ali Farajzadeh, Danyal Saeed, Syed M Abbas, Rushit N. Shah, Aadirupa Saha, Brian D Ziebart
+<br>  In Neural Information Processing Systems, NeurIPS 2025
+</li>
+
+<li> <b>HPO: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Avinandan Bose, Zhihan Xiong, Aadirupa Saha, Simon Shaolei Du, Maryam Fazel
+<br>  In The Next Frontier in Reliable AI Workshop, International Conference on Learning Representations (ICLR), 2025   
+</li>
 
  <li>  <b>Tracking the Best Expert Privately</b>  <a href="https://arxiv.org/abs/2503.09889" target="_blank" LINK="red"> [Arxiv version]</a> 
  <br>  Hilal Asi, Vinod Raman, Aadirupa Saha (alphabetical)
