@@ -119,7 +119,7 @@ a:active {
 </li>
 
 <li>  <b>Source Adaptive Online Learning under Heteroscedastic Noise</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
-<br>  Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo,
+<br>  Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo
 </li>
 
 <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
@@ -130,22 +130,26 @@ a:active {
 <br>  Giovanni Montanari, Côme Fiegel, Aadirupa Saha, Vianney Perchet
 </li>
 
- <li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-<br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
- </li>
+<li>  <b>Stochastically Dominant Preference Optimization: Policy Improvement for All</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<br>  Ali Farajzadeh, Syed M Abbas, Aadirupa Saha, Brian D Ziebart
+</li>
 
  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
  </li>
 
 <!--
- <li>  <b>Optimal Rates for DCO</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br> Vitaly Feldman, Aadirupa Saha
+<li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+<br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
  </li>
 
- <li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-  <br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
- </li> 
+<li>  <b>Optimal Rates for DCO</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+<br> Vitaly Feldman, Aadirupa Saha
+</li>
+
+<li>  <b>Cost or Quality: Your Choice! Multi-fidelity Feedback in Sequential Decision Making Under Bandit Feedback.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
+<br>  Chinmaya Kausik, Yonathan Efroni, Nadav Merlis, Aadirupa Saha
+</li> 
 -->
 
 </ul>  
