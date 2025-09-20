@@ -72,7 +72,7 @@ a:active {
 
 <li> - Dec: One conference and one workshop paper at NeurIPS'24. See you in Vancouver!</li>
   
-<li> - Jul: New ICML Workshop on <a href="https://sites.google.com/view/mhf-icml2024" LINK="red">Models of Human Feedback for AI Alignment</a>. Co-organizing with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia. Stay tuned, more details on the way! </li>
+<li> - Jul: New ICML Workshop on <a href="https://sites.google.com/view/mhf-icml2024" LINK="red">Models of Human Feedback for AI Alignment</a>. Co-organizing with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia.</li>
 
 <li> - May: Our UAI'24 paper got accepted!</li>
   
