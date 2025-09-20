@@ -170,7 +170,7 @@ a:active {
 <br>  In Neural Information Processing Systems, NeurIPS 2025 <span style="color:Red;"><b> (*Spotlight*)</b></span>
 </li>
 
-<li> <b>HPO: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version]</a>
+<li> <b>HPO: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version] </a> <a href="https://openreview.net/pdf?id=YBBXsVta2x" target="_blank" LINK="red"> [Workshop version]</a>
 <br>  Avinandan Bose, Zhihan Xiong, Aadirupa Saha, Simon Shaolei Du, Maryam Fazel
 <br>  In The Next Frontier in Reliable AI Workshop, International Conference on Learning Representations (ICLR), 2025   
 </li>
