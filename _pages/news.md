@@ -38,13 +38,13 @@ a:active {
 
 <h2 style="color:DarkBlue;" vspace="2px;">2025</h2>
 
-<ol>  https://rl-conference.cc/index.html
+<ol>  
 
 <li> - Dec: Attending NeurIPS'25 at San Diego. Hope to catch up if you are around : ) </li>
 
 <li> - Oct: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. More updates to follow!  
 
-<li> - Sept: Glad to be in the organizing committee of  <a href="https://aadirupa.github.io//course/rltheory/#" target="_blank" LINK="red">RLC'26</a>. Updates to follow!
+<li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow!
 
 <li> - Sept: Two papers accepted to NeurIPS'25! </li>
 
