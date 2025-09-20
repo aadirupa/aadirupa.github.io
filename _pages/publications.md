@@ -167,7 +167,7 @@ a:active {
 
 <li> <b>Imitation Beyond Expectation Using Pluralistic Stochastic Dominance</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Ali Farajzadeh, Danyal Saeed, Syed M Abbas, Rushit N. Shah, Aadirupa Saha, Brian D Ziebart
-<br>  In Neural Information Processing Systems, NeurIPS 2025
+<br>  In Neural Information Processing Systems, NeurIPS 2025 <span style="color:Red;"><b> (*Spotlight*)</b></span>
 </li>
 
 <li> <b>HPO: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version]</a>
