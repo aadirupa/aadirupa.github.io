@@ -40,21 +40,21 @@ a:active {
 
 <ol>  
 
-<li> - Dec: Attending NeurIPS'25 at San Diego. Hope to catch up if you are around : ) </li>
+<li> - Dec: Attending <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a> at San Diego (Dec 1-7). Hope to catch up if you are around : ) </li>
 
-<li> - Oct: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. More updates to follow!  
+<li> - Oct: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. More updates to follow! </li> 
 
-<li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow!
+<li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow! </li>
 
-<li> - Sept: Two papers accepted to NeurIPS'25! </li>
+<li> - Sept: Two papers accepted to <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a>. </li>
 
-<li> - Aug: Teaching a graduate-level course on <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">RLHF Theory</a> this Spring!  
+<li> - Aug: Teaching a graduate-level course on <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">RLHF Theory</a> this Spring! </li>  
 
 <li> - May: We are running a <a href="https://aadirupa.github.io//course/rltheory/#" target="_blank" LINK="red">RL Theory Summer Reading</a> group (May-Aug, 2025).</li>
 
-<li> - Apr: Two papers accepted to ICML'25. </li>
+<li> - Apr: Two papers accepted to <a href="https://icml.cc/" LINK="red">ICML'25</a>. </li>
 
-<li> - Feb: Our paper on Efficient MNL Assortment Optimization is accepted to ICLR'25.</li>
+<li> - Feb: Our paper on Efficient MNL Assortment Optimization is accepted to <a href="https://iclr.cc/Conferences/2025" LINK="red">ICLR'25</a>.</li>
 
 <li> - Jan: Left Apple and joined UIC as a tenure-track assistant professor. Hola Acamedia! Good to be back! Teaching <a href="https://aadirupa.github.io//course/iml/#" LINK="red">ML</a> this Fall!</li>
   
