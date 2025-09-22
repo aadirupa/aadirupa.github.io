@@ -237,7 +237,7 @@ classes: wide
 <tr>
   <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
   <td>Adversarial Setting <br> - FTRL <br> - OMD (full feedback) <br> - OMD (bandit feedback)</td>
-  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br>  PG Eqn. 4.1, Sec 4.3 <br><a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf"> - YC-notes</a></td>
+  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br>  PG Eqn. 4.1, Sec 4.3 <br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a></td>
   <td>
     Faster Rates with Hessian:
     <ul>
