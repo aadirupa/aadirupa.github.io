@@ -237,7 +237,7 @@ classes: wide
 <tr>
   <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
   <td>Adversarial Setting <br>FTRL <br>OMD (full feedback) <br>OMD (bandit feedback)</td>
-  <td>FTRL: PG 2.2.2 <br>OMD: PG 2.2.3 <br>OMD+Bandit: PG Eqn. 4.1, Sec 4.3 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F41671833bfa17fca6d0610e4ebd49bb68e8665dcb15e4876e21493883b32a124%2FLec8-OMD.pdf">note8</a>] [<a href="https://uic.zoom.us/rec/share/nIO-A3xTP63sRSRDjze29o1MDOc-Nh1zy04mScU_oERXh-gE-h_RSpzJVlT4BrfJ.y7fEWxTAlR1lAgU4">video8</a>]</td>
+  <td>FTRL: PG 2.2.2 <br>OMD: PG 2.2.3 <br>OMD+Bandit: PG Eqn. 4.1, Sec 4.3 </td>
   <td>
     Faster Rates with Hessian:
     <ul>
@@ -255,7 +255,7 @@ classes: wide
 <tr>
   <td>Sep 16</td>
   <td>Contextual Bandits (mini-RL): <br>EXP4 <br>SqrCB</td>
-  <td>EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F86242a91f20765ed628a8f0305e97bb4f9587fb3fcc386bb7869aeeb43ba0669%2FLec4.pdf">note9</a>] [video9:<a href="https://uofi.app.box.com/file/1987906053522?s=y27ej5bki834apnc0ean5put0uw4d1rb&tc=collab-file-invite-treatment">1</a>,<a href="https://uic.zoom.us/rec/share/rZ5g_sn13UUkia4AGl-oy6dH2N4uaFoLDQkqC9M01m2rpfbSd2O4qigoSojht66E.K6EmfPc1auWuNPjA">2</a>]</td>
+  <td>EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) </td>
   <td>
     Notable CB Algos:
     <ul>
