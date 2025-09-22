@@ -237,7 +237,7 @@ classes: wide
 <tr>
   <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
   <td>Adversarial Setting <br> - FTRL <br> - OMD (full feedback) <br> - OMD (bandit feedback)</td>
-  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br>PG Eqn. 4.1, Sec 4.3 </td>
+  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br>  PG Eqn. 4.1, Sec 4.3 <br><a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a></td>
   <td>
     Faster Rates with Hessian:
     <ul>
@@ -255,7 +255,7 @@ classes: wide
 <tr>
   <td>Sep 16</td>
   <td>Contextual Bandits (mini-RL): <br> - EXP4 <br> - SqrCB</td>
-  <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>(Realizability, Online Oracle) </td>
+  <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>  (Realizability, Online Oracle) </td>
   <td>
     Notable CB Algos:
     <ul>
@@ -270,10 +270,11 @@ classes: wide
 <tr>
   <td>Sep 18</td>
   <td>Paper presentation</td>
-  <td>Ratnesh: 
-<br><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a> 
-<br>Aresh: 
-<br><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a>
+  <td> 
+<ul style="list-style-type: circle;">
+  <li>Ratnesh:<br> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a></li>
+  <li>Aresh:<br> <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a></li>
+</ul>
 </td>
   <td></td>
   <td></td>
@@ -281,12 +282,13 @@ classes: wide
 </tr>
   <tr>
     <td>Sep 30</td>
-    <td>Dueling Bandits (contd)</td>
+    <td>Dueling Bandits </td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>Oct 2</td>
-    <td>Paper presentation</td>
+    <td>Demo/
+<br>Paper presentation</td>
     <td></td><td></td><td></td>
     <td>
       <ul>
@@ -298,7 +300,7 @@ classes: wide
   </tr>
   <tr>
     <td>Oct 7</td>
-    <td>Contextual Bandits: EXP4 (1 step RL)</td>
+    <td>Contextual Bandits w/ Prefs</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
@@ -308,17 +310,17 @@ classes: wide
   </tr>
   <tr>
     <td>Oct 14</td>
-    <td>Contextual MAB (contd)</td>
+    <td>Coralling: Meta Learning (contd)</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>Oct 16</td>
-    <td>Contextual - Dueling Bandits</td>
+    <td>Intro to RL</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>Oct 21</td>
-    <td>Intro to RL + MDP Basics</td>
+    <td>MDP Basics</td>
     <td></td><td></td><td></td><td></td>
   </tr>
   <tr>
