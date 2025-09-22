@@ -246,7 +246,7 @@ classes: wide
 <ul style="margin-top: 0;">
   <li>Gradient Trick to linearize 
    <br>convex losses: PG 3.1</li>
-</ul
+</ul>
   </td>
   <td>
 <p style="margin-bottom: 0;">Faster Rates with Hessian:</p>
@@ -311,7 +311,10 @@ classes: wide
   <tr>
     <td>Oct 7</td>
     <td>Contextual Bandits w/ Prefs</td>
-    <td></td><td></td><td></td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Oct 9</td>
@@ -397,7 +400,6 @@ classes: wide
     <td></td><td></td><td></td><td></td>
   </tr>
 </table>
-
   </div>
 
   <div id="Description" class="tabcontent">
