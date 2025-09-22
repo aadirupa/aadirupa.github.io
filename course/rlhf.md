@@ -237,7 +237,7 @@ classes: wide
 <tr>
   <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
   <td>Adversarial Setting <br> - FTRL for OLO <br> - OMD (full feedback) <br> - OMD (bandit feedback)</td>
-  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br>  PG Eqn. 4.1, Sec 4.3 <br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a></td>
+  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br> &nbsp;&nbsp;PG Eqn. 4.1, Sec 4.3 <br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a></td>
   <td>
     Faster Rates with Hessian:
     <ul>
@@ -260,7 +260,7 @@ classes: wide
 <tr>
   <td>Sep 16</td>
   <td>Contextual Bandits (mini-RL): <br> - EXP4 <br> - SqrCB</td>
-  <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>  (Realizability, Online Oracle) </td>
+  <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>&nbsp;&nbsp;(Realizability, Online Oracle) </td>
   <td>
     Notable CB Algos:
     <ul>
