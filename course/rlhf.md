@@ -207,62 +207,74 @@ classes: wide
     <td>Scribing Instructions <br> on Piazza! </td>
     <td></td>
   </tr>    
-  <tr>
-    <td>Sep 9</td>
-    <td>Linear Bandits</td>
-    <td>SL 19.1, 19.2, 20.1 <br>PG 6.1.2 </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Sep 11</td>
-    <td>Paper presentation</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>
-      <!--<ul>
-        <li>Heavy-tailed bandits</li>
-        <li>Bandits with side info</li>
-        <li>Bandits with budgets</li>
-      </ul>-->
-    </td>
-  </tr>
-  <tr>
-    <td>Sep 16</td>
-    <td>Online Mirror Descent (Adversarial Case)</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Sep 18</td>
-    <td>Dueling Bandits: Learning from Preferences</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Sep 23</td>
-    <td>Paper presentation</td>
-    <td></td><td></td><td></td>
-    <td>
-      <!--<ul>
-        <li>Beyond Linear Bandits: Kernel Bandits</li>
-        <li>Lipschitz bandits</li>
-        <li>Neural Bandits</li>
-      </ul>-->
-    </td>
-  </tr>
-  <tr>
-    <td>Sep 25</td>
-    <td>Paper presentation</td>
-    <td></td><td></td><td></td>
-    <td>
-      <ul>
-        <!--<li>MNL Bandits</li>
-        <li>Dynamic Bandits</li>
-        <li>Sleeping Bandits</li>-->
-      </ul>
-    </td>
-  </tr>
+<tr>
+  <td>Sep 9</td>
+  <td>Bandits on Cont. Decision Spaces <br>Lipschitz Bandits <br>Linear Bandits</td>
+  <td>SL 19.1, 19.2, 20.1 <br>PG 6.1.2</td>
+  <td>
+    <ul>
+      <li><a href="https://proceedings.neurips.cc/paper_files/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html">Original OFUL paper</a></li>
+    </ul>
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Sep 11</td>
+  <td>Linear Bandits (contd)</td>
+  <td>SL Lem. 19.4, Thm. 19.2 <br>PG Thm. 6.5</td>
+  <td>
+    Other LinB Algos:
+    <ul>
+      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: Improved Rates with Countable actions</li>
+      <li>Optimal Design Algorithms (SL 21.1,22)</li>
+      <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: Adversarial Setting</li>
+    </ul>
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
+  <td>Adversarial Setting <br>FTRL <br>OMD (full feedback) <br>OMD (bandit feedback)</td>
+  <td>FTRL: PG 2.2.2 <br>OMD: PG 2.2.3 <br>OMD+Bandit: PG Eqn. 4.1, Sec 4.3 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F41671833bfa17fca6d0610e4ebd49bb68e8665dcb15e4876e21493883b32a124%2FLec8-OMD.pdf">note8</a>] [<a href="https://uic.zoom.us/rec/share/nIO-A3xTP63sRSRDjze29o1MDOc-Nh1zy04mScU_oERXh-gE-h_RSpzJVlT4BrfJ.y7fEWxTAlR1lAgU4">video8</a>]</td>
+  <td>
+    Faster Rates with Hessian:
+    <ul>
+      <li>Online Newton Step (ONS): PG 3.2.1</li>
+      <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: Portfolio Management with ONS</li>
+    </ul>
+    Stochastic Mirror Descent
+    <ul>
+      <li><a href="http://sbubeck.com/COLT12_BCK.pdf">OSMD</a></li>
+    </ul>
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Sep 16</td>
+  <td>Contextual Bandits (mini-RL): <br>EXP4 <br>SqrCB</td>
+  <td>EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F86242a91f20765ed628a8f0305e97bb4f9587fb3fcc386bb7869aeeb43ba0669%2FLec4.pdf">note9</a>] [video9:<a href="https://uofi.app.box.com/file/1987906053522?s=y27ej5bki834apnc0ean5put0uw4d1rb&tc=collab-file-invite-treatment">1</a>,<a href="https://uic.zoom.us/rec/share/rZ5g_sn13UUkia4AGl-oy6dH2N4uaFoLDQkqC9M01m2rpfbSd2O4qigoSojht66E.K6EmfPc1auWuNPjA">2</a>]</td>
+  <td>
+    Notable CB Algos:
+    <ul>
+      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> (Finite Policy Class)</li>
+      <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> (Realizability, Online Oracle)</li>
+      <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> (Cont. Decision)</li>
+    </ul>
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Sep 18</td>
+  <td>Paper presentation</td>
+  <td>Ratnesh: <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a> <br>Aresh: <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
   <tr>
     <td>Sep 30</td>
     <td>Dueling Bandits (contd)</td>
