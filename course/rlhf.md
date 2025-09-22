@@ -226,9 +226,9 @@ classes: wide
   <td>
     Other LinB Algos:
     <ul>
-      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: Improved Rates with Countable actions</li>
-      <li>Optimal Design Algorithms (SL 21.1,22)</li>
-      <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: Adversarial Setting</li>
+      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: <br>Improved Rates with Countable actions</li>
+      <li>Optimal Design Algorithms: <br>SL 21.1,22</li>
+      <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: <br>Adversarial Setting</li>
     </ul>
   </td>
   <td></td>
