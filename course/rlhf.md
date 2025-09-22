@@ -237,18 +237,23 @@ classes: wide
 <tr>
   <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
   <td>Adversarial Setting <br> - FTRL for OLO <br> - OMD (full feedback) <br> - OMD (bandit feedback)</td>
-  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br> &nbsp;&nbsp;PG Eqn. 4.1, Sec 4.3 <br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a></td>
+  <td> - FTRL: PG 2.2.2 
+<br> - OMD: PG 2.2.3 
+<br> - OMD+Bandit: 
+<br> &nbsp;&nbsp;PG Eqn. 4.1, Sec 4.3 
+<br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a>
+<br> - OMD for Convex Losses:   
+    <ul>
+      <li>Gradient Trick to linearize 
+       <br>convex losses: PG 3.1</li>
+    </ul>
+  </td>
   <td>
     Faster Rates with Hessian:
     <ul>
       <li>Online Newton Step (ONS): <br>PG 3.2.1</li>
       <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: <br>Portfolio Management with ONS</li>
     </ul> 
-    OMD for Convex Losses:   
-    <ul>
-      <li>Gradient Trick to linearize 
-       <br>convex losses: PG 3.1</li>
-    </ul>
     Stochastic Mirror Descent:
     <ul>
       <li><a href="http://sbubeck.com/COLT12_BCK.pdf">OSMD</a></li>
