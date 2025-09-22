@@ -224,12 +224,12 @@ classes: wide
   <td>Linear Bandits (contd)</td>
   <td>SL Lem. 19.4, Thm. 19.2 <br>PG Thm. 6.5</td>
   <td>
-    Other LinB Algos:
-    <ul>
-      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: <br>Improved Rates with Countable actions</li>
-      <li>Optimal Design Algorithms: <br>SL 21.1,22</li>
-      <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: <br>Adversarial Setting</li>
-    </ul>
+    <p style="margin-bottom: 0;">Other LinB Algos:</p>
+<ul>
+  <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: <br>Improved Rates with Countable actions</li>
+  <li>Optimal Design Algorithms: <br>SL 21.1,22</li>
+  <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: <br>Adversarial Setting</li>
+</ul>
   </td>
   <td></td>
   <td></td>
@@ -242,22 +242,22 @@ classes: wide
 <br> - OMD+Bandit: 
 <br> &nbsp;&nbsp;PG Eqn. 4.1, Sec 4.3 
 <br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a>
-<br> - OMD for Convex Losses:   
-    <ul>
-      <li>Gradient Trick to linearize 
-       <br>convex losses: PG 3.1</li>
-    </ul>
+<br> <p style="margin-bottom: 0;"> - OMD for Convex Losses:</p>
+<ul style="margin-top: 0;">
+  <li>Gradient Trick to linearize 
+   <br>convex losses: PG 3.1</li>
+</ul
   </td>
   <td>
-    Faster Rates with Hessian:
-    <ul>
-      <li>Online Newton Step (ONS): <br>PG 3.2.1</li>
-      <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: <br>Portfolio Management with ONS</li>
-    </ul> 
-    Stochastic Mirror Descent:
-    <ul>
-      <li><a href="http://sbubeck.com/COLT12_BCK.pdf">OSMD</a></li>
-    </ul>
+<p style="margin-bottom: 0;">Faster Rates with Hessian:</p>
+<ul style="margin-top: 0;">
+  <li>Online Newton Step (ONS): <br>PG 3.2.1</li>
+  <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: <br>Portfolio Management with ONS</li>
+</ul> 
+<p style="margin-bottom: 0;">Stochastic Mirror Descent:</p>
+<ul style="margin-top: 0;">
+  <li><a href="http://sbubeck.com/COLT12_BCK.pdf">OSMD</a></li>
+</ul>
   </td>
   <td></td>
   <td></td>
@@ -267,12 +267,12 @@ classes: wide
   <td>Contextual Bandits (mini-RL): <br> - EXP4 <br> - SqrCB</td>
   <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>&nbsp;&nbsp;(Realizability, Online Oracle) </td>
   <td>
-    Notable CB Algos:
-    <ul>
-      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> <br>(Finite Policy Class)</li>
-      <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> <br>(Realizability, Online Oracle)</li>
-      <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> <br>(Cont. Decision)</li>
-    </ul>
+    <p style="margin-bottom: 0;">Notable CB Algos:</p>
+<ul style="margin-top: 0;">
+  <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> <br>(Finite Policy Class)</li>
+  <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> <br>(Realizability, Online Oracle)</li>
+  <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> <br>(Cont. Decision)</li>
+</ul>
   </td>
   <td></td>
   <td></td>
@@ -281,7 +281,7 @@ classes: wide
   <td>Sep 18</td>
   <td>Paper presentation</td>
   <td> 
-<ul style="list-style-type: circle;">
+<ul style="list-style-type: circle; padding-left: 15px;">
   <li>Ratnesh:<br> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a></li>
   <li>Aresh:<br> <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a></li>
 </ul>
