@@ -270,7 +270,11 @@ classes: wide
 <tr>
   <td>Sep 18</td>
   <td>Paper presentation</td>
-  <td>Ratnesh: <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a> <br>Aresh: <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a></td>
+  <td>Ratnesh: 
+<br><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a> 
+<br>Aresh: 
+<br><a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a>
+</td>
   <td></td>
   <td></td>
   <td></td>
