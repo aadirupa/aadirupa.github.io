@@ -236,13 +236,13 @@ classes: wide
 </tr>
 <tr>
   <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
-  <td>Adversarial Setting <br>FTRL <br>OMD (full feedback) <br>OMD (bandit feedback)</td>
-  <td>FTRL: PG 2.2.2 <br>OMD: PG 2.2.3 <br>OMD+Bandit: PG Eqn. 4.1, Sec 4.3 </td>
+  <td>Adversarial Setting <br> - FTRL <br> - OMD (full feedback) <br> - OMD (bandit feedback)</td>
+  <td> - FTRL: PG 2.2.2 <br> - OMD: PG 2.2.3 <br> - OMD+Bandit: <br>PG Eqn. 4.1, Sec 4.3 </td>
   <td>
     Faster Rates with Hessian:
     <ul>
-      <li>Online Newton Step (ONS): PG 3.2.1</li>
-      <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: Portfolio Management with ONS</li>
+      <li>Online Newton Step (ONS): <br>PG 3.2.1</li>
+      <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: <br>Portfolio Management with ONS</li>
     </ul>
     Stochastic Mirror Descent
     <ul>
@@ -254,14 +254,14 @@ classes: wide
 </tr>
 <tr>
   <td>Sep 16</td>
-  <td>Contextual Bandits (mini-RL): <br>EXP4 <br>SqrCB</td>
-  <td>EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) </td>
+  <td>Contextual Bandits (mini-RL): <br> - EXP4 <br> - SqrCB</td>
+  <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>(Realizability, Online Oracle) </td>
   <td>
     Notable CB Algos:
     <ul>
-      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> (Finite Policy Class)</li>
-      <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> (Realizability, Online Oracle)</li>
-      <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> (Cont. Decision)</li>
+      <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> <br>(Finite Policy Class)</li>
+      <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> <br>(Realizability, Online Oracle)</li>
+      <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> <br>(Cont. Decision)</li>
     </ul>
   </td>
   <td></td>
