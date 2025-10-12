@@ -1,1 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Navigation Workshop</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 40px 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .poster {
+            background: white;
+            max-width: 850px;
+            width: 100%;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+        }
+
+        .date-badge {
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid white;
+            display: inline-block;
+            padding: 12px 30px;
+            border-radius: 50px;
+            margin-top: 20px;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+
+        .content {
+            padding: 40px 30px;
+        }
+
+        .section {
+            margin-bottom: 35px;
+        }
+
+        .section h2 {
+            color: #667eea;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .section h2::before {
+            content: "▸";
+            margin-right: 10px;
+            color: #764ba2;
+        }
+
+        .topics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 12px;
+            margin-top: 15px;
+        }
+
+        .topic-item {
+            background: linear-gradient(135deg, #f0f4ff 0%, #f9fef4 100%);
+            border: 1.5px solid #e2e8f0;
+            padding: 12px 18px;
+            border-radius: 8px;
+            font-weight: 500;
+            text-align: center;
+            color: #2d3748;
+        }
+
+        .speaker {
+            background: #f7fafc;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 12px;
+            border-left: 4px solid #667eea;
+        }
+
+        .speaker h3 {
+            color: #2d3748;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+
+        .speaker p {
+            color: #4a5568;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+
+        .audience-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .tag {
+            background: #667eea;
+            color: white;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .disclaimer {
+            background: #fff5f5;
+            border: 2px solid #fc8181;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        .disclaimer h3 {
+            color: #c53030;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        .disclaimer h3::before {
+            content: "⚠️";
+            margin-right: 10px;
+        }
+
+        .disclaimer p {
+            color: #742a2a;
+            line-height: 1.6;
+        }
+
+        .register-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 5px 5px;
+            text-align: center;
+            margin-top: 10px;
+            border-radius: 10px;
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .register-section h2 {
+            color: white;
+            margin-bottom: 10px;
+        }
+
+        .register-section h2::before {
+            display: none;
+        }
+
+        .register-section p {
+            font-size: 1.2em;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="poster">
+        <div class="header">
+            <h1>Tech-Career Navigation Workshop</h1>
+            <p>Strategic Guidance for Your Professional Journey</p>
+            <div class="date-badge">📅 October XX, 11:00-14:00 | 2.5-Hour Intensive Workshop</div>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2>About the Workshop</h2>
+                <p>This intensive workshop provides comprehensive guidance on navigating career choices through educational sessions, different career choices, real-world case studies, interactive discussions, and expert panels. Gain clarity on your professional direction and develop a strategic approach to career decision-making.</p>
+            </div>
+
+             <div class="section">
+                <h2>Who Can Attend?</h2>
+                <p style="margin-bottom: 10px;"><strong>Primarily valuable for:</strong></p>
+                <div class="audience-tags">
+                    <span class="tag">Computer Science</span>
+                    <span class="tag">ECE</span>
+                    <span class="tag">Information Science/Technology</span>
+                    <span class="tag">Data Science</span>
+                </div>
+                <p style="margin: 15px 0 10px 0;"><strong>Could also be relevant for:</strong></p>
+                <div class="audience-tags">
+                    <span class="tag">Business/Finance</span>
+                    <span class="tag">Mathematics</span>  <!-- style="background: #9f7aea;" -->
+                    <span class="tag">Statistics</span>
+                </div>
+                <p style="margin-top: 15px; color: #4a5568; font-style: italic;">💡 Students from any discipline interested in tech careers are welcome!</p>
+            </div>
+
+            <div class="section">
+                <h2>Tentative Schedule</h2>
+                <div class="topics-grid">
+                    <div class="topic-item">Opening: Purpose & Expectations</div>
+                    <div class="topic-item">Different Career Options</div>
+                    <div class="topic-item">Real-Life Case Studies</div>
+                    <div class="topic-item">Interactive Break & AMA</div>
+                    <div class="topic-item">Expert Panel</div>
+                    <div class="topic-item">Take Away: Action Planning</div>
+                </div>
+            </div>
+
+            <div class="section">
+               <h2> Speakers</h2>
+            <div class="speaker">
+                <h3>Chekuri Srikanth Varma</h3>
+                <p>Entrepreneur | AI Scientist | Teacher</p>
+                <a href="https://www.linkedin.com/in/cskvarma/?originalSubdomain=in" target="_blank" style="color: #667eea; text-decoration: none; font-size: 0.9em; display: inline-block; margin-top: 5px; border-bottom: 1px solid #667eea;">🔗 linkedin.com/in/cskvarma</a>
+            </div>   
+
+            <div class="speaker">
+                <h3>Aadirupa Saha</h3>
+                <p>Faculty, UIC, Computer Science | Ex-Apple Research Scientist</p>
+                <a href="https://aadirupa.github.io/" target="_blank" style="color: #667eea; text-decoration: none; font-size: 0.9em; display: inline-block; margin-top: 5px; border-bottom: 1px solid #667eea;">🔗 aadirupa.github.io</a>
+            </div>
+            <p style="margin-top: 12px; color: #718096; font-style: italic;">Additional speakers and panelists will be invited based on interest and availability.</p>
+            </div>
+
+
+            <div class="disclaimer">
+                <h3>Important</h3>
+                <p style="text-align: justify;">This workshop is designed for honest, educational discussions about career paths and what to expect in different roles. <strong>This is NOT a job placement service</strong> and we cannot solicit job offers or placement networking. Our goal is to help you make informed career decisions through guidance and discussion.</p>
+            </div>
+
+            <div class="register-section">
+                <div style="flex: 1;">
+                    <h2>Register Now - FREE!</h2>
+                    <p>Complete the registration form to secure your spot</p>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVpc_p_b0IoRrB5gLY_63jWmn7AWlQYhWD4SGDCbw_F87enw/viewform" target="_blank" style="display: inline-block; background: white; color: #667eea; padding: 12px 30px; border-radius: 50px; font-weight: 600; text-decoration: none; margin-top: 15px; transition: transform 0.2s;">📝 Click Here to Register</a>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                    <img src="/Users/aadirupa/Downloads/qr.png" alt="Registration QR Code" style="width: 150px; height: 150px; background: white; padding: 0px; border-radius: 0px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
