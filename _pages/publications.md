@@ -114,12 +114,16 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<li>  <b>Confidence Calibration for Trustworthy LLM-as-a-Judge</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<li>  <b>LLM-as-a-Judge on a Budget</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
 <br>  Aadirupa Saha, Branislav Kveton
 </li>
 
-<li>  <b>Source Adaptive Online Learning under Heteroscedastic Noise</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<li>  <b>Adaptive Bandits under Varying Source Quality</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
 <br>  Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo
+</li>
+
+<li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Aadirupa Saha, Robert Schapire
 </li>
 
 <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
@@ -138,11 +142,7 @@ a:active {
   <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
  </li>
 
-<!--
-<li>  <b>Position-Sensitive Recommendation: Ordered Weighted Combinatorial Bandits.</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
-<br> Thomas Kleine Buening, Aadirupa Saha, Viktor Bengs
- </li>
-
+<!-- 
 <li>  <b>Optimal Rates for DCO</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming soon!]</a>
 <br> Vitaly Feldman, Aadirupa Saha
 </li>
@@ -168,6 +168,16 @@ a:active {
 <li> <b>Imitation Beyond Expectation Using Pluralistic Stochastic Dominance</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Ali Farajzadeh, Danyal Saeed, Syed M Abbas, Rushit N. Shah, Aadirupa Saha, Brian D Ziebart
 <br>  In Neural Information Processing Systems, NeurIPS 2025 <span style="color:Red;"><b> (*Spotlight*)</b></span>
+</li>
+
+<li>  <b>Source Adaptive Online Learning under Heteroscedastic Noise</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Amith Bhat, Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo
+<br>  In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2025       
+</li>
+
+<li>  <b>PAW-CMAB: Position-Aware Combinatorial-MAB.</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br> Aniket Wadge, Aadirupa Saha
+<br>  In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2025       
 </li>
 
 <li> <b>HPO: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration</b>  <a href="https://arxiv.org/abs/2412.10616" target="_blank" LINK="red"> [Arxiv version] </a> <a href="https://openreview.net/pdf?id=YBBXsVta2x" target="_blank" LINK="red"> [Workshop version]</a>
