@@ -44,7 +44,7 @@ a:active {
   </li>
 </ul> 
 
-<h2 style="color:SteelBlue;" vspace="-4px;">Workshops:</h2>
+<h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
 
@@ -89,6 +89,17 @@ a:active {
   <!-- <br> <b><font color="#800080">Submit your posters! Call for Open Problems!</font></b> -->
   </li>    
 </ul>  
+
+<h2 style="color:SteelBlue;" vspace="-2px;">Academic Visits:</h2>
+  
+<ul style="margin:1;padding:1">
+  <li> 
+   <font color="#008080">Visiting Scientist:</font> <a href="https://simons.berkeley.edu/programs/federated-collaborative-learning" target="_blank" LINK="red"> Simons Institute Federated and Collaborative Learning Workshop</a>, UC Berkeley, Jan 12 – May 8, 2026
+  </li>
+  <li> 
+   <font color="#008080">Research Fellow:</font> <a href="https://seas.harvard.edu/" target="_blank" LINK="red"> SEAS</a>, Harvard University with <a href="https://www.eecs.harvard.edu/~parkes/" target="_blank" LINK="red"> David Parkes</a>; Harvard, Sep 1 - Dec 15, 2015
+  </li>
+</ul> 
 
 <h2 style="color:SteelBlue;" vspace="0px;">Summer School:</h2>  
 <ul style="margin:1;padding:1">
