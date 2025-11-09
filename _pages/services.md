@@ -42,10 +42,15 @@ a:active {
  <li> 
    <font color="#008080">Communication Chair:</font> <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red"> Reinforcement Learning Conference</a> (RLC), Montréal, QC, Canada, Aug 16-19, 2026
   </li>
-</ul>  
-<h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
+</ul> 
+
+<h2 style="color:SteelBlue;" vspace="-4px;">Workshops:</h2>
   
 <ul style="margin:1;padding:1">
+
+<li> <font color="#008080">(Upcoming) <a href="https://www.ideal-institute.org/special-programs/" target="_blank" LINK="red">IDEAL Special Program</a> Workshop, June, 2026. Chicago, USA</font>
+  <br> AI for Education.  <a href="https://sites.google.com/view/mhf-icml2024" target="_blank" LINK="red"> [Website] </a> (TBA)
+  </li>
 
  <li> <font color="#008080">ICML Workshop, July, 2024. Vienna, Austria</font>
   <br> Models of Human Feedback for AI Alignment.  <a href="https://sites.google.com/view/mhf-icml2024" target="_blank" LINK="red"> [ICML24 Workshop] </a>
