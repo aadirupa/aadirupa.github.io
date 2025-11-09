@@ -5,6 +5,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Group"
+    url: /group/
+
   - title: "Talks"
     url: /talks/
 
@@ -16,3 +19,4 @@ main:
 
   - title: "News!"
     url: /news/
+
