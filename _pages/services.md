@@ -35,6 +35,17 @@ a:active {
 </head>  
  
 <body>  
+
+<h2 style="color:SteelBlue;" vspace="-2px;">Conference:</h2>
+  
+<ul style="margin:1;padding:1">
+
+ <li> 
+   <font color="#008080">Communication Chair:</font> <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red"> Reinforcement Learning Conference</a> (RLC), Montréal, QC, Canada, Aug 16-19, 2026
+  </li>
+
+</ul>  
+
   
 <h2 style="color:SteelBlue;" vspace="-2px;">Workshops:</h2>
   
