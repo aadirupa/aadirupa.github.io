@@ -122,7 +122,7 @@ classes: wide
   </div>
   </div>
 
-<h3> ---------- Ongoing course: Website is still under develpoment ---------- </h3>
+<h3> ---------- Ongoing course: Website is still under development ---------- </h3>
   
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
