@@ -148,17 +148,17 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Symposium on Discrete Algorithms (SODA): <font color="#008080"> 2024 </font></li>
-  <li>International Conference on Machine Learning (ICML): <font color="#008080">2019-2023</font></li>
-  <li>International Conference on Learning Representations (ICLR): <font color="#008080">2020-2023</font></li>
-  <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2020-2022, 2024</font></li>
-  <li>International Conference on Artificial Intelligence and Statistics (AISTATS): <font color="#008080">2019, 2023</font></li>
-  <li>Conference on Learning Theory (COLT): <font color="#008080">2020-2022</font></li>
-  <li>Algorithmic Learning Theory (ALT): <font color="#008080">2021 </font></li>
-  <li>Association for the Advancement of Artificial Intelligence (AAAI): <font color="#008080">2020-2022</font></li>
-  <li>International Joint Conference on Artificial Intelligence (IJCAI): <font color="#008080">2020-2021</font></li>
-  <li>ACM India Joint International Conference on Data Science & Management of Data (CODS-COMAD): <font color="#008080">2018-2019</font></li>
-</ul>   
+  <li><a href="https://www.siam.org/conferences/cm/conference/soda24">Symposium on Discrete Algorithms (SODA)</a>: <font color="#008080"> 2024 </font></li>
+  <li><a href="https://icml.cc/">International Conference on Machine Learning (ICML)</a>: <font color="#008080">2019-2023</font></li>
+  <li><a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a>: <font color="#008080">2020-2023</font></li>
+  <li><a href="https://neurips.cc/">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2020-2022, 2024</font></li>
+  <li><a href="https://aistats.org/">International Conference on Artificial Intelligence and Statistics (AISTATS)</a>: <font color="#008080">2019, 2023</font></li>
+  <li><a href="https://learningtheory.org/">Conference on Learning Theory (COLT)</a>: <font color="#008080">2020-2022</font></li>
+  <li><a href="http://algorithmiclearningtheory.org/">Algorithmic Learning Theory (ALT)</a>: <font color="#008080">2021 </font></li>
+  <li><a href="https://aaai.org/">Association for the Advancement of Artificial Intelligence (AAAI)</a>: <font color="#008080">2020-2022</font></li>
+  <li><a href="https://www.ijcai.org/">International Joint Conference on Artificial Intelligence (IJCAI)</a>: <font color="#008080">2020-2021</font></li>
+  <li><a href="http://cods-comad.in/">ACM India Joint International Conference on Data Science & Management of Data (CODS-COMAD)</a>: <font color="#008080">2018-2019</font></li>
+</ul>
  
   
 </body>
