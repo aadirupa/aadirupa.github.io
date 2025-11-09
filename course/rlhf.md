@@ -155,7 +155,7 @@ classes: wide
     <tr>
       <td>Aug 28</td>
       <td>Basics of Stochastic MAB <br>ETC Algorithm</td>
-      <td>SL 4.1-4.4, 6.1 <br>PG 5.1, 5.2 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fda5ca97e33fd34ae53cc3d4ec4cf9c1cd62abfb7f98d6b849716166b98f1a32e%2FLec1.pdf">note2</a>] <br>[<a href="https://uic.zoom.us/rec/share/HKZDHjGDcgJzag0Ppp-ZMtGF9V35dCEkIh31sKNRNA3A1enzflfbm-tVctA-G43G.j858UHb3C16yL7bm">video2</a>]</td>
+      <td>SL 4.1-4.4, 6.1 <br>PG 5.1, 5.2 <br>[<a href="-">note2</a>] </td>
       <td>
         <ul>
           <li><a href="https://ilyasergey.net/YSC2229/week-02b_notation.html">Order Notations</a></li>
@@ -194,7 +194,8 @@ classes: wide
     <tr>
       <td>Sep 6<br><strong>[Extra Class]</strong></td>
       <td>UCB Algorithm <br>Analysis of UCB-Regret <br>Optimality</td>
-      <td>SL 7.1 <br>PG 5.3 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F86242a91f20765ed628a8f0305e97bb4f9587fb3fcc386bb7869aeeb43ba0669%2FLec4.pdf">note5</a>] <br>[<a href="https://uic.zoom.us/rec/share/nIO-A3xTP63sRSRDjze29o1MDOc-Nh1zy04mScU_oERXh-gE-h_RSpzJVlT4BrfJ.y7fEWxTAlR1lAgU4">video5</a>]</td>
+      <td>SL 7.1 <br>PG 5.3 <br>[<a href="-">note5</a>]
+      </td>
       <td>
         <ul>
           <li><a href="https://www.stat.cmu.edu/~arinaldo/Teaching/36709/S19/Scribed_Lectures/Feb5_Aleksandr.pdf">SubExp RVs and Concentrations</a></li>
@@ -234,7 +235,7 @@ classes: wide
     <tr>
       <td>Sep 13<br><strong>[Extra Class]</strong></td>
       <td>Adversarial Setting <br>- FTRL <br>- OMD (full feedback) <br>- OMD (bandit feedback)</td>
-      <td>- FTRL: PG 2.2.2 <br>- OMD: PG 2.2.3 <br>- OMD+Bandit: PG Eqn. 4.1, Sec 4.3 <br>- <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC Notes</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F41671833bfa17fca6d0610e4ebd49bb68e8665dcb15e4876e21493883b32a124%2FLec8-OMD.pdf">note8</a>] <br>[<a href="https://uic.zoom.us/rec/share/4By1joewLDzyjAZm6hqiXWcx0-3qooX5kjSxTIg4GbjirJL6I_KBfnnQe6N1eZGT.qEWOA7O456TkTqs0">video8</a>]</td>
+      <td>- FTRL: PG 2.2.2 <br>- OMD: PG 2.2.3 <br>- OMD+Bandit: PG Eqn. 4.1, Sec 4.3 <br>- <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC Notes</a> <br>[<a href="-">note8</a>]</td>
       <td>
         Faster Rates with Hessian:
         <ul>
@@ -252,7 +253,7 @@ classes: wide
     <tr>
       <td>Sep 16 <br><strong>[Extended]</strong></td>
       <td>Contextual Bandits (mini-RL): <br>- EXP4 <br>- SqrCB</td>
-      <td>- EXP4: PG 4.2.1 <br>- <a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fe294ba95214a9e6745106d35ae817afab96f9ae978de29a6e6822d8da738256d%2FLec9-CDB.pdf">note9</a>] <br>[video9:<a href="https://uofi.app.box.com/file/1987906053522?s=y27ej5bki834apnc0ean5put0uw4d1rb&tc=collab-file-invite-treatment">1</a>, <a href="https://uic.zoom.us/rec/share/rZ5g_sn13UUkia4AGl-oy6dH2N4uaFoLDQkqC9M01m2rpfbSd2O4qigoSojht66E.K6EmfPc1auWuNPjA">2</a>]</td>
+      <td>- EXP4: PG 4.2.1 <br>- <a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) <br>[<a href="-">note9</a>]</td>
       <td>
         Notable CB Algos:
         <ul>
@@ -279,7 +280,7 @@ classes: wide
     <tr>
       <td>Sep 30</td>
       <td>Dueling Bandits: <br>Learning from Preferences</td>
-      <td><a href="https://arxiv.org/abs/1807.11398">- DB Survey</a> <br><a href="https://proceedings.mlr.press/v32/zoghi14.html">- RUCB</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fb5a29ed9978640206efd8693553c4e68376620d1bc2d1e721e51692ba245d8ca%2FLec10-DB.pdf">note10</a>] <br>[<a href="https://uic.zoom.us/rec/share/nzzkOk_uJ2ZzHY_sS8jdx7Y66kAv_v6dsSmpIuvQTZWqx233LHUKwXx1qV4oNRE-.LdzI8lb7KAODiHQ8?startTime=1759259116000">video10</a>]</td>
+      <td><a href="https://arxiv.org/abs/1807.11398">- DB Survey</a> <br><a href="https://proceedings.mlr.press/v32/zoghi14.html">- RUCB</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fb5a29ed9978640206efd8693553c4e68376620d1bc2d1e721e51692ba245d8ca%2FLec10-DB.pdf">note10</a>]</td>
       <td></td>
       <td></td>
     </tr>
@@ -300,7 +301,7 @@ classes: wide
     <tr>
       <td>Oct 7 <br><strong>[Extended]</strong></td>
       <td>RUCB: DB Regret against CW</td>
-      <td>- <a href="https://arxiv.org/pdf/1312.3393">RUCB (ArXiv)</a> <br>- <a href="https://proceedings.mlr.press/v32/zoghi14.html">RUCB (ICML)</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F66bf5fb34ad6dd6f4ee61002b241e6c48e47056511b1f0f92336644db598ad6a%2FLec11-RUCB.pdf">note11</a>] <br>[<a href="https://uic.zoom.us/rec/share/Q0I-HCuJen5HgMWr7yjQsH8ygajST3PvZaEvnxdrF12uKtrvVqybJq0gSSvP2Fl2.moZXIgd4PQiDzvQ5?startTime=1759863742000">video11</a>]</td>
+      <td>- <a href="https://arxiv.org/pdf/1312.3393">RUCB (ArXiv)</a> <br>- <a href="https://proceedings.mlr.press/v32/zoghi14.html">RUCB (ICML)</a> <br>[<a href="-">note11</a>]</td>
       <td>
         Optimal Regret against CW:
         <ul>
@@ -330,7 +331,7 @@ classes: wide
     <tr>
       <td>Oct 14<br><strong>[Extended]</strong></td>
       <td>Contextual DB</td>
-      <td>- <a href="https://arxiv.org/abs/2111.12306">CDB Analysis</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F390e249d2c2ea3329ee22a8027decfc232d50690468b45f58177147d0c61e961%2Fnote12.pdf">note12</a>] <br>[<a href="https://uic.zoom.us/rec/share/hKpCC-9FFeatyejXmLH4F67Q4BbLGCjTCU8Ocdqic392KgJmV314zvgwOELS3JA.amGTkDJKmwsVqXvK">video12</a>]</td>
+      <td>- <a href="https://arxiv.org/abs/2111.12306">CDB Analysis</a> <br>[<a href="-">note12</a>]</td>
       <td>
         More CDB Works:
         <ul>
@@ -359,7 +360,7 @@ classes: wide
     <tr>
       <td>Oct 18 <br><strong>[Extra Class]</strong></td>
       <td>Complex-CB</td>
-      <td>- <a href="https://arxiv.org/abs/2107.05745">CB in Cont Space</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F44519c7ae747ef5d6179dc3d953ef951b973a4b26eb5663ca6cb62b323a45809%2FLec13-ContCB.pdf">note13</a>] <br>[<a href="https://uic.zoom.us/rec/share/ahnXCFREH22LjgPifN2-zATvorP9xkVyBZtq90Oz8QPbXoCvcVbq9wYUeDQxQlwj.VSEGlXMrblaRCBLW">video13</a>]</td>
+      <td>- <a href="https://arxiv.org/abs/2107.05745">CB in Cont Space</a> <br>[<a href="-">note13</a>]</td>
       <td></td>
       <td></td>
     </tr>
@@ -367,7 +368,7 @@ classes: wide
     <tr>
       <td>Oct 21</td>
       <td>MDP Basics: Intro to RL</td>
-      <td>- RLM 1.1, 1.2 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Ff810626b7b727381fd8a679f0e7db4c7582abdfd8de5102fbe563d0275fb4b43%2FLec14-RLIntro.pdf">note14</a>] <br>[<a href="https://uic.zoom.us/rec/share/SvuPcc4FL81KjG3370MLw2lD9eIEHk21bwato5Lc72NrrceD_QTVzeF_I8Zt1unX.d3LlgrSqW1l8xzch">video14</a>]</td>
+      <td>- RLM 1.1, 1.2 <br>[<a href="-">note14</a>]</td>
       <td></td>
       <td></td>
     </tr>
@@ -388,7 +389,7 @@ classes: wide
     <tr>
       <td>Oct 28 <br><strong>[Extended]</strong></td>
       <td>Tabular MDP <br>- Fin/Inf H <br>- Value-It <br>- Policy-It <br>- Sample Complexity</td>
-      <td>- RLM 1.1, 1.2, 1.3 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F77b1cef40e120a5c26ce084aa33a45d158ef45d934424e6f716c88d9e5db5de2%2FLec15-VI-PI.pdf">note15</a>] <br>[<a href="https://uic.zoom.us/rec/share/X1hwH7zPIrvY9ojwF1-tpH5LG3X4IW-fD4GghwW9BfqHqBHi7ulufaBpKO6Dx8C-.ZVqT3EopCvwHAuBq">video15</a>]</td>
+      <td>- RLM 1.1, 1.2, 1.3 <br>[<a href="-">note15</a>]</td>
       <td>
         <ul>
           <li><a href="https://arxiv.org/pdf/1703.05449">UCB-VI</a>: Unknown Dynamics, Tabular</li>
@@ -406,7 +407,7 @@ classes: wide
     <tr>
       <td>Nov 4 <br><strong>[Extended]</strong></td>
       <td>Policy Gradient</td>
-      <td>- RLM 11.1, 12.2, 12.4 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F8bb6058c3c2f64fd3d7d75adab992f5ee685cf874d3c3ca00f22398a48c11d96%2FLec16-PG.pdf">note16</a>] <br>[<a href="https://uic.zoom.us/rec/share/gyveCfho5yXyw1s_CoAXrRr0zePmnS6epFttD_MIodr2NA6TrqVD78d_OYWLv3gz.JHtjZ0miSXSNdFnP">video16</a>]</td>
+      <td>- RLM 11.1, 12.2, 12.4 <br>[<a href="-">note16</a>]</td>
       <td></td>
       <td></td>
     </tr>
