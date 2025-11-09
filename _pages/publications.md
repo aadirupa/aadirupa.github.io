@@ -67,7 +67,7 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
-<br> <br>
+<!-- <br> <br>
 
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Collaborators.</font> </span></summary>
@@ -108,7 +108,7 @@ a:active {
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p>
 </span>
-</details>
+</details> -->
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
