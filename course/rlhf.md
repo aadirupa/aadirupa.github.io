@@ -122,7 +122,7 @@ classes: wide
   </div>
   </div>
 
-<h3> ---------- This website is under construction ---------- </h3>
+<h3> ---------- Ongoing course: Website is still under develpoment ---------- </h3>
   
   <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Schedule')">Schedule</button>
@@ -134,271 +134,354 @@ classes: wide
   </div>
 
   <div id="Schedule" class="tabcontent">
-    <h2>📅 Course Schedule (NOT FINALIZED)</h2>
+    <h2>📅 Course Schedule </h2>
     <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th>Date</th>
-    <th>Topic</th>
-    <th>Materials</th>
-    <th>Extra</th>
-    <th>Announcements</th>
-    <th>Top-3 Papers</th>
-  </tr>
-  <tr>
-    <td>Aug 26</td>
-    <td>Introduction <br>Basics of AI-Alignment</td>
-    <td><a href="https://arxiv.org/pdf/2310.19852">AI-Alignment Survey</a> <br>[Chap 1.1, 2.1] </td>
-    <td></td>
-    <td>Piazza up!</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Aug 28</td>
-    <td>Basics of Stochastic MAB <br>ETC Algorithm </td>
-    <td>SL 4.1-4.4, 6.1 <br>PG 5.1, 5.2 </td>
-    <td>
-      <ul>
-        <li><a href="https://ilyasergey.net/YSC2229/week-02b_notation.html">Order Notations</a></li>
-        <li>Basic Distributions:
-          <a href="http://users.stat.umn.edu/~helwig/notes/ProbabilityDistributions.pdf"> [1], </a>
-          <a href="https://www.colorado.edu/amath/sites/default/files/attached-files/ch3_0.pdf">[2]</a>
-        </li>
-      </ul> 
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Sep 2</td>
-    <td>ETC Analysis <br>Basic Concentration Inequalities </td>
-    <td>SL 4.5, 5.1-5.3, 6.1 <br>PG 5.2 </td>
-    <td>
-      <ul>
-        <li><a href="https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter1/">SubGaussianity</a></li>
-        <li><a href="https://cs229.stanford.edu/extra-notes/hoeffding.pdf">Hoeffding's Inequality</a></li> 
-      </ul>
-    </td>
-    <td>Instructions for Weekly <br> Posts on Piazza!</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Sep 4</td>
-    <td>SubGaussianity, Hoeffding's Inequality <br>ETC Analysis (contd) </td>
-    <td>SL 5.2, 5.3, 6.1 <br>PG 5.2 </td>
-    <td>
-      <ul>
-        <li>Eps-Greedy: PG 5.4</li>
-        <li><a href="https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf?utm_source=chatgpt.com">Thompson Sampling</a></li>
-      </ul>
-    </td>
-    <td>Sign-up Sheet <br> up on Piazza! <br> <b>Deadline: Sept 11th</b> </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Sep 6 <br><p style="color:red;">[Extra Class]</p> </td>
-    <td>UCB Algorithm <br> Analysis of UCB-Regret Optimality </td>
-    <td>SL 7.1 <br>PG 5.3 </td>
-    <td>
-      <ul>
-        <li><a href="https://www.stat.cmu.edu/~arinaldo/Teaching/36709/S19/Scribed_Lectures/Feb5_Aleksandr.pdf">SubExp RVs and Concentrations</a></li>
-        <li><a href="https://www.hse.ru/data/2016/11/24/1113029206/Concentration%20inequalities.pdf">Book: Concentration Inequalities</a></li>
-      </ul>
-    </td>
-    <td>Scribing Instructions <br> on Piazza! </td>
-    <td></td>
-  </tr>    
-<tr>
-  <td>Sep 9</td>
-  <td>Bandits on Cont. Decision Spaces <br>Lipschitz Bandits <br>Linear Bandits</td>
-  <td>SL 19.1, 19.2, 20.1 <br>PG 6.1.2</td>
-  <td>
-    <ul>
-      <li><a href="https://proceedings.neurips.cc/paper_files/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html">Original OFUL paper</a></li>
-    </ul>
-  </td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Sep 11</td>
-  <td>Linear Bandits (contd)</td>
-  <td>SL Lem. 19.4, Thm. 19.2 <br>PG Thm. 6.5</td>
-  <td>
-    <p style="margin-bottom: 0;">Other LinB Algos:</p>
-<ul>
-  <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: <br>Improved Rates with Countable actions</li>
-  <li>Optimal Design Algorithms: <br>SL 21.1,22</li>
-  <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: <br>Adversarial Setting</li>
-</ul>
-  </td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Sep 13 <br><p style="color:red;">[Extra Class]</p></td>
-  <td>Adversarial Setting <br> - FTRL for OLO <br> - OMD (full feedback) <br> - OMD (bandit feedback)</td>
-  <td> - FTRL: PG 2.2.2 
-<br> - OMD: PG 2.2.3 
-<br> - OMD+Bandit: 
-<br> &nbsp;&nbsp;PG Eqn. 4.1, Sec 4.3 
-<br> - <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC-notes</a>
-<br> <p style="margin-bottom: 0;"> - OMD for Convex Losses:</p>
-<ul style="margin-top: 0;">
-  <li>Gradient Trick to linearize 
-   <br>convex losses: PG 3.1</li>
-</ul>
-  </td>
-  <td>
-<p style="margin-bottom: 0;">Faster Rates with Hessian:</p>
-<ul style="margin-top: 0;">
-  <li>Online Newton Step (ONS): <br>PG 3.2.1</li>
-  <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: <br>Portfolio Management with ONS</li>
-</ul> 
-<p style="margin-bottom: 0;">Stochastic Mirror Descent:</p>
-<ul style="margin-top: 0;">
-  <li><a href="http://sbubeck.com/COLT12_BCK.pdf">OSMD</a></li>
-</ul>
-  </td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Sep 16</td>
-  <td>Contextual Bandits (mini-RL): <br> - EXP4 <br> - SqrCB</td>
-  <td> - EXP4: PG 4.2.1 <br><a href="https://arxiv.org/pdf/2002.04926"> - SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> <br>&nbsp;&nbsp;(Realizability, Online Oracle) </td>
-  <td>
-    <p style="margin-bottom: 0;">Notable CB Algos:</p>
-<ul style="margin-top: 0;">
-  <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> <br>(Finite Policy Class)</li>
-  <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> <br>(Realizability, Online Oracle)</li>
-  <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> <br>(Cont. Decision)</li>
-</ul>
-  </td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Sep 18</td>
-  <td>Paper presentation</td>
-  <td> 
-<ul style="list-style-type: circle; padding-left: 15px;">
-  <li>Ratnesh:<br> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a></li>
-  <li>Aresh:<br> <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a></li>
-</ul>
-</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-  <tr>
-    <td>Sep 30</td>
-    <td>Dueling Bandits </td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 2</td>
-    <td>Demo/
-<br>Paper presentation</td>
-    <td></td><td></td><td></td>
-    <td>
-      <ul>
-        <!--<li>Robust DB</li>
-        <li>Fair DB</li>
-        <li>DB with correlated preferences</li>-->
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Oct 7</td>
-    <td>Contextual Bandits w/ Prefs</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Oct 9</td>
-    <td>Paper presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 14</td>
-    <td>Coralling: Meta Learning (contd)</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 16</td>
-    <td>Intro to RL</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 21</td>
-    <td>MDP Basics</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 23</td>
-    <td>Tabular MDP-UCB-VI</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 28</td>
-    <td>Paper presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Oct 30</td>
-    <td colspan="5" style="text-align:center;">—-- Happy Halloween! —--</td>
-  </tr>
-  <tr>
-    <td>Nov 4</td>
-    <td>Linear function approximation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 6</td>
-    <td>PG Methods</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 11</td>
-    <td>PPO + TRPO</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 13</td>
-    <td>Paper presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 18</td>
-    <td>Imitation Learning</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 20</td>
-    <td>Paper presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 25</td>
-    <td>Project Presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Nov 27</td>
-    <td colspan="5" style="text-align:center;">—-- Thanksgiving Break! —--</td>
-  </tr>
-  <tr>
-    <td>Dec 2</td>
-    <td>Project Presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td>Dec 4</td>
-    <td>Project Presentation</td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+      <th>Extra</th>
+      <th>Announcements</th>
+    </tr>
+    
+    <tr>
+      <td>Aug 26</td>
+      <td>Introduction <br>Basics of AI-Alignment</td>
+      <td><a href="https://arxiv.org/pdf/2310.19852">AI-Alignment Survey</a> [Chap 1.1, 2.1]</td>
+      <td></td>
+      <td>Piazza up!</td>
+    </tr>
+    
+    <tr>
+      <td>Aug 28</td>
+      <td>Basics of Stochastic MAB <br>ETC Algorithm</td>
+      <td>SL 4.1-4.4, 6.1 <br>PG 5.1, 5.2 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fda5ca97e33fd34ae53cc3d4ec4cf9c1cd62abfb7f98d6b849716166b98f1a32e%2FLec1.pdf">note2</a>] <br>[<a href="https://uic.zoom.us/rec/share/HKZDHjGDcgJzag0Ppp-ZMtGF9V35dCEkIh31sKNRNA3A1enzflfbm-tVctA-G43G.j858UHb3C16yL7bm">video2</a>]</td>
+      <td>
+        <ul>
+          <li><a href="https://ilyasergey.net/YSC2229/week-02b_notation.html">Order Notations</a></li>
+          <li>Basic Distributions: <a href="http://users.stat.umn.edu/~helwig/notes/ProbabilityDistributions.pdf">[1]</a>, <a href="https://www.colorado.edu/amath/sites/default/files/attached-files/ch3_0.pdf">[2]</a></li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Sep 2</td>
+      <td>ETC Analysis <br>Basic Concentration Inequalities</td>
+      <td>SL 4.5, 5.1-5.3, 6.1 <br>PG 5.2</td>
+      <td>
+        <ul>
+          <li><a href="https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter1/">SubGaussianity</a></li>
+          <li><a href="https://cs229.stanford.edu/extra-notes/hoeffding.pdf">Hoeffding's Inequality</a></li>
+        </ul>
+      </td>
+      <td>Instructions for Weekly Posts on Piazza!</td>
+    </tr>
+    
+    <tr>
+      <td>Sep 4</td>
+      <td>SubGaussianity, Hoeffding's Inequality <br>ETC Analysis (contd)</td>
+      <td>SL 5.2, 5.3, 6.1 <br>PG 5.2</td>
+      <td>
+        <ul>
+          <li>Eps-Greedy: PG 5.4</li>
+          <li><a href="https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf?utm_source=chatgpt.com">Thompson Sampling</a></li>
+        </ul>
+      </td>
+      <td>Sign-up Sheet up on Piazza! <br><strong>Deadline: Sept 11th</strong></td>
+    </tr>
+    
+    <tr>
+      <td>Sep 6<br><strong>[Extra Class]</strong></td>
+      <td>UCB Algorithm <br>Analysis of UCB-Regret <br>Optimality</td>
+      <td>SL 7.1 <br>PG 5.3 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F86242a91f20765ed628a8f0305e97bb4f9587fb3fcc386bb7869aeeb43ba0669%2FLec4.pdf">note5</a>] <br>[<a href="https://uic.zoom.us/rec/share/nIO-A3xTP63sRSRDjze29o1MDOc-Nh1zy04mScU_oERXh-gE-h_RSpzJVlT4BrfJ.y7fEWxTAlR1lAgU4">video5</a>]</td>
+      <td>
+        <ul>
+          <li><a href="https://www.stat.cmu.edu/~arinaldo/Teaching/36709/S19/Scribed_Lectures/Feb5_Aleksandr.pdf">SubExp RVs and Concentrations</a></li>
+          <li><a href="https://www.hse.ru/data/2016/11/24/1113029206/Concentration%20inequalities.pdf">Book: Concentration Inequalities</a></li>
+        </ul>
+      </td>
+      <td>Scribing Instructions on Piazza!</td>
+    </tr>
+    
+    <tr>
+      <td>Sep 9</td>
+      <td>Bandits on Cont. Decision Spaces <br>- Lipschitz Bandits <br>- Linear Bandits</td>
+      <td>SL 19.1, 19.2, 20.1 <br>PG 6.1.2</td>
+      <td>
+        <ul>
+          <li><a href="https://proceedings.neurips.cc/paper_files/paper/2011/hash/e1d5be1c7f2f456670de3d53c7b54f4a-Abstract.html">Original OFUL paper</a></li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Sep 11</td>
+      <td>Linear Bandits (contd)</td>
+      <td>SL Lem. 19.4, Thm. 19.2 <br>PG Thm. 6.5</td>
+      <td>
+        Other LinB Algos:
+        <ul>
+          <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">SupLinUCB</a>: Improved Rates with Countable actions</li>
+          <li>Optimal Design Algorithms (SL 21.1,22)</li>
+          <li><a href="https://www.cs.ubc.ca/~hutter/nips2011workshop/papers_and_posters/nips11_Optimal_Algo_Linear_Bandits.pdf">GeometricHedge</a>: Adversarial Setting</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Sep 13<br><strong>[Extra Class]</strong></td>
+      <td>Adversarial Setting <br>- FTRL <br>- OMD (full feedback) <br>- OMD (bandit feedback)</td>
+      <td>- FTRL: PG 2.2.2 <br>- OMD: PG 2.2.3 <br>- OMD+Bandit: PG Eqn. 4.1, Sec 4.3 <br>- <a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp24/Lecture_25_online_convex_optimization_mirror_descent.pdf">YC Notes</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F41671833bfa17fca6d0610e4ebd49bb68e8665dcb15e4876e21493883b32a124%2FLec8-OMD.pdf">note8</a>] <br>[<a href="https://uic.zoom.us/rec/share/4By1joewLDzyjAZm6hqiXWcx0-3qooX5kjSxTIg4GbjirJL6I_KBfnnQe6N1eZGT.qEWOA7O456TkTqs0">video8</a>]</td>
+      <td>
+        Faster Rates with Hessian:
+        <ul>
+          <li>Online Newton Step (ONS): PG 3.2.1</li>
+          <li><a href="https://www.cis.upenn.edu/~mkearns/finread/icml.pdf">Agarwal et al'06</a>: Portfolio Management with ONS</li>
+        </ul>
+        Stochastic Mirror Descent
+        <ul>
+          <li><a href="http://sbubeck.com/COLT12_BCK.pdf">OSMD</a></li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Sep 16 <br><strong>[Extended]</strong></td>
+      <td>Contextual Bandits (mini-RL): <br>- EXP4 <br>- SqrCB</td>
+      <td>- EXP4: PG 4.2.1 <br>- <a href="https://arxiv.org/pdf/2002.04926">SquareCB</a>, <a href="https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec4.pdf">AK-notes</a> (Realizability, Online Oracle) <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fe294ba95214a9e6745106d35ae817afab96f9ae978de29a6e6822d8da738256d%2FLec9-CDB.pdf">note9</a>] <br>[video9:<a href="https://uofi.app.box.com/file/1987906053522?s=y27ej5bki834apnc0ean5put0uw4d1rb&tc=collab-file-invite-treatment">1</a>, <a href="https://uic.zoom.us/rec/share/rZ5g_sn13UUkia4AGl-oy6dH2N4uaFoLDQkqC9M01m2rpfbSd2O4qigoSojht66E.K6EmfPc1auWuNPjA">2</a>]</td>
+      <td>
+        Notable CB Algos:
+        <ul>
+          <li><a href="https://www.schapire.net/papers/bandit-lin.pdf">MiniMonster</a> (Finite Policy Class)</li>
+          <li><a href="https://arxiv.org/pdf/2003.12699">ByPassing Monster</a> (Realizability, Offline Oracle)</li>
+          <li><a href="https://arxiv.org/pdf/2107.05745">SquareCB.Lin</a> (Cont. Decision)</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Sep 18</td>
+      <td>Paper presentation</td>
+      <td>
+        <ul>
+          <li>Ratnesh: <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/40223e204a9e18dd8b01d7d11ea97939-Paper-Conference.pdf">MAB & N/W Interference</a></li>
+          <li>Aresh: <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/49ef08ad6e7f26d7f200e1b2b9e6e4ac-Paper.pdf">Worst-Case MAB Behaviour</a></li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sep 30</td>
+      <td>Dueling Bandits: <br>Learning from Preferences</td>
+      <td><a href="https://arxiv.org/abs/1807.11398">- DB Survey</a> <br><a href="https://proceedings.mlr.press/v32/zoghi14.html">- RUCB</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Fb5a29ed9978640206efd8693553c4e68376620d1bc2d1e721e51692ba245d8ca%2FLec10-DB.pdf">note10</a>] <br>[<a href="https://uic.zoom.us/rec/share/nzzkOk_uJ2ZzHY_sS8jdx7Y66kAv_v6dsSmpIuvQTZWqx233LHUKwXx1qV4oNRE-.LdzI8lb7KAODiHQ8?startTime=1759259116000">video10</a>]</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 2</td>
+      <td>Paper presentation</td>
+      <td>
+        <ul>
+          <li>Sumanta - <a href="https://openreview.net/pdf?id=TFXxarWZzv">Tokenized Bandit for LLM</a></li>
+          <li>Romain - <a href="https://arxiv.org/pdf/2103.01955">PPO in Cooperative Multi-Agent Games</a> (<a href="https://bair.berkeley.edu/blog/2021/07/14/mappo/">blog</a>, <a href="https://sites.google.com/view/mappo">website</a>)</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 7 <br><strong>[Extended]</strong></td>
+      <td>RUCB: DB Regret against CW</td>
+      <td>- <a href="https://arxiv.org/pdf/1312.3393">RUCB (ArXiv)</a> <br>- <a href="https://proceedings.mlr.press/v32/zoghi14.html">RUCB (ICML)</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F66bf5fb34ad6dd6f4ee61002b241e6c48e47056511b1f0f92336644db598ad6a%2FLec11-RUCB.pdf">note11</a>] <br>[<a href="https://uic.zoom.us/rec/share/Q0I-HCuJen5HgMWr7yjQsH8ygajST3PvZaEvnxdrF12uKtrvVqybJq0gSSvP2Fl2.moZXIgd4PQiDzvQ5?startTime=1759863742000">video11</a>]</td>
+      <td>
+        Optimal Regret against CW:
+        <ul>
+          <li><a href="https://proceedings.mlr.press/v162/saha22a/saha22a.pdf">Versatile DB</a></li>
+        </ul>
+        K-Armed DB w/ Adversarial Prefs:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1601.03855">REX3</a>, <a href="https://proceedings.mlr.press/v139/saha21a.html">D-EXP3</a>, <a href="https://arxiv.org/abs/2406.12475v1">MiDEX</a></li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 9</td>
+      <td>Demo + Paper presentation</td>
+      <td>
+        <ul>
+          <li>Amir - <a href="https://arxiv.org/pdf/2510.00841">LLM Routing with DB Feedback</a></li>
+          <li>Adam - <a href="https://docs.chrys.app/">Chrys Demo</a></li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 14<br><strong>[Extended]</strong></td>
+      <td>Contextual DB</td>
+      <td>- <a href="https://arxiv.org/abs/2111.12306">CDB Analysis</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F390e249d2c2ea3329ee22a8027decfc232d50690468b45f58177147d0c61e961%2Fnote12.pdf">note12</a>] <br>[<a href="https://uic.zoom.us/rec/share/hKpCC-9FFeatyejXmLH4F67Q4BbLGCjTCU8Ocdqic392KgJmV314zvgwOELS3JA.amGTkDJKmwsVqXvK">video12</a>]</td>
+      <td>
+        More CDB Works:
+        <ul>
+          <li><a href="https://proceedings.neurips.cc/paper/2021/file/fc3cf452d3da8402bebb765225ce8c0e-Paper.pdf">Lin-CDB</a> (CDB with Linear Scores)</li>
+          <li><a href="https://arxiv.org/abs/2404.06013">Feel-Good-CDB</a> (TS for CDB with Linear Scores)</li>
+          <li><a href="https://arxiv.org/pdf/1502.06362">VN-CDB</a> (1st Gen-CDB paper w/ EXP4 & FPL)</li>
+          <li><a href="https://arxiv.org/abs/2307.11288">K-CDB</a> (Kernelized CDB)</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 16</td>
+      <td>Paper presentation</td>
+      <td>
+        <ul>
+          <li>Amith - <a href="https://iclr.cc/virtual/2025/poster/29425">Neural Dueling Bandits</a></li>
+          <li>Ali - <a href="https://arxiv.org/abs/2410.23569">RA-PbRL</a></li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 18 <br><strong>[Extra Class]</strong></td>
+      <td>Complex-CB</td>
+      <td>- <a href="https://arxiv.org/abs/2107.05745">CB in Cont Space</a> <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F44519c7ae747ef5d6179dc3d953ef951b973a4b26eb5663ca6cb62b323a45809%2FLec13-ContCB.pdf">note13</a>] <br>[<a href="https://uic.zoom.us/rec/share/ahnXCFREH22LjgPifN2-zATvorP9xkVyBZtq90Oz8QPbXoCvcVbq9wYUeDQxQlwj.VSEGlXMrblaRCBLW">video13</a>]</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 21</td>
+      <td>MDP Basics: Intro to RL</td>
+      <td>- RLM 1.1, 1.2 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2Ff810626b7b727381fd8a679f0e7db4c7582abdfd8de5102fbe563d0275fb4b43%2FLec14-RLIntro.pdf">note14</a>] <br>[<a href="https://uic.zoom.us/rec/share/SvuPcc4FL81KjG3370MLw2lD9eIEHk21bwato5Lc72NrrceD_QTVzeF_I8Zt1unX.d3LlgrSqW1l8xzch">video14</a>]</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 23</td>
+      <td>Paper presentation</td>
+      <td>
+        <ul>
+          <li>Aniket - <a href="https://arxiv.org/pdf/2502.07193v1">Efficient RLHF Pipeline</a></li>
+          <li>Anahita - <a href="https://icml.cc/virtual/2025/poster/43946">Policy-labeled Preference Learning</a></li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 28 <br><strong>[Extended]</strong></td>
+      <td>Tabular MDP <br>- Fin/Inf H <br>- Value-It <br>- Policy-It <br>- Sample Complexity</td>
+      <td>- RLM 1.1, 1.2, 1.3 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F77b1cef40e120a5c26ce084aa33a45d158ef45d934424e6f716c88d9e5db5de2%2FLec15-VI-PI.pdf">note15</a>] <br>[<a href="https://uic.zoom.us/rec/share/X1hwH7zPIrvY9ojwF1-tpH5LG3X4IW-fD4GghwW9BfqHqBHi7ulufaBpKO6Dx8C-.ZVqT3EopCvwHAuBq">video15</a>]</td>
+      <td>
+        <ul>
+          <li><a href="https://arxiv.org/pdf/1703.05449">UCB-VI</a>: Unknown Dynamics, Tabular</li>
+          <li><a href="https://pages.cs.wisc.edu/~yudongchen/cs839_sp22/21_linear_mdp1.pdf">Lin-MDP</a>: Cont. State-Action Space</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Oct 30</td>
+      <td colspan="4" style="text-align: center;"><strong>—-- Quiz —--</strong></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 4 <br><strong>[Extended]</strong></td>
+      <td>Policy Gradient</td>
+      <td>- RLM 11.1, 12.2, 12.4 <br>[<a href="/redirect/s3?bucket=uploads&prefix=paste%2Fm53oyfstnlr6gy%2F8bb6058c3c2f64fd3d7d75adab992f5ee685cf874d3c3ca00f22398a48c11d96%2FLec16-PG.pdf">note16</a>] <br>[<a href="https://uic.zoom.us/rec/share/gyveCfho5yXyw1s_CoAXrRr0zePmnS6epFttD_MIodr2NA6TrqVD78d_OYWLv3gz.JHtjZ0miSXSNdFnP">video16</a>]</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 6</td>
+      <td>Paper presentation</td>
+      <td>
+        <ul>
+          <li>Ali - <a href="https://icml.cc/virtual/2024/poster/33661">Multi-Objective Alignment</a></li>
+          <li>Yuwei - <a href="https://openreview.net/pdf?id=I8af9JdQTy">Sail into Headwind</a></li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 11</td>
+      <td>UCB-VI (Unknown dynamics) <br>Linear-RL (Cont RL)</td>
+      <td>- RLM 7.2, 7.3 <br>- RLM 8.5, 8.6</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 13</td>
+      <td>Paper presentation</td>
+      <td>
+        <ul>
+          <li>Vaibhav - <a href="https://openreview.net/pdf?id=5PAF7PAY2Y">R1-Zero-Like Training</a></li>
+          <li>Andrea - <a href="https://arxiv.org/abs/2401.04056">Minimaximalistic RLHF</a></li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 18 <br><strong>[Extended]</strong></td>
+      <td>PPO, TRPO</td>
+      <td>- RLM 14.1, 14.2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 20</td>
+      <td>Project presentation-1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 22 <br><strong>[Extended]</strong></td>
+      <td>Imitation Learning</td>
+      <td>- RLM 15.2, 15.4</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 25</td>
+      <td>Project Presentation-2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>Nov 27</td>
+      <td colspan="4" style="text-align: center;"><strong>—-- Thanksgiving Break! —-- [Extra Class?]</strong></td>
+    </tr>
+
 </table>
   </div>
 
