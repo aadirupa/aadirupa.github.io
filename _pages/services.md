@@ -137,11 +137,11 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
-  <li><a href="https://neurips.cc/" style="color:#000;">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2023, 2024, 2025</font></li>
-  <li><a href="https://www.auai.org/" style="color:#000;">Uncertainty in Artificial Intelligence (UAI)</a>: <font color="#008080">2024</font></li>
-  <li><a href="https://icml.cc/" style="color:#000;">International Conference of Machine Learning (ICML)</a>: <font color="#008080">2025</font></li>
-  <li><a href="https://iclr.cc/" style="color:#000;">International Conference on Learning Representations (ICLR)</a>: <font color="#008080">2024, 2025, 2026</font></li>
-  <li><a href="https://aistats.org/" style="color:#000;">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2024, 2025, 2026</font></li> 
+  <li><a href="https://neurips.cc/">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2023, 2024, 2025</font></li>
+  <li><a href="https://www.auai.org/">Uncertainty in Artificial Intelligence (UAI)</a>: <font color="#008080">2024</font></li>
+  <li><a href="https://icml.cc/">International Conference of Machine Learning (ICML)</a>: <font color="#008080">2025</font></li>
+  <li><a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a>: <font color="#008080">2024, 2025, 2026</font></li>
+  <li><a href="https://aistats.org/">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2024, 2025, 2026</font></li> 
 </ul>
   
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
