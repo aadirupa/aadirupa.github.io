@@ -12,6 +12,13 @@ Her primary research focuses on AI alignment through Reinforcement Learning with
    <br> <br>
 Aadirupa has organized several workshops and tutorials in recent years, including a <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home"> [NeurIPS, 2023] </a> tutorial on Preference Learning, a  <a href="https://www.youtube.com/watch?v=i3X0Bbep86o" LINK="red">[UAI, 2023] ]</a> tutorial on Federated Optimization, two tutorials at <a href="https://sites.google.com/view/olpf/home" target="_blank" LINK="red"> [ECML, 2022] </a>, <a href="https://www.acml-conf.org/2021/tutorials/battle-of-bandits-online-learning-from-preference-feedback/" target="_blank" LINK="red"> [ACML, 2021]</a>, two ICML workshops <a href="https://sites.google.com/view/mfpl-icml-2023" target="_blank" LINK="red"> [ICML, 2023] </a> and <a href="https://cfol-workshop.github.io/" target="_blank" LINK="red"> [ICML, 2022]</a>, and two TTIC workshops  <a href="https://sites.google.com/view/tticfl-summerworkshop2023/home?authuser=0" LINK="red">[TTIC, 2023]</a> and <a href="https://sites.google.com/view/new-ml-model/home" target="_blank" LINK="red">[TTIC, 2022]</a>. In addition, Aadirupa has also served in several panel discussions and senior reviewing committees for major ML conferences. </p>
 </details>
+<h2 style="color:SteelBlue;" vspace="-60px;"><a id="keynotes">KeyNote:</a></h2>
+<hr style="height:1px;border-width:0;color:black;background-color:black"> 
+<dl style="margin:0px;margin-bottom:0">
+     <dt><span style="color:DarkBlue">Learning Alignment with Human Feedback </span> </dt>
+     <dd><a href="https://da2pl.ulb.be/">DA2PL Conferenc</a>, Belgium, April 16-17, 2026.</dd>
+</dl>
+<hr>
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
 <dl style="margin:0px;margin-bottom:0">
