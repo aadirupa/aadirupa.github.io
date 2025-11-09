@@ -124,24 +124,24 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Journal Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Foundations and Trends® (FnTs), 2025</li>
-  <li>Transactions on Machine Learning Research (TMLR), 2024</li>
-  <li>Journal of Machine Learning Research (JMLR), 2023</li>
-  <li>Neural Computation (NEURCOMP), 2022</li>
-  <li>Journal of Machine Learning Research (JMLR), 2021</li>
-  <li>Information Processing Letters, ScienceDirect, 2023</li>
-  <li>Machine Learning (MACH) Journal, 2022 </li>
-</ul>   
+  <li><a href="https://www.nowpublishers.com/FnTs">Foundations and Trends® (FnTs)</a>, 2025</li>
+  <li><a href="https://jmlr.org/tmlr/">Transactions on Machine Learning Research (TMLR)</a>, 2024</li>
+  <li><a href="https://www.jmlr.org/">Journal of Machine Learning Research (JMLR)</a>, 2023</li>
+  <li><a href="https://www.mitpressjournals.org/loi/neco">Neural Computation (NEURCOMP)</a>, 2022</li>
+  <li><a href="https://www.jmlr.org/">Journal of Machine Learning Research (JMLR)</a>, 2021</li>
+  <li><a href="http://sciencedirect.com/journal/information-processing-letters">Information Processing Letters, ScienceDirect</a>, 2023</li>
+  <li><a href="https://link.springer.com/journal/10994">Machine Learning (MACH) Journal</a>, 2022</li>
+</ul> 
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
-  <li><a href="https://neurips.cc/" target="_blank" LINK="red";">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2023, 2024, 2025</font></li>
-  <li><a href="https://www.auai.org/" target="_blank" LINK="red";">Uncertainty in Artificial Intelligence (UAI)</a>: <font color="#008080">2024</font></li>
-  <li><a href="https://icml.cc/" target="_blank" LINK="red";">International Conference of Machine Learning (ICML)</a>: <font color="#008080">2025</font></li>
-  <li><a href="https://iclr.cc/" target="_blank" LINK="red";">International Conference on Learning Representations (ICLR)</a>: <font color="#008080">2024, 2025, 2026</font></li>
-  <li><a href="https://aistats.org/" target="_blank" LINK="red";">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2024, 2025, 2026</font></li> 
+  <li><a href="https://neurips.cc/" style="color:#000;">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2023, 2024, 2025</font></li>
+  <li><a href="https://www.auai.org/" style="color:#000;">Uncertainty in Artificial Intelligence (UAI)</a>: <font color="#008080">2024</font></li>
+  <li><a href="https://icml.cc/" style="color:#000;">International Conference of Machine Learning (ICML)</a>: <font color="#008080">2025</font></li>
+  <li><a href="https://iclr.cc/" style="color:#000;">International Conference on Learning Representations (ICLR)</a>: <font color="#008080">2024, 2025, 2026</font></li>
+  <li><a href="https://aistats.org/" style="color:#000;">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2024, 2025, 2026</font></li> 
 </ul>
   
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
