@@ -94,7 +94,7 @@ a:active {
   
 <ul style="margin:1;padding:1">
   <li> 
-   <font color="#008080">Visiting Scientist:</font> <a href="https://simons.berkeley.edu/programs/federated-collaborative-learning" target="_blank" LINK="red"> Simons Institute Federated & Collaborative Learning Workshop</a>; UC Berkeley, Jan–May, 2026
+   <font color="#008080">Visiting Scientist:</font> <a href="https://simons.berkeley.edu/programs/federated-collaborative-learning" target="_blank" LINK="red"> Simons Institute Federated & Collaborative Learning Workshop</a>; UC Berkeley, Jan 12 – May 8, 2026
   </li>
   <li> 
    <font color="#008080">Research Fellow:</font> <a href="https://seas.harvard.edu/" target="_blank" LINK="red"> SEAS</a>, Harvard University with <a href="https://www.eecs.harvard.edu/~parkes/" target="_blank" LINK="red"> David Parkes</a>; Harvard, Boston, Sep 1 - Dec 15, 2015
