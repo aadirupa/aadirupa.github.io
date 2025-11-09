@@ -137,13 +137,12 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
   
 <ul style="margin:1;padding:1">
-  <li>Neural Information Processing Systems (NeurIPS): <font color="#008080">2023, 2024, 2025</font></li>
-  <li>Uncertainty in Artificial Intelligence (UAI): <font color="#008080">2024</font></li>
-  <li>International Conference of Machine Learning (ICML): <font color="#008080">2025</font></li>
-  <li>International Conference on Learning Representations (ICLR): <font color="#008080">2024, 2025, 2026</font></li>
-  <li>Artificial Intelligence and Statistics (AIStats): <font color="#008080">2024, 2025, 2026</font></li> 
-</ul>   
-  
+  <li><a href="https://neurips.cc/" target="_blank" LINK="red";">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2023, 2024, 2025</font></li>
+  <li><a href="https://www.auai.org/" target="_blank" LINK="red";">Uncertainty in Artificial Intelligence (UAI)</a>: <font color="#008080">2024</font></li>
+  <li><a href="https://icml.cc/" target="_blank" LINK="red";">International Conference of Machine Learning (ICML)</a>: <font color="#008080">2025</font></li>
+  <li><a href="https://iclr.cc/" target="_blank" LINK="red";">International Conference on Learning Representations (ICLR)</a>: <font color="#008080">2024, 2025, 2026</font></li>
+  <li><a href="https://aistats.org/" target="_blank" LINK="red";">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2024, 2025, 2026</font></li> 
+</ul>
   
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
 <h2 style="color:SteelBlue;" vspace="0px;">Conference Reviewing:</h2>
