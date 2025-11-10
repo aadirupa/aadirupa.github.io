@@ -73,7 +73,7 @@ a:active {
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Collaborators.</font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
-  <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been incredibly fortunate to work alongside some of the brilliant minds in the field, whose guidance and insights have profoundly influenced my work and enriched my knowledge fundamentally: 
+  <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been incredibly fortunate to work alongside some of the brilliant minds in the field, whose wisdom has been instrumental in shaping my work and enriching my knowledge fundamentally:
    <!-- <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>, -->
    <!-- <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>, -->
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
@@ -87,7 +87,7 @@ a:active {
    <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
    <!-- <a href="https://sites.google.com/view/suprovat/home" target="_blank">Suprovat Ghoshal</a>, -->
    <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
-   <!-- <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>, -->
+   <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>
    <a href="https://www.kiml.ifi.lmu.de/team/huellermeier/" target="_blank">Eyke Hüllermeier</a>,
    <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
    <!-- <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>, -->
