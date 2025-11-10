@@ -67,6 +67,8 @@ A bit more generally, my work focuses on building large-scale, robust, personali
 </span>
 </details>
 
+<br>
+
 <!-- <details>
 <summary><span style="color:SteelBlue;"> Short Bio [In third person]</span></summary>
 <p align="justify">Aadirupa Saha is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago (UIC). Prior to this, she was a Research Scientist at Apple MLR, working on Machine Learning theory, and a short-term visiting faculty at the Toyota Technological Institute at Chicago (TTIC). She completed her postdoctoral research at Microsoft Research New York City and earned her PhD from the Indian Institute of Science, Bangalore, advised by Aditya Gopalan and Chiranjib Bhattacharyya. She has also interned at Microsoft Research Bangalore, Inria Paris, and Google AI Mountain View.
