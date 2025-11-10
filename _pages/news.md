@@ -41,7 +41,7 @@ a:active {
 
 <ol>  
 
-<li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a></li>. (More details to follow)
+<li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
 
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
   
