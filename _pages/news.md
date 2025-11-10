@@ -53,7 +53,7 @@ a:active {
 
 <li> - Dec: Attending <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a> at San Diego (Dec 3-7). Hope to catch up if you are around : ) </li>
 
-<li> - Dec: Looking forward to reconnecting the Alignment enthusiasts at <a href="https://www.far.ai/events/event-list/san-diego-alignment-workshop" LINK="red">NeurIPS'25</a> at San Diego Alignment Workshop (Dec 1-2) this year again!</li>
+<li> - Dec: Looking forward to reconnecting the Alignment enthusiasts at <a href="https://www.far.ai/events/event-list/san-diego-alignment-workshop" LINK="red">San Diego Alignment Workshop</a> (Dec 1-2) again!</li>
 
 <!-- <li> - Nov: 2 new Preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">NeurIPS'25</a> for more details. </li> -->
 
