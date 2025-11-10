@@ -44,20 +44,26 @@ a:active {
 
 <!-- and a short-term visiting-faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a> -->
 
-<font color="SteelBlue">Main Research Focus:</font> AI-Alignment with RLHF. 
+<font color="SteelBlue">Research Focus:</font> Building Personalized Educator 
 <br>
-<font color="SteelBlue">Research Areas:</font> Machine Learning (esp. Online Learning theory, Bandits, Reinforcement Learning), Optimization, Federated Learning, Differential Privacy, and Mechanism Design.
+<font color="SteelBlue">Main Research Area:</font> AI-Alignment with Reinforcement Learning with Human Feedback (RLHF)
+<br>
+<font color="SteelBlue">Related Research Areas:</font> Machine Learning (esp. Online Learning Bandits, RL theory), Optimization, Federated Learning, Quantum Information Theory, Differential Privacy, and Mechanism Design.
 
 <br><br>
 
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
- <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. 
+ <p align="justify"> My primary research focuses on developing, improving, and theoretically analyzing reinforcement learning with human feedback (RLHF) algorithms to enhance personalized machine assistance for humanity. Applications include language models, assistive robotics, autonomous driving, and personalized systems—-almost any system that can improve itself through user interaction. 
+
+<br><br>
+
+Specifically, I am deeply motivated by the tremendous potential of AI to democratize learning—reshaping our current education system into a truly adaptive, accessible, and personalized experience for every learner! Driven by this transformative power of generative AI and language models, we hope to design foundations for equitable, intelligent education systems that turn this vision into reality. My research focuses on developing futuristic educational models by leveraging RLHF theory alongside tools from Machine Learning (Online Learning, Bandits, and RL theory), Optimization, Federated Learning, Differential Privacy, and Mechanism Design.
    
 <br> <br>
 
-A bit more generally, my work focuses on building large-scale, robust, and intelligent AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Feel free to reach out if you are interested in exploring related topics!</p> 
+A bit more generally, my work focuses on building large-scale, robust, personalized AI models for sequential decision-making under partial or restricted feedback, such as user interactions, preferences, demonstrations, proxy observations, and rankings. In the past, I have also explored combinatorial decision spaces, dynamic regret, multiplayer games, and distributed optimization. My work falls under various interdisciplinary research areas, including ML, learning theory, optimization, operations research, mechanism design, privacy, federated learning, and algorithmic fairness. Recently, I have also been spending considerable time exploring Quantum Information Theory and its potential to improve algorithmic efficiency across different classes of ML algorithms. Feel free to reach out if you'd like to discuss any of these topics!</p> 
 </span>
 </details>
 
