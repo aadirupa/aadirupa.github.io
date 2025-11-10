@@ -84,7 +84,7 @@ She has also interned at Microsoft Research Bangalore, Inria Paris, and Google A
 
 <p align="justify"><font color="SteelBlue"><b>Prospective Students:</b></font> I am looking to work with ML enthusiasts and motivated students! If you are interested in joining our research group, please send me your resume and research statement. I also encourage you to apply to the <b>UIC-CS PhD program</b> (and do mention my name in your application).</p>
 
-<details>
+<!-- <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="Blue"><b>On a personal note </b></font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
 <p align="justify">I love my <a href="https://www.youtube.com/@KASHINATHSAHA">father's lectures</a> and am a proud daughter of <a href="https://sites.google.com/site/kashinathsaha2?pli=1&authuser=2">Prof. Saha</a> (as fondly popular among his students, being a super strict teacher yet a truly charismatic and caring mentor)! I deeply wish to contribute to the education of students battling with <a href="https://en.wikipedia.org/wiki/Haemophilia">Hemophilia</a>. If you are connected to any <i>Hemophilia Welfare Organization</i> and believe that my support in any capacity can make a difference, please do not hesitate to reach out. Carrying forward my father's passion, I would love to collaborate with any organization, research lab, or individual who shares the mission of improving the lives of hemophilic students and supporting their education.</p>
@@ -148,6 +148,7 @@ She has also interned at Microsoft Research Bangalore, Inria Paris, and Google A
   <br>  Aadirupa Saha, Aditya Gopalan
   <br>  In Algorithmic Learning Theory, ALT 2019</li>
 </ul>
+--> 
 
 <hr style="color:black;"> 
  
