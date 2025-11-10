@@ -36,7 +36,7 @@ a:active {
  
 <body>  
 
-<p style="color: #600000; text-align:center;"> ----- Under construction. Last updated: December 2022. Suggestions are most welcome! ----- </p> 
+<p style="color: #600000; text-align:center;"><b> ----- Under construction. Last updated: December 2022. Suggestions are most welcome! ----- </b></p> 
 
 <h2 style="color:DarkBlue;" vspace="-2px;">Battle of Bandits (Active Learning from Preferences)</h2>
 
