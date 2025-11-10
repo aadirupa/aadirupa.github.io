@@ -48,7 +48,7 @@ a:active {
 <br>
 <font color="SteelBlue">Main Research Area:</font> AI-Alignment with Reinforcement Learning with Human Feedback (RLHF)
 <br>
- <p align="justify"> <font color="SteelBlue">Related Research Areas:</font> Machine Learning (esp. Online Learning Bandits, RL theory), Optimization, Federated Learning, Quantum Information Theory, Differential Privacy, and Mechanism Design.</p>
+ <p align="justify" style="margin-bottom: 0;"> <font color="SteelBlue">Related Research Areas:</font> Machine Learning (esp. Online Learning Bandits, RL theory), Optimization, Federated Learning, Quantum Information Theory, Differential Privacy, and Mechanism Design.</p>
 
 <br>
 
