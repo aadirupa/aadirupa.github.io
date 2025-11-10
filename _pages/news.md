@@ -36,13 +36,26 @@ a:active {
  
 <body>  
 
+
+<h2 style="color:DarkBlue;" vspace="2px;">2026</h2>
+
+<ol>  
+
+<li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a></li>. (More details to follow)
+
+<li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
+  
+</ol>
+
 <h2 style="color:DarkBlue;" vspace="2px;">2025</h2>
 
 <ol>  
 
-<li> - Dec: Attending <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a> at San Diego (Dec 1-7). Hope to catch up if you are around : ) </li>
+<li> - Dec: Attending <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a> at San Diego (Dec 3-7). Hope to catch up if you are around : ) </li>
 
-<li> - Oct: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. <a href="https://aadirupa.github.io/side/techcareer.html" LINK="red">Register today!</a> </li> 
+<li> - Dec: Looking forward to reconnecting the Alignment enthusiasts at <a href="https://www.far.ai/events/event-list/san-diego-alignment-workshop" LINK="red">NeurIPS'25</a> at San Diego Alignment Workshop (Dec 1-2) this year again!</li>
+
+<li> - Nov: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. <a href="https://aadirupa.github.io/side/techcareer.html" LINK="red">Register today!</a> </li> 
 
 <li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow! </li>
 
