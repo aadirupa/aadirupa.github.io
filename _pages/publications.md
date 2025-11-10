@@ -73,7 +73,7 @@ a:active {
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Collaborators.</font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
-  <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been extremely fortunate to be able to learn from some of the amazing research minds: 
+  <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been incredibly fortunate to work alongside and learn from some of the brilliant minds in the field, whose guidance and insights have profoundly influenced my work and enriched my knowledge: 
    <!-- <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>, -->
    <!-- <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>, -->
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
