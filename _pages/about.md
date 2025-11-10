@@ -44,7 +44,7 @@ a:active {
 
 <!-- and a short-term visiting-faculty at <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a> -->
 
-<font color="SteelBlue">Research Focus:</font> Building Personalized Educator 
+<font color="SteelBlue">Research Focus:</font> Building Personalized Educator (through Human-Aligned Learning)
 <br>
 <font color="SteelBlue">Main Research Area:</font> AI-Alignment with Reinforcement Learning with Human Feedback (RLHF)
 <br>
