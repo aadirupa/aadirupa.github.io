@@ -67,48 +67,53 @@ a:active {
 <a href="https://dblp.org/pid/14/10003.html" target="_blank">[DBLP]</a> &nbsp;
 <a href="https://arxiv.org/find/all/1/au:+saha_aadirupa/0/1/0/all/0/1" target="_blank">[arXiv]</a>  
 
-<!-- <br> <br>
+<br> <br>
+<!--  -->
 
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Collaborators.</font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
-  <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been extremely fortunate to be able to work with some of the amazing research minds: 
-   <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>,
-   <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>,
+  <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been extremely fortunate to be able to learn from some of the amazing research minds: 
+   <!-- <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>, -->
+   <!-- <a href="https://www.hni.uni-paderborn.de/en/ism/staff/?mitarbeiter=155385509103009" target="_blank">Viktor Bengs</a>, -->
    <a href="https://www.csa.iisc.ac.in/~chiru/" target="_blank">Chiranjib Bhattacharyya</a>,
    <a href="https://home.ttic.edu/~avrim/" target="_blank">Avrim Blum</a>, 
-   <a href="https://www.ttic.edu/faculty/cohen/" target="_blank">Lee Cohen</a>, 
-   <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>,
-  <a href="https://sites.google.com/site/christosdimitrakakis" target="_blank">Christos Dimitrikakis</a>, 
-   <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>,
+   <!-- <a href="https://www.ttic.edu/faculty/cohen/" target="_blank">Lee Cohen</a>, -->
+   <!-- <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, -->
+   <a href="https://sites.google.com/site/christosdimitrakakis" target="_blank">Christos Dimitrikakis</a>,
+   <a href="https://people.ece.uw.edu/fazel_maryam/" target="_blank">Maryzam Fazel</a>,
+   <!-- <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>, -->
    <a href="http://vtaly.net/" target="_blank">Vitaly Feldman</a>
    <a href="http://pierre.gaillard.me/" target="_blank">Pierre Gaillard</a>,
-   <a href="https://sites.google.com/view/suprovat/home" target="_blank">Suprovat Ghoshal</a>,
+   <!-- <a href="https://sites.google.com/view/suprovat/home" target="_blank">Suprovat Ghoshal</a>, -->
    <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Aditya Gopalan</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>,
+   <!-- <a href="https://www.microsoft.com/en-us/research/people/kahofman/" target="_blank">Katja Hofmann</a>, -->
    <a href="https://www.kiml.ifi.lmu.de/team/huellermeier/" target="_blank">Eyke Hüllermeier</a>,
    <a href="https://www.prateekjain.org/" target="_blank">Prateek Jain</a>,
-   <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>,
-   <a href="https://sites.google.com/view/thomaskb" target="_blank">Thomas Kleine Buening</a>, 
+   <!-- <a href="https://sumeetsk.github.io/" target="_blank">Sumeet Katariya</a>, -->
+   <!-- <a href="https://sites.google.com/view/thomaskb" target="_blank">Thomas Kleine Buening</a>, -->
    <a href="https://tomerkoren.github.io/" target="_blank">Tomer Koren</a>,
    <a href="https://bkveton.com/" target="_blank">Branislav Kveton</a>, 
    <a href="https://people.cs.umass.edu/~akshay/" target="_blank">Akshay Krishnamurthy</a>,
+   <a href="https://haipeng-luo.net/" target="_blank">Haipeng Luo</a>,
    <a href="https://webee.technion.ac.il/Sites/People/shie/" target="_blank">Shie Mannor</a>,
    <a href="https://www.tau.ac.il/~mansour/" target="_blank">Yishay Mansour</a>,
-   <a href="https://sites.google.com/view/nadav-merlis/" target="_blank">Nadav Merlis</a>,
-   <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>,
+   <!-- <a href="https://sites.google.com/view/nadav-merlis/" target="_blank">Nadav Merlis</a>, -->
+   <!-- <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" target="_blank">Nagarajan Natarajan</a>, -->
    <a href="https://praneethnetrapalli.org/" target="_blank">Praneeth Netrapalli</a>,
-   <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>,
-   <a href="https://kishinmh.github.io/" target ="_blank">Kshitij Patel</a>, 
-   <a href="https://sites.google.com/view/hanshao" target="_blank">Han Shao</a>, 
+   <!-- <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>, -->
+   <!-- <a href="https://kishinmh.github.io/" target ="_blank">Kshitij Patel</a>, -->
+   <a href="https://vianney.ai/" target ="_blank">Vianney Perchet</a>,
+   <a href="https://www.schapire.net/" target="_blank">Rob Schapire</a>, 
+   <!-- <a href="https://sites.google.com/view/hanshao" target="_blank">Han Shao</a>, -->
    <a href="https://nati.ttic.edu/" target="_blank">Nati Srebro</a>, 
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
    <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>,
-   <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, 
+   <!-- <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, -->
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>
   (in alphabetical order).</p>
 </span>
-</details> -->
+</details> 
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
