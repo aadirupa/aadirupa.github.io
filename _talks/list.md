@@ -72,7 +72,7 @@ Aadirupa has organized several workshops and tutorials in recent years, includin
      <dd> Fall OSL Seminar, Northwestern University. October, 2022</dd>
      <dd> Research at TTIC Series. Toyota Technological Institute at Chicago (TTIC), October, 2022</dd> 
      <dd> Theory Seminar, CS, Purdue University. November, 2022</dd> 
-     <dd> Samueli CS dept Seminar, UCLA. June, 2023</dd> 
+     <dd> Samueli CS department Seminar, UCLA. June, 2023</dd> 
      
   <dt><span style="color:DarkBlue">Personalized Prediction Models with Federated Human Preferences</span></dt>
      <dd> <a href="https://tilos.ai/">TILOS Seminar</a>, University of California, San Diego. November, 2023 </dd>
@@ -98,7 +98,6 @@ Aadirupa has organized several workshops and tutorials in recent years, includin
      <dd>Chalmers University of Technology, November, 2021.</dd>
      
   <dt><span style="color:DarkBlue">Battle for Better: When and How Can We Learn Faster with Subsetwise Preferences?</span></dt>
-     <dd>Bangalore Theory Seminar, IISc Bangalore. October, 2023</dd>
      <dd>Spring Seminar, UT Austin. March 2023</dd>
      <dd>ISyE Seminar, Goergia Tech. March 2023</dd>
      <dd> The Institute for Data, Econometrics, Algorithms, and Learning (IDEAL) Talk Series. October, 2022</dd>   
@@ -108,7 +107,6 @@ Aadirupa has organized several workshops and tutorials in recent years, includin
      <dd>RL Track, Microsoft Research Summit. October, 2021</dd>
      
   <dt><span style="color:DarkBlue">Battling Bandits: Exploiting Subsetwise Preferences</span></dt>   
-     <dd>Sabarmati Seminar Series, IIT Gandhinagar. July 2021.</dd>   
      <dd>SIERRA-Seminar, Inria, Paris. January 2020.</dd>   
      <dd>Microsoft Research, Bangalore, India. October 2019.</dd>   
      <dd>EECS department, University of Michigan, Ann Arbor. September, 2019</dd>   
@@ -121,7 +119,7 @@ Aadirupa has organized several workshops and tutorials in recent years, includin
      <dd>TCS Research Lab, Bangalore. June, 2018</dd>   
      <dd>Indian Institute of Technology (IIT) Madras. November, 2018</dd>
      <dd>Amazon, Bangalore. October, 2018</dd>
-     <dd>IBM-IRL, Bangalore. July 2018.</dd>
+     <dd>IBM-IRL, Bangalore. July, 2018.</dd>
      
   <dt><span style="color:DarkBlue">Online Learning with Structured Losses</span></dt>   
      <dd>Conduent Labs, Bangalore. October, 2017.</dd>    
