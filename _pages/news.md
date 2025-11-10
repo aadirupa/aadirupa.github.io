@@ -55,6 +55,8 @@ a:active {
 
 <li> - Dec: Looking forward to reconnecting the Alignment enthusiasts at <a href="https://www.far.ai/events/event-list/san-diego-alignment-workshop" LINK="red">NeurIPS'25</a> at San Diego Alignment Workshop (Dec 1-2) this year again!</li>
 
+<!-- <li> - Nov: 2 new Preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">NeurIPS'25</a> for more details. </li> -->
+
 <li> - Nov: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. <a href="https://aadirupa.github.io/side/techcareer.html" LINK="red">Register today!</a> </li> 
 
 <li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow! </li>
