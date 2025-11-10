@@ -50,7 +50,7 @@ a:active {
 <br>
  <p align="justify"> <font color="SteelBlue">Related Research Areas:</font> Machine Learning (esp. Online Learning Bandits, RL theory), Optimization, Federated Learning, Quantum Information Theory, Differential Privacy, and Mechanism Design.</p>
 
-<br><br>
+<br>
 
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
