@@ -180,7 +180,7 @@ a:active {
 <br>  In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2025       
 </li>
 
-<li>  <b>PAW-CMAB: Position-Aware Combinatorial-MAB.</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>PAC-MAB: Position-Aware Combinatorial-MAB.</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
 <br> Aniket Wadge, Aadirupa Saha
 <br>  In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2025       
 </li>
