@@ -690,6 +690,10 @@ classes: wide
             <a href="http://pierre.gaillard.me/doc/teaching/online_learning_lecture_notes.pdf" target="_blank">
               Online Learning Notes</a> by Pierre Gaillard
           </li>
+           <li><strong>[PLG]</strong> Prediction, Learning and Games by Nicolo Cesa-Bianchi and Gabor Lugosi, Cambridge University Press, 2006 [<a href="https://ece.iisc.ac.in/~aditya/Prediction_Learning_and_Games.pdf">Local Copy from E1 245</a>]
+           </li>
+          <li><strong>[CvxO]</strong> Convex Optimization: Algorithms and Complexity by Sebastien Bubeck [<a href="https://arxiv.org/abs/1405.4980">Book Website</a>]
+          </li>
           <li>
             <strong>[FO] </strong>
             <a href="https://arxiv.org/abs/1912.13213" target="_blank">
