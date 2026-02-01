@@ -41,7 +41,7 @@ a:active {
 
 <ol>  
 
-<li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee"_blank" LINK="red">UAI'26</a>. Looking forward to working with <a href="https://sites.google.com/view/softriant/home"_blank" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/"_blank" LINK="red">Christine</a> as Online Chairs.</li>
+<li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee" LINK="red">UAI'26</a>. Looking forward to working with <a href="https://sites.google.com/view/softriant/home" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/" LINK="red">Christine</a> as Online Chairs.</li>
 
 <li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
 
