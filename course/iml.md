@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: "CS 412: Introduction to Machine Learning"
-date: 2025-01-14
 permalink: /course/iml/
 tags:
   - ml
