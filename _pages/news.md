@@ -41,9 +41,9 @@ a:active {
 
 <ol>  
 
-<li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
-
 <li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee"_blank" LINK="red">UAI'26</a>. Looking forward to work with <a href="https://sites.google.com/view/softriant/home"_blank" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/"_blank" LINK="red">Christine</a> as Online Chairs.</li>
+
+<li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
 
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
 
