@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /group/
+permalink: /groupp/
 author_profile: true
 ---
 
@@ -57,13 +57,13 @@ a:active {
     </ul>
   </div>
 
-  <div style="margin-bottom: 1.0rem; padding: 0.4rem 1.0rem; background: #f8f9fa; border-left: 0px solid #3498db; border-radius: 0px;">
+  <!-- <div style="margin-bottom: 1.0rem; padding: 0.4rem 1.0rem; background: #f8f9fa; border-left: 0px solid #3498db; border-radius: 0px;">
     <h4 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-size: 1.1rem;"><a href="https://aniketwagde.com/">Aniket Wagde</a>  [2022 - ]</h4>
     <ul style="margin: 0; padding-left: 1.5rem; color: #444; line-height: 1.6; font-size: 1.0rem;">
       <li>Condifence Estimation of LLM-as-Judge</li>
       <li>Learning Position Aware Ranking for RecSys</li>
     </ul>
-  </div>
+  </div> -->
   
 </div>
 
