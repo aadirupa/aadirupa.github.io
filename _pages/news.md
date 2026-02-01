@@ -48,6 +48,10 @@ a:active {
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
 
 <li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
+
+<li> - Feb: 2 new Preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">NeurIPS'25</a> for details.</li>
+
+<li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a></li>
   
 </ol>
 
@@ -63,15 +67,15 @@ a:active {
 
 <li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow! </li>
 
-<li> - Sept: Two papers accepted to <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a>. </li>
+<li> - Sept: <em>Two papers</em> accepted to <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a>. </li>
 
 <li> - Aug: Teaching a graduate-level course on <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">RLHF Theory</a> this Spring! </li>  
 
 <li> - May: We are running a <a href="https://aadirupa.github.io//course/rltheory/#" target="_blank" LINK="red">RL Theory Summer Reading</a> group (May-Aug, 2025).</li>
 
-<li> - Apr: Two papers accepted to <a href="https://icml.cc/" LINK="red">ICML'25</a>. </li>
+<li> - Apr: <em>Two papers</em> accepted to <a href="https://icml.cc/" LINK="red">ICML'25</a>. </li>
 
-<li> - Feb: Our paper on Efficient MNL Assortment Optimization is accepted to <a href="https://iclr.cc/Conferences/2025" LINK="red">ICLR'25</a>.</li>
+<li> - Feb: Our paper on <em>Efficient MNL Assortment Optimization</em> is accepted to <a href="https://iclr.cc/Conferences/2025" LINK="red">ICLR'25</a>.</li>
 
 <li> - Jan: Left Apple and joined UIC as a tenure-track assistant professor. Hola Acamedia! Good to be back! Teaching <a href="https://aadirupa.github.io//course/iml/#" LINK="red">ML</a> this Fall!</li>
   
