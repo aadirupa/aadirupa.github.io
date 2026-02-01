@@ -49,7 +49,7 @@ a:active {
 
 <li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
 
-<li> - Feb: Two new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">NeurIPS'25</a> for details.</li>
+<li> - Feb: Two new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">publications</a> for details.</li>
 
 <li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a></li>
   
