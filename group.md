@@ -73,7 +73,7 @@ a:active {
   
   <!-- Student 3 -->
  
-</div>
+<!-- </div> -->
 
   
 </body>
