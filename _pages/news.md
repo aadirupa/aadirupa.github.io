@@ -45,6 +45,8 @@ a:active {
 
 <li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
 
+<li> - May: Teaching <em>CS-411:</em> Graduate and Undergraduate course for <em>Artificial Intelligence</em> this Summer.</li>
+
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
 
 <li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
@@ -52,6 +54,8 @@ a:active {
 <li> - Feb: Two new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">publications</a> for details.</li>
 
 <li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a>.</li>
+
+<li> - Jan: Teaching <em>CS-412:</em> Graduate and Undergraduate course for <em>Intro to ML</em> this Spring.</li>
   
 </ol>
 
@@ -69,7 +73,7 @@ a:active {
 
 <li> - Sept: <em>Two papers</em> accepted to <a href="https://neurips.cc/" LINK="red">NeurIPS'25</a>. </li>
 
-<li> - Aug: Teaching a graduate-level course on <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">RLHF Theory</a> this Spring! </li>  
+<li> - Aug: Teaching CS-594: Graduate-level course on <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">RLHF Theory</a> this Spring! </li>  
 
 <li> - May: We are running a <a href="https://aadirupa.github.io//course/rltheory/#" target="_blank" LINK="red">RL Theory Summer Reading</a> group (May-Aug, 2025).</li>
 
