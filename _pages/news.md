@@ -45,7 +45,7 @@ a:active {
 
 <li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
 
-<li> - May: Teaching <em>CS-411:</em> Graduate and Undergraduate course for <em>Artificial Intelligence</em> this Summer.</li>
+<li> - May: Teaching CS-411: Graduate and Undergraduate course for <em>Artificial Intelligence</em> this Summer.</li>
 
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
 
@@ -55,7 +55,7 @@ a:active {
 
 <li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a>.</li>
 
-<li> - Jan: Teaching <em>CS-412:</em> Graduate and Undergraduate course for <em>Intro to ML</em> this Spring.</li>
+<li> - Jan: Teaching CS-412: Graduate and Undergraduate course for <em>Intro to ML</em> this Spring.</li>
   
 </ol>
 
