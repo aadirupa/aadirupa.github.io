@@ -51,7 +51,7 @@ a:active {
 
 <li> - Feb: Two new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">publications</a> for details.</li>
 
-<li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a></li>
+<li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a>.</li>
   
 </ol>
 
