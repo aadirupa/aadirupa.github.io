@@ -43,7 +43,11 @@ a:active {
 
 <li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
 
+<li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee"_blank" LINK="red">UAI'26</a>. Looking forward to work with <a href="https://sites.google.com/view/softriant/home"_blank" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/"_blank" LINK="red">Christine</a> as Online Chairs.</li>
+
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
+
+<li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
   
 </ol>
 
@@ -56,8 +60,6 @@ a:active {
 <li> - Dec: Looking forward to reconnecting the Alignment enthusiasts at <a href="https://www.far.ai/events/event-list/san-diego-alignment-workshop" LINK="red">San Diego Alignment Workshop</a> (Dec 1-2) again!</li>
 
 <!-- <li> - Nov: 2 new Preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">NeurIPS'25</a> for more details. </li> -->
-
-<li> - Nov: Organizing <em>Career-Compass</em> -- A skill-building and career advice workshop for UG and Grad students for navigating their professional futures. <a href="https://aadirupa.github.io/side/techcareer.html" LINK="red">Register today!</a> </li> 
 
 <li> - Sept: Glad to be in the organizing committee of  <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">RLC'26</a>. Updates to follow! </li>
 
