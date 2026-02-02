@@ -119,15 +119,16 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<li>  <b>LLM-as-a-Judge on a Budget</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
-<br>  Aadirupa Saha, Branislav Kveton
-</li>
 
 <li>  <b>Adaptive Bandits under Varying Source Quality</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
-<br>  Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo
+<br>  Amith Bhat, Aadirupa Saha, Haipeng Luo
 </li>
 
-<li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> 
+<br>  Aadirupa Saha, Dmitry Ostrovsky 
+</li>
+
+<li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b> 
 <br>  Aadirupa Saha, Robert Schapire
 </li>
 
@@ -135,16 +136,12 @@ a:active {
 <br>  Aadirupa Saha, Hilal Asi
 </li>
 
-<li>  <b>Learning to Allocate Resources with Censored Feedback</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<li>  <b>Learning to Allocate Resources with Censored Feedback</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Giovanni Montanari, Côme Fiegel, Aadirupa Saha, Vianney Perchet
 </li>
 
-<li>  <b>Stochastically Dominant Preference Optimization: Policy Improvement for All</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
-<br>  Ali Farajzadeh, Syed M Abbas, Aadirupa Saha, Brian D Ziebart
-</li>
-
  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
-  <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
+ <br>  Shubham Gupta, Aadirupa Saha, Sumeet Katariya
  </li>
 
 <!-- 
@@ -160,6 +157,22 @@ a:active {
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="full_publications">Full list of Publications:</a></h2>
+
+<h2 style="color:DarkRed;">2026</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<ul style="margin:1;padding:1"> 
+
+<li>  <b>LLM-as-a-Judge on a Budget</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Aadirupa Saha, Branislav Kveton, Aniket Wagde
+<br>  International Conference on Artificial Intelligence and Statistics, AIStats 2026  
+</li>
+
+<li>  <b>Stochastically Dominant Preference Optimization: Policy Improvement for All</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Ali Farajzadeh, Syed M Abbas, Aadirupa Saha, Brian D Ziebart
+<br>  International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2026 (Extended Abstract)  
+</li>
+
+</ul> 
 
 <h2 style="color:DarkRed;">2025</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
@@ -211,7 +224,6 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
   </span>
   </details>
  </li>
-
 
 </ul>    
 
