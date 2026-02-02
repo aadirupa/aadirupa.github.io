@@ -178,22 +178,22 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
 
-<li> <b>Efficient and Near-Optimal Algorithm for General Contextual Dueling Bandits with Offline Regression Oracles</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li> <b>Efficient and Near-Optimal Algorithm for General Contextual Dueling Bandits with Offline Regression Oracles</b>  <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/119046" target="_blank" LINK="red"> [NeurIPS version]</a>
 <br>  Aadirupa Saha, Robert Schapire
 <br>  In Neural Information Processing Systems, NeurIPS 2025 
 </li>
 
-<li> <b>Imitation Beyond Expectation Using Pluralistic Stochastic Dominance</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li> <b>Imitation Beyond Expectation Using Pluralistic Stochastic Dominance</b>  <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117414" target="_blank" LINK="red"> [NeurIPS version]</a>
 <br>  Ali Farajzadeh, Danyal Saeed, Syed M Abbas, Rushit N. Shah, Aadirupa Saha, Brian D Ziebart
 <br>  In Neural Information Processing Systems, NeurIPS 2025 <span style="color:Red;"><b> (*Spotlight*)</b></span>
 </li>
 
-<li>  <b>Source Adaptive Online Learning under Heteroscedastic Noise</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>Source Adaptive Online Learning under Heteroscedastic Noise</b>  <a href="https://opt-ml.org/papers/2025/paper162.pdf" target="_blank" LINK="red"> [OPT-ML version]</a>
 <br>  Amith Bhat, Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo
 <br>  In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2025       
 </li>
 
-<li>  <b>PAC-MAB: Position-Aware Combinatorial-MAB.</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>Efficient Algorithms for Combinatorial-Bandits with Monotonicity.</b>  <a href="https://openreview.net/pdf?id=D3drIoEW5B" target="_blank" LINK="red"> [OPT-ML version]</a>
 <br> Aniket Wadge, Aadirupa Saha
 <br>  In OPT for ML Workshop, Neural Information Processing Systems, NeurIPS 2025       
 </li>
