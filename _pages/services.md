@@ -40,10 +40,10 @@ a:active {
   
 <ul style="margin:1;padding:1">
   <li> 
-   <font color="#008080">Online Chair:</font> <a href="https://www.auai.org/uai2026/organizing_committee" target="_blank" LINK="red"> Uncertainty in Artificial Intelligence</a> (UAI), Amsterdam, Netherlands, Aug 15-18, 2026
+   <font color="#008080">Online Chair:</font> <a href="https://www.auai.org/uai2026/organizing_committee" target="_blank" LINK="red"> Uncertainty in Artificial Intelligence</a> (UAI'26), Amsterdam, Netherlands, Aug 15-18, 2026
   </li>
   <li> 
-   <font color="#008080">Communication Chair:</font> <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red"> Reinforcement Learning Conference</a> (RLC), Montréal, QC, Canada, Aug 16-19, 2026
+   <font color="#008080">Communication Chair:</font> <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red"> Reinforcement Learning Conference</a> (RLC'26), Montréal, QC, Canada, Aug 16-19, 2026
   </li>
 </ul> 
 
