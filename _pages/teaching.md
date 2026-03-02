@@ -41,7 +41,7 @@ a:active {
 </style>  
 </head>  
  
-<body>  Federated Learning
+<body>  
 
 <h2 style="color:DarkBlue;" vspace="2px;"> University of Illinois, Chicago (UIC) </h2>
 
