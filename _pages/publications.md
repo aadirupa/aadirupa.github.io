@@ -104,13 +104,15 @@ a:active {
    <!-- <a href="https://www.aldopacchiano.ai/" target="_blank">Aldo Pacchiano</a>, -->
    <!-- <a href="https://kishinmh.github.io/" target ="_blank">Kshitij Patel</a>, -->
    <a href="https://vianney.ai/" target ="_blank">Vianney Perchet</a>,
+   <a href="https://www.levreyzin.com/" target ="_blank">Lev Reyzin</a>,
    <a href="https://www.schapire.net/" target="_blank">Rob Schapire</a>, 
    <!-- <a href="https://sites.google.com/view/hanshao" target="_blank">Han Shao</a>, -->
    <a href="https://nati.ttic.edu/" target="_blank">Nati Srebro</a>, 
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
    <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>
    <!-- <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, -->
-   <!-- <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a> -->
+   <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>,
+    <a href="https://cs.uic.edu/profiles/brian-ziebart/" target="_blank">Brian Ziebert</a>,
   (in alphabetical order).</p>
 </span>
 </details> 
@@ -119,12 +121,15 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
+<li>  <b>Expert Advice with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Lev Reyzin, Aadirupa Saha, Shuo Wu (alphabetical) 
+</li>
 
-<li>  <b>Adaptive Bandits under Varying Source Quality</b>  <a href="" target="_blank" LINK="red"> [Arxiv: Coming Soon]</a>
+<li>  <b>One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise</b>  <a href="https://arxiv.org/abs/2602.14474" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Amith Bhat, Aadirupa Saha, Haipeng Luo
 </li>
 
-<li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> 
+<li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
 <br>  Aadirupa Saha, Dmitry Ostrovsky 
 </li>
 
@@ -136,7 +141,7 @@ a:active {
 <br>  Aadirupa Saha, Hilal Asi
 </li>
 
-<li>  <b>Learning to Allocate Resources with Censored Feedback</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>Learning to Allocate Resources with Censored Feedback</b>  <a href="https://arxiv.org/abs/2602.06565" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Giovanni Montanari, Côme Fiegel, Aadirupa Saha, Vianney Perchet
 </li>
 
@@ -272,7 +277,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
  </li>
 
 <li>  <b>On the Vulnerability of Fairness Constrained Learning to Malicious Noise.</b> <a href="https://arxiv.org/abs/2307.11892" LINK="red">[Arxiv version]</a>
-  <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl
+  <br>  Avrim Blum, Princewill Okoroafor, Aadirupa Saha, Kevin Stangl (alphabetical)
   <br> International Conference on Artificial Intelligence and Statistics, AIStats 2024
 </li> 
 
@@ -311,7 +316,7 @@ But why be so pessimistic? And why annoy your customers repeatedly offering the 
 
   <li>  <a href="https://proceedings.mlr.press/v202/patel23a.html" target="_blank">Federated Online and Bandit Convex Optimization</a> <a href="https://arxiv.org/abs/2311.17586" target="_blank" LINK="red"> [Arxiv Version]</a> 
   <br>  Kumar Kshitij Patel, Lingxiao Wang, Aadirupa Saha, Nati Srebro
-  <br>  In International Conference on Machine Learning, ICML 2023
+  <br>  In the International Conference on Machine Learning, ICML 2023
   </li>   
 
   <li>  <a href="https://openreview.net/pdf?id=iIhXNqNh1c" target="_blank" LINK="red">Bandits Meet Mechanism Design
@@ -465,7 +470,7 @@ to Combat Clickbait in Online Recommendation</a>  <a href="https://arxiv.org/abs
   <br> In Uncertainty in Artificial Intelligence, UAI 2018</li>
   
   <li>  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/11669" target="_blank">Online Learning for Structured Loss Spaces</a> <a href="https://arxiv.org/abs/1706.04125" target="_blank"> [Arxiv Version]</a>
-  <br>  Siddharth Barman, Aditya Gopalan, Aadirupa Saha (Alphabetical Order)
+  <br>  Siddharth Barman, Aditya Gopalan, Aadirupa Saha (alphabetical)
   <br>  In AAAI Conference on Artificial Intelligence, AAAI 2018</li>  
 </ul>  
   
