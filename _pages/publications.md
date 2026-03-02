@@ -113,7 +113,7 @@ a:active {
    <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>
    <!-- <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, -->
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>,
-    <a href="https://cs.uic.edu/profiles/brian-ziebart/" target="_blank">Brian Ziebert</a>,
+    <a href="https://cs.uic.edu/profiles/brian-ziebart/" target="_blank">Brian Ziebert</a>
   (in alphabetical order).</p>
 </span>
 </details> 
