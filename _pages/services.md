@@ -51,15 +51,10 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<li> <font color="#008080">(Upcoming) <a href="https://www.ideal-institute.org/special-programs/" target="_blank" LINK="red">IDEAL Special Program</a> Workshop, June, 2026. Chicago, USA</font>
-  <br> AI for Education.  <a href="https://sites.google.com/view/mhf-icml2024" target="_blank" LINK="red"> [Website] </a> (TBA)
-  </li>
-
- <li> <font color="#008080">ICML Workshop, July, 2024. Vienna, Austria</font>
-  <br> Models of Human Feedback for AI Alignment.  <a href="https://sites.google.com/view/mhf-icml2024" target="_blank" LINK="red"> [ICML24 Workshop] </a>
-  <br>  with Thomas Kleine Buening, Christos Dimitrakakis, Scott Niekum, Constantin Rothkopf, and Lirong Xia.
-  <br> <font color="#800080">We received ~75 submissions!! Thanks for your interest!</font>
-  <!-- <br> <font color="#800080">CFP out now! Please submit your work: </font> <a href="https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0" target="_blank" LINK="red">[here]</a>. -->
+ <li> <font color="#008080">IDEAL Workshop, March, 2025. Evanston, US</font>
+  <br> LLMs and Strategic Agents for Machine Learning.  <a href="https://www.ideal-institute.org/2026/01/09/winter-spring-2026-ideal-special-program-on-data-science-with-strategic-agents/" target="_blank" LINK="red"> [IDEAL Workshop] </a>
+  <br>  with Huiling Liao, Ermin Wei, Haifeng Xu.
+  <br> <font color="#800080">It colocated with <a href="https://gamenets.eai-conferences.org/2026/" target="_blank" LINK="red"> GameNets'26</a>! All the more reason to attend and make it twice the value in one trip!</font>
   </li>
 
  <li> <font color="#008080">ICML Workshop, July, 2024. Vienna, Austria</font>
