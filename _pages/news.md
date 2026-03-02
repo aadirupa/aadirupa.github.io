@@ -51,9 +51,9 @@ a:active {
 
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
 
-<li> - Mar: @LLM-Mech Desgn. Enthusiasts! IDEAL workshop on <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">LLMs and Strategic Agents for ML</a> is on March 25th, and it is also colocated with <a href="https://gamenets.eai-conferences.org/2026/" target="_blank" LINK="red"> GameNets'26</a>! Now that is called strategic-utility-maximization per miles traveled---All the more reasons for you to attend! Do catch up if you are around :) </li>
+<li> - Mar: @LLM-Mech Desgn. Enthusiasts! IDEAL workshop on <a href="https://www.ideal-institute.org/2026/01/09/winter-spring-2026-ideal-special-program-on-data-science-with-strategic-agents/" LINK="red">LLMs and Strategic Agents for ML</a> is on March 25th, and it is also colocated with <a href="https://gamenets.eai-conferences.org/2026/" target="_blank" LINK="red"> GameNets'26</a>! Now that is called strategic-utility-maximization per miles traveled---All the more reasons for you to attend! Do catch up if you are around :) </li>
 
-<li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
+<li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/callforpapers.html" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
 
 <li> - Feb: Three new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">publications</a> for details.</li>
 
