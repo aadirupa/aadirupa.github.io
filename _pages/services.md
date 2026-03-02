@@ -51,7 +51,7 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
- <li> <font color="#008080">IDEAL Workshop, March, 2025. Evanston, US</font>
+ <li> <font color="#008080">IDEAL Workshop, March, 2026. Evanston, US</font>
   <br> LLMs and Strategic Agents for Machine Learning.  <a href="https://www.ideal-institute.org/2026/01/09/winter-spring-2026-ideal-special-program-on-data-science-with-strategic-agents/" target="_blank" LINK="red"> [IDEAL Workshop] </a>
   <br>  with Huiling Liao, Ermin Wei, Haifeng Xu.
   <br> <font color="#800080">It colocated with <a href="https://gamenets.eai-conferences.org/2026/" target="_blank" LINK="red"> GameNets'26</a>! All the more reason to attend and make it twice the value in one trip!</font>
