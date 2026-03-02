@@ -41,6 +41,8 @@ a:active {
 
 <ol>  
 
+<li> - Sept: Teaching CS-594: Graduate level course on <em>Federated Learning</em> this Fall.</li>
+
 <li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee" LINK="red">UAI'26</a>. Looking forward to working with <a href="https://sites.google.com/view/softriant/home" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/" LINK="red">Christine</a> as Online Chairs.</li>
 
 <li> - Jun: Organizing "AI for Education", summer workshop at <a href="https://www.ideal-institute.org/special-programs/" LINK="red">IDEAL Special Program</a>. (More details to follow)</li>
@@ -49,9 +51,11 @@ a:active {
 
 <li> - Apr: Keynote speaker at <a href="https://da2pl.ulb.be/" LINK="red">DA2PL Conference</a> at Belgium, April 16-17, 2026. Please attend and give your feedback!</li>
 
+<li> - Mar: @LLM-Mech Desgn. Enthusiasts! IDEAL workshop on <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">LLMs and Strategic Agents for ML</a> is on March 25th, and it is also colocated with <a href="https://gamenets.eai-conferences.org/2026/" target="_blank" LINK="red"> GameNets'26</a>! Now that is called strategic-utility-maximization per miles traveled---All the more reasons for you to attend :) </li>
+
 <li> - Mar: @RL Enthisiasts: RLC deadline is <a href="https://rl-conference.cc/index.html" target="_blank" LINK="red">March 5th</a> (AOE)! Looking forward to receiving your submission!</li>
 
-<li> - Feb: Two new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">publications</a> for details.</li>
+<li> - Feb: Three new preprints out on arXiv! Please check <a href="https://aadirupa.github.io/publications/" LINK="red">publications</a> for details.</li>
 
 <li> - Jan: Our paper on <em>LLM-as-a-Judge</em> is accepted to <a href="https://virtual.aistats.org/Conferences/2026" LINK="red">AISTATS'26</a>.</li>
 
