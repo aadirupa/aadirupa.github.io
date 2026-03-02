@@ -81,6 +81,7 @@ a:active {
    <!-- <a href="https://www.ttic.edu/faculty/cohen/" target="_blank">Lee Cohen</a>, -->
    <!-- <a href="https://www.microsoft.com/en-us/research/people/sadevlin/" target="_blank">Sam Devlin</a>, -->
    <a href="https://sites.google.com/site/christosdimitrakakis" target="_blank">Christos Dimitrikakis</a>,
+   <a href="https://simonshaoleidu.com/" target="_blank">Simon Du</a>,
    <a href="https://people.ece.uw.edu/fazel_maryam/" target="_blank">Maryzam Fazel</a>,
    <!-- <a href="https://sites.google.com/view/yonathan-efroni/home" target="_blank">Yonathan Efroni</a>, -->
    <a href="http://vtaly.net/" target="_blank">Vitaly Feldman</a>
