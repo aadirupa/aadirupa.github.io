@@ -19,7 +19,7 @@ Saha's primary research focuses on AI alignment through Reinforcement Learning w
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
 <dl style="margin:0px;margin-bottom:0">
      <dt><span style="color:DarkBlue">Learning Alignment with Human Feedback </span> </dt>
-     <dd><a href="https://da2pl.ulb.be/">DA2PL Conferenc</a>, Belgium, April 16-17, 2026.</dd>
+     <dd><a href="https://da2pl.ulb.be/">DA2PL Conference</a>, Belgium, April 16-17, 2026.</dd>
 </dl>
 <hr>
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
