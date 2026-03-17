@@ -40,6 +40,9 @@ a:active {
   
 <ul style="margin:1;padding:1">
   <li> 
+   <font color="#008080">Communication Chair:</font> <a href="https://neurips.cc/Conferences/2026" target="_blank" LINK="red"> Neural Information Processing Systems</a> (NeuRIPS'26), Sydney, Australia, Dec 9-12, 2026
+  </li>
+  <li> 
    <font color="#008080">Online Chair:</font> <a href="https://www.auai.org/uai2026/organizing_committee" target="_blank" LINK="red"> Uncertainty in Artificial Intelligence</a> (UAI'26), Amsterdam, Netherlands, Aug 15-18, 2026
   </li>
   <li> 
