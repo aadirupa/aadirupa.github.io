@@ -54,7 +54,7 @@ a:active {
 
 My research is supported by Adobe Data Science Research Awards and IDEAL.
 
-<br>
+<br><br>
 
 <details>
 <summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Brief Research Summary</font> </span></summary>
