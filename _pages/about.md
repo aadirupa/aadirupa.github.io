@@ -50,6 +50,10 @@ a:active {
 <br>
  <p align="justify" style="margin-bottom: 0;"> <font color="SteelBlue">Related Research Areas:</font> Machine Learning (esp. Online Learning Bandits, RL theory), Optimization, Federated Learning, Quantum Information Theory, Differential Privacy, and Mechanism Design.</p>
 
+<br> 
+
+My research is supported by Adobe Data Science Research Awards and IDEAL.
+
 <br>
 
 <details>
@@ -60,10 +64,6 @@ a:active {
 <br><br>
 
 Specifically, I am deeply motivated by the tremendous potential of AI to democratize learning—reshaping our current education system into a truly adaptive, accessible, and personalized experience for every learner! Driven by this transformative power of generative AI and language models, we hope to design foundations for equitable, intelligent education systems that turn this vision into reality. My research focuses on developing futuristic educational models by leveraging RLHF theory alongside tools from Machine Learning (Online Learning, Bandits, and RL theory), Optimization, Federated Learning, Differential Privacy, and Mechanism Design.
-
-<br> <br>
-
-My research is supported by Adobe Data Science Research Awards and IDEAL.
    
 <br> <br>
 
