@@ -122,16 +122,16 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<li>  <b>Expert Advice with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <b>Sample Efficient Policy Optimization with Mixture of Feedback</b> 
+<br>  Aadirupa Saha, Pierre Gaillard 
+</li>
+
+<li>  <b>Expert Advice with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
 <br>  Lev Reyzin, Aadirupa Saha, Shuo Wu (alphabetical) 
 </li>
 
-<li>  <b>One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise</b>  <a href="https://arxiv.org/abs/2602.14474" target="_blank" LINK="red"> [Arxiv version]</a>
-<br>  Amith Bhat, Aadirupa Saha, Haipeng Luo
-</li>
-
 <li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
-<br>  Aadirupa Saha, Dmitry Ostrovsky 
+<br>  Moise Blanchard, Aadirupa Saha, Dmitry Ostrovsky 
 </li>
 
 <li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b> 
@@ -167,6 +167,11 @@ a:active {
 <h2 style="color:DarkRed;">2026</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
+
+<li>  <b>One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise</b>  <a href="https://arxiv.org/abs/2602.14474" target="_blank" LINK="red"> [Arxiv version]</a>
+<br>  Amith Bhat, Haipeng Luo, Aadirupa Saha
+<br>  International Conference on Machine Learning, ICML 2026  
+</li>
 
 <li>  <b>LLM-as-a-Judge on a Budget</b>  <a href="" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Aadirupa Saha, Branislav Kveton, Aniket Wagde
