@@ -126,10 +126,6 @@ a:active {
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
-<li>  <b>Expert Advice with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
-<br>  Lev Reyzin, Aadirupa Saha, Shuo Wu (alphabetical) 
-</li>
-
 <li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
 <br>  Moise Blanchard, Aadirupa Saha, Dmitry Ostrovsky 
 </li>
@@ -167,6 +163,11 @@ a:active {
 <h2 style="color:DarkRed;">2026</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
+
+<li> <b>Expert Advice with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
+<br> Lev Reyzin, Aadirupa Saha, Shuo Wu (alphabetical) 
+<br> In Uncertainty in Artificial Intelligence, UAI 2026  
+</li>
 
 <li>  <b>One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise</b>  <a href="https://arxiv.org/abs/2602.14474" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Amith Bhat, Haipeng Luo, Aadirupa Saha
