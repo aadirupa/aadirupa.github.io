@@ -127,7 +127,7 @@ a:active {
 </li>
 
 <li>  <b>Self-Consistency on a Budget</b> 
-<br>  Aniket Wadge, Aadirupa Saha, Branislav Kveton 
+<br>  Aniket Wadge, Branislav Kveton, Aadirupa Saha 
 </li>
 
 <li>  <b>Sample Efficient Policy Optimization with Different Feedback Modalities</b> 
