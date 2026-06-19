@@ -118,15 +118,23 @@ a:active {
 </span>
 </details> 
   
-<h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints/ Work on Progress:</a></h2>
+<h2 style="color:SteelBlue;" vspace="0px;"><a id="preprints">Preprints:</a></h2>
   
 <ul style="margin:1;padding:1">
 
-<li>  <b>Sample Efficient Policy Optimization with Mixture of Feedback</b> 
+<li>  <b>Variance Adaptive Bandits under Cost Budget</b> 
+<br>  Amith Bhat, Aadirupa Saha 
+</li>
+
+<li>  <b>Self-Consistency on a Budget</b> 
+<br>  Aniket Wadge, Aadirupa Saha, Branislav Kveton 
+</li>
+
+<li>  <b>Sample Efficient Policy Optimization with Different Feedback Modalities</b> 
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
-<li> <b> Optimal Leanring Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
+<li> <b> Optimal Leanring Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"></a>
 <br> Lev Reyzin, Aadirupa Saha (alphabetical) 
 </li>
 
