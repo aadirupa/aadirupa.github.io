@@ -47,9 +47,10 @@ a:active {
 
 <ol>  
 
+<li> <font color="#6082B6"> [Summer'26] </font> MEng-404: Math Fundamentals for AI Engineers and Data Scientists [<a href="https://meng.uic.edu/news-stories/the-math-and-python-foundations-every-ai-engineer-needs/" target="_blank" LINK="red">MEng-404 website</a>]</li>
 <li> <font color="#6082B6"> [Fall'26] </font> CS-594: Statistical Foundations of Federated Learning. <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">[Course website]</a> (TBA) </li>
 <li> <font color="#6082B6"> [Fall'25] </font> CS-594: RLHF Theory for AI-Alignment and Efficient LLMs. <a href="https://aadirupa.github.io//course/rlhf/#" LINK="red">[Course website]</a> </li>
-<li> <font color="#6082B6"> [Summer'25, 26] </font> MEng CS-411: Artificial Intelligence [<a href="https://meng.uic.edu/online-program/meng" target="_blank" LINK="red">Online MEng Program</a>]</li>
+<li> <font color="#6082B6"> [Summer'25, Fall'26] </font> MEng-419: Artificial Intelligence [<a href="https://meng.uic.edu/online-program/meng" target="_blank" LINK="red">Online MEng Program</a>]</li>
 <li> <font color="#6082B6"> [Summer'25] </font> Reading-Group: Reinforcement Learning Theory <a href="https://aadirupa.github.io//course/rltheory/#" LINK="red">[Course website]</a> </li>
 <li> <font color="#6082B6"> [Spring'25, 26] </font> CS-412: Introduction to Machine Learning. <a href="https://aadirupa.github.io//course/iml/#" LINK="red">[Course website]</a></li>
   
