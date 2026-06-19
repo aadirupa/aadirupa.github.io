@@ -134,7 +134,7 @@ a:active {
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
-<li> <b> Optimal Leanring Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"></a>
+<li> <b> Optimal Learning Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"></a>
 <br> Lev Reyzin, Aadirupa Saha (alphabetical) 
 </li>
 
