@@ -126,6 +126,10 @@ a:active {
 <br>  Amith Bhat, Aadirupa Saha 
 </li>
 
+<li> <b>Imitation Beyond Expectation via Second-order Stochastic Dominance</b> 
+<br> Syed M. Abbas, Danyal Saeed, Aadirupa Saha, Brian D Ziebart 
+</li>
+
 <li>  <b>Self-Consistency on a Budget</b> 
 <br>  Aniket Wadge, Branislav Kveton, Aadirupa Saha 
 </li>
@@ -134,12 +138,16 @@ a:active {
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
+<li> <b>Preference Learning Beyond Confidence: Gradient-based RLHF with Adversarial Preferences</b> 
+<br> Aadirupa Saha 
+</li>
+
 <li> <b> Optimal Learning Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"></a>
 <br> Lev Reyzin, Aadirupa Saha (alphabetical) 
 </li>
 
 <li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
-<br>  Moise Blanchard, Aadirupa Saha, Dmitry Ostrovsky 
+<br>  Moise Blanchard, Dmitry Ostrovsky, Aadirupa Saha (alphabetical)
 </li>
 
 <li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b> 
@@ -152,6 +160,10 @@ a:active {
 
 <li>  <b>Learning to Allocate Resources with Censored Feedback</b>  <a href="https://arxiv.org/abs/2602.06565" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Giovanni Montanari, Côme Fiegel, Aadirupa Saha, Vianney Perchet
+</li>
+
+<li> <b>COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents</b> 
+<br> Arun Verma, Indrajit Saha, Aadirupa Saha, Daniela Rus, Makoto Yokoo, Bryan Kian Hsiang Low
 </li>
 
  <li>  <b>Best Arm Identification in Linear MNL-Bandits.</b>  <a href="https://arxiv.org/abs/2104.05294" target="_blank" LINK="red"> [Arxiv Version]</a>
