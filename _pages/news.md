@@ -45,7 +45,7 @@ a:active {
 
 <li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee" LINK="red">UAI'26</a>. Looking forward to working with <a href="https://sites.google.com/view/softriant/home" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/" LINK="red">Christine</a> as Online Chairs.</li>
 
-<li> - July-Aug: (Co)Developing UIC’s <a href="https://meng.uic.edu/" LINK="red">Online Master of Engineering (MEng)</a> course on <a href="https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/" LINK="red">MEng-419</a>: Artificial Intelligence (with <a href="https://www.cs.uic.edu/~iankash/" LINK="red">Ian Kash</a>). Introduction to AI and current trends in Generative, Ethical, and Regulative AI!</li>
+<li> - July-Aug: (Co)Developing UIC’s <a href="https://meng.uic.edu/" LINK="red">Online Master of Engineering (MEng)</a> course on <a href="https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/" LINK="red">MEng-419</a>: Artificial Intelligence (with <a href="https://www.cs.uic.edu/~iankash/" LINK="red">Ian Kash</a>). Introduction and current trends in Generative, Ethical, and Regulative AI.</li>
 
 <li> - May-June: Developing UIC’s <a href="https://meng.uic.edu/" LINK="red">Online Master of Engineering (MEng)</a> course on <a href="https://meng.uic.edu/news-stories/the-math-and-python-foundations-every-ai-engineer-needs/" LINK="red">MEng-404</a>: Math Fundamentals for AI Engineers and Data Scientists. The Math and Python Foundations Every AI Engineer Needs!</li>
 
