@@ -146,7 +146,7 @@ a:active {
 <br> Lev Reyzin, Aadirupa Saha (alphabetical) 
 </li>
 
-<li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
+<li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="https://arxiv.org/pdf/2607.10936" target="_blank" LINK="red"> [Arxiv] </a>
 <br>  Moise Blanchard, Dmitry Ostrovsky, Aadirupa Saha (alphabetical)
 </li>
 
