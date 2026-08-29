@@ -188,7 +188,7 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
 
-<li> <b>Expert Advice with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv] (coming soon!)</a>
+<li> <a href="https://proceedings.mlr.press/v337/reyzin26a.html" target="_blank" LINK="red"><b>Expert Advice with Costly Observations</b></a>
 <br> Lev Reyzin, Aadirupa Saha, Shuo Wu (alphabetical) 
 <br> In Uncertainty in Artificial Intelligence, UAI 2026  
 </li>
