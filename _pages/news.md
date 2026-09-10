@@ -41,7 +41,7 @@ a:active {
 
 <ol>  
 
-<li> - Dec: Giving a tutorial with <a href="https://arunv3rma.github.io/" LINK="red"> Arun </a> and <a href="[https://arunv3rma.github.io/](https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en)" LINK="red"> Djallel </a> on 'RL Blueprint for Reliable Agentic-AI' at <a href="https://nips.cc/" LINK="red">NeurIPS'26</a>, Sydney, Australia. (Includes a panel discussion with Robert Busa-Fekete, Akshay Krishnamurthy, Branislav Kveton, John Langford, Paul Liang and Armando Solar-Lezama) <a href="https://sites.google.com/view/neurips26-tutorial-rl-for-agen" LINK="red">[Tutorial website]</a></li>
+<li> - Dec: Giving a tutorial with <a href="https://arunv3rma.github.io/" LINK="red"> Arun </a> and <a href="https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en" LINK="red"> Djallel </a> on 'RL Blueprint for Reliable Agentic-AI' at <a href="https://nips.cc/" LINK="red">NeurIPS'26</a>, Sydney, Australia. (Includes a panel discussion with Robert Busa-Fekete, Akshay Krishnamurthy, Branislav Kveton, John Langford, Paul Liang and Armando Solar-Lezama) <a href="https://sites.google.com/view/neurips26-tutorial-rl-for-agen" LINK="red">[Tutorial website]</a></li>
 
 <li> - Sept: Teaching CS-594: Graduate level course on <em>Federated Learning</em> this Fall.</li>
 
