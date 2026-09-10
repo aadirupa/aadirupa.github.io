@@ -24,7 +24,10 @@ Saha's primary research focuses on AI alignment through Reinforcement Learning w
 <hr>
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="tutorial">Tutorials:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black"> 
-<dl style="margin:0px;margin-bottom:0">
+<dl style="margin:0px;margin-bottom:0">   
+     <dt><span style="color:DarkBlue">RL Blueprint for Reliable Agentic-AI </span> <a href="https://sites.google.com/view/neurips26-tutorial-rl-for-agen">[Tutorial Website]</a> </dt>
+     <dd>With <a href="https://arunv3rma.github.io/" LINK="red"> Arun Verma</a> and <a href="https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en" LINK="red">Djallel Bouneffouf</a></dd>
+     <dd>40th Conference on Neural Information Processing Systems (NeurIPS), Sydney. Dec 9th, 2026.</dd>
      <dt><span style="color:DarkBlue">Do you Prefer Learning with Preferences? </span> <a href="https://sites.google.com/view/pref-learning-tutorial-neurips/home">[Tutorial Website]</a> <a href="https://neurips.cc/virtual/2023/tutorial/73950">[NeurIPS Website]</a></dt>
      <dd>With <a href="https://ece.iisc.ac.in/~aditya/" LINK="red"> Aditya Gopalan</a>. Our (amazing) panel: <a href="https://yoshuabengio.org/">Yoshua Bengio</a> · <a href="https://www.cs.toronto.edu/~cebly/">Craig Boutilier</a> · <a href="https://www.ehazan.com/">Elad Hazan</a> · <a href="https://nowak.ece.wisc.edu/">Robert Nowak</a> · <a href="https://www.microsoft.com/en-us/research/people/toschnab/">Tobias Schnabel</a></dd>
      <dd>37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans. Dec 11th, 2023.</dd>
