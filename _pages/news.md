@@ -43,17 +43,21 @@ a:active {
 
 <li> - Dec: Giving a tutorial with <a href="https://arunv3rma.github.io/" LINK="red"> Arun </a> and <a href="https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en" LINK="red"> Djallel </a> on 'RL Blueprint for Reliable Agentic-AI' at <a href="https://nips.cc/" LINK="red">NeurIPS'26</a>, Sydney, Australia. (Includes a panel discussion with Robert Busa-Fekete, Akshay Krishnamurthy, Branislav Kveton, John Langford, Paul Liang and Armando Solar-Lezama) <a href="https://sites.google.com/view/neurips26-tutorial-rl-for-agen" LINK="red">[Tutorial website]</a></li>
 
-<li> - Sept: Teaching MENG-490: Undergraduate & Graduate course: <a href="https://meng.uic.edu/online-program/meng/" LINK="red">MEng-404</a> on Math Fundamentals for AI Engineers and Data Scientists in Fall B.</li>
+<li> - Sept: Teaching MENG-404: Undergraduate & Graduate course: <a href="https://meng.uic.edu/online-program/meng/" LINK="red">MEng-404</a> on Math Fundamentals for AI Engineers and Data Scientists in Fall B.</li>
 
 <li> - Sept: Teaching CS-594: Graduate level course on <em>Federated Learning</em> this Fall.</li>
 
 <li> - Sep-Nov: (Co)Developing UIC’s <a href="https://meng.uic.edu/" LINK="red">Online Master of Engineering (MEng)</a> course on <a href="https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/" LINK="red">MEng-419</a>: Artificial Intelligence (with <a href="https://www.cs.uic.edu/~iankash/" LINK="red">Ian Kash</a>). Introduction and current trends in Generative, Ethical, and Regulative AI.</li>
 
+<li> - Aug: Our paper on <a href="https://proceedings.mlr.press/v337/reyzin26a.html" LINK="red">Expert Advice with Costly Observations</a> is accepted to <a href="https://www.auai.org/uai2026/" LINK="red">UAI'26</a>!</li>
+
 <li> - Aug: Glad to be in the organizing committee of <a href="https://www.auai.org/uai2026/organizing_committee" LINK="red">UAI'26</a>. Looking forward to working with <a href="https://sites.google.com/view/softriant/home" LINK="red">Sofia</a> and <a href="https://researchprofiles.ku.dk/en/persons/christine-winther-bang/" LINK="red">Christine</a> as Online Chairs.</li>
 
-<li> - July: New preprint out on <a href="https://arxiv.org/pdf/2607.10936" LINK="red">Bandit PCA with Minimax Optimal Regret</a></li>
+<li> - July: New preprint out on <a href="https://arxiv.org/pdf/2607.10936" LINK="red">Bandit PCA with Minimax Optimal Regret</a>!</li>
 
 <li> - May-June: Developing UIC’s <a href="https://meng.uic.edu/" LINK="red">Online Master of Engineering (MEng)</a> course on <a href="https://meng.uic.edu/news-stories/the-math-and-python-foundations-every-ai-engineer-needs/" LINK="red">MEng-404</a>: Math Fundamentals for AI Engineers and Data Scientists. The Math and Python Foundations Every AI Engineer Needs!</li>
+
+<li> - May: Our paper on <a href="https://icml.cc/virtual/2026/poster/64742" LINK="red">Data-Source Adaptive Online Learning under Heteroscedastic Noise</a> is accepted to <a href="https://icml.cc/Conferences/2026" LINK="red">ICML'26</a>!</li>
 
 <li> - May: Teaching CS-411: Graduate and Undergraduate course for <em>Artificial Intelligence</em> this Summer.</li>
 
