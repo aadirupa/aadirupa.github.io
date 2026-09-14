@@ -193,7 +193,7 @@ a:active {
 <br> In Uncertainty in Artificial Intelligence, UAI 2026  
 </li>
 
-<li>  <b>One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise</b>  <a href="https://arxiv.org/abs/2602.14474" target="_blank" LINK="red"> [Arxiv version]</a>
+<li>  <a href="https://openreview.net/pdf?id=KINbdhBhoZ" target="_blank" LINK="red"><b>SOAR: Data-Source Adaptive Online Learning under Heteroscedastic Noise</b></a>a  <a href="https://arxiv.org/abs/2602.14474" target="_blank" LINK="red"> [Arxiv version]</a>
 <br>  Amith Bhat, Haipeng Luo, Aadirupa Saha
 <br>  International Conference on Machine Learning, ICML 2026  
 </li>
