@@ -67,6 +67,9 @@ Saha's primary research focuses on AI alignment through Reinforcement Learning w
 <h2 style="color:SteelBlue;vspace:-100px"><a id="research_talks">Invited Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl>
+  <dt><span style="color:DarkBlue">PEARL: PErsonalized Preference Alignment via Reinforcement Learning</span></dt>
+     <dd><a href="https://www.cmu.edu/ai-sdm/seminars/index.html">AI-ASDM Seminar series</a>, CMU Pittsburgh. Nov 2026</dd>
+     
   <dt><span style="color:DarkBlue">Principled Methods for Leveraging Human Feedback towards AI Alignment</span></dt>
      <dd><a href="https://www.ideal-institute.org/2024/05/06/ideal-annual-meeting-and-industry-day-2024/">IDEAL Annual Meeting and Industry Day</a>, UIC Chicago. June 2024</dd>
      
