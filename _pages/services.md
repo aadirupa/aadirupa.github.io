@@ -125,6 +125,7 @@ a:active {
 <h2 style="color:SteelBlue;" vspace="0px;">Journal Reviewing:</h2>
   
 <ul style="margin:1;padding:1">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">Transactions on Pattern Analysis and Machine Intelligence® (TMPAI)</a>, 2026</li>
   <li><a href="https://www.nowpublishers.com/FnTs">Foundations and Trends® (FnTs)</a>, 2025</li>
   <li><a href="https://jmlr.org/tmlr/">Transactions on Machine Learning Research (TMLR)</a>, 2024</li>
   <li><a href="https://www.jmlr.org/">Journal of Machine Learning Research (JMLR)</a>, 2023</li>
@@ -135,7 +136,14 @@ a:active {
 </ul> 
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
-<h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair:</h2>
+<h2 style="color:SteelBlue;" vspace="0px;">Conference Senior Area Chair (SAC):</h2>
+  
+<ul style="margin:1;padding:1">
+  <li><a href="https://aistats.org/">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2027</font></li> 
+</ul>
+
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />   
+<h2 style="color:SteelBlue;" vspace="0px;">Conference Area Chair (AC):</h2>
   
 <ul style="margin:1;padding:1">
   <li><a href="https://neurips.cc/">Neural Information Processing Systems (NeurIPS)</a>: <font color="#008080">2023, 2024, 2025, 2026</font></li>
