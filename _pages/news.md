@@ -45,7 +45,7 @@ a:active {
 
 <li> - Nov: Invited talk at <a href="https://www.cmu.edu/ai-sdm/seminars/index.html" LINK="red">AI-SDM Seminar Series Speaker</a>, CMU.</li>
 
-<li> - Oct: Visiting, <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy" LINK="red">Trustworthy AI: From Hallucinations to Reliable Autonomy</a> (October 5–9, 2026), UC Berkeley. If you are around, please ping! Would love to catch up!</li>
+<li> - Oct: Visiting, <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy" LINK="red">Trustworthy AI: From Hallucinations to Reliable Autonomy</a> (October 5–9, 2026), <a href="https://simons.berkeley.edu/homepage" LINK="red">Simons Institute</a>, UC Berkeley. If you are around, please ping! Would love to catch up!</li>
 
 <li> - Sept: Teaching MENG-404: Undergraduate & Graduate course: <a href="https://meng.uic.edu/online-program/meng/" LINK="red">MEng-404</a> on Math Fundamentals for AI Engineers and Data Scientists in Fall B.</li>
 
