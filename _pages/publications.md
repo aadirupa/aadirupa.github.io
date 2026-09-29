@@ -146,10 +146,6 @@ a:active {
 <br> Lev Reyzin, Aadirupa Saha (alphabetical) 
 </li>
 
-<li>  <b>Optimal Rates for Learning Quantum States with Linear Tomography</b> <a href="https://arxiv.org/pdf/2607.10936" target="_blank" LINK="red"> [Arxiv] </a>
-<br>  Moise Blanchard, Dmitry Ostrovsky, Aadirupa Saha (alphabetical)
-</li>
-
 <li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b> 
 <br>  Aadirupa Saha, Robert Schapire
 </li>
@@ -183,6 +179,15 @@ a:active {
 </ul>  
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="full_publications">Full list of Publications:</a></h2>
+
+<h2 style="color:DarkRed;">2027</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<ul style="margin:1;padding:1"> 
+
+<li>  <b>Bandit PCA with Minimax Optimal Regret</b> <a href="https://arxiv.org/pdf/2607.10936" target="_blank" LINK="red"> [Arxiv] </a>
+<br>  Moise Blanchard, Dmitry Ostrovsky, Aadirupa Saha (alphabetical)
+<br> In 38th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027 
+</li>
 
 <h2 style="color:DarkRed;">2026</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
