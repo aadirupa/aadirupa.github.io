@@ -189,6 +189,8 @@ a:active {
 <br> In 38th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027 
 </li>
 
+</ul> 
+
 <h2 style="color:DarkRed;">2026</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
 <ul style="margin:1;padding:1"> 
