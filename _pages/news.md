@@ -47,7 +47,9 @@ a:active {
 
 <li> - Oct: Visiting, <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy" LINK="red">Trustworthy AI: From Hallucinations to Reliable Autonomy</a> (October 5–9, 2026), <a href="https://simons.berkeley.edu/homepage" LINK="red">Simons Institute</a>, UC Berkeley. If you are around, please ping! Would love to catch up!</li>
 
-<li> - Sept: Teaching MENG-404: Undergraduate & Graduate course: <a href="https://meng.uic.edu/online-program/meng/" LINK="red">MEng-404</a> on Math Fundamentals for AI Engineers and Data Scientists in Fall B.</li>
+<li> - Oct: Teaching MENG-404: Undergraduate & Graduate course: <a href="https://meng.uic.edu/online-program/meng/" LINK="red">MEng-404</a> on Math Fundamentals for AI Engineers and Data Scientists in Fall B.</li>
+
+<li> - Oct: Our paper on <a href="https://arxiv.org/pdf/2607.10936" LINK="red">Bandit PCA with Minimax Optimal Regret</a> is accepted to <a href="https://www.siam.org/conferences-events/siam-conferences/soda27/" LINK="red">SODA'27</a>!</li>
 
 <li> - Sept: Teaching CS-594: Graduate level course on <em>Federated Learning</em> this Fall.</li>
 
