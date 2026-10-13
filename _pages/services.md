@@ -136,10 +136,11 @@ a:active {
 </ul> 
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
-<h2 style="color:SteelBlue;" vspace="0px;">Conference Senior Area Chair (SAC):</h2>
+<h2 style="color:SteelBlue;" vspace="0px;">Conference Senior Area Chair (SAC/SPC):</h2>
   
 <ul style="margin:1;padding:1">
   <li><a href="https://aistats.org/">Artificial Intelligence and Statistics (AIStats)</a>: <font color="#008080">2027</font></li> 
+  <li><a href="https://aistats.org/">Algorithmic Learning Theory (ALT)</a>: <font color="#008080">2027</font></li> 
 </ul>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />   
