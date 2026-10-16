@@ -138,7 +138,7 @@ a:active {
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
-<li> <a href="https://arxiv.org/abs/2610.20908" target="_blank" LINK="red"><b>Replicable Dueling Bandits</b></a>
+<li> <b> Replicable Dueling Bandits</b><a href="https://arxiv.org/abs/2610.20908" target="_blank" LINK="red">[Arxiv version]</a>
 <br> Rohan Deb, Aadirupa Saha, Udaya Ghai, Karan Singh, Arindam Banerjee 
 </li>
 
