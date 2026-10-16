@@ -138,6 +138,10 @@ a:active {
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
+<li> <a href="https://arxiv.org/abs/2610.20908" target="_blank" LINK="red"><b>Replicable Dueling Bandits</b></a>
+<br> Rohan Deb, Aadirupa Saha, Udaya Ghai, Karan Singh, Arindam Banerjee 
+</li>
+
 <li> <b>Preference Learning Beyond Confidence: Gradient-based RLHF with Adversarial Preferences</b> 
 <br> Aadirupa Saha 
 </li>
