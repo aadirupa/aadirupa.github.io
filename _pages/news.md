@@ -43,7 +43,7 @@ a:active {
 
 <li> - Dec: Giving a tutorial with <a href="https://arunv3rma.github.io/" LINK="red"> Arun </a> and <a href="https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en" LINK="red"> Djallel </a> on 'RL Blueprint for Reliable Agentic-AI' at <a href="https://nips.cc/" LINK="red">NeurIPS'26</a>, Sydney, Australia. (Includes a panel discussion with Robert Busa-Fekete, Akshay Krishnamurthy, Branislav Kveton, John Langford, Paul Liang and Armando Solar-Lezama) <a href="https://sites.google.com/view/neurips26-tutorial-rl-for-agen" LINK="red">[Tutorial website]</a></li>
 
-<li> - Nov: Invited talk at <a href="https://www.cmu.edu/ai-sdm/seminars/index.html" LINK="red">AI-SDM Seminar Series Speaker</a>, CMU.</li>
+<li> - Dec: <a href="https://events.cmu.edu/ai-sdm/event/33693-ai-sdm-seminar-series-aadirupa-saha" LINK="red">Invited talk</a> at <a href="https://www.cmu.edu/ai-sdm/seminars/index.html" LINK="red">AI-SDM Seminar Series Speaker</a>, Dec 2-3, CMU, Pittsburgh.</li>
 
 <li> - Oct: Visiting, <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy" LINK="red">Trustworthy AI: From Hallucinations to Reliable Autonomy</a> (October 5–9, 2026), <a href="https://simons.berkeley.edu/homepage" LINK="red">Simons Institute</a>, UC Berkeley and  <a href="https://colm.eventhosts.cc/Conferences/2026/index.html" LINK="red">COLM</a>, SFO. If you are around, please ping! Would love to catch up!</li>
 
