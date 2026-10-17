@@ -166,7 +166,7 @@ a:active {
 <br>  Giovanni Montanari, Côme Fiegel, Aadirupa Saha, Vianney Perchet
 </li>
 
-<li> <b>COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents</b> 
+<li> <b>COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents</b>  <a href="https://arxiv.org/abs/2505.23720" target="_blank" LINK="red"> [Arxiv Version]</a>
 <br> Arun Verma, Indrajit Saha, Aadirupa Saha, Daniela Rus, Makoto Yokoo, Bryan Kian Hsiang Low
 </li>
 
