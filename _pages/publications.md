@@ -126,7 +126,7 @@ a:active {
 <br>  Aniket Wadge, Branislav Kveton, Aadirupa Saha 
 </li>
 
-<li>  <b>Sample Efficient Policy Optimization with Different Feedback Modalities</b> 
+<li>  <b>Sample Efficient Policy Optimization with Different Feedback Modalities</b> <a href="" target="_blank" LINK="red"> [Arxiv version (soon!)]</a>
 <br>  Aadirupa Saha, Pierre Gaillard 
 </li>
 
