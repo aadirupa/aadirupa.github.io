@@ -122,20 +122,16 @@ a:active {
   
 <ul style="margin:1;padding:1">
 
-<li>  <b>Variance Adaptive Bandits under Cost Budget</b> 
-<br>  Amith Bhat, Aadirupa Saha 
-</li>
-
-<li> <b>Imitation Beyond Expectation via Second-order Stochastic Dominance</b> 
-<br> Syed M. Abbas, Danyal Saeed, Aadirupa Saha, Brian D Ziebart 
-</li>
-
-<li>  <b>Self-Consistency on a Budget</b> 
+<li>  <b>Self-Consistency on a Budget</b> <a href=" " target="_blank" LINK="red"> [Arxiv version (soon!)]</a>
 <br>  Aniket Wadge, Branislav Kveton, Aadirupa Saha 
 </li>
 
 <li>  <b>Sample Efficient Policy Optimization with Different Feedback Modalities</b> 
 <br>  Aadirupa Saha, Pierre Gaillard 
+</li>
+
+<li> <b> Instance-Optimal Dueling Bandits with Differential Privacy</b><a href=" " target="_blank" LINK="red"> [Arxiv version (soon!)]</a>
+<br> Aadirupa Saha, Pasin Manurangsi 
 </li>
 
 <li> <b> Replicable Dueling Bandits</b><a href="https://arxiv.org/abs/2610.20908" target="_blank" LINK="red"> [Arxiv version]</a>
@@ -146,12 +142,20 @@ a:active {
 <br> Aadirupa Saha 
 </li>
 
-<li> <b> Optimal Learning Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"></a>
+<li> <b> Optimal Learning Rates with Costly Observations</b> <a href="" target="_blank" LINK="red"> [Arxiv version (soon!)]</a>
 <br> Lev Reyzin, Aadirupa Saha (alphabetical) 
 </li>
 
 <li> <b>Double-Monster: Efficient Min-Max Strategy for Personalized Prediction under General Preferences.</b> 
 <br>  Aadirupa Saha, Robert Schapire
+</li>
+
+<li>  <b>Variance Adaptive Bandits under Cost Budget</b> 
+<br>  Amith Bhat, Aadirupa Saha 
+</li>
+
+<li> <b>Imitation Beyond Expectation via Second-order Stochastic Dominance</b> 
+<br> Syed M. Abbas, Danyal Saeed, Aadirupa Saha, Brian D Ziebart 
 </li>
 
 <li>  <b>Efficient Predictive Models without Compromising User Privacy</b>  <a href="https://arxiv.org/abs/2403.15045" target="_blank" LINK="red"> [Arxiv version]</a>
