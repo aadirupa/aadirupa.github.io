@@ -112,7 +112,7 @@ a:active {
    <a href="https://nati.ttic.edu/" target="_blank">Nati Srebro</a>, 
    <a href="https://misovalko.github.io/" target="_blank">Michal Valko</a>,
    <a href="https://arunv3rma.github.io/" target="_blank">Arun Verma</a>, 
-   <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>
+   <a href="https://home.ttic.edu/~mwalter/" target="_blank">Matthew Walter</a>,
    <!-- <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, -->
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>,
     <a href="https://cs.uic.edu/profiles/brian-ziebart/" target="_blank">Brian Ziebert</a>
