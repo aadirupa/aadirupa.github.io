@@ -71,7 +71,7 @@ a:active {
 <!--  -->
 
 <details>
-<summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Collaborators (sorry if not up-to-date!).</font> </span></summary>
+<summary><span style="color:SteelBlue;" align="justify"> <font color="SteelBlue">Collaborators.</font> </span></summary>
 <span class="abstract-text" style="font-size:1em; color:Black; text-align: justify">
   <p align="justify" vspace = "0px" width="160px"> Throughout my journey, I have been incredibly fortunate to work alongside some of the brilliant minds in the field, whose wisdom has been instrumental in shaping my work and enriching my knowledge fundamentally:
    <a href="https://web.stanford.edu/~asi/" target="_blank">Hilal Asi</a>, 
@@ -116,7 +116,7 @@ a:active {
    <!-- <a href="https://ttic.edu/faculty/wang/" target="_blank">Lingxiao Wang</a>, -->
    <a href="https://www.haifeng-xu.com/" target="_blank">Haifeng Xu</a>,
     <a href="https://cs.uic.edu/profiles/brian-ziebart/" target="_blank">Brian Ziebert</a>
-  (in alphabetical order).</p>
+  (in alphabetical order, sorry if not up to date!).</p>
 </span>
 </details> 
   
