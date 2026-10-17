@@ -138,7 +138,7 @@ a:active {
 <br> Rohan Deb, Aadirupa Saha, Udaya Ghai, Karan Singh, Arindam Banerjee 
 </li>
 
-<li> <b>Preference Learning Beyond Confidence: Gradient-based RLHF with Adversarial Preferences</b> 
+<li> <b>Preference Learning Beyond Confidence: Gradient-based RLHF with Adversarial Preferences</b> <a href=" " target="_blank" LINK="red"> [Arxiv version (soon!)]</a>
 <br> Aadirupa Saha 
 </li>
 
